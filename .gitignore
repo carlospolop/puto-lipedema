@@ -1,0 +1,26 @@
+.DS_Store
+
+# Private research/source notes that should not go to GitHub
+03_lipedema/
+
+# Local env and secrets
+.env
+.env.*
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor folders
+.idea/
+.vscode/
