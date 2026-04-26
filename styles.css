@@ -393,6 +393,85 @@ p {
   min-height: 0;
 }
 
+.treatment-mode {
+  margin: 30px 0 44px;
+  padding: clamp(22px, 4vw, 34px);
+  background: #f7f8f5;
+  border: 1px solid #dce2dc;
+  border-left: 6px solid #536f65;
+  border-radius: 12px;
+}
+
+.treatment-mode > .subsection-heading {
+  margin-top: 0;
+}
+
+.treatment-mode .category-guide {
+  margin-bottom: 24px;
+  box-shadow: none;
+}
+
+.treatment-subsections {
+  display: grid;
+  gap: 26px;
+  margin: 26px 0 0;
+}
+
+.treatment-subsection {
+  --section-accent: #6c7f78;
+  position: relative;
+  overflow: hidden;
+  padding: clamp(20px, 3vw, 30px);
+  background: #f5f6f4;
+  border: 1px solid #d9dfda;
+  border-radius: 10px;
+  box-shadow: 0 16px 34px rgba(31, 36, 38, 0.055);
+}
+
+.treatment-subsection::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto;
+  height: 5px;
+  background: var(--section-accent);
+}
+
+.treatment-subsection .subsection-heading {
+  margin: 0 0 18px;
+}
+
+.treatment-subsection .subsection-heading h3 {
+  color: #20282a;
+}
+
+.treatment-subsection .feature {
+  background: rgba(255, 255, 255, 0.86);
+}
+
+.treatment-subsection.is-lymph {
+  --section-accent: #47786d;
+  background: #eef5f3;
+  border-color: #d3e2dd;
+}
+
+.treatment-subsection.is-nutrition {
+  --section-accent: #8a7b3f;
+  background: #f5f2e5;
+  border-color: #e3dcc3;
+}
+
+.treatment-subsection.is-fibrosis {
+  --section-accent: #9a6a4c;
+  background: #f5eee9;
+  border-color: #e4d4ca;
+}
+
+.treatment-subsection.is-supplementation {
+  --section-accent: #75648b;
+  background: #f2eef5;
+  border-color: #ded5e5;
+}
+
 .category-guide {
   margin: 0 0 18px;
   padding: 18px 20px 18px 38px;
@@ -448,6 +527,54 @@ p {
   background: #f2eee2;
   color: #6d5b2b;
   border-color: #e2dac3;
+}
+
+.target-lymph {
+  background: #e8f1ef;
+  color: #28574f;
+  border-color: #cfe0dc;
+}
+
+.target-fibrosis {
+  background: #f1ece6;
+  color: #71523d;
+  border-color: #dfd2c5;
+}
+
+.target-vessels {
+  background: #eaf0f5;
+  color: #2d506d;
+  border-color: #d3dde6;
+}
+
+.target-metabolic {
+  background: #eef0e7;
+  color: #53602e;
+  border-color: #dbe0ca;
+}
+
+.target-hormonal {
+  background: #f3e9ee;
+  color: #77465d;
+  border-color: #e2ced8;
+}
+
+.target-fat {
+  background: #eee9f3;
+  color: #59486f;
+  border-color: #d9cfe4;
+}
+
+.target-function {
+  background: #f2eee2;
+  color: #685a2d;
+  border-color: #dfd6bd;
+}
+
+.target-evidence {
+  background: #edf0f0;
+  color: #475254;
+  border-color: #d8dddd;
 }
 
 .page-category-box {
@@ -656,7 +783,7 @@ p {
 
 .article-table {
   width: 100%;
-  min-width: 760px;
+  min-width: 980px;
   border-collapse: collapse;
 }
 
