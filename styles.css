@@ -178,7 +178,9 @@ p {
 .hero-visual {
   min-height: 520px;
   display: grid;
+  align-content: center;
   place-items: center;
+  gap: 18px;
 }
 
 .lipedema-spiral {
@@ -313,24 +315,12 @@ p {
   left: 0;
 }
 
-.intro-band,
 .section,
 .model,
+.model-spiral-section,
 .page-hero,
 .article {
   padding: clamp(42px, 7vw, 92px) clamp(18px, 6vw, 92px);
-}
-
-.intro-band {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(260px, 360px);
-  gap: 32px;
-  background: var(--surface);
-  border-bottom: 1px solid var(--line);
-}
-
-.intro-band h2 {
-  font-size: clamp(1.8rem, 3vw, 3rem);
 }
 
 .note {
@@ -345,6 +335,18 @@ p {
 .note strong {
   display: block;
   margin-bottom: 8px;
+}
+
+.hero-note {
+  width: min(560px, 100%);
+  margin: 0;
+}
+
+.model-spiral-section {
+  display: grid;
+  place-items: center;
+  background: var(--background);
+  border-bottom: 1px solid var(--line);
 }
 
 .section-heading {
@@ -983,7 +985,6 @@ p {
 
 @media (max-width: 980px) {
   .hero,
-  .intro-band,
   .model,
   .article {
     grid-template-columns: 1fr;
