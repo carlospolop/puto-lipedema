@@ -24,3 +24,7 @@ env/
 # Editor folders
 .idea/
 .vscode/
+
+
+
+scripts/**
