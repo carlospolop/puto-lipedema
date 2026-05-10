@@ -824,6 +824,25 @@ p {
   font-size: 1.04rem;
 }
 
+.article-body :where(p, li) strong,
+.article-body :where(p, li) b {
+  color: #1d2527;
+  font-weight: 850;
+}
+
+.article-body :where(p, li) a:not(.button) {
+  color: #294f45;
+  font-weight: 780;
+  text-decoration-color: rgba(63, 95, 86, 0.42);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+}
+
+.article-body :where(p, li) a:not(.button):hover {
+  color: #173a32;
+  text-decoration-color: rgba(63, 95, 86, 0.78);
+}
+
 .article-body ul {
   padding-left: 20px;
 }
@@ -889,7 +908,7 @@ p {
   background: #f5f4f0;
   color: var(--ink);
   font-size: 0.9rem;
-  font-weight: 850;
+  font-weight: 900;
 }
 
 .article-table td {
@@ -904,6 +923,7 @@ p {
 
 .article-table strong {
   color: var(--ink);
+  font-weight: 880;
 }
 
 .term-list {
@@ -915,6 +935,11 @@ p {
 
 .term-list li + li {
   margin-top: 10px;
+}
+
+.term-list strong {
+  color: #243f38;
+  font-weight: 900;
 }
 
 .factor-links {
@@ -958,6 +983,15 @@ p {
 
 .side-panel ul {
   padding-left: 20px;
+}
+
+.side-panel li {
+  color: #303638;
+  font-weight: 650;
+}
+
+.side-panel li + li {
+  margin-top: 8px;
 }
 
 .page-links {
