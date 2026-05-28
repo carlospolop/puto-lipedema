@@ -1,0 +1,36 @@
+name: Search index
+
+on:
+  pull_request:
+    paths:
+      - "**/*.html"
+      - "scripts/build-search-index.js"
+      - "search-index.js"
+      - ".github/workflows/search-index.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate search index
+        run: node scripts/build-search-index.js
+
+      - name: Check generated index is committed
+        run: |
+          if [ -n "$(git status --porcelain -- search-index.js)" ]; then
+            git diff -- search-index.js || true
+            echo "search-index.js is out of date. Run: node scripts/build-search-index.js"
+            exit 1
+          fi
