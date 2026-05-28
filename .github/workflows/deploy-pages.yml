@@ -28,7 +28,7 @@ jobs:
           node-version: 22
 
       - name: Generate search index
-        run: node scripts/build-search-index.js
+        run: node .github/scripts/build-search-index.js
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

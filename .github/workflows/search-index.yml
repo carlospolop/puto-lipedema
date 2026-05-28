@@ -4,7 +4,7 @@ on:
   pull_request:
     paths:
       - "**/*.html"
-      - "scripts/build-search-index.js"
+      - ".github/scripts/build-search-index.js"
       - "search-index.js"
       - ".github/workflows/search-index.yml"
   workflow_dispatch:
@@ -25,12 +25,12 @@ jobs:
           node-version: 22
 
       - name: Generate search index
-        run: node scripts/build-search-index.js
+        run: node .github/scripts/build-search-index.js
 
       - name: Check generated index is committed
         run: |
           if [ -n "$(git status --porcelain -- search-index.js)" ]; then
             git diff -- search-index.js || true
-            echo "search-index.js is out of date. Run: node scripts/build-search-index.js"
+            echo "search-index.js is out of date. Run: node .github/scripts/build-search-index.js"
             exit 1
           fi
