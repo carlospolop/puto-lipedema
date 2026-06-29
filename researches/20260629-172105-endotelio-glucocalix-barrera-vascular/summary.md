@@ -28,4 +28,4 @@ Se investigó el eje vascular del lipedema: endotelio, glucocálix, barrera vasc
 ## Límites
 - Las búsquedas PubMed se toparon con rate limits, mitigado con ESummary, EuropePMC, PMC/BioC y web search.
 - ChatGPT Pro se lanzó en 2 pestañas pero seguía sin respuesta útil extraíble al cierre; no se usó como fuente primaria.
-- Subagentes quedaron lanzados; si devuelven hallazgos tardíos se pueden incorporar como addendum al PR.
+- Subagentes devolvieron hallazgos tardíos; se incorporaron en `delegation-results-addendum.md` con detalles de muestras, p-values y matices marcador por marcador.
