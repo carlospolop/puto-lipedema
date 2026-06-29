@@ -1,0 +1,17 @@
+# Sugerencias de próximas investigaciones
+
+- COMPLETADO 2026-06-29: Terapias físicas emergentes 2026 (ondas de choque, TECAR/diatermia, vibración, compresión neumática, fotobiomodulación y elastografía/fibrosis). Pendiente futuro: monitorizar publicación de resultados de NCT06898125 y nuevos RCTs de ESWT/TECAR.
+- Derivado terapias físicas: investigar mejor cómo medir fibrosis/rigidez en casa y clínica (elastografía, ecografía, palpación estandarizada, fotos, dolor a presión, tolerancia a compresión).
+- Derivado terapias físicas: revisar si la compresión neumática avanzada reduce riesgo de progresión a lipolinfedema o solo mejora síntomas a corto plazo; buscar independencia de estudios no patrocinados.
+- Derivado terapias físicas: investigar TANIT/bioactive current + dermal stimulation y otras corrientes bioeléctricas en lipedema, separando estética de cambios clínicos reales.
+- Profundizar en el seguimiento práctico de dieta low-carb mediterránea en lipedema: qué analíticas mínimas pedir (LDL/ApoB/TG/glucosa/insulina/CRP), cómo proteger masa muscular y cómo detectar cuándo una keto empeora más de lo que ayuda.
+- Investigar marcadores inflamatorios simples (NLR, PLR, CRP, plaquetas; PMID 42261591) y si merece una nota en biomarcadores en sangre sin sobrediagnosticar.
+- Profundizar en vascular/endotelio 2026 (PMID 42181679): barrera vascular, angiogénesis, fragilidad capilar y posibles dianas conservadoras.
+- Monitorizar ensayos clínicos activos: NCT04272827 (liposucción vs CDT, activo no reclutando, actualización 2025-03-19) y cualquier nuevo ensayo farmacológico GLP-1/GIP específico de lipedema.
+- Buscar si el hallazgo de ácidos grasos saturados plasmáticos (mirístico/palmítico) y dolor en lipedema se replica en estudios de dolor inflamatorio, neuropático o adiposidad dolorosa; puede afinar la recomendación de grasas concretas.
+- Revisar si existen protocolos de low-carb no cetogénica con 90-130 g/día, alto contenido de fibra y fuerza en lipedema, como alternativa más sostenible a keto estricta.
+- Venoactivos no clásicos y fármacos endoteliales en lipedema: hidroxietilrutósidos/oxerutinas, calcio dobesilato y sulodexida como opciones médicas cuando hay edema venoso-linfático o microangiopatía.
+- Cómo medir en casa si una intervención vascular ayuda: perímetros, fotos, escala de pesadez/dolor, edema con fóvea, moratones y tolerancia a compresión.
+- Diferencias entre edema venoso, linfático, inflamatorio y retención sistémica en lipedema: señales prácticas y cuándo pedir dúplex/NIRFLI/analítica.
+- Papel del glucocálix endotelial en lipedema y posibles apoyos: sulodexida, ejercicio, glicemia, omega-3, polifenoles y control de inflamación.
+- Fragilidad capilar y matriz extracelular: vitamina C, cobre, colágeno/glicina, Ehlers-Danlos/TNXB y evaluación de moratones.
