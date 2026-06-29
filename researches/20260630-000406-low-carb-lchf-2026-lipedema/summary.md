@@ -7,7 +7,7 @@ Detailed review of 2026 low-carbohydrate/LCHF evidence in lipedema and practical
 - Local site pages: `dieta-low-carb.html`, `dieta-keto-lipedema.html`, `dieta-recomendada.html`, `dieta-mediterranea-modificada.html`.
 - Primary literature fetched from PubMed/PMC/Frontiers: PMID 38627016 (primary LIPODIET RCT), 42123982/PMC13164597, 41808123/PMC13088385, 39574523/PMC11578713, 40125475/PMC11929874, 39566600, 41479665/PMC12753418, 35949278/PMC9358738, 39408242/PMC11478561, 41693932/PMC12894008, 36035515/PMC9415463, 38026822/PMC10676278, 41010539/PMC12472235, 41767202/PMC12946969, 41310256, PMC12106162.
 - Chack helper: Brave + SerpAPI Scholar; Google Forums timed out.
-- ChatGPT: 2 Pro requests and repeated Deep Research attempts were launched, but ChatGPT returned terminal useless `I` outputs or failed to apply the Deep Research selector; not used as evidence.
+- ChatGPT: 2 Pro requests and one Deep-Research-intended request were launched. Later structured CDP extraction showed the Pro/normal ChatGPT outputs were complete and useful; the earlier `I` classification was an extraction error. Full outputs saved as `chatgpt-diets-literature-review.md`, `chatgpt-keto-safety-checklist.md`, and `chatgpt-low-carb-translation.md`. Deep Research chip/iframe was not confirmed for the low-carb tab, so these are treated as ChatGPT Pro/normal synthesis, not authoritative Deep Research.
 - Delegated batch `deleg_86eb4392`: 3 subagents launched. Clinical-evidence and safety/monitoring subagents completed after the first push and were integrated in `subagents-late-addendum.md`; OSINT/SerpAPI subagent timed out without usable summary.
 
 ## Key conclusions
