@@ -9,3 +9,8 @@
 - Buscar patentes y pipeline farmacológico relacionado con fibrosis/ECM, linfangiogénesis, Tie2/VEGF, hialuronano/GAG y adipogénesis regional.
 - Buscar si el hallazgo de ácidos grasos saturados plasmáticos (mirístico/palmítico) y dolor en lipedema se replica en estudios de dolor inflamatorio, neuropático o adiposidad dolorosa; puede afinar la recomendación de grasas concretas.
 - Revisar si existen protocolos de low-carb no cetogénica con 90-130 g/día, alto contenido de fibra y fuerza en lipedema, como alternativa más sostenible a keto estricta.
+- Venoactivos no clásicos y fármacos endoteliales en lipedema: hidroxietilrutósidos/oxerutinas, calcio dobesilato y sulodexida como opciones médicas cuando hay edema venoso-linfático o microangiopatía.
+- Cómo medir en casa si una intervención vascular ayuda: perímetros, fotos, escala de pesadez/dolor, edema con fóvea, moratones y tolerancia a compresión.
+- Diferencias entre edema venoso, linfático, inflamatorio y retención sistémica en lipedema: señales prácticas y cuándo pedir dúplex/NIRFLI/analítica.
+- Papel del glucocálix endotelial en lipedema y posibles apoyos: sulodexida, ejercicio, glicemia, omega-3, polifenoles y control de inflamación.
+- Fragilidad capilar y matriz extracelular: vitamina C, cobre, colágeno/glicina, Ehlers-Danlos/TNXB y evaluación de moratones.
