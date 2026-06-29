@@ -1,6 +1,6 @@
 # Sugerencias de próximas investigaciones
 
-- Revisar en detalle los estudios 2026 sobre dieta LCHF/low-carb en lipedema: mediadores vasculares, linfáticos, inflamatorios y ácidos grasos (PMID 42123982 y 41808123). Actualizar páginas de dieta low-carb/keto y dieta recomendada si hay cambios prácticos.
+- COMPLETADO 2026-06-30: Estudios 2026 sobre dieta LCHF/low-carb en lipedema: mediadores vasculares/linfáticos/inflamatorios y ácidos grasos (PMID 42123982 y 41808123). Actualizadas páginas de dieta low-carb/keto/recomendada/mediterránea con protocolo 6-8 semanas, analíticas, masa muscular/fibra/electrolitos y criterios para parar. Pendiente futuro: nuevos RCTs largos que separen carbohidratos, déficit calórico y calidad de grasa.
 - Profundizar en el seguimiento práctico de dieta low-carb mediterránea en lipedema: qué analíticas mínimas pedir (LDL/ApoB/TG/glucosa/insulina/CRP), cómo proteger masa muscular y cómo detectar cuándo una keto empeora más de lo que ayuda.
 - Investigar marcadores inflamatorios simples (NLR, PLR, CRP, plaquetas; PMID 42261591) y si merece una nota en biomarcadores en sangre sin sobrediagnosticar.
 - COMPLETADO 2026-06-29: Vascular/endotelio 2026 (PMID 42181679): barrera vascular, angiogénesis, glucocálix, fragilidad capilar y dianas conservadoras. Pendiente futuro: validar biomarcadores endoteliales/VEGF/Tie2 si aparecen estudios clínicos útiles.
