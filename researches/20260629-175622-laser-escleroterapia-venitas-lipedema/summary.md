@@ -12,7 +12,7 @@ Investigación sobre arañas vasculares/telangiectasias/venas reticulares en con
 - Phlebology 2022: PMID 34229502.
 - Estudios adicionales: PMIDs 38860828, 36657386, 23989971, 25069999, 22221551, 12174060, 7600016.
 - SerpAPI directo para localizar guías y fuentes; Brave web_search tuvo 429 tras la primera búsqueda.
-- 3 subagentes lanzados; no habían devuelto resumen tras espera breve. Si llegan tarde, integrar como addendum.
+- 3 subagentes lanzados; 2 devolvieron resultados útiles y se integraron después en `delegation-results-addendum.md`; el subagente OSINT/SerpAPI terminó en timeout sin resumen utilizable.
 - ChatGPT Pro: 2 prompts enviados y 1 intento; la UI no devolvió texto útil extractable a tiempo, por lo que no se usó como fuente primaria.
 
 ## Hallazgos clave

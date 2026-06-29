@@ -16,7 +16,7 @@ Investigar si las arañas vasculares/telangiectasias/venas reticulares en person
   - Existe mención breve en `efectos/temperatura-circulacion.html`, `insuficiencia-venosa-cronica.html`, `duplex-venoso-lipedema.html` y `suplementos-microcirculacion.html`; falta página específica.
 - [x] Marcar `suggestions.md` como EN CURSO.
 - [x] Lanzar subagentes: evidencia clínica/procedimientos, seguridad/selección, SerpAPI/OSINT.
-  - Lanzamiento en curso ahora.
+  - Batch `deleg_2a0253b4` lanzado; 2/3 subagentes útiles integrados en `delegation-results-addendum.md`; OSINT/SerpAPI terminó en timeout sin resumen.
 - [x] Lanzar ChatGPT Deep Research/Pro si la UI permite.
   - UI actual no mostró Deep Research al abrir `+`; Pro sí estaba disponible.
   - ChatGPT Pro 1 enviado: eficacia comparativa escleroterapia vs láser en venitas/telangiectasias/reticulares.

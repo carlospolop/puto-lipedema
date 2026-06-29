@@ -83,4 +83,6 @@
 ## Mensaje para la web
 - Conservador: compresión, movimiento, calor/sol/estasis, venoactivos pueden reducir congestión y quizá prevenir progresión, pero no borran venas ya establecidas.
 - Procedimientos: escleroterapia/láser sí pueden cerrar o aclarar venitas, pero no son garantía de 100%, requieren varias sesiones, pueden reaparecer y tienen efectos adversos.
+- Guías SVS/AVF/AVLS 2023: escleroterapia líquida/espuma como primera línea para telangiectasias/reticulares sintomáticas; láser si alergia, fobia a agujas, fallo previo o vasos <1 mm/matting.
+- Subagentes tardíos integrados en `delegation-results-addendum.md`: reforzaron PMIDs de ensayos, contraindicaciones, postratamiento, compresión ~3 semanas tras escleroterapia líquida y señales de alarma.
 - Mejor decisión: diagnosticar patrón venoso-linfático, elegir profesional vascular/derm entrenado, preguntar por experiencia en piernas dolorosas/lipedema, pedir plan gradual y expectativas realistas.
