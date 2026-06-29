@@ -1,6 +1,14 @@
 name: Search index
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "**/*.html"
+      - ".github/scripts/build-search-index.js"
+      - "search-index.js"
+      - ".github/workflows/search-index.yml"
   pull_request:
     paths:
       - "**/*.html"
