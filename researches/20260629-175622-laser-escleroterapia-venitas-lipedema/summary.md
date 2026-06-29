@@ -13,7 +13,8 @@ Investigación sobre arañas vasculares/telangiectasias/venas reticulares en con
 - Estudios adicionales: PMIDs 38860828, 36657386, 23989971, 25069999, 22221551, 12174060, 7600016.
 - SerpAPI directo para localizar guías y fuentes; Brave web_search tuvo 429 tras la primera búsqueda.
 - 3 subagentes lanzados; 2 devolvieron resultados útiles y se integraron después en `delegation-results-addendum.md`; el subagente OSINT/SerpAPI terminó en timeout sin resumen utilizable.
-- ChatGPT Pro: 2 prompts enviados y 1 intento; la UI no devolvió texto útil extractable a tiempo, por lo que no se usó como fuente primaria.
+- ChatGPT Pro: 2 prompts enviados; no usados como fuente primaria porque no devolvieron texto útil.
+- Corrección posterior: ChatGPT Deep Research real lanzado desde el menú `+` → `Deep research`; completó en 17 min, fue extraído desde el iframe interno y guardado en `chatgpt-deep-research-report.md`.
 
 ## Hallazgos clave
 - Sin procedimientos, una telangiectasia/araña vascular ya formada rara vez desaparece de forma fiable.

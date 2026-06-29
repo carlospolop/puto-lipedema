@@ -17,12 +17,17 @@ Investigar si las arañas vasculares/telangiectasias/venas reticulares en person
 - [x] Marcar `suggestions.md` como EN CURSO.
 - [x] Lanzar subagentes: evidencia clínica/procedimientos, seguridad/selección, SerpAPI/OSINT.
   - Batch `deleg_2a0253b4` lanzado; 2/3 subagentes útiles integrados en `delegation-results-addendum.md`; OSINT/SerpAPI terminó en timeout sin resumen.
-- [x] Lanzar ChatGPT Deep Research/Pro si la UI permite.
-  - UI actual no mostró Deep Research al abrir `+`; Pro sí estaba disponible.
+- [x] Lanzar ChatGPT Pro si la UI permite.
   - ChatGPT Pro 1 enviado: eficacia comparativa escleroterapia vs láser en venitas/telangiectasias/reticulares.
   - ChatGPT Pro 2 enviado: seguridad, contraindicaciones y postratamiento.
   - ChatGPT Pro 3 intentado: recomendaciones prácticas/paciente, selección de clínica y expectativas.
   - Extracción posterior: las pestañas no devolvieron respuesta útil aún; no se usan como fuente primaria.
+- [x] CORRECCIÓN 2026-06-29: lanzar Deep Research real desde ChatGPT web usando el botón `+` → `Deep research`, esperar hasta resultado/error terminal, guardar resultado e integrar en web/PR.
+  - Lanzamiento verificado: menú `+` abierto, opción `Deep research` visible entre `Web search` y `OpenAI Platform`, seleccionada; prompt enviado con chip `Deep research`; estado inicial `Running app request`.
+  - Polling 2026-06-29 18:34 CEST: Deep Research en progreso real; tarjeta `Vascular laser and sclerotherapy review`, plan con pasos, progreso visible y ~348 búsquedas.
+  - Polling 2026-06-29 18:40 CEST: sigue en progreso; ~457 búsquedas; estado visible `Final search for Ekti sample size...`.
+  - Polling 2026-06-29 18:46 CEST: sigue en progreso; ~457 búsquedas; estado visible `Finalizing sources and DOIs...`.
+  - Terminal state 2026-06-29 18:52 CEST: completado en 17 min. Informe extraído desde iframe interno `#root` y guardado en `chatgpt-deep-research-report.md`; contenido integrado en `manejo/laser-escleroterapia-venitas.html` y `synthesis.md`.
 - [x] Buscar fuentes primarias/guidelines: PMC/PubMed/venous guidelines/sociedades vasculares/dermatología.
   - Guardados: `pubmed-pmc-notes.md`, `europepmc-notes.md`, `key-abstracts.md`, `guidelines-extracts.md`.
 - [x] Guardar notas y síntesis en esta carpeta.
