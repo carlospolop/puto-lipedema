@@ -13,6 +13,7 @@
 - Buscar si el hallazgo de ácidos grasos saturados plasmáticos (mirístico/palmítico) y dolor en lipedema se replica en estudios de dolor inflamatorio, neuropático o adiposidad dolorosa; puede afinar la recomendación de grasas concretas.
 - Revisar si existen protocolos de low-carb no cetogénica con 90-130 g/día, alto contenido de fibra y fuerza en lipedema, como alternativa más sostenible a keto estricta.
 - Venoactivos no clásicos y fármacos endoteliales en lipedema: hidroxietilrutósidos/oxerutinas, calcio dobesilato y sulodexida como opciones médicas cuando hay edema venoso-linfático o microangiopatía.
+- COMPLETADO 2026-06-29: Láser vascular superficial y escleroterapia para arañas vasculares/telangiectasias/venas reticulares en contexto lipedema; eficacia, selección, seguridad, compresión, recurrencia y alternativas conservadoras. Pendiente futuro: integrar resultados tardíos de subagentes/OSINT si aportan señales específicas de lipedema.
 - Cómo medir en casa si una intervención vascular ayuda: perímetros, fotos, escala de pesadez/dolor, edema con fóvea, moratones y tolerancia a compresión.
 - Diferencias entre edema venoso, linfático, inflamatorio y retención sistémica en lipedema: señales prácticas y cuándo pedir dúplex/NIRFLI/analítica.
 - Papel del glucocálix endotelial en lipedema y posibles apoyos: sulodexida, ejercicio, glicemia, omega-3, polifenoles y control de inflamación.
