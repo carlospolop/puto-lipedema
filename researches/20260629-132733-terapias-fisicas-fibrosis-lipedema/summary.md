@@ -13,7 +13,7 @@ Revisión de terapias físicas/dispositivos para lipedema con foco en fibrosis/r
 
 ## Hallazgos clave
 1. **Compresión neumática/CDT** es lo más defendible cuando predomina componente hídrico-linfático: RCT/proof-of-principle 2023 (PMID 36519532), RCT 2021 CDT/IPCT/ejercicio (PMID 33297826), estudio 2025 de compresión neumática avanzada (PMID 40430153 / PMC12113227), y estudios de terapia física 2024. Mejora volumen/fluidos/síntomas; no elimina grasa patológica.
-2. **TECAR** tiene un RCT pequeño en estadio II (PMID 41717523 / PMC12914263): añadida a compresión+ejercicio, mejoró circunferencia, dolor, función y QoL. **Diatermia** piloto 2026 (PMID 42264813) redujo perímetro de rodilla, pero no dolor/ecografía/algometría.
+2. **TECAR** tiene un RCT pequeño en estadio II (PMID 41717523 / PMC12914263) y registro completado relacionado (NCT07088315): añadida a compresión+ejercicio, mejoró circunferencia, dolor, función y QoL. **Diatermia** piloto 2026 (PMID 42264813) redujo perímetro de rodilla, pero no dolor/ecografía/algometría.
 3. **Ondas de choque**: piloto combinado 2023 (PMID 38019876) no aisla ESWT; estudio postoperatorio 2026 (PMID 40391527) sugiere utilidad tras liposucción; estudio within-patient 2026 (PMID 42109195) mejoró función/QoL pero no grosor, elastografía o bioimpedancia. NCT06898125 está completado y compara ESWT/CDT/ambas, pendiente de publicación.
 4. **Fotobiomodulación** directa es muy preliminar: 3 casos prequirúrgicos (PMID 41091276). Puede ser plausible para dolor/microcirculación, pero no está probada como antifibrótica ni reductora de grasa.
 5. **Vibroterapia** tiene señal baja desde RCT pragmático de MLD + vibración (PMID 29847188): apoyo sintomático, no técnica central.

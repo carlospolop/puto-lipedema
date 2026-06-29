@@ -27,6 +27,7 @@ La evidencia directa en lipedema para dispositivos físicos ha crecido en 2025-2
 
 ### TECAR / radiofrecuencia / diatermia
 - **PMID 41717523 / PMC12914263 (Turk J Phys Med Rehabil 2025)**: RCT n=30 estadio II. Ambos grupos: compresión + ejercicio; TECAR añade 6 sesiones/3 semanas. Abstract: evalúa perímetros, VAS, LEFS, Lymphedema QoL al basal, 1 y 3 meses. Conclusión PubMed/resumen web: TECAR como adyuvante reduce dolor/volumen y mejora QoL/función. Limitación: pequeño, corto, adyuvante, no ciego para pacientes/terapeutas.
+- **NCT07088315**: registro completado de “Effects of TECAR Therapy in Lipedema Management”, mismo eje clínico de TECAR en manejo conservador; útil para seguimiento de resultados/actualizaciones.
 - **PMID 42264813 (J Bodyw Mov Ther 2026)**: piloto controlado n=18, 10 sesiones de diatermia en cara interna de rodillas, 10 min/rodilla; experimental con calor intenso vs sham. Reducción significativa del perímetro de rodilla izquierda (p=0.004 post, p=0.017 follow-up), sin diferencias en ecografía, algometría o VAS. Lectura: posible efecto local en volumen, no prueba dolor ni fibrosis.
 - **PMID 41899351 (2026)**: revisión sistemática/meta-análisis de radiofrecuencia no invasiva en condiciones MSK/neurológicas/vasculares de miembro inferior; evidencia indirecta.
 
