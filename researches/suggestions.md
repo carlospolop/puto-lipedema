@@ -3,7 +3,7 @@
 - Revisar en detalle los estudios 2026 sobre dieta LCHF/low-carb en lipedema: mediadores vasculares, linfáticos, inflamatorios y ácidos grasos (PMID 42123982 y 41808123). Actualizar páginas de dieta low-carb/keto y dieta recomendada si hay cambios prácticos.
 - Profundizar en el seguimiento práctico de dieta low-carb mediterránea en lipedema: qué analíticas mínimas pedir (LDL/ApoB/TG/glucosa/insulina/CRP), cómo proteger masa muscular y cómo detectar cuándo una keto empeora más de lo que ayuda.
 - Investigar marcadores inflamatorios simples (NLR, PLR, CRP, plaquetas; PMID 42261591) y si merece una nota en biomarcadores en sangre sin sobrediagnosticar.
-- Profundizar en vascular/endotelio 2026 (PMID 42181679): barrera vascular, angiogénesis, fragilidad capilar y posibles dianas conservadoras.
+- COMPLETADO 2026-06-29: Vascular/endotelio 2026 (PMID 42181679): barrera vascular, angiogénesis, glucocálix, fragilidad capilar y dianas conservadoras. Pendiente futuro: validar biomarcadores endoteliales/VEGF/Tie2 si aparecen estudios clínicos útiles.
 - COMPLETADO 2026-06-29: Terapias físicas emergentes 2026 (ondas de choque, TECAR/diatermia, vibración, compresión neumática, fotobiomodulación y elastografía/fibrosis). Pendiente futuro: monitorizar publicación de resultados de NCT06898125 y nuevos RCTs de ESWT/TECAR.
 - Derivado terapias físicas: investigar mejor cómo medir fibrosis/rigidez en casa y clínica (elastografía, ecografía, palpación estandarizada, fotos, dolor a presión, tolerancia a compresión).
 - Derivado terapias físicas: revisar si la compresión neumática avanzada reduce riesgo de progresión a lipolinfedema o solo mejora síntomas a corto plazo; buscar independencia de estudios no patrocinados.
@@ -13,7 +13,11 @@
 - Buscar si el hallazgo de ácidos grasos saturados plasmáticos (mirístico/palmítico) y dolor en lipedema se replica en estudios de dolor inflamatorio, neuropático o adiposidad dolorosa; puede afinar la recomendación de grasas concretas.
 - Revisar si existen protocolos de low-carb no cetogénica con 90-130 g/día, alto contenido de fibra y fuerza en lipedema, como alternativa más sostenible a keto estricta.
 - Venoactivos no clásicos y fármacos endoteliales en lipedema: hidroxietilrutósidos/oxerutinas, calcio dobesilato y sulodexida como opciones médicas cuando hay edema venoso-linfático o microangiopatía.
+- COMPLETADO 2026-06-29: Láser vascular superficial y escleroterapia para arañas vasculares/telangiectasias/venas reticulares en contexto lipedema; eficacia, selección, seguridad, compresión, recurrencia y alternativas conservadoras. Integrados subagentes útiles y ChatGPT Deep Research real; OSINT/SerpAPI terminó en timeout sin resumen útil. Pendiente futuro: monitorizar nuevos RCTs lipedema-específicos o datos comunitarios de complicaciones si aparecen.
 - Cómo medir en casa si una intervención vascular ayuda: perímetros, fotos, escala de pesadez/dolor, edema con fóvea, moratones y tolerancia a compresión.
 - Diferencias entre edema venoso, linfático, inflamatorio y retención sistémica en lipedema: señales prácticas y cuándo pedir dúplex/NIRFLI/analítica.
 - Papel del glucocálix endotelial en lipedema y posibles apoyos: sulodexida, ejercicio, glicemia, omega-3, polifenoles y control de inflamación.
 - Fragilidad capilar y matriz extracelular: vitamina C, cobre, colágeno/glicina, Ehlers-Danlos/TNXB y evaluación de moratones.
+- Derivado endotelio/glucocálix: revisar intervenciones médicas endoteliales solo si aparecen ensayos o series en lipedema/lipolinfedema: sulodexida, calcio dobesilato, MPFF/diosmina y oxerutinas con criterios de seguridad.
+- Derivado endotelio/glucocálix: investigar cómo distinguir en consulta edema por fuga capilar/matriz vs insuficiencia venosa vs linfedema temprano usando dúplex, bioimpedancia, ICG/NIRFLI, ecografía y signos clínicos.
+- Derivado endotelio/glucocálix: monitorizar si syndecan-1, heparan sulfate, angiopoietin-2/Tie2, VEGF-A/C/D, CD31 o marcadores de daño endotelial llegan a tener utilidad clínica en lipedema.
