@@ -1,0 +1,103 @@
+--- google
+SUCCESS: SerpAPI google results for 'constipation lifestyle water magnesium sulfate psyllium kiwi prunes guideline' (top 9):
+1. British Dietetic Association Guidelines for the Dietary ... - PMC - https://pmc.ncbi.nlm.nih.gov/articles/PMC12623288/
+   PubMed Central (PMC) (.gov)
+   Psyllium supplements, certain probiotic strains, magnesium oxide supplements, kiwifruits, rye bread, and high mineral water are recommended to ...
+2. Chronic Constipation: Eating Kiwi, Probiotics May Provide ... - https://www.healthline.com/health-news/chronic-constipation-new-dietary-guidelines
+   Healthline | Oct 17, 2025
+   High mineral–content water — particularly those rich in magnesium and sulfate — was more effective than low-mineral water at helping people ...
+3. Flush away chronic constipation with magnesium oxide, ... - https://www.nutritioninsight.com/news/chronic-constipation-guidelines-kiwi-magnesium-oxide-psyllium.html
+   Nutrition Insight | Oct 15, 2025
+   The guidelines recommend kiwifruit, rye bread, psyllium fiber, magnesium oxide, and certain probiotics for managing chronic constipation.
+4. Several kiwis per day keep constipation at bay, according ... - https://www.facebook.com/AuroraHealth/posts/several-kiwis-per-day-keep-constipation-at-bay-according-to-new-guidance-learn-t/1031985206167398/
+   Facebook · Aurora Health Care
+   Eating two to three kiwis a day can help relieve chronic constipation, according to new dietary guidelines published in the Journal of Human ...
+5. Got Chronic Constipation? Try Kiwi, Rye, Magnesium ... - https://www.medpagetoday.com/gastroenterology/generalgastroenterology/117983
+   MedPage Today | Oct 16, 2025
+   Kiwifruit: The panel recommended eating two to three daily, with or without the skin, for at least 4 weeks. In three trials of 192 people, ...
+6. Systematic review and meta‐analysis: Foods, drinks ... - https://onlinelibrary.wiley.com/doi/10.1111/apt.17782
+   Wiley Online Library
+   Efficacy and safety of a magnesium sulfate-rich natural mineral water for patients with functional constipation. Clin Gastroenterol Hepatol ...
+7. 5 Foods to Relieve Constipation (Yes, Prunes Are #1) - https://www.aarp.org/health/conditions-treatments/best-foods-for-constipation-relief/
+   AARP | Jun 15, 2023
+   ... kiwifruit a day helped to relieve constipation. Plus, research has shown that kiwi is better tolerated than prunes or psyllium, Chey says.
+8. Improving bowel function in constipation - https://www.cuh.nhs.uk/patient-information/improving-bowel-function-in-constipation/
+   Cambridge University Hospitals
+   Studies have shown that, in severe cases of constipation, eating 9-10 prunes a day increased stool frequency, softened stools and reduced straining. However, ...
+9. Eat kiwi fruit to relieve constipation, says guidance - https://www.bbc.com/news/articles/cd9kdkxy3veo
+   BBC | Oct 13, 2025
+   Dr Dimidi recommends eating two or three kiwis throughout the day or 8-10 prunes to improve constipation. ... dietary fibre and water intake, say ...
+--- scholar
+SUCCESS: SerpAPI google_scholar results for 'chronic constipation psyllium kiwifruit prunes magnesium oxide mineral water' (top 10):
+1. Efficacy and safety of over-the-counter therapies for chronic constipation: an updated systematic review - https://journals.lww.com/ajg/fulltext/2021/06000/Efficacy_and_Safety_of_Over_the_Counter_Therapies.14.aspx/1000
+   … In a small study (N = 9), a kiwi fruit–based supplement had no … Prunes were associated with significantly greater … compared with psyllium in 40 patients with chronic constipation ( 44 ). A …
+2. Chronic constipation: is a nutritional approach reasonable? - https://www.mdpi.com/2072-6643/13/10/3386
+   … Magnesium hydroxide (Mg(OH) 2 ) is commonly used as an … of 1 L of magnesium-sulfate mineral water reduced constipation and … that kiwifruit, prunes, and psyllium improve constipation …
+3. Dietary management of chronic constipation: a review of evidence-based strategies and clinical guidelines - https://www.cambridge.org/core/journals/proceedings-of-the-nutrition-society/article/dietary-management-of-chronic-constipation-a-review-of-evidencebased-strategies-and-clinical-guidelines/F83DAC358FF4253E61AE7B82E420E612
+   … , rye bread and high mineral water content may be effective … are magnesium oxide, Chinese herbal supplements, prunes … fruits (kiwifruits, prunes, mangos; studied separately) to psyllium …
+4. British Dietetic Association guidelines for the dietary management of chronic constipation in adults - https://onlinelibrary.wiley.com/doi/abs/10.1111/nmo.70173
+   … magnesium oxide, two to senna, and three to kiwifruit supplements. For foods, three recommendation statements related to kiwifruits, two to prunes, … to high mineral-containing water. …
+5. Dietary management of constipation: time for clinical guidelines to catch up with evidence - https://www.thelancet.com/journals/langas/article/PIIS2468-1253(25)00350-4/abstract
+   … at least one crucial constipation outcome are psyllium, inulin-type … , magnesium oxide and kiwifruit supplements, as well as kiwifruits, prunes, rye bread, and water with high mineral …
+6. Dietary strategies for chronic constipation: smartly targeting hormonal and reflex pathways for optimal recovery - https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1738562/full?utm_source=chatgpt.com
+   … Chronic constipation (CC) is a common disorder of gut-brain interaction that markedly … (eg, psyllium), kiwifruit or prunes, and magnesium- or sulfate-rich mineral waters to improve stool …
+7. Functional foods and nutraceuticals in irritable bowel syndrome - https://www.mdpi.com/2077-0383/14/6/1830
+   … Twelve prunes per day were shown to be as effective as kiwifruits and psyllium in increasing stool … Alternatively, magnesium oxide supplementation could achieve the same effects by …
+8. Colon Cleansing for Constipation: What Really Works - https://healthpath.com/gut-health/colon-cleansing-for-constipation-what-really-works/
+   … improved with kiwifruit to a degree comparable to psyllium. … Prunes are one of the few foods with robust trial evidence for … Magnesium oxide and magnesium citrate are commonly used. …
+9. Systematic review and meta‐analysis: foods, drinks and diets and their effect on chronic constipation in adults - https://onlinelibrary.wiley.com/doi/abs/10.1111/apt.17782
+   … in one study each of kiwifruits, prunes or mango compared with psyllium. In the partially … chronic constipation, and few as RCTs. Only kiwifruits, prunes, rye bread, and high-mineral water …
+10. DIETARY MANAGEMENT OF FUNCTIONAL CONSTIPATION IN DISORDERS OF GUT-BRAIN INTERACTION–A SCOPING REVIEW. - https://www.sciencedirect.com/science/article/pii/S2405457725031626
+   … backing functional fruits like kiwifruit and prunes. Meanwhile the … adult chronic constipation found that effectiveness of psyllium … -rich natural mineral water in functional 673 constipation. …
+--- forums
+SUCCESS: SerpAPI google_forums results for 'constipation magnesium water psyllium kiwi prunes daily routine reddit' (top 10):
+1. Ladies, how are we fighting constipation? : r/BabyBumps - https://www.reddit.com/r/BabyBumps/comments/1tfvn41/ladies_how_are_we_fighting_constipation/
+   Reddit · r/BabyBumps
+   I eat lots and lots of fiber, drink, lots and lots of water. I take magnesium at night and I've got miralax now and take 1-2 times a day. I'm ...
+2. Prunes : r/Zepbound - https://www.reddit.com/r/Zepbound/comments/1uavo43/prunes/
+   Reddit · r/Zepbound
+   My doctor recommended a prune before each meal to help with my constipation and I just really can't. The look of them alone makes me gag.
+3. Resolving constipation without meds : r/Zepbound - https://www.reddit.com/r/Zepbound/comments/1u8dnsh/resolving_constipation_without_meds/
+   Reddit · r/Zepbound
+   I eat 4-5 prunes each day, sometimes a couple of kiwis, oranges, roasted veggies, movement, and at least 100 oz of water. I haven't gone more ...
+4. Here's a shower thought for the day…constipation idea… - https://www.reddit.com/r/Menopause/comments/1qgev0d/heres_a_shower_thought_for_the_dayconstipation/
+   Reddit · r/Menopause
+   I used to eat 3 prunes a day before I solved my problem. The prunes did help a great deal. If that doesn't work, take about half a cup of coffee ...
+5. Constipated. I've tried EVERYTHING. : r/pregnant - https://www.reddit.com/r/pregnant/comments/1kzxskm/constipated_ive_tried_everything/
+   Reddit · r/pregnant
+   Everyday - in the morning this is my routine. 3 pills - 100 mg of magnesium. 2 stool softeners. Chia seeds in yogurt or oatmeal. Handful of ...
+6. Ridiculous constipation : r/cancer - https://www.reddit.com/r/cancer/comments/1oorcp6/ridiculous_constipation/
+   Reddit · r/cancer
+   Magnesium is the best, it helps with many things, for constipation I use magnesium citrate, and lots of water, makes you go pretty smoothly, ... I ...
+7. Drop your most effective solution for constipation because I' ... - https://www.reddit.com/r/Menopause/comments/1mc31bw/drop_your_most_effective_solution_for/
+   Reddit · r/Menopause
+   Prunes helped me more than anything: increase water, fiber, and nothing. Finally I did 2 prunes a day, and boom. Regular. (But I know prunes ...
+8. Chubbyemu drank 2 liters of Metamucil/psyllium husk/ ... - https://www.reddit.com/r/medicine/comments/thwkge/chubbyemu_drank_2_liters_of_metamucilpsyllium/
+   Reddit · r/medicine
+   Chubbyemu drank 2 liters of Metamucil/psyllium husk/hemicellulose and gave himself a bowel obstruction. Is this a risk with Citrucel/methylcellulose?
+9. Constipation is real…. : r/Zepbound - https://www.reddit.com/r/Zepbound/comments/1nubxcd/constipation_is_real/
+   Reddit · r/Zepbound
+   For in progress: Miralax and Mag07. For prevention: Eat 5 prunes or kiwis per day, every day, and drink a minimum of 100oz of water every day.
+10. Solved my chronic constipation If it can help anyone who ... - https://www.reddit.com/r/Constipation/comments/1u4hu0b/solved_my_chronic_constipation_if_it_can_help/
+   Reddit · r/Constipation
+   Cup of warm prune juice every morning and magnesium oxide every other day. ... Ground flax, bran, chia, kiwi, prunes and have tried a bunch of ...
+--- youtube
+SUCCESS: SerpAPI youtube results for 'constipation relief daily habits fiber magnesium water' (top 6):
+1. 2 Tbsp a Day to Eliminate Constipation, Energy Crashes, and Magnesium Deficiency - https://www.youtube.com/watch?v=MpWbEaq5aoA
+   Dr. Livingood | 3y ago
+   This 15-cent superfood beats spinach, salmon & milk - but 90% don't know about it Are you struggling with low energy, ...
+2. Magnesium Citrate For Constipation – Dietitian Answers To Common Questions - https://www.youtube.com/watch?v=F3gSZYKpeso
+   Oswald Digestive Clinic | 2y ago
+   Magnesium Citrate: https://flussonutrients.nutridyn.com/catalog/product/view/id/2299/s/magnesium-citrate/category/3/ .
+3. Mayo Clinic Minute: 5 tips for constipation alleviation without medication - https://www.youtube.com/watch?v=wsGIohrVfrU
+   Mayo Clinic | 9y ago
+   Constipation is common, and it can be uncomfortable. Everyone gets stopped up now and then, and some go running for the ...
+4. 6 Ways To CLEAR Your CONSTIPATION - https://www.youtube.com/watch?v=oHNisrgQwhc
+   Ryan Taylor (Natural Remedies) | 3y ago
+   The top 6 ways to clear your constipation. Constipation is an issue where your body isn't digesting and eliminating waste fast ...
+5. 5 Common Foods That Help You Poop Daily & Relieve Constipation - https://www.youtube.com/watch?v=avOEmV-g1Pw
+   Hello TUSHY Bidet | 5y ago
+   We all would love to train our bodies to poop every day, and in order to poop daily, you must get enough fiber from the foods in ...
+6. Why Do I need Magnesium to Poop - https://www.youtube.com/watch?v=hT3Ad3vVJvs
+   Kick It Naturally | 2y ago
+   If you're wondering Why Do I need Magnesium to Poop, because you're dealing with IBS, IBS-C, Irritable bowel syndrome, ...

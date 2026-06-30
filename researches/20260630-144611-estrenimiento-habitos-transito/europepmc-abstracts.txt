@@ -1,0 +1,70 @@
+
+QUERY British Dietetic Association Guidelines Dietary Management Chronic Constipation Adults
+PMID 41562174 YEAR 2026 TITLE Perceptions of the Role of Diet Among People With Constipation: Dietary Contributors and Relievers to Symptoms and Research Priorities.
+JOURNAL J Hum Nutr Diet DOI 10.1111/jhn.70201
+ABSTRACT 
+URL https://europepmc.org/article/MED/41562174
+PMID 42319080 YEAR 2026 TITLE Constipation with bloating: a clinical approach to evaluation and management.
+JOURNAL Ann Med DOI 10.1080/07853890.2026.2684172
+ABSTRACT 
+URL https://europepmc.org/article/MED/42319080
+PMID 41081381 YEAR 2025 TITLE British Dietetic Association Guidelines for the Dietary Management of Chronic Constipation in Adults.
+JOURNAL Neurogastroenterol Motil DOI 10.1111/nmo.70173
+ABSTRACT 
+URL https://europepmc.org/article/MED/41081381
+
+QUERY green kiwifruit psyllium prunes chronic constipation 34074830
+PMID 34074830 YEAR 2021 TITLE Exploratory Comparative Effectiveness Trial of Green Kiwifruit, Psyllium, or Prunes in US Patients With Chronic Constipation.
+JOURNAL Am J Gastroenterol DOI 10.14309/ajg.0000000000001149
+ABSTRACT 
+URL https://europepmc.org/article/MED/34074830
+
+QUERY magnesium sulfate rich natural mineral water functional constipation 24342746
+PMID 24342746 YEAR 2014 TITLE Efficacy and safety of a magnesium sulfate-rich natural mineral water for patients with functional constipation.
+JOURNAL Clin Gastroenterol Hepatol DOI 10.1016/j.cgh.2013.12.005
+ABSTRACT 
+URL https://europepmc.org/article/MED/24342746
+
+QUERY magnesium oxide randomized placebo chronic constipation 2019 Mori
+PMID 37952945 YEAR 2025 TITLE Management of Chronic Constipation: A Comprehensive Review.
+JOURNAL Intern Med DOI 10.2169/internalmedicine.2867-23
+ABSTRACT 
+URL https://europepmc.org/article/MED/37952945
+PMID 34887919 YEAR 2021 TITLE A Systematic Review and Network Meta-Analysis on the Efficacy of Medications in the Treatment of Chronic Idiopathic Constipation in Japan.
+JOURNAL Gastroenterol Res Pract DOI 10.1155/2021/5534687
+ABSTRACT 
+URL https://europepmc.org/article/MED/34887919
+PMID 31587548 YEAR 2019 TITLE A Randomized Double-blind Placebo-controlled Trial on the Effect of Magnesium Oxide in Patients With Chronic Constipation.
+JOURNAL J Neurogastroenterol Motil DOI 10.5056/jnm18194
+ABSTRACT 
+URL https://europepmc.org/article/MED/31587548
+
+QUERY probiotics synbiotics chronic constipation adults systematic review meta-analysis randomized controlled trials 36372047
+PMID 36372047 YEAR 2022 TITLE Probiotics and synbiotics in chronic constipation in adults: A systematic review and meta-analysis of randomized controlled trials.
+JOURNAL Clin Nutr DOI 10.1016/j.clnu.2022.10.015
+ABSTRACT 
+URL https://europepmc.org/article/MED/36372047
+
+QUERY Network meta-analysis probiotics prebiotics synbiotics chronic constipation adults 38693449
+PMID 38693449 YEAR 2024 TITLE Network meta-analysis of probiotics, prebiotics, and synbiotics for the treatment of chronic constipation in adults.
+JOURNAL Eur J Nutr DOI 10.1007/s00394-024-03410-1
+ABSTRACT 
+URL https://europepmc.org/article/MED/38693449
+
+QUERY exercise therapy constipation systematic review 30843436
+PMID 30843436 YEAR 2019 TITLE Exercise therapy in patients with constipation: a systematic review and meta-analysis of randomized controlled trials.
+JOURNAL Scand J Gastroenterol DOI 10.1080/00365521.2019.1568544
+ABSTRACT 
+URL https://europepmc.org/article/MED/30843436
+
+QUERY footstool simulated defecation constipation randomized trial 36989181
+PMID 36989181 YEAR 2023 TITLE Using a footstool does not aid simulated defecation in undifferentiated constipation: A randomized trial.
+JOURNAL Neurogastroenterol Motil DOI 10.1111/nmo.14580
+ABSTRACT 
+URL https://europepmc.org/article/MED/36989181
+
+QUERY partially hydrolyzed guar gum chronic constipation 35297467
+PMID 35297467 YEAR 2022 TITLE Effectiveness of Partially Hydrolyzed Guar Gum in Reducing Constipation in Long Term Care Facility Residents: A Randomized Single-Blinded Placebo-Controlled Trial.
+JOURNAL J Nutr Health Aging DOI 10.1007/s12603-022-1747-2
+ABSTRACT 
+URL https://europepmc.org/article/MED/35297467

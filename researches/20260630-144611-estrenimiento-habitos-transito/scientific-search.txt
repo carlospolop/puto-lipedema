@@ -1,0 +1,35 @@
+--- semantic constipation fiber magnesium water kiwifruit
+--- europe pmc
+SUCCESS: Europe PMC results for 'chronic constipation psyllium magnesium oxide mineral water kiwifruit prunes randomized trial' (top 5):
+1. British Dietetic Association Guidelines for the Dietary Management of Chronic Constipation in Adults. - https://europepmc.org/article/MED/41081381
+   Neurogastroenterol Motil | 2025 | Dimidi E, van der Schoot A, Barrett K, Farmer AD, Lomer MC, Scott SM, Whelan K.
+2. British Dietetic Association Guidelines for the Dietary Management of Chronic Constipation in Adults. - https://europepmc.org/article/MED/41081513
+   J Hum Nutr Diet | 2025 | Dimidi E, van der Schoot A, Barrett K, Farmer AD, Lomer MC, Scott SM, Whelan K.
+3. Dietary strategies for chronic constipation: smartly targeting hormonal and reflex pathways for optimal recovery. - https://europepmc.org/article/MED/41788803
+   Front Pharmacol | 2026 | Ribichini E, Scalese G, Mocci C, De Amicis N, Severi C.
+4. Functional Foods and Nutraceuticals in Irritable Bowel Syndrome. - https://europepmc.org/article/MED/40142637
+   J Clin Med | 2025 | Marasco G, Cremon C, Salvi D, Meacci D, Dajti E, Colecchia L, Barbaro MR, Stanghellini V, Barbara G.
+5. Chronic Constipation: Is a Nutritional Approach Reasonable? - https://europepmc.org/article/MED/34684388
+   Nutrients | 2021 | Bellini M, Tonarelli S, Barracca F, Rettura F, Pancetti A, Ceccarelli L, Ricchiuti A, Costa F, de Bortoli N, Marchi S, Rossi A.
+--- openalex
+SUCCESS: OpenAlex results for 'chronic constipation lifestyle fiber fluid exercise magnesium' (top 10):
+1. Chronic Constipation: An Evidence-Based Review - https://www.jabfm.org/content/jabfp/24/4/436.full.pdf
+   OpenAlex | 2011
+2. World Gastroenterology Organisation Global Guideline - https://doi.org/10.1097/mcg.0b013e31820fb914
+   OpenAlex | 2011
+3. Medical Management of Constipation - http://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0032-1301754.pdf
+   OpenAlex | 2012
+4. Chronic Constipation: Current Treatment Options - http://downloads.hindawi.com/journals/cjgh/2011/360463.pdf
+   OpenAlex | 2011
+5. American Gastroenterological Association-American College of Gastroenterology Clinical Practice Guideline: Pharmacological Management of Chronic Idiopathic Constipation - http://www.gastrojournal.org/article/S0016508523005139/pdf
+   OpenAlex | 2023
+6. Primary Care Management of Chronic Constipation in Asia: The ANMA Chronic Constipation Tool - http://www.jnmjournal.org/journal/download_pdf.php?doi=10.5056/jnm.2013.19.2.149
+   OpenAlex | 2013
+7. Recommendations on Chronic Constipation (Including Constipation Associated with Irritable Bowel Syndrome) Treatment - https://downloads.hindawi.com/journals/cjgh/2007/848706.pdf
+   OpenAlex | 2007
+8. Chemotherapy-Induced Constipation and Diarrhea: Pathophysiology, Current and Emerging Treatments - https://www.frontiersin.org/articles/10.3389/fphar.2016.00414/pdf
+   OpenAlex | 2016
+9. Consensus statement AIGO/SICCR diagnosis and treatment of chronic constipation and obstructed defecation (Part II: Treatment) - https://www.wjgnet.com/1007-9327/full/v18/i36/4994.htm
+   OpenAlex | 2012
+10. Opioid-Induced Constipation and Bowel Dysfunction: A Clinical Guideline - https://academic.oup.com/painmedicine/article-pdf/18/10/1837/24350480/pnw255.pdf
+   OpenAlex | 2016

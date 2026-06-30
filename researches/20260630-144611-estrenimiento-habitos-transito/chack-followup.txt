@@ -1,0 +1,48 @@
+SUCCESS: SerpAPI google results for 'morning bowel routine gastrocolic reflex constipation guideline' (top 5):
+1. Bowel retraining: MedlinePlus Medical Encyclopedia - https://medlineplus.gov/ency/article/003971.htm
+   MedlinePlus (.gov) | Aug 12, 2024
+   The best time for a bowel movement is 20 to 40 minutes after a meal, because eating stimulates bowel activity. Most people are able to establish ...
+2. A guide to healthy bowel movements - https://www.hamiltonhealthsciences.ca/share/healthy-bowel-movements/
+   Hamilton Health Sciences | Mar 21, 2018
+   A healthy bowel movement should fall under Type 3, 4, and 5 on the Bristol Stool Chart. Types 1 and 2 are considered constipation while types 6 and 7 are ...
+3. Bowel Retraining Program - https://www.med.unc.edu/ibs/wp-content/uploads/sites/450/2017/10/BowelRetrain.pdf
+   UNC School of Medicine
+   The purpose of this handout is to teach you ways to resume a more normal frequency and pattern of bowel movements, as you may have been doing before the ...
+4. Physiology, Gastrocolic Reflex - StatPearls - NCBI Bookshelf - https://www.ncbi.nlm.nih.gov/books/NBK549888/
+   National Institutes of Health (.gov)
+   The gastrocolic reflex is a physiological reflex that controls the motility of the lower gastrointestinal tract following a meal.
+5. Chronic Constipation: Why Daily Routines Matter in ... - https://cdhf.ca/en/chronic-constipation-why-daily-routines-matter-in-management/
+   Canadian Digestive Health Foundation | Dec 18, 2025
+   Eating at regular intervals helps reinforce the gut's internal clocks. Predictable meals strengthen the gastrocolic reflex, the normal increase ...
+SUCCESS: SerpAPI google results for 'pelvic floor dyssynergia constipation biofeedback guideline fiber' (top 5):
+1. Biofeedback therapy for dyssynergic defecation - PMC - NIH - https://pmc.ncbi.nlm.nih.gov/articles/PMC4087765/
+   PubMed Central (PMC) (.gov)
+   Most patients respond either to fiber-fluid ... Biofeedback is superior to laxatives for normal transit constipation due to pelvic floor dyssynergia.
+2. Dyssynergic Defecation: Treatment - https://iffgd.org/gi-disorders/lower-gi-disorders/dyssynergic-defecation/treatment-2/
+   IFFGD
+   Dyssynergic defecation can be effectively treated with education and pelvic floor biofeedback therapy. The healthcare provider will begin by reviewing past ...
+3. Biofeedback as a Treatment of Fecal Incontinence or ... - https://member.myhealthtoolkittn.com/web/public/brands/medicalpolicyih/external-policies/biofeedback-as-a-treatment-of-fecal-incontinence-or-constipation/
+   myhealthtoolkittn.com
+   Randomized, controlled trial shows biofeedback to be superior to alternative treatments for patients with pelvic floor dyssynergia-type constipation. Dis ...
+4. Treating constipation with biofeedback for the pelvic floor - https://www.health.harvard.edu/blog/treating-constipation-with-biofeedback-for-the-pelvic-floor-2019051616638
+   Harvard Health | Jul 26, 2023
+   The physical therapist will also discuss dietary recommendations including increased water and fiber consumption, positioning techniques (like ...
+5. Biofeedback Is Superior to Laxatives for Normal Transit ... - https://www.sciencedirect.com/science/article/abs/pii/S0016508505022742
+   ScienceDirect.com
+   This large randomized controlled study showed that biofeedback for pelvic floor relaxation during defecation is more effective than laxatives for the treatment ...
+SUCCESS: SerpAPI google results for 'caffeine coffee constipation systematic review adults conflicting evidence' (top 5):
+1. The Effectiveness of Caffeine in Reducing Constipation ... - https://pubmed.ncbi.nlm.nih.gov/39666017/
+   National Institutes of Health (NIH) | (.gov)
+   Four studies concluded that caffeine may be effective in reducing constipation and 4 studies showed no improvement or an increase in constipation.
+2. Association between caffeine intake and constipation in a... - https://journals.lww.com/md-journal/fulltext/2026/01020/association_between_caffeine_intake_and.38.aspx
+   Lippincott Home
+   However, the association between caffeine intake and constipation remains equivocal, with extant literature presenting conflicting findings.
+3. The Effectiveness of Caffeine in Reducing Constipation ... - https://www.researchgate.net/publication/386988954_The_Effectiveness_of_Caffeine_in_Reducing_Constipation_in_Adults_A_Systematic_Review
+   ResearchGate | Jan 19, 2025
+   Four studies concluded that caffeine may be effective in reducing constipation and 4 studies showed no improvement or an increase in ...
+4. Caffeine for constipation? - Study Summary - https://examine.com/research-feed/study/dGzOK9/?srsltid=AfmBOooWS0EHF-ap64qXGBrXy24olBFs1K26-fA1NjeT7MJbx5Gzka0U
+   Examine.com | Jan 9, 2025
+   In this systematic review of 8 studies, 4 of them found evidence that consuming caffeine-containing beverages could improve constipation ...
+5. Association Between Caffeine Intake and Stool Frequency - https://www.jnmjournal.org/view.html?uid=1974&vmd=Full
+   Journal of Neurogastroenterology and Motility
+   Each 100 mg increase in caffeine intake was associated with a 20% decreased risk of constipation defined by stool frequency in participants who consumed high ...
