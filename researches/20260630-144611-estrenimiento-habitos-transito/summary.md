@@ -73,3 +73,52 @@ Qué acciones habituales y poco intrusivas pueden mejorar el tránsito intestina
 - No hay evidencia directa de que corregir estreñimiento modifique la progresión del lipedema. La relevancia en lipedema es indirecta: síntomas, adherencia, microbiota, estroboloma, inflamación digestiva y tolerancia a dieta.
 - Muchas recomendaciones dietéticas tienen evidencia baja/moderada; por eso conviene probar una intervención cada vez y medir.
 - Los foros refuerzan la utilidad práctica de kiwi/ciruelas/psyllium/magnesio, pero son anecdóticos.
+
+
+## Addendum tras corrección metodológica obligatoria: ChatGPT Pro/Deep Research e iteración 2
+
+Tras el feedback del usuario se repitió la investigación con el mínimo exigido para researches:
+
+- ChatGPT Pro #1 (`6a43beba-0c08-83eb-b5ff-8120bb806278`): revisión crítica práctica, ranking de intervenciones, dosis, combinaciones a evitar, suelo pélvico/medicación y mejoras editoriales.
+- ChatGPT Pro #2 (`6a43bf55-02d8-83eb-a437-d57406fcbfd7`): revisión agresiva independiente sobre low-carb/keto, GLP-1/tirzepatida, electrolitos, PHGG vs psyllium, timing circadiano, caminatas postprandiales, suelo pélvico, fármacos estreñidores y protocolo 4 semanas.
+- ChatGPT Deep Research #1 (`6a43bfb8-0f08-83eb-9873-5eace22c3ea5`): lanzado con chip Deep Research. Resultado terminal: el conector de Deep Research devolvió Cloudflare 524 timeout desde `prod1pstatic.blob.core.windows.net`. Se guardó como error de la plataforma, no como evidencia.
+- ChatGPT Pro #3 extra (`6a43c2db-9c34-83eb-b281-cb906e803c28`): lanzado al intentar relanzar Deep; terminó como Pro normal y se esperó a completarse. Confirmó ranking PEG/biofeedback/psyllium/kiwi/ciruelas/agua Mg-sulfato y la línea editorial “menos detox, más fenotipo intestinal”.
+- Además se lanzó una búsqueda iterativa dirigida con SerpAPI/ForumScout y búsquedas web sobre GLP-1/tirzepatida, keto/low-carb/electrolitos y disinergia defecatoria/biofeedback.
+
+### Cambios que sí modificaron la síntesis
+
+1. **Algoritmo por fenotipo**. La recomendación central ya no debe ser “más agua y más fibra”, sino distinguir:
+   - Heces duras/secas: hidratación real, psyllium, kiwi/ciruelas, agua Mg/sulfato, magnesio osmótico o PEG/macrogol.
+   - Gases/IBS-C/SIBO: preferir PHGG bajo y lento; evitar inulina/FOS/salvado y megadosis de psyllium.
+   - Blanda pero atascada/bloqueo: sospechar suelo pélvico/disinergia; no seguir subiendo fibra.
+   - Low-carb/keto: revisar si se convirtió en low-residue (queso, carne, huevos, proteína, café y pocas plantas).
+   - GLP-1/tirzepatida: plan intestinal antes de escalar dosis; no normalizar Bristol 1-2 o >48-72 h sin evacuar.
+   - Medicación/suplementos: auditar hierro, calcio/aluminio, antihistamínicos, anticolinérgicos, antidepresivos, opioides, verapamilo/diltiazem, ondansetrón, diuréticos, GLP-1.
+
+2. **GLP-1/tirzepatida**. Debe añadirse a la web porque muchas personas con lipedema buscan pérdida de peso. El estreñimiento en estas terapias puede ser por menor ingesta, menor sed, vaciado gástrico/tránsito más lento y escalada de dosis. Acción prudente: no subir dosis con Bristol 1-2, dolor, distensión, evacuación incompleta o >48-72 h sin evacuar; hablar con el prescriptor y usar medidas preventivas.
+
+3. **Low-carb/keto**. La recomendación no es “más keto”, sino “low-carb mediterránea con fibra mínima viable”. Si keto mejora dolor pero rompe tránsito, adherencia y suelo pélvico, deja de ser buen plan.
+
+4. **Suelo pélvico/disinergia**. Gran cambio editorial: crear o reforzar el recuadro “¿blanda pero atascada?”. Señales: bloqueo, incompleto, esfuerzo, maniobras digitales/perineales, más de 10-15 min en baño, enemas/supositorios más útiles que laxantes orales, fibra que empeora. Biofeedback/fisio de suelo pélvico puede ser más importante que más fibra.
+
+5. **Electrolitos y magnesio**. No recomendar sales keto/potasio a ciegas. Potasio puede ser peligroso con enfermedad renal o fármacos como IECA/ARA-II/espironolactona. Magnesio glicinato no es laxante equivalente a óxido/citrato/hidróxido. Agua Mg/sulfato y magnesio oral son intervenciones distintas; no combinarlas con PEG desde el inicio sin necesidad.
+
+6. **Timing/circadiano**. OMAD/ayuno largo + GLP-1 puede quitar estímulo gastrocolónico. Recomendación práctica: primera comida real estable, bebida caliente si se tolera, 10-15 min de baño 20-40 min después, sin empujar, y caminata suave 8-12 min.
+
+### Cambios web aplicados en esta iteración
+
+- `manejo/fibra-estrenimiento-glucosa.html`: añadido patrón por fenotipo, GLP-1/tirzepatida, keto como low-residue, PHGG vs psyllium según gases, semana 0 de diario, y stop rule si hay bloqueo.
+- `factores/estrenimiento-transito.html`: ampliados fármacos/suplementos estreñidores, señales concretas de suelo pélvico/disinergia, primera decisión por fenotipo, PEG/macrogol como opción legítima, y cautela con low-carb/keto/GLP-1.
+
+### Resultado final tras iteración
+
+Las recomendaciones de mayor retorno diario quedan:
+
+1. Rutina postcomida + taburete + no empujar.
+2. Auditar fármacos/suplementos y GLP-1/tirzepatida.
+3. Hidratación real, especialmente si se añade fibra.
+4. Kiwi 2/día o psyllium 3-5 g/d subiendo lento; elegir según tolerancia.
+5. PHGG en gases/IBS-C/SIBO o mala tolerancia a psyllium.
+6. Agua Mg/sulfato o magnesio osmótico solo si encaja y con cautelas renales/cardíacas/medicación.
+7. PEG/macrogol si medidas diarias no bastan o hay medicación constipante.
+8. Suelo pélvico/biofeedback si “no sale” aunque la consistencia no sea dura.
