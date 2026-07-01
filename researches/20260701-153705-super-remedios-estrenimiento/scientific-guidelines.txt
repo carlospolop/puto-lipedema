@@ -1,0 +1,21 @@
+SUCCESS: Europe PMC results for 'chronic constipation guideline polyethylene glycol prucalopride linaclotide lubiprostone plecanatide biofeedback' (top 10):
+1. Constipation with bloating: a clinical approach to evaluation and management. - https://europepmc.org/article/MED/42319080
+   Ann Med | 2026 | Cangemi DJ, Laitman AP, Faiman O, Chang BW.
+2. Highlights From the Joint AGA/ACG Guideline on Pharmacologic Management of Chronic Idiopathic Constipation. - https://europepmc.org/article/MED/39886333
+   Gastroenterol Hepatol (N Y) | 2024 | Chang L.
+3. 2025 Seoul Consensus on Clinical Practice Guidelines for Irritable Bowel Syndrome. - https://europepmc.org/article/MED/40205893
+   J Neurogastroenterol Motil | 2025 | Choi Y, Youn YH, Kang SJ, Shin JE, Cho YS, Jung YS, Shin SY, Huh CW, Lee YJ, Koo HS, Nam K, Lee HS, Kim DH, Park YH, Kim MC, Song HY, Yoon SH, Lee SY, Choi M, Park MI, Sung IK, Korean Society of Neurogastroenterology and Motility.
+4. European Consensus on Functional Bloating and Abdominal Distension-An ESNM/UEG Recommendations for Clinical Management. - https://europepmc.org/article/MED/40844856
+   United European Gastroenterol J | 2025 | Melchior C, Hammer H, Bor S, Barba E, Horvat IB, Celebi A, Drug V, Dumitrascu D, Kalkan IH, Hauser G, Lionis C, Livovsky D, Mari A, Mulak A, Surdea-Blaga T, Tack J, Vanuytsel T, Savarino EV, Zarate-Lopez N, Hammer J, Dickman R.
+5. Slow Transit Constipation: Pathophysiological Perspectives and Management Updates. - https://europepmc.org/article/MED/41646037
+   J Dig Dis | 2026 | Syllaios A, Papadakos SP, Ioannou A, Frountzas M, Michelakis D, Patsouras D, Dritsas S, Pramateftakis MG, Schizas D.
+6. An Update of Pharmacological Management in Children with Functional Constipation. - https://europepmc.org/article/MED/36941393
+   Paediatr Drugs | 2023 | de Geus A, Koppen IJN, Flint RB, Benninga MA, Tabbers MM.
+7. Childhood constipation: Current status, challenges, and future perspectives. - https://europepmc.org/article/MED/36185096
+   World J Clin Pediatr | 2022 | Rajindrajith S, Devanarayana NM, Benninga MA.
+8. Dyssynergic Defecation: A Comprehensive Review on Diagnosis and Management. - https://europepmc.org/article/MED/36919830
+   Turk J Gastroenterol | 2023 | Sadeghi A, Akbarpour E, Majidirad F, Bor S, Forootan M, Hadian MR, Adibi P.
+9. Functional constipation in children: What physicians should know. - https://europepmc.org/article/MED/36925458
+   World J Gastroenterol | 2023 | Tran DL, Sintusek P.
+10. Gastrointestinal motility and absorptive disorders in patients with inflammatory bowel diseases: Prevalence, diagnosis and treatment. - https://europepmc.org/article/MED/31496621
+   World J Gastroenterol | 2019 | Barros LL, Farias AQ, Rezaie A.

@@ -1,0 +1,21 @@
+SUCCESS: Europe PMC results for 'opioid induced constipation naldemedine naloxegol methylnaltrexone guideline' (top 10):
+1. Opioid-induced constipation in internal medicine: recognition and management pathways. - https://europepmc.org/article/MED/40877716
+   Intern Emerg Med | 2025 | Portincasa P, Luglio CV, Sozzi S, Conforti C, Bitonto G, Papavero M, Baffy G, Di Ciaula A.
+2. Treatment of Opioid-Induced Constipation: Inducing Laxation and Understanding the Risk of Gastrointestinal Perforation. - https://europepmc.org/article/MED/40434810
+   J Clin Gastroenterol | 2025 | Mehta N, Laitman AP, Brookfield RB, Harris LA.
+3. Pharmacological and rehabilitation strategies in opioid-induced constipation: an observational study. - https://europepmc.org/article/MED/41647689
+   Front Rehabil Sci | 2026 | Caramma S, Condorelli R, Buccheri E, Maria M, Rosta G, Longo L, Li Gotti F, Brundo S, Chiaramonte R.
+4. German Expert Consensus on Opioid-Induced Constipation (OIC): Recommendations and a Treatment Algorithm for Clinical Practice. - https://europepmc.org/article/MED/41899293
+   J Clin Med | 2026 | Wobbe B, Andresen V, Baron R, Eiche J, Elsner F, Gottschling S, Keßler J, Link H, Müller-Schwefe PCG, Schutter U, Storr M, Überall MA, Wirz S.
+5. PAMORAs in Opioid-Induced Constipation: Are We Following the Guidelines? - https://europepmc.org/article/MED/40512185
+   Clin Transl Gastroenterol | 2025 | Liu K, Chen A, Rajaram P, Buning G, Lee AA, Singh P.
+6. Constipation in critically ill adults. - https://europepmc.org/article/MED/41479858
+   World J Gastrointest Pathophysiol | 2025 | Kim Y, See KC.
+7. Naldemedine is associated with earlier defecation in critically ill patients with opioid-induced constipation: A retrospective, single-center cohort study. - https://europepmc.org/article/MED/38170714
+   PLoS One | 2024 | Nishiyama S, Uchino S, Sasabuchi Y, Masuyama T, Lefor AK, Sanui M.
+8. Management of Constipation in Hospitalized Patients. - https://europepmc.org/article/MED/37834791
+   J Clin Med | 2023 | Sayuk GS, Yu QT, Shy C.
+9. Safe Management of Adverse Effects Associated with Prescription Opioids in the Palliative Care Population: A Narrative Review. - https://europepmc.org/article/MED/38792289
+   J Clin Med | 2024 | Zimmerman A, Laitman A.
+10. Emergency department pain management in special populations. - https://europepmc.org/article/MED/40746577
+   Turk J Emerg Med | 2025 | Vlasica K, Hall A, Rehman MA, Notas G, Shenvi C, Motov S.

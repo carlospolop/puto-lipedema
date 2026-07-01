@@ -1,0 +1,21 @@
+SUCCESS: Europe PMC results for 'dyssynergic defecation biofeedback randomized trial constipation' (top 10):
+1. Constipation with bloating: a clinical approach to evaluation and management. - https://europepmc.org/article/MED/42319080
+   Ann Med | 2026 | Cangemi DJ, Laitman AP, Faiman O, Chang BW.
+2. Efficacy of biofeedback therapy for chronic constipation in adults: a systematic review and meta-analysis of randomized controlled trials. - https://europepmc.org/article/MED/42292261
+   Front Med (Lausanne) | 2026 | Tu Y, Zhou Z, Li Y, He Z, Liao D, Liu Z, Li B, Zhou Z, Ai S.
+3. Efficacy of home biofeedback in dyssynergic defaecation: A prospective pilot study. - https://europepmc.org/article/MED/42087346
+   Colorectal Dis | 2026 | Omak A, Bulut A, Attaallah W.
+4. Ileal bile acid transporter inhibitors for chronic constipation in the elderly. - https://europepmc.org/article/MED/41809226
+   World J Gastrointest Pharmacol Ther | 2026 | Aneesh PSR, Vaithiyam V, Reddy RT, Dalal A, Sachdeva S.
+5. The Italian Unitary Society of Colon-Proctology (SIUCP: Società Italiana Unitaria di Colonproctologia) guidelines for the management of obstructed and ineffective defecation syndrome. - https://europepmc.org/article/MED/42266116
+   Ann Coloproctol | 2026 | Renzi A, Brusciano L, Talento P, Marano L, Iacobellis F, Vallo A, Frezza G, Grillo M, Palumbo A, Palladino E, Neola B, Foroni F, Lanza M, Antropoli M, Antropoli C, Maglio MN, Sotelo MLS, Pagano G, Di Nuzzo MM, Vicenzo L, di Visconte MS, Naldini G, Lenisa L, Gasparrini M, Candilio G, Pezzatini M, Ascari F, Di Leo A, Urbani M, Ascanelli S, Bussotti A, Calomino N, Izzo D, Peltrini R, D'Ambra M, Greco G, D'Oriano G, Giordano A, Gambardella C, Iovino DP, Grego A, Pellecchia L, Monaco L, Ferrante I, Lamanna GL, Mosca V, Girnyi S, Minieri G, Losacco L, Sarzo G, Calabrò G, Ghiglione F, Agradi S, Pinto M, Marazzi A, Desantis M, Mongardini FM, Mongardini M, Marotta A, Lauretta A, Ferreri G, Annicchiarico A, Pozzo FD, Ansalone A, Zuin M, Osman N, Mauro P, Rispoli C, Cwalinski T, Rizzato R, Gallese N, Mozzon M, Stazi A, Franceschilli L, Stuto A, Cudazzo E, Malerba S, Contul RB, Canero A, Antonacci N, Milazzo F, Magnani C, Folliero C, Babic F, Marola S, Braini A, Benegiamo G, Cocozza U, Masci B, Laforgia R, Pezzolla A, Colangelo A, Geremia C, Di Renzo RM, Pagano C, Picheo R, Favetta U, Gambarini F, Chimisso L, Terracciano G, Andriani A, Marino G, Liguori P, Formisano C, Paszkiewicz IZ, Reginelli A, Tumminelli F, Caruso M, Pennacchio M, Ciarleglio FA, Lizza N, d'Aniello F, Asciore L, Bianchi P, Tessari E, Rossin E, Menna MP, Ucchino G, Vittadello F, Oliva M, Gatto F, Ferrando R, Granese I, Cicconi M, Mistrangelo M, Ioia G, Gianfreda V, Greco E, Landolfi AM, Di Sarno G, Landolfi V, Bartolini C, Onofrio L, De Vito D, Napolitano S, Bottino V, Longo A, Brescia A, Casiraghi C, Alderisio A, Mensorio MM, Docimo L, Brillantino A.
+6. Physical-based therapy for the treatment of functional dyspepsia: a systematic review. - https://europepmc.org/article/MED/41670783
+   Clin J Gastroenterol | 2026 | Liptak P, Hoferica J, Vojtko M, Banovcin P.
+7. Slow Transit Constipation: Pathophysiological Perspectives and Management Updates. - https://europepmc.org/article/MED/41646037
+   J Dig Dis | 2026 | Syllaios A, Papadakos SP, Ioannou A, Frountzas M, Michelakis D, Patsouras D, Dritsas S, Pramateftakis MG, Schizas D.
+8. Biofeedback training versus botox injection for the treatment of dyssynergic defaecation: A randomized controlled trial. - https://europepmc.org/article/MED/40329927
+   Colorectal Dis | 2025 | Emad N, Elbanna HG, AbdelMawla A, Balata M.
+9. Magnetoelectric biofeedback for precision-targeted rectocele management: A randomized controlled trial of phenotype-driven pelvic floor neuromodulation. - https://europepmc.org/article/MED/41784838
+   Int J Colorectal Dis | 2026 | Geng HZ, Xu C, Cong J, Li Y.
+10. Beyond stapled transanal rectal resection &lt;i&gt;vs&lt;/i&gt; ventral rectopexy dichotomy: Toward a phenotype-guided surgical paradigm for obstructed defecation syndrome. - https://europepmc.org/article/MED/41809329
+   World J Gastrointest Surg | 2026 | Schiano di Visconte M, Sarnari S.

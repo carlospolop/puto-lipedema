@@ -1,0 +1,21 @@
+SUCCESS: Europe PMC results for 'intestinal methanogen overgrowth methane constipation neomycin rifaximin' (top 10):
+1. Constipation with bloating: a clinical approach to evaluation and management. - https://europepmc.org/article/MED/42319080
+   Ann Med | 2026 | Cangemi DJ, Laitman AP, Faiman O, Chang BW.
+2. Rifaximin's therapeutic spectrum: approved indications and experimental insights into emerging uses. - https://europepmc.org/article/MED/41729463
+   Pharmacol Rep | 2026 | Palenca I, Franzin SB, Pesce M, Sarnelli G, Esposito G.
+3. Unraveling the Complexities of Small Intestinal Bacterial Overgrowth. - https://europepmc.org/article/MED/41901567
+   Medicina (Kaunas) | 2026 | Capuano E, Del Gaudio A, Nista EC, De Lucia SS, Pellegrino A, Cuccia G, Saviano A, Petruzziello C, Ojetti V.
+4. Small Intestinal Bacterial Overgrowth and Intestinal Methanogen Overgrowth: Are They Overdiagnosed? - https://europepmc.org/article/MED/41821875
+   Acta Gastroenterol Latinoam | 2025 | Kholwadwala AS, Quigley EMM.
+5. Hydrogen and Methane Breath Test: The Asian Neurogastroenterology and Motility Association Monograph. - https://europepmc.org/article/MED/41952402
+   J Neurogastroenterol Motil | 2026 | Xiao Y, Siah KTH, Zhang M, Tay BWR, Chuah KH, Tan V, Wang YP, Chen Y, Liu L, Ghoshal UC, Wu JCY, Hou X.
+6. Diagnostic Evaluation of Small Intestinal Microbial Overgrowth: A Cross-Sectional Comparison of Glucose and Lactulose Breath Tests. - https://europepmc.org/article/MED/41464822
+   J Clin Med | 2025 | Scalese G, Spina L, Gallucci L, Cesarini A, Ribichini E, Diofebi M, Tattoli I, Pallotta L, Citarella A, Severi C.
+7. Methane, Bacteria, Fungi, and Fermentation: Pathophysiology, Diagnosis and Treatment Strategies for Small Intestinal Bacterial Overgrowth, Intestinal Methanogen Overgrowth and Small Intestinal Fungal Overgrowth. - https://europepmc.org/article/MED/41020835
+   Curr Issues Mol Biol | 2025 | Wawrzeńczyk A, Czarnowska M, Darwish S, Ćwirko-Godycka A, Lis K, Szota M, Treichel P, Wojtkiewicz A, Napiórkowska-Baran K.
+8. Modern concepts of small intestinal bacterial overgrowth. - https://europepmc.org/article/MED/40960427
+   Curr Opin Gastroenterol | 2025 | Barlow GM, Pimentel M.
+9. Effectiveness of the low FODMAP diet in patients with irritable bowel syndrome and small intestine bacterial overgrowth syndrome. - https://europepmc.org/article/MED/41684777
+   Front Nutr | 2026 | Bogdanowska-Charkiewicz D, Górski P, Jurkowska G, Środa R, Świdnicka-Siergiejko A, Dąbrowski A, Daniluk J.
+10. Relationship between small intestinal bacterial overgrowth and irritable bowel syndrome and the efficacy of rifaximin intervention: a systematic review and meta-analysis. - https://europepmc.org/article/MED/41883799
+   Front Microbiol | 2026 | Lu H.
