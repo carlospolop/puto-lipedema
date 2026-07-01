@@ -32,4 +32,7 @@ Crear un informe técnico completo de opciones para mejorar estreñimiento, orga
 - [x] Integrado primer informe técnico en `summary.md`.
 - [x] Esperar/cerrar terminalmente ChatGPT Pro/Deep y documentar.
 - [x] Actualizar web con versión sencilla.
-- [ ] Verificar y publicar.
+- [x] Verificar y publicar.
+  - Validación local: servidor `127.0.0.1:8766`, páginas cargadas en navegador, `search-index.js` con 98 entradas y contiene PEG.
+  - GitHub Actions: Search index OK y Deploy GitHub Pages OK en run 28524680762.
+  - Producción: `putolipedema.com/factores/estrenimiento-transito.html` contiene la tabla `Si predomina...`; `putolipedema.com/manejo/fibra-estrenimiento-glucosa.html` contiene `Opciones según mecanismo`.
