@@ -1,0 +1,297 @@
+URL: https://www.ncbi.nlm.nih.gov/books/NBK532285/
+STATUS: 200
+
+Lactose Intolerance - StatPearls - NCBI Bookshelf
+The .gov means it's official.
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you're on a federal
+government site.
+The site is secure.
+The https:// ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+Bookshelf
+Search database Books All Databases Assembly Biocollections BioProject BioSample Books ClinVar Conserved Domains dbGaP dbVar Gene Genome GEO DataSets GEO Profiles GTR Identical Protein Groups MedGen MeSH NLM Catalog Nucleotide OMIM PMC Protein Protein Clusters Protein Family Models PubChem BioAssay PubChem Compound PubChem Substance PubMed SNP SRA Structure Taxonomy ToolKit ToolKitAll ToolKitBookgh Search term
+Search
+Browse Titles
+Advanced
+Help
+Disclaimer
+-->
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.
+StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026 Jan-.
+StatPearls [Internet].
+Show details Treasure Island (FL): StatPearls Publishing ; 2026 Jan-.
+Search term
+Lactose Intolerance
+Eric Goosenberg ; Muriam Afzal .
+Author Information and Affiliations Authors
+Eric Goosenberg 1 ; Muriam Afzal 2 .
+Affiliations
+1 Temple University School of Medicine
+2 Michigan State College of Human Sciences
+Last Update: August 6, 2025 .
+Continuing Education Activity
+Lactose intolerance is a clinical syndrome characterized by gastrointestinal symptoms following the ingestion of lactose-containing foods. In healthy individuals, dietary lactose is hydrolyzed into glucose and galactose by lactase, an enzyme located in the brush border of the small intestine. Deficiency of this enzyme, whether from primary genetic factors or secondary to intestinal injury, results in incomplete lactose digestion, leading to fermentation by colonic bacteria and the development of characteristic symptoms such as bloating, diarrhea, and abdominal discomfort.
+This activity reviews the pathophysiology, clinical presentation, and diagnostic evaluation of lactose intolerance, along with evidence-based management strategies. This activity also emphasizes the importance of accurate diagnosis, patient education, and dietary modification, highlighting the collaborative role of the interprofessional healthcare team in optimizing patient outcomes.
+Objectives:
+Differentiate lactose intolerance from milk allergy and other gastrointestinal disorders.
+Assess nutritional status, particularly calcium and vitamin D intake, in affected patients.
+Select appropriate lactose-free or low-lactose dietary options for diverse patient populations.
+Communicate effectively with patients and caregivers about symptom management and prevention.
+Access free multiple choice questions on this topic.
+Introduction
+Lactose intolerance is a clinical syndrome characterized by gastrointestinal symptoms, such as bloating, abdominal pain, flatulence, nausea, borborygmi, and diarrhea, following the ingestion of lactose-containing food. [1] [2] Although often associated with lactose malabsorption, the 2 terms are not synonymous.
+Lactose, a disaccharide and the primary sugar in human breast milk, is hydrolyzed into glucose and galactose by the enzyme lactase, located in the small intestinal border. [3] [4] Galactose is critical for macromolecular synthesis, and human milk is its only natural dietary source. Lactase deficiency, the most common disaccharidase deficiency, is rarely congenital; it typically arises as a secondary process following intestinal injury or as a genetically programmed late-onset decline in enzyme activity. [5]
+Lactase activity peaks postnatally and declines thereafter, irrespective of continued lactose intake. This pattern is conserved across most nonhuman mammals. Populations of South American, Asian, and African descent exhibit higher rates of adult-onset lactase deficiency. In contrast, those of northern European and northwestern Indian ancestry more commonly retain lactase activity into adulthood. [6]
+Many individuals avoid lactose-containing foods upon symptom onset and diagnosis, often switching to lactose-free products and supplements. This dietary modification, even when based on a presumed rather than confirmed diagnosis, contributes to increased healthcare utilization.
+Etiology
+Lactase enzyme deficiency results from reduced enzyme activity, leading to impaired hydrolysis of lactose into absorbable glucose and galactose. Genetic factors contribute significantly, with specific single-nucleotide polymorphisms associated with lactose intolerance. In Northeastern Brazil, the distinct single-nucleotide polymorphisms correlate with lactase persistence. Among Indo-Europeans, the C/T 13910 (C>T) polymorphism plays a key role—the TT genotype is associated with lactase persistence, the C/T genotype with partial deficiency, and the CC genotype with complete deficiency. [7]
+Lactase deficiency is classified into four types—primary (late-onset), secondary (acquired), developmental, and congenital. Each type varies in etiology, age of onset, and underlying pathology, with secondary deficiency being the most common and typically reversible following resolution of the underlying intestinal injury.
+Primary Lactase Deficiency
+Primary lactase deficiency, also known as lactase nonpersistence, is the most common form of lactase deficiency. There is a gradual decline in lactase enzyme activity with increasing age. Enzyme activity declines in infancy, and symptoms manifest in adolescence or early adulthood. More recently, it has been observed that lactase nonpersistence is of the ancestral form (normal Mendelian inheritance), and lactase persistence is secondary to mutation. [8] [9] [10]
+Secondary Lactase Deficiency
+Injury to the intestinal mucosa can lead to secondary lactase deficiency, and resolution of the underlying cause may resolve the lactose intolerance. [11] Common causes include:
+Gastrointestinal infections, such as those caused by rotavirus in children and Giardia lamblia
+Celiac disease
+Crohn disease
+Chemotherapy
+Antibiotics
+Small intestinal surgery
+Radiation therapy to the small intestine
+Developmental Lactase Deficiency
+Developmental lactase deficiency is observed in premature infants born at 28 to 37 weeks of gestation. [12] The infant's intestine is underdeveloped, resulting in inadequate lactase production. This condition improves with age due to the maturation of the intestine, which results in adequate lactase activity.
+Congenital Lactase Deficiency
+Congenital lactase deficiency is a rare autosomal recessive genetic condition due to mutations in the LCT gene, with only about 40 cases reported worldwide. [8] This condition results in decreased or absent lactase enzyme activity. [13] [14] Symptoms appear shortly after birth with the ingestion of milk. [15]
+Epidemiology
+Lactose intolerance is common worldwide but rare in children younger than 5. This condition primarily affects adolescents and young adults, with equal prevalence across sexes. Globally, 65% to 70% of the population exhibits lactose intolerance, most commonly in its primary form, [16] though not all individuals are symptomatic. [17] [18] [19] Secondary lactase deficiency is more prevalent in children, especially in developing countries, due to infection-related enteropathy. [11] The onset of primary disease is typically gradual, with symptoms emerging in late adolescence or adulthood. [2] [3] Earlier onset is more common in Native American, Asian, African-American, and Hispanic/Latino populations compared to White Northern Europeans, Australians, and North Americans. [20]
+Lactose intolerance prevalence varies by ethnicity, being highest among African Americans, Hispanics/Latinos, and Asians, and lowest in individuals of European descent. [21] Populations with higher intolerance rates also exhibit greater frequencies of lactase nonpersistence genotypes. [22] [23]
+In the United States, primary lactose intolerance is significantly more prevalent among African-Americans, Asian Americans, and Native Americans, compared to White Americans. [20] [21] [24] [25] [26] The lowest rates are observed in North Americans, Australians, and White Northern Europeans, ranging between 2% and 15%. [20] [24] In contrast, prevalence reaches 50% to 80% in South Americans, 60% to 80% in Ashkenazi Jews and Western Africans, and nearly 100% in American Indians and some East Asian populations. [20] [25] [26] High rates are also reported in Italy, Greece, and Arab countries. [27]
+The age-related decline in lactase activity typically completes in childhood but may occur later in adolescence, particularly among Whites. [28] The rate and extent of this decline vary by ethnicity. In Chinese and Japanese populations, 80% to 90% of lactase activity is lost within 3 to 4 years after weaning. In Jewish and some Asain populations, 60% to 70% is lost more gradually over several years. For White Northern Europeans and North Americans, lactase levels may take 18 to 20 years to reach their lowest levels. [17] Individuals with mixed ethnicity tend to have lower rates of lactase nonpersistence compared to their native ethnic counterparts.
+Pathophysiology
+Salivary and pancreatic amylases initiate starch digestion by breaking it into smaller polysaccharides and monosaccharides. Lactase, located on the brush border of the small intestinal mucosa, hydrolyzes lactose into glucose and galactose, which are then absorbed through the SGLT1 and Glut-2 transporters. [29]
+In lactase deficiency, undigested lactose remains in the intestinal lumen, where it undergoes bacterial fermentation in the distal small bowel and colon. This process produces volatile gases, including hydrogen, methane, carbon dioxide, hydrogen sulfide, and short-chain fatty acids. The accumulation of unabsorbed lactose increases intraluminal osmotic pressure, leading to fluid influx and osmotic diarrhea. [30]
+These processes contribute to gastrointestinal symptoms of lactose intolerance and overlap with maldigestion of other fermentable carbohydrates—including oligosaccharides, disaccharides, monosaccharides, and polyols—as well as sucrose, fructose, and maltose. Symptoms are often more pronounced in individuals with delayed gastric emptying or visceral hypersensitivity, as observed in disorders of gut-brain interaction, such as functional dyspepsia and irritable bowel syndrome. [31] [32]
+Histopathology
+In lactose intolerance, histopathologic findings in the small intestine vary depending on the underlying cause of lactase deficiency. In primary lactase deficiency, or when mucosal involvement is focal, the mucosa may appear normal. [33] Lactase activity can be measured to assess disease severity.
+In secondary lactase deficiency, biopsy findings depend on the underlying pathology. For example, celiac disease may show villous blunting with inflammatory cell infiltration.
+History and Physical
+Symptoms of lactose intolerance typically appear 30 minutes to 2 hours after ingestion of lactose-containing foods. Symptom severity depends on the lactose dose, residual lactase activity, and small bowel transit time. [34] Clinicians should inquire about the onset of symptoms concerning high-lactose food intake.
+Common signs and symptoms of lactose intolerance include: [35] [36]
+Diarrhea
+Abdominal bloating
+Abdominal pain
+Nausea and vomiting
+Sensation of fullness
+Flatulence
+Less commonly, patients may report systemic symptoms such as headache, muscle pain, joint pain, mouth ulcers, urinary symptoms, and impaired concentration. [37] [38] The physical examination is often unremarkable but may reveal abdominal distention, tenderness, or tympany to percussion.
+Evaluation
+Symptom resolution following lactose elimination and recurrence upon reintroduction supports the diagnosis of lactose intolerance. [39] Further diagnostic testing may be warranted in cases of diagnostic uncertainty or when alternative conditions are suspected.
+Diagnostic Tests
+Diagnosis of lactose intolerance is primarily clinical but may be supported by noninvasive tests when uncertainty exists or to exclude other conditions. The following diagnostic modalities assess lactose malabsorption, enzyme activity, or genetic predisposition.
+Hydrogen breath test: This test measures breath hydrogen after lactose ingestion. An increase >20 ppm above baseline indicates lactose malabsorption. [40] Proper test protocols are essential for accuracy. [40]
+Stool acidity test: This test detects low stool pH due to fermentation of unabsorbed lactose into lactic acid.
+Milk tolerance test: After administering 500 mL of milk, a rise in blood glucose <9 mg/dL suggests lactose malabsorption. [41]
+Lactose tolerance test: This test involves ingestion of 50 g lactose with serial glucose measurements at 0, 60, and 120 minutes. [40] A rise <20 mg/dL suggests lactose intolerance. Sensitivity is 75%; specificity is 96%. False-negative results may occur in patients with diabetes mellitus or small intestinal bacterial overgrowth. The results are also affected by delayed gastric emptying. [42]
+Small bowel biopsy: This test is invasive and rarely used; reserved for excluding secondary causes such as celiac disease.
+Genotyping: Genotyping is emerging as a highly sensitive and specific test. This test is currently more common in Germany and Nordic countries, but not widely adopted elsewhere. [43]
+Proper Performance of Hydrogen Breath Testing
+Use only certified medical-grade testing products.
+Store and handle breath samples according to the manufacturer's guidelines.
+In young children, use a face mask or a suitable device for complete sample collection.
+Avoid taking antibiotics for at least 4 weeks before testing.
+Do not perform testing within 2 weeks of bowel preparation for colonoscopy or surgery.
+Avoid dietary fiber and FODMAPs (fermentable oligosaccharides, disaccharides, monosaccharides, and polyols) for 24 hours before testing, as they can elevate baseline hydrogen levels.
+Discontinue lactulose, lactose, laxatives, prokinetics, and probiotics 24 hours before and during testing.
+Infants should fast for at least 4 hours; children and adults should fast for at least 8 hours.
+Refrain from smoking for at least 2 hours before and during testing.
+Minimize physical activity 2 hours before and during testing to prevent hyperventilation.
+Perform a chlorhexidine oral rinse before collecting the initial breath sample. [44]
+Treatment / Management
+Management of lactose intolerance includes dietary modification, lactase supplementation, and treatment of underlying causes in secondary lactase deficiency. Complete lactose elimination is rarely required, as most individuals tolerate up to 15 g of lactose daily, especially when consumed with other foods. [45]
+Dietary Modification
+Lactase-containing dairy products and calcium supplementation are recommended. Reducing lactose intake can decrease colonic hydrogen production and alleviate symptoms. Although strict avoidance is not always necessary, the following lactose-containing foods should be limited or avoided:
+Cow, goat, and sheep milk
+Ice cream and sherbet
+Butter and margarine
+Buttermilk, whipping cream, sour cream, and coffee creamers
+Soft cheeses, such as cream cheese, cottage cheese, ricotta, and mascarpone
+Evaporated milk, condensed milk, and milk powder
+Pudding and custard
+Whey protein, especially whey concentrate
+Pancakes and waffles, if prepared with milk or butter
+Yogurt contains variable amounts of lactose and may trigger symptoms in some individuals. Greek yogurt has the lowest lactose content. Live yogurt cultures produce β-galactosidase, which may enhance lactose digestion in vivo. [46] Plant-based milk alternatives, such as almond, coconut, and soy, are lactose-free options, although concerns remain regarding palatability, nutritional adequacy, and processing challenges. [47] [48]
+Probiotics, such as the Lactobacillus acidophilus DDS-1 strain, have shown potential in alleviating symptoms. [49] [50] Calcium and vitamin D supplementation are recommended to maintain bone health. In secondary lactase deficiency, management should also address the underlying condition. [45]
+Lactase Supplements
+Lactase enzyme supplements extracted from yeasts and molds are available as tablets or drops. In most cases, these supplements should be taken just before eating a high-lactose product or with the first bite. However, when drops are added to milk, they should be shaken or stirred and refrigerated for 24 hours before ingestion to allow the lactose to break down.
+Differential Diagnosis
+Several conditions may mimic or coexist with lactose intolerance and should be considered in the differential diagnosis:
+Irritable bowel syndrome
+Functional dyspepsia
+Celiac disease
+Tropical sprue
+Inflammatory bowel disease
+Small intestinal diverticula
+Intestinal neoplasm or polyp
+Excessive ingestion of laxatives
+Viral gastroenteritis
+Bacterial infection
+Giardiasis
+Gastrinoma
+Cystic fibrosis
+Pertinent Studies and Ongoing Trials
+Emerging treatments for lactose intolerance aim to improve symptom control and expand dietary flexibility beyond traditional lactase supplementation and dietary restriction. These strategies include novel enzyme therapies and advancements in personalized nutrition.
+Fungal Beta-Galactosidases
+Two fungal beta-galactosidases derived from Aspergillus carbonarius ATCC6276 (beta-gal 1 and beta-gal 2) have shown potential as enzyme supplements for lactose intolerance. Administered alone or in combination, these purified enzymes demonstrate greater stability under simulated gastric conditions compared to current commercial lactase preparations. [51]
+Nutrigenomics
+Nutrigenomics offers a future approach to managing hypolactasia by identifying specific genetic mutations or haplotype patterns that influence individual dietary responses, enabling more personalized nutritional interventions. [52]
+Prognosis
+Lactose intolerance carries an excellent prognosis, with most patients achieving a substantial symptom relief through dietary modification alone. However, untreated lactose malabsorption may contribute to osteopenia. [53] [54] [55] Vitamin D deficiency is linked to the LCT -13910C>T gene variant of lactose intolerance among Whites. [55]
+Complications
+Complications of lactose intolerance are uncommon but may arise from prolonged dietary restriction or untreated malabsorption. These complications include the following:
+Osteopenia
+Osteoporosis [21]
+Malnutrition
+Weight loss
+Rickets
+Growth failure
+Consultations
+Once lactose intolerance is diagnosed, referral to a dietitian is recommended for individualized dietary modification and nutritional counseling. A gastroenterologist should be consulted to evaluate for alternative or concurrent gastrointestinal disorders. Ongoing follow-up is essential to monitor symptom control and prevent potential dietary deficiencies.
+Deterrence and Patient Education
+Patients and their families should be counseled that consuming lactose-containing products typically causes only reversible symptoms and does not result in permanent gastrointestinal damage, unlike celiac disease. Long-term complications are unlikely when nutritional requirements, including adequate protein, caloric, calcium, and vitamin D intake, are maintained. [20]
+Primary and congenital lactase deficiencies are not preventable. However, secondary lactase deficiency may be prevented through early diagnosis and treatment of underlying causes to preserve intestinal mucosal integrity. Limiting lactose-containing foods can further reduce symptom burden and disease impact.
+Pearls and Other Issues
+Table
+Table 1. Key Points to Remember About Lactose Intolerance.
+Enhancing Healthcare Team Outcomes
+The diagnosis and management of lactose intolerance require an interprofessional team, including a primary care provider, nurse practitioner, pediatrician, gastroenterologist, dietitian, and, when indicated, an allergist. The primary care provider or pediatrician typically initiates evaluation and distinguishes lactose intolerance from other gastrointestinal conditions. A gastroenterologist may be involved when symptoms are persistent or the diagnosis is unclear.
+Dietitians play a central role in formulating personalized, well-balanced low-lactose or lactose-free diets while ensuring adequate intake of calcium, vitamin D, and other key nutrients. Pharmacists provide guidance on the proper use of lactase enzyme supplements and help identify hidden lactose in medications. Referral to an allergist is important if a milk allergy—an immune-mediated reaction to milk proteins—is suspected, as this condition is often confused with lactose intolerance. Effective collaboration among team members ensures comprehensive care, reduces unnecessary dietary restrictions, and promotes long-term patient well-being.
+Review Questions
+Access free multiple choice questions on this topic.
+Click here for a simplified version.
+Comment on this article.
+References
+1. Di Stefano M, Miceli E, Mazzocchi S, Tana P, Moroni F, Corazza GR. Visceral hypersensitivity and intolerance symptoms in lactose malabsorption. Neurogastroenterol Motil. 2007 Nov; 19 (11):887-95. [ PubMed : 17973635 ]
+2. Micic D, Rao VL, Rubin DT. Clinical Approach to Lactose Intolerance. JAMA. 2019 Oct 22; 322 (16):1600-1601. [ PubMed : 31556907 ]
+3. Vesa TH, Marteau P, Korpela R. Lactose intolerance. J Am Coll Nutr. 2000 Apr; 19 (2 Suppl):165S-175S. [ PubMed : 10759141 ]
+4. Mattar R, de Campos Mazo DF, Carrilho FJ. Lactose intolerance: diagnosis, genetic, and clinical factors. Clin Exp Gastroenterol. 2012; 5 :113-21. [ PMC free article : PMC3401057 ] [ PubMed : 22826639 ]
+5. Toca MDC, Fernández A, Orsi M, Tabacco O, Vinderola G. Lactose intolerance: myths and facts. An update. Arch Argent Pediatr. 2022 Feb; 120 (1):59-66. [ PubMed : 35068123 ]
+6. Newcomer AD, McGill DB, Thomas PJ, Hofmann AF. Tolerance to lactose among lactase-deficient American Indians. Gastroenterology. 1978 Jan; 74 (1):44-6. [ PubMed : 336450 ]
+7. Delacour H, Leduc A, Louçano-Perdriat A, Plantamura J, Ceppa F. Diagnosis of genetic predisposition for lactose intolerance by high resolution melting analysis. Ann Biol Clin (Paris). 2017 Feb 01; 75 (1):67-74. [ PubMed : 28132945 ]
+8. Lomer MC, Parkes GC, Sanderson JD. Review article: lactose intolerance in clinical practice--myths and realities. Aliment Pharmacol Ther. 2008 Jan 15; 27 (2):93-103. [ PubMed : 17956597 ]
+9. Kretchmer N. Lactose and lactase. Sci Am. 1972 Oct; 227 (4):71-8. [ PubMed : 4672311 ]
+10. Beja-Pereira A, Luikart G, England PR, Bradley DG, Jann OC, Bertorelle G, Chamberlain AT, Nunes TP, Metodiev S, Ferrand N, Erhardt G. Gene-culture coevolution between cattle milk protein genes and human lactase genes. Nat Genet. 2003 Dec; 35 (4):311-3. [ PubMed : 14634648 ]
+11. Srinivasan R, Minocha A. When to suspect lactose intolerance. Symptomatic, ethnic, and laboratory clues. Postgrad Med. 1998 Sep; 104 (3):109-11, 115-6, 122-3. [ PubMed : 9742907 ]
+12. Mobassaleh M, Montgomery RK, Biller JA, Grand RJ. Development of carbohydrate absorption in the fetus and neonate. Pediatrics. 1985 Jan; 75 (1 Pt 2):160-6. [ PubMed : 2578223 ]
+13. AURICCHIO S, RUBINO A, LANDOLT M, SEMENZA G, PRADER A. ISOLATED INTESTINAL LACTASE DEFICIENCY IN THE ADULT. Lancet. 1963 Aug 17; 2 (7303):324-6. [ PubMed : 14044269 ]
+14. Upton J, Mackay R, George P. A simple gene test for lactose intolerance/adult hypolactasia. N Z Med J. 2007 Nov 09; 120 (1265):U2817. [ PubMed : 18264193 ]
+15. Swallow DM. Genetics of lactase persistence and lactose intolerance. Annu Rev Genet. 2003; 37 :197-219. [ PubMed : 14616060 ]
+16. Bayless TM, Brown E, Paige DM. Lactase Non-persistence and Lactose Intolerance. Curr Gastroenterol Rep. 2017 May; 19 (5):23. [ PubMed : 28421381 ]
+17. Kretchmer N. Lactose and lactase--a historical perspective. Gastroenterology. 1971 Dec; 61 (6):805-13. [ PubMed : 4947662 ]
+18. Hertzler SR, Savaiano DA. Colonic adaptation to daily lactose feeding in lactose maldigesters reduces lactose intolerance. Am J Clin Nutr. 1996 Aug; 64 (2):232-6. [ PubMed : 8694025 ]
+19. Cavalli-Sforza LL. Analytic review: some current problems of human population genetics. Am J Hum Genet. 1973 Jan; 25 (1):82-104. [ PMC free article : PMC1762215 ] [ PubMed : 4567614 ]
+20. Heyman MB., Committee on Nutrition. Lactose intolerance in infants, children, and adolescents. Pediatrics. 2006 Sep; 118 (3):1279-86. [ PubMed : 16951027 ]
+21. Suchy FJ, Brannon PM, Carpenter TO, Fernandez JR, Gilsanz V, Gould JB, Hall K, Hui SL, Lupton J, Mennella J, Miller NJ, Osganian SK, Sellmeyer DE, Wolf MA. National Institutes of Health Consensus Development Conference: lactose intolerance and health. Ann Intern Med. 2010 Jun 15; 152 (12):792-6. [ PubMed : 20404261 ]
+22. Suchy FJ, Brannon PM, Carpenter TO, Fernandez JR, Gilsanz V, Gould JB, Hall K, Hui SL, Lupton J, Mennella J, Miller NJ, Osganian SK, Sellmeyer DE, Wolf MA. NIH consensus development conference statement: Lactose intolerance and health. NIH Consens State Sci Statements. 2010 Feb 24; 27 (2):1-27. [ PubMed : 20186234 ]
+23. Bailey RK, Fileti CP, Keith J, Tropez-Sims S, Price W, Allison-Ottey SD. Lactose intolerance and health disparities among African Americans and Hispanic Americans: an updated consensus statement. J Natl Med Assoc. 2013 Summer; 105 (2):112-27. [ PubMed : 24079212 ]
+24. Scrimshaw NS, Murray EB. The acceptability of milk and milk products in populations with a high prevalence of lactose intolerance. Am J Clin Nutr. 1988 Oct; 48 (4 Suppl):1079-159. [ PubMed : 3140651 ]
+25. Paige DM, Bayless TM, Mellitis ED, Davis L. Lactose malabsorption in preschool black children. Am J Clin Nutr. 1977 Jul; 30 (7):1018-22. [ PubMed : 577654 ]
+26. Sahi T. Genetics and epidemiology of adult-type hypolactasia. Scand J Gastroenterol Suppl. 1994; 202 :7-20. [ PubMed : 8042019 ]
+27. Itan Y, Jones BL, Ingram CJ, Swallow DM, Thomas MG. A worldwide correlation of lactase persistence phenotype and genotypes. BMC Evol Biol. 2010 Feb 09; 10 :36. [ PMC free article : PMC2834688 ] [ PubMed : 20144208 ]
+28. Sahi T, Launiala K, Laitinen H. Hypolactasia in a fixed cohort of young Finnish adults. A follow-up study. Scand J Gastroenterol. 1983 Oct; 18 (7):865-70. [ PubMed : 6689563 ]
+29. Burke M. Carbohydrate Intolerance and Disaccharidase Measurement - a Mini-Review. Clin Biochem Rev. 2019 Nov; 40 (4):167-174. [ PMC free article : PMC6892707 ] [ PubMed : 31857738 ]
+30. Zhong Y, Priebe MG, Vonk RJ, Huang CY, Antoine JM, He T, Harmsen HJ, Welling GW. The role of colonic microbiota in lactose intolerance. Dig Dis Sci. 2004 Jan; 49 (1):78-83. [ PubMed : 14992439 ]
+31. Cash BD, Patel D, Scarlata K. Demystifying Carbohydrate Maldigestion: A Clinical Review. Am J Gastroenterol. 2025 Apr 01; 120 (4S):1-11. [ PubMed : 40249016 ]
+32. Rao SSC. Fructose and Lactose Malabsorption or Intolerance or Hypersensitivity: Which Triggers Symptoms and Why? Am J Gastroenterol. 2026 Feb 01; 121 (2):298-299. [ PubMed : 40569336 ]
+33. Gupta SK, Chong SK, Fitzgerald JF. Disaccharidase activities in children: normal values and comparison based on symptoms and histologic changes. J Pediatr Gastroenterol Nutr. 1999 Mar; 28 (3):246-51. [ PubMed : 10067723 ]
+34. Corgneau M, Scher J, Ritie-Pertusa L, Le DTL, Petit J, Nikolova Y, Banon S, Gaiani C. Recent advances on lactose intolerance: Tolerance thresholds and currently available answers. Crit Rev Food Sci Nutr. 2017 Oct 13; 57 (15):3344-3356. [ PubMed : 26713460 ]
+35. Bayless TM, Rothfeld B, Massa C, Wise L, Paige D, Bedine MS. Lactose and milk intolerance: clinical implications. N Engl J Med. 1975 May 29; 292 (22):1156-9. [ PubMed : 1173192 ]
+36. Deng Y, Misselwitz B, Dai N, Fox M. Lactose Intolerance in Adults: Biological Mechanism and Dietary Management. Nutrients. 2015 Sep 18; 7 (9):8020-35. [ PMC free article : PMC4586575 ] [ PubMed : 26393648 ]
+37. Campbell AK, Wann KT, Matthews SB. Lactose causes heart arrhythmia in the water flea Daphnia pulex. Comp Biochem Physiol B Biochem Mol Biol. 2004 Oct; 139 (2):225-34. [ PubMed : 15465669 ]
+38. Suarez FL, Savaiano DA, Levitt MD. A comparison of symptoms after the consumption of milk or lactose-hydrolyzed milk by people with self-reported severe lactose intolerance. N Engl J Med. 1995 Jul 06; 333 (1):1-4. [ PubMed : 7776987 ]
+39. Carroccio A, Montalto G, Cavera G, Notarbatolo A. Lactose intolerance and self-reported milk intolerance: relationship with lactose maldigestion and nutrient intake. Lactase Deficiency Study Group. J Am Coll Nutr. 1998 Dec; 17 (6):631-6. [ PubMed : 9853544 ]
+40. Beyerlein L, Pohl D, Delco F, Stutz B, Fried M, Tutuian R. Correlation between symptoms developed after the oral ingestion of 50 g lactose and results of hydrogen breath testing for lactose intolerance. Aliment Pharmacol Ther. 2008 Apr; 27 (8):659-65. [ PubMed : 18221409 ]
+41. Arola H. Diagnosis of hypolactasia and lactose malabsorption. Scand J Gastroenterol Suppl. 1994; 202 :26-35. [ PubMed : 8042016 ]
+42. Hermans MM, Brummer RJ, Ruijgers AM, Stockbrügger RW. The relationship between lactose tolerance test results and symptoms of lactose intolerance. Am J Gastroenterol. 1997 Jun; 92 (6):981-4. [ PubMed : 9177514 ]
+43. Waud JP, Matthews SB, Campbell AK. Measurement of breath hydrogen and methane, together with lactase genotype, defines the current best practice for investigation of lactose sensitivity. Ann Clin Biochem. 2008 Jan; 45 (Pt 1):50-8. [ PubMed : 18275674 ]
+44. Hammer HF, Fox MR, Keller J, Salvatore S, Basilisco G, Hammer J, Lopetuso L, Benninga M, Borrelli O, Dumitrascu D, Hauser B, Herszenyi L, Nakov R, Pohl D, Thapar N, Sonyi M., European H2-CH4-breath test group. European guideline on indications, performance, and clinical impact of hydrogen and methane breath tests in adult and pediatric patients: European Association for Gastroenterology, Endoscopy and Nutrition, European Society of Neurogastroenterology and Motility, and European Society for Paediatric Gastroenterology Hepatology and Nutrition consensus. United European Gastroenterol J. 2022 Feb; 10 (1):15-40. [ PMC free article : PMC8830282 ] [ PubMed : 34431620 ]
+45. Vonk RJ, Priebe MG, Koetse HA, Stellaard F, Lenoir-Wijnkoop I, Antoine JM, Zhong Y, Huang CY. Lactose intolerance: analysis of underlying factors. Eur J Clin Invest. 2003 Jan; 33 (1):70-5. [ PubMed : 12492455 ]
+46. Facioni MS, Raspini B, Pivari F, Dogliotti E, Cena H. Nutritional management of lactose intolerance: the importance of diet and food labelling. J Transl Med. 2020 Jun 26; 18 (1):260. [ PMC free article : PMC7318541 ] [ PubMed : 32590986 ]
+47. Sethi S, Tyagi SK, Anurag RK. Plant-based milk alternatives an emerging segment of functional beverages: a review. J Food Sci Technol. 2016 Sep; 53 (9):3408-3423. [ PMC free article : PMC5069255 ] [ PubMed : 27777447 ]
+48. Paul AA, Kumar S, Kumar V, Sharma R. Milk Analog: Plant based alternatives to conventional milk, production, potential and health concerns. Crit Rev Food Sci Nutr. 2020; 60 (18):3005-3023. [ PubMed : 31617734 ]
+49. Pakdaman MN, Udani JK, Molina JP, Shahani M. The effects of the DDS-1 strain of lactobacillus on symptomatic relief for lactose intolerance - a randomized, double-blind, placebo-controlled, crossover clinical trial. Nutr J. 2016 May 20; 15 (1):56. [ PMC free article : PMC4875742 ] [ PubMed : 27207411 ]
+50. Shi LH, Balakrishnan K, Thiagarajah K, Mohd Ismail NI, Yin OS. Beneficial Properties of Probiotics. Trop Life Sci Res. 2016 Aug; 27 (2):73-90. [ PMC free article : PMC5031164 ] [ PubMed : 27688852 ]
+51. O'Connell S, Walsh G. Application relevant studies of fungal beta-galactosidases with potential application in the alleviation of lactose intolerance. Appl Biochem Biotechnol. 2008 May; 149 (2):129-38. [ PubMed : 18401743 ]
+52. Gorduza EV, Indrei LL, Gorduza VM. Nutrigenomics in postgenomic era. Rev Med Chir Soc Med Nat Iasi. 2008 Jan-Mar; 112 (1):152-64. [ PubMed : 18677921 ]
+53. Kudlacek S, Freudenthaler O, Weissböeck H, Schneider B, Willvonseder R. Lactose intolerance: a risk factor for reduced bone mineral density and vertebral fractures? J Gastroenterol. 2002; 37 (12):1014-9. [ PubMed : 12522532 ]
+54. Di Stefano M, Veneto G, Malservisi S, Cecchetti L, Minguzzi L, Strocchi A, Corazza GR. Lactose malabsorption and intolerance and peak bone mass. Gastroenterology. 2002 Jun; 122 (7):1793-9. [ PubMed : 12055586 ]
+55. Alharbi O, El-Sohemy A. Lactose Intolerance ( LCT -13910C>T) Genotype Is Associated with Plasma 25-Hydroxyvitamin D Concentrations in Caucasians: A Mendelian Randomization Study. J Nutr. 2017 Jun; 147 (6):1063-1069. [ PubMed : 28446633 ]
+56. Goh LH, Mohd Said R, Goh KL. Lactase deficiency and lactose intolerance in a multiracial Asian population in Malaysia. JGH Open. 2018 Dec; 2 (6):307-310. [ PMC free article : PMC6308090 ] [ PubMed : 30619942 ]
+Disclosure: Eric Goosenberg declares no relevant financial relationships with ineligible companies.
+Disclosure: Muriam Afzal declares no relevant financial relationships with ineligible companies.
+Copyright © 2026, StatPearls Publishing LLC.
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+Bookshelf ID: NBK532285 PMID: 30335318
+Share
+Views
+PubReader
+Print View
+Cite this Page Goosenberg E, Afzal M. Lactose Intolerance. [Updated 2025 Aug 6]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026 Jan-.
+In this Page
+Continuing Education Activity
+Introduction
+Etiology
+Epidemiology
+Pathophysiology
+Histopathology
+History and Physical
+Evaluation
+Treatment / Management
+Differential Diagnosis
+Pertinent Studies and Ongoing Trials
+Prognosis
+Complications
+Consultations
+Deterrence and Patient Education
+Pearls and Other Issues
+Enhancing Healthcare Team Outcomes
+Review Questions
+References
+Related information
+PMC PubMed Central citations
+PubMed Links to PubMed
+Similar articles in PubMed
+Review [Lactose intolerance: pathophysiology, clinical symptoms, diagnosis and treatment]. [Pol Merkur Lekarski. 2009] Review [Lactose intolerance: pathophysiology, clinical symptoms, diagnosis and treatment]. Hutyra T, Iwańczak B. Pol Merkur Lekarski. 2009 Feb; 26(152):148-52.
+Review Genetic variation and lactose intolerance: detection methods and clinical implications. [Am J Pharmacogenomics. 2004] Review Genetic variation and lactose intolerance: detection methods and clinical implications. Sibley E. Am J Pharmacogenomics. 2004; 4(4):239-45.
+Review Lactose intolerance. [Am Fam Physician. 2002] Review Lactose intolerance. Swagerty DL Jr, Walling AD, Klein RM. Am Fam Physician. 2002 May 1; 65(9):1845-50.
+Review Lactose intolerance: myths and facts. An update. [Arch Argent Pediatr. 2022] Review Lactose intolerance: myths and facts. An update. Toca MDC, Fernández A, Orsi M, Tabacco O, Vinderola G. Arch Argent Pediatr. 2022 Feb; 120(1):59-66. Epub 2021 Dec 17.
+Review [Lactose intolerance and consumption of milk and milk products]. [Z Ernahrungswiss. 1997] Review [Lactose intolerance and consumption of milk and milk products]. Sieber R, Stransky M, de Vrese M. Z Ernahrungswiss. 1997 Dec; 36(4):375-93.
+See reviews... See all...
+Recent Activity
+Clear Turn Off Turn On
+Lactose Intolerance - StatPearls Lactose Intolerance - StatPearls
+Your browsing activity is empty.
+Activity recording is turned off.
+Turn recording back on
+See more...
+-->
+Follow NCBI
+Connect with NLM
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+-->

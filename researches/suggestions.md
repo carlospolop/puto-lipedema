@@ -15,6 +15,7 @@
 - Buscar patentes y pipeline farmacológico relacionado con fibrosis/ECM, linfangiogénesis, Tie2/VEGF, hialuronano/GAG y adipogénesis regional.
 - Buscar si el hallazgo de ácidos grasos saturados plasmáticos (mirístico/palmítico) y dolor en lipedema se replica en estudios de dolor inflamatorio, neuropático o adiposidad dolorosa; puede afinar la recomendación de grasas concretas.
 - Revisar si existen protocolos de low-carb no cetogénica con 90-130 g/día, alto contenido de fibra y fuerza en lipedema, como alternativa más sostenible a keto estricta.
+- Investigar con más profundidad subgrupos de lipedema con IBS/SIBO/intolerancias alimentarias: cuándo una dieta baja en FODMAP/lactosa ayuda a síntomas y cuándo solo añade restricción innecesaria.
 - Venoactivos no clásicos y fármacos endoteliales en lipedema: hidroxietilrutósidos/oxerutinas, calcio dobesilato y sulodexida como opciones médicas cuando hay edema venoso-linfático o microangiopatía.
 - COMPLETADO 2026-06-29: Láser vascular superficial y escleroterapia para arañas vasculares/telangiectasias/venas reticulares en contexto lipedema; eficacia, selección, seguridad, compresión, recurrencia y alternativas conservadoras. Integrados subagentes útiles y ChatGPT Deep Research real; OSINT/SerpAPI terminó en timeout sin resumen útil. Pendiente futuro: monitorizar nuevos RCTs lipedema-específicos o datos comunitarios de complicaciones si aparecen.
 - Cómo medir en casa si una intervención vascular ayuda: perímetros, fotos, escala de pesadez/dolor, edema con fóvea, moratones y tolerancia a compresión.

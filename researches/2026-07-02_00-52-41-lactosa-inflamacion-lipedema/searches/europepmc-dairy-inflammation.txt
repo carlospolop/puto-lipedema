@@ -1,0 +1,21 @@
+SUCCESS: Europe PMC results for 'dairy consumption inflammation markers systematic review CRP IL-6 TNF' (top 10):
+1. Dietary Patterns Associated With Anti-inflammatory Effects: An Umbrella Review of Systematic Reviews and Meta-analyses. - https://europepmc.org/article/MED/40657695
+   Nutr Rev | 2026 | Reyneke GL, Lambert K, Beck EJ.
+2. Microbiota-targeted therapeutic strategies for elderly-onset rheumatoid arthritis: based on the gut-joint axis. - https://europepmc.org/article/MED/42253976
+   Front Immunol | 2026 | Liu M, Wang W, Qian L.
+3. Impact of Fermented Dairy on Gastrointestinal Health and Associated Biomarkers. - https://europepmc.org/article/MED/40706019
+   Nutr Rev | 2026 | Bui G, Marco ML.
+4. A Healthy Lifestyle Can Slow Immune System Aging and Reduce Age-Related Chronic Inflammation: A Narrative Review - https://europepmc.org/article/PMC/PMC13299945
+   Int J Mol Sci | 2026 | Cąkała-Jakimowicz M, Domaszewska-Szostek A, Puzianowska-Kuźnicka M.
+5. Dietary Fibre and Chronic Kidney Disease: A Systematic Review of Effects on Inflammation, Uraemic Toxins, Nutritional Status, Kidney Function, and Gut-Liver-Kidney Axis Mechanisms. - https://europepmc.org/article/MED/42123943
+   Nutrients | 2026 | Mojak AG, Bronkowska M.
+6. Synergistic Effects of Protein Intake and Exercise on Biomarkers of Sarcopenia: A Systematic Review - https://europepmc.org/article/PMC/PMC12937736
+   Biomolecules | 2026 | Cruz-Pierard S, Iñiguez-Jiménez S.
+7. Anti-inflammatory dietary interventions in inflammatory bowel disease: current insights and future perspectives. - https://europepmc.org/article/MED/42199753
+   Front Nutr | 2026 | Li M, Jiang C, Wang B, Guan Z, Li L.
+8. Modulating the Gut-Nerve Axis and Inflammation: A Narrative Review of Dietary Patterns in Diabetic Peripheral Neuropathy. - https://europepmc.org/article/MED/42200044
+   Diabetes Metab Syndr Obes | 2026 | Sun R, Li X, Liu X, Guo D, Chen Y, Zhao Y, Yin Y, Zhai X.
+9. Mechanisms of Cardiac Inflammation in Heart Failure: Role of Dietary Patterns, Nutrients, and Therapeutic Strategies. - https://europepmc.org/article/MED/41901180
+   Nutrients | 2026 | Mavroudis A, Fragoulis C, Mavromoustakou K, Iliakis P, Tsioufis K, Chrysohoou C.
+10. The role of dietary factors in the prevention and management of inflammatory bowel disease: a comprehensive review. - https://europepmc.org/article/MED/41423598
+   Nutr Metab (Lond) | 2025 | Nattagh-Eshtivani E, Barghchi H, Mansouri AH, Rahbarinejd P, Mokari-Yamchi A, Barati M, Rashidmyvan M, Esfehani AJ, Mohammadzadeh A, Clyton Z, Marabi P, Talebi S, Pahlavani N.
