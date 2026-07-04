@@ -25,3 +25,4 @@
 - Derivado endotelio/glucocálix: revisar intervenciones médicas endoteliales solo si aparecen ensayos o series en lipedema/lipolinfedema: sulodexida, calcio dobesilato, MPFF/diosmina y oxerutinas con criterios de seguridad.
 - Derivado endotelio/glucocálix: investigar cómo distinguir en consulta edema por fuga capilar/matriz vs insuficiencia venosa vs linfedema temprano usando dúplex, bioimpedancia, ICG/NIRFLI, ecografía y signos clínicos.
 - Derivado endotelio/glucocálix: monitorizar si syndecan-1, heparan sulfate, angiopoietin-2/Tie2, VEGF-A/C/D, CD31 o marcadores de daño endotelial llegan a tener utilidad clínica en lipedema.
+- Derivado venoactivos médicos: investigar aminaphtone/cyclic edema y diferenciar edema cíclico idiopático vs lipedema/linfedema; aparece en la literatura de Godoy como posible subgrupo femenino con grandes fluctuaciones de peso diario.

@@ -12,6 +12,6 @@ Seleccionado desde `researches/suggestions.md`: “intervenciones médicas endot
 
 ## Plan iterativo
 - [x] Pull del repo e inspección de sugerencias/páginas relacionadas.
-- [x] Iteración 1: lanzados 3 trabajadores Hermes (científico, OSINT/social, seguridad práctica); ChatGPT Web en curso de intento/ledger por UI; OSINT/SerpAPI directo iniciado.
-- [x] Iteración 2: abiertas fichas técnicas AEMPS/SmPC y revisiones; resueltos puntos de seguridad de sulodexida, dobesilato, MPFF y oxerutinas.
-- [x] Iteración 3: síntesis crítica y actualización web en español con algoritmo práctico de selección y parada. Pendiente de verificación/commit según alcance de sesión.
+- [x] Iteración 1: lanzados 3 trabajadores Hermes (científico, OSINT/social, seguridad práctica); 3 trabajadores Hermes (científico, OSINT/social, seguridad práctica), Chack/SerpAPI directo y fuentes PMC/NCBI; ChatGPT Web intentado y ledgerado como failed-to-send por UI.
+- [x] Iteración 2: abiertas fuentes primarias/revisiones (PMC, NCBI Bookshelf, Cochrane, ficha AEMPS/SmPC); integrados subagentes científico, OSINT y seguridad; evidencia directa lipedema muy baja e indirecta venosa útil solo por fenotipo.
+- [x] Iteración 3: síntesis crítica, actualización web en español con algoritmo práctico, summary, MANIFEST, sugerencias, search-index, commit/push y verificación iniciados/completados.
