@@ -1,0 +1,197 @@
+# horse-chestnut-cochrane
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC3833478/
+Bytes html: 106577
+
+
+Cochrane Summary of Findings: Horse Chestnut Seed Extract for Chronic Venous Insufficiency - PMC 
+Skip to main content 
+An official website of the United States government 
+Here's how you know Here's how you know 
+Official websites use .gov A .gov website belongs to an official government organization in the United States. 
+
+Secure .gov websites use HTTPS A lock ( 
+Lock 
+Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. 
+Search Log in 
+Dashboard 
+
+Publications 
+
+Account settings 
+
+Log out 
+Search… Search NCBI 
+
+Search PMC Full-Text Archive Search in PMC 
+Journal List 
+
+User Guide 
+
+PERMALINK 
+Copy 
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice Glob Adv Health Med . 2012 Mar 1;1(1):122–123. doi: 10.7453/gahmj.2012.1.1.018 
+
+Cochrane Summary of Findings: Horse Chestnut Seed Extract for Chronic Venous Insufficiency 
+Vigdis Underland 
+Vigdis Underland , MS 
+1 Vigdis Underland, MS, Nordic Cochrane Centre's Norwegian branch, Norwegian Knowledge Centre for Health Services, Oslo, Norway. 3 Elin Strømme Nilsen, MS, Nordic Cochrane Centre's Norwegian branch, Norwegian Knowledge Centre for Health Services, Oslo, Norway. Find articles by Vigdis Underland 1, 3 , Ingvil Sæterdal 
+Ingvil Sæterdal , PhD 
+2 Ingvil Sæterdal, PhD; Nordic Cochrane Centre's Norwegian branch, Norwegian Knowledge Centre for Health Services, Oslo, Norway. 3 Elin Strømme Nilsen, MS, Nordic Cochrane Centre's Norwegian branch, Norwegian Knowledge Centre for Health Services, Oslo, Norway. Find articles by Ingvil Sæterdal 2, 3 , Elin Strømme Nilsen 
+Elin Strømme Nilsen , MS 
+3 Elin Strømme Nilsen, MS, Nordic Cochrane Centre's Norwegian branch, Norwegian Knowledge Centre for Health Services, Oslo, Norway. Find articles by Elin Strømme Nilsen 3, ✉ 
+Author information 
+
+Article notes 
+
+Copyright and License information 
+1 Vigdis Underland, MS, Nordic Cochrane Centre's Norwegian branch, Norwegian Knowledge Centre for Health Services, Oslo, Norway. 2 Ingvil Sæterdal, PhD; Nordic Cochrane Centre's Norwegian branch, Norwegian Knowledge Centre for Health Services, Oslo, Norway. 3 Elin Strømme Nilsen, MS, Nordic Cochrane Centre's Norwegian branch, Norwegian Knowledge Centre for Health Services, Oslo, Norway. ✉ 
+Email: esn@nokc.no 
+✉ 
+Corresponding author. 
+
+Issue date 2012 Mar. 
+© 2012 GAHM LLC. PMC Copyright notice PMCID: PMC3833478 PMID: 24278808 
+Abstract 
+
+As part of its efforts to disseminate the results of Cochrane reviews to a wider audience, the Cochrane Complementary and Alternative Medicine (CAM) Field develops Summary of Findings (SoF) tables and then uses these tables as a basis for its Plain Language Summaries. In each SoF table, the most important outcomes of the review, the effect of the intervention on each outcome, and the quality of the evidence for each outcome are presented. The process of developing the SoF table involves deciding which outcomes to present for which time points and evaluating the strength and quality of the evidence for the outcomes. The Cochrane CAM Field contacted the authors of this review to request clarification on any points that are not understood in the Cochrane review and also to request their review of the SoF. In this article, review authors in the Cochrane Collaboration reviewed the effects of horse chestnut seed extract for chronic venous insufficiency. 
+
+Key Words: Summary of findings, Cochrane, CAM, review, horse chestnut seed extract, HCSE, chronic venous insufficiency, CVI, collaboration, GRADE 
+
+As part of its efforts to disseminate the results of Cochrane reviews to a wider audience, the Cochrane Complementary and Alternative Medicine (CAM) Field develops Summary of Findings (SoF) tables and then uses these tables as a basis for its Plain Language Summaries. In each SoF table, the most important outcomes of the review, the effect of the intervention on each outcome, and the quality of the evidence for each outcome are presented. The process of developing the SoF table involves deciding which outcomes to present for which time points and evaluating the strength and quality of the evidence for the outcomes. The Cochrane CAM Field contacted the authors of this review to request clarification on any points that are not understood in the Cochrane review and also to request their review of the SoF. In this article, review authors in the Cochrane Collaboration reviewed the effects of horse chestnut seed extract for chronic venous insufficiency. 
+
+TABLE. 
+
+Summary of Findings: Horse Chestnut Seed Extract Compared to Placebo for Chronic Venous Insufficiency 
+
+Patient or population: Patients with chronic venous insufficiency 
+
+Intervention: Horse chestnut seed extract 
+
+Comparison: Placebo 
+
+Outcomes Illustrative Comparative Risks (95% Confidence Interval) No. of Participants (Studies) Quality of the Evidence (GRADE) 
+
+Assumed risk Corresponding risk 
+
+Placebo Horse chestnut seed extract 
+
+Mean reduction of lower leg volume (mL) The mean reduction of lower leg volume in the control groups was –45.65 The mean reduction of lower leg volume in the intervention groups was 32.10 higher (13.49–50.72 higher) 502 (6) ⊕⊕⊕○ Moderate a 
+
+Mean reduction of circumference at ankle (mm) The mean reduction of circumference at ankle in the control groups was –1.3 The mean reduction of circumference at ankle in the intervention groups was 4.71 higher (1.13–8.28 higher) 80 (3) ⊕⊕○○ Low b , c 
+
+Mean reduction of circumference at calf (mm) The mean reduction of circumference at calf in the control groups was –1.23 The mean reduction of circumference at calf in the intervention groups was 3.51 higher (0.58–6.45 higher) 80 (3) ⊕⊕○○ Low b , c 
+
+Improvement in leg pain 44 per 100 63 per 100 (52–76 per 100) 418 (1) ⊕○○○ Very low d , e , f 
+
+Reduction of leg pain (VAS 0–100) The mean reduction of leg pain in the control groups was 0.2 The mean reduction of leg pain in the intervention groups was 42.40 higher (34.9–49.9 higher) 30 (1) ⊕○○○ Very low b , g 
+
+Improvement of edema 41 per 100 66 per 100 (53–81) 346 (1) ⊕○○○ Very low d , e , f 
+Open in a new tab 
+Abbreviations: GRADE, Grading of Recommendations, Assessment, Development, and Evaluation; VAS, visual analog scale. 
+
+GRADE Working Group grades of evidence: 
+
+High quality: Further research is very unlikely to change our confidence in the estimate of effect. 
+
+Moderate quality: Further research is likely to have an important impact on our confidence in the estimate of effect and may change the estimate. 
+
+Low quality: Further research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate. 
+
+Very low quality: We are very uncertain about the estimate. 
+a 
+All studies have uncertainty of randomization procedure and allocation concealment. One trial has a large number of dropouts. 
+b 
+Randomization procedures not reported, with an uncertainty of allocation concealment. 
+c 
+Only 3 small studies with a total of 80 participants, with a consequent imprecision of results and wide confidence intervals. 
+d 
+Randomization procedure not reported, with no information on allocation concealment. From the analyses, there appears to be a large number of dropouts during the trial. 
+e 
+The crossover design was considered a reason to downgrade on directness because of the risk of carryover effects. 
+f 
+Only 1 trial with uncertainty about the number of participants in each group according to table of included studies and analysis. 
+g 
+Only 1 small study with a total of 30 participants. 
+
+CHRONIC VENOUS INSUFFICIENCY AND HORSE CHESTNUT SEED EXTRACT 
+
+Chronic venous insufficiency (CVI) is characterized by a chronic inability of veins in the lower leg to transport blood back toward the heart due to damage to the one-way valves within the leg veins. This damage is caused by blood clots (deep vein thromboses) or other factors, such as congenital disorders. This results in venous hypertension, an increase in pressure within the veins in the leg. 
+
+The signs of CVI include swelling of the leg, feelings of tired and painful legs, dry scaly skin, varicose veins, hardening of the skin, and leg ulcers (open wounds on the lower legs that do not heal after 6 weeks). CVI severity is often graded into 3 categories: stage I, swelling (edema); stage II, swelling (edema) plus skin changes; stage III, the presence of open or healed leg ulcers. Stage III is considered the most severe stage of CVI. About 10% to 15% of adult men and 20% to 25% of adult women present signs and symptoms consistent with a diagnosis of CVI, and the prevalence increases with age. 
+
+The horse chestnut ( Aesculus hippocastanum L) is a large tree growing to about 25 to 30 m in height. The seed of the horse chestnut is a small brown nut. Unprocessed horse chestnut seeds contain a toxin called esculin (also spelled aesculin ). This toxin may increase the risk of bleeding due to its ability to prevent blood clots from forming. The unprocessed seeds are poisonous, and symptoms associated with horse chestnut seed poisoning include vomiting, diarrhea, headache, confusion, weakness, muscle twitching, poor coordination, coma, and paralysis. Horse chestnut seeds are therefore processed to remove the toxic component, resulting in purified horse chestnut seed extract (HCSE). 
+
+The active component of HCSE is called escin (also spelled aescin ). Escin appears to promote blood circulation through the veins and thereby reduce swelling and inflammation of the legs. It is not exactly clear how escin works, but theories include that it works by “sealing” leaking capillaries, improving the elastic strength of veins, preventing the release of enzymes that damage the blood vessels, and blocking other various physiological events that lead to vein damage. 
+
+The most common dosage of horse chestnut is 300 mg HCSE twice daily, standardized to contain 50 mg escin per dose, for a total daily dose of 100 mg escin. 
+
+In theory, horse chestnut may increase the risk of bleeding. In addition, animal studies suggest that HCSE may cause lowered blood sugar. 
+
+WHAT DOES THE RESEARCH SAY? 
+
+Not all research provides the same quality of evidence. The higher the quality, the more certain we are about what the research says about an effect. The words will (high-quality evidence), probably (moderate-quality evidence), and may (low-quality evidence) describe how certain we are about the effect. 
+
+After searching for all relevant studies, the review authors found 17 studies that they included in the review. Ten of these studies were placebo-controlled trials. The trials showed that for people with chronic venous insufficiency, horse chestnut seed extract 
+
+probably reduces lower-leg volume, 
+
+may reduce circumference at ankle, and 
+
+may reduce circumference at calf. 
+
+We are uncertain of the effect of HCSE on leg pain and edema because the quality of the evidence is very low. 
+
+In general, side effects are poorly documented, and it is difficult to provide precise information. In these trials, some participants experienced gastrointestinal complaints, dizziness, nausea, headache, and itching. 
+
+WHERE DOES THIS INFORMATION COME FROM? 
+
+The Cochrane Collaboration is an independent global network of volunteers dedicated to summarizing research about healthcare. 
+
+This information is taken from this Cochrane Review: Pittler MH, Ernst E. Horse chestnut seed extract for chronic venous insufficiency. Cochrane Database Syst Rev. 2006 Jan 25;(1):CD003230. 
+
+A new search for studies and updated content was published in Issue 9, 2010 (no change to conclusions). 
+
+Acknowledgment 
+
+This article was prepared on behalf of the Cochrane Complementary and Alternative Medicine Field and with funding from the US National Center for Complementary and Alternative Medicine of the US National Institutes of Health (grant number R24 AT001293). 
+
+Contributor Information 
+
+Vigdis Underland, Vigdis Underland, MS, Nordic Cochrane Centre's Norwegian branch, Norwegian Knowledge Centre for Health Services, Oslo, Norway.. 
+
+Ingvil Sæterdal, Ingvil Sæterdal, PhD; Nordic Cochrane Centre's Norwegian branch, Norwegian Knowledge Centre for Health Services, Oslo, Norway.. 
+
+ACTIONS 
+
+View on publisher site 
+
+PDF (453.4 KB) 
+
+Cite 
+
+Collections 
+
+Permalink 
+PERMALINK 
+Copy 
+
+RESOURCES 
+
+Similar articles 
+
+Cited by other articles 
+
+Links to NCBI Databases 
+
+Cite 
+
+Copy 
+
+Download .nbib .nbib 
+
+Format: AMA APA MLA NLM 
+
+Add to Collections 
+Create a new collection Add to an existing collection Name your collection * Choose a collection Unable to load your collection due to an error Please try again Add Cancel 
+
+Back to Top 

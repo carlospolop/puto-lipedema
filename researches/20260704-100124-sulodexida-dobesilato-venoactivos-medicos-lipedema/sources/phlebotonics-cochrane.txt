@@ -1,0 +1,688 @@
+# phlebotonics-cochrane
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8094625/
+Bytes html: 1146696
+
+
+Phlebotonics for venous insufficiency - PMC 
+Skip to main content 
+An official website of the United States government 
+Here's how you know Here's how you know 
+Official websites use .gov A .gov website belongs to an official government organization in the United States. 
+
+Secure .gov websites use HTTPS A lock ( 
+Lock 
+Locked padlock icon ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites. 
+Search Log in 
+Dashboard 
+
+Publications 
+
+Account settings 
+
+Log out 
+Search… Search NCBI 
+
+Search PMC Full-Text Archive Search in PMC 
+Journal List 
+
+User Guide 
+
+PERMALINK 
+Copy 
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health. Learn more: PMC Disclaimer | PMC Copyright Notice Cochrane Database Syst Rev . 2020 Nov 3;2020(11):CD003229. doi: 10.1002/14651858.CD003229.pub4 
+
+Phlebotonics for venous insufficiency 
+Maria José Martinez-Zapata 
+Maria José Martinez-Zapata 
+1 Iberoamerican Cochrane Centre, Biomedical Research Institute Sant Pau (IIB Sant Pau), CIBER Epidemiología y Salud Pública (CIBERESP), Barcelona, Spain Find articles by Maria José Martinez-Zapata 1, ✉ , Robin WM Vernooij 
+Robin WM Vernooij 
+2 Department of Nephrology and Hypertension and Julius Center for Health Sciences and Primary Care, University Medical Center Utrecht, Utrecht, Netherlands Find articles by Robin WM Vernooij 2 , Daniel Simancas-Racines 
+Daniel Simancas-Racines 
+3 Cochrane Ecuador. Centro de Investigación en Salud Pública y Epidemiología Clínica (CISPEC). Facultad de Ciencias de la Salud Eugenio Espejo, Universidad Tecnológica Equinoccial, Quito, Ecuador Find articles by Daniel Simancas-Racines 3 , Sonia Maria Uriona Tuma 
+Sonia Maria Uriona Tuma 
+4 Preventive Medicine and Public Health, Vall Hebron University Hospital, Barcelona, Spain Find articles by Sonia Maria Uriona Tuma 4 , Airton T Stein 
+Airton T Stein 
+5 Department of Public Health, Universidade Federal de Ciências da Saúde, Porto Alegre, Brazil Find articles by Airton T Stein 5 , Rosa Maria M Moreno Carriles 
+Rosa Maria M Moreno Carriles 
+6 Angiology, Vascular and Endovascular Surgery, Universitary Hospital La Princesa, Madrid, Spain Find articles by Rosa Maria M Moreno Carriles 6 , Emilio Vargas 
+Emilio Vargas 
+7 Hospital Clínico San Carlos. Universidad Complutense de Madrid, Madrid, Spain Find articles by Emilio Vargas 7 , Xavier Bonfill Cosp 
+Xavier Bonfill Cosp 
+8 Iberoamerican Cochrane Centre, Biomedical Research Institute Sant Pau (IIB Sant Pau), Universitat Autònoma de Barcelona, CIBER Epidemiología y Salud Pública (CIBERESP), Barcelona, Spain Find articles by Xavier Bonfill Cosp 8 Editor: Cochrane Vascular Group 
+Author information 
+
+Article notes 
+
+Copyright and License information 
+1 Iberoamerican Cochrane Centre, Biomedical Research Institute Sant Pau (IIB Sant Pau), CIBER Epidemiología y Salud Pública (CIBERESP), Barcelona, Spain 2 Department of Nephrology and Hypertension and Julius Center for Health Sciences and Primary Care, University Medical Center Utrecht, Utrecht, Netherlands 3 Cochrane Ecuador. Centro de Investigación en Salud Pública y Epidemiología Clínica (CISPEC). Facultad de Ciencias de la Salud Eugenio Espejo, Universidad Tecnológica Equinoccial, Quito, Ecuador 4 Preventive Medicine and Public Health, Vall Hebron University Hospital, Barcelona, Spain 5 Department of Public Health, Universidade Federal de Ciências da Saúde, Porto Alegre, Brazil 6 Angiology, Vascular and Endovascular Surgery, Universitary Hospital La Princesa, Madrid, Spain 7 Hospital Clínico San Carlos. Universidad Complutense de Madrid, Madrid, Spain 8 Iberoamerican Cochrane Centre, Biomedical Research Institute Sant Pau (IIB Sant Pau), Universitat Autònoma de Barcelona, CIBER Epidemiología y Salud Pública (CIBERESP), Barcelona, Spain ✉ 
+Corresponding author. 
+
+Collection date 2020. 
+Copyright © 2020 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd. PMC Copyright notice PMCID: PMC8094625 PMID: 33141449 This article is an update of " Phlebotonics for venous insufficiency " in volume 2016, CD003229. 
+Abstract 
+
+Background 
+
+Chronic venous insufficiency (CVI) is a condition in which veins are unable to transport blood unidirectionally towards the heart. CVI usually occurs in the lower limbs. It might result in considerable discomfort, with symptoms such as pain, itchiness and tiredness in the legs. Patients with CVI may also experience swelling and ulcers. Phlebotonics are a class of drugs often used to treat CVI. This is the second update of a review first published in 2005. 
+
+Objectives 
+
+To assess the efficacy and safety of phlebotonics administered orally or topically for treatment of signs and symptoms of lower extremity CVI. 
+
+Search methods 
+
+The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase, and CINAHL databases and the World Health Organization International Clinical Trials Registry Platform and Clinicaltrials.gov trials register up to 12 November 2019. We searched the reference lists of the articles retrieved by electronic searches for additional citations. We also contacted authors of unpublished studies. 
+
+Selection criteria 
+
+We included randomised, double‐blind, placebo‐controlled trials (RCTs) assessing the efficacy of phlebotonics (rutosides, hidrosmine, diosmine, calcium dobesilate, chromocarbe, Centella asiatica , disodium flavodate, French maritime pine bark extract, grape seed extract and aminaftone) in patients with CVI at any stage of the disease. 
+
+Data collection and analysis 
+
+Two review authors independently extracted data and assessed the quality of included RCTs. We estimated the effects of treatment by using risk ratios (RRs), mean differences (MDs) and standardized mean differences (SMDs), according to the outcome assessed. We calculated 95% confidence intervals (CIs) and percentage of heterogeneity (I 2 ). Outcomes of interest were oedema, quality of life (QoL), assessment of CVI and adverse events. We used GRADE criteria to assess the certainty of the evidence. 
+
+Main results 
+
+We identified three new studies for this update. In total, 69 RCTs of oral phlebotonics were included, but only 56 studies (7690 participants, mean age 50 years) provided quantifiable data for the efficacy analysis. These studies used different phlebotonics (28 on rutosides, 11 on hidrosmine and diosmine, 10 on calcium dobesilate, two on Centella asiatica , two on aminaftone, two on French maritime pine bark extract and one on grape seed extract). No studies evaluating topical phlebotonics, chromocarbe, naftazone or disodium flavodate fulfilled the inclusion criteria. 
+
+Moderate‐certainty evidence suggests that phlebotonics probably reduce oedema slightly in the lower legs, compared with placebo (RR 0.70, 95% CI 0.63 to 0.78; 13 studies; 1245 participants); and probably reduce ankle circumference (MD ‐4.27 mm, 95% CI ‐5.61 to ‐2.93 mm; 15 studies; 2010 participants). Moderate‐certainty evidence shows that phlebotonics probably make little or no difference in QoL compared with placebo (SMD ‐0.06, 95% CI ‐0.22 to 0.10; five studies; 1639 participants); and similarly, may have little or no effect on ulcer healing (RR 0.94, 95% CI 0.79 to 1.13; six studies; 461 participants; low‐certainty evidence). Thirty‐seven studies reported on adverse events. Pooled data suggest that phlebotonics probably increase adverse events slightly, compared to placebo (RR 1.14, 95% CI 1.02 to 1.27; 37 studies; 5789 participants; moderate‐certainty evidence). Gastrointestinal disorders were the most frequently reported adverse events. We downgraded our certainty in the evidence from 'high' to 'moderate' because of risk of bias concerns, and further to 'low' because of imprecision. 
+
+Authors' conclusions 
+
+There is moderate‐certainty evidence that phlebotonics probably reduce oedema slightly, compared to placebo; moderate‐certainty evidence of little or no difference in QoL; and low‐certainty evidence that these drugs do not influence ulcer healing. Moderate‐certainty evidence suggests that phlebotonics are probably associated with a higher risk of adverse events than placebo. Studies included in this systematic review provided only short‐term safety data; therefore, the medium‐ and long‐term safety of phlebotonics could not be estimated. Findings for specific groups of phlebotonics are limited due to small study numbers and heterogeneous results. Additional high‐quality RCTs focusing on clinically important outcomes are needed to improve the evidence base. 
+
+Plain language summary 
+
+Drugs to improve blood flow for people who have poor blood circulation in the veins of their legs 
+
+Background 
+
+In chronic venous insufficiency, veins of the lower limbs are unable to transport blood towards the heart. It might be caused by genetic factors, may occur after trauma, or may result from a blood clot. Poor movement of blood up the legs may cause swelling and puffiness, feelings of heaviness, tingling, cramps, pain, varicose veins and changes in skin pigmentation. If severe insufficient blood circulation occurs, ulcers and skin wasting can develop. Drugs such as natural flavonoids extracted from plants and similar synthetic products may improve blood circulation. These drugs are known collectively as venoactive drugs or phlebotonics. This review examined evidence from randomised controlled clinical trials comparing these drugs versus inactive treatment (placebo), generally given over one to three months. 
+
+Study characteristics and key results 
+
+We identified three new studies for this update. In total, 69 studies met the eligibility criteria for this review. However, we could only use 56 studies (7690 participants; mean age 50 years) in further analysis. 
+
+We compared the results and summarised the evidence from the studies. After doing so, we assessed how certain the evidence was. To do this, we considered factors such as the way studies were conducted, study sizes, and consistency of findings across studies. Based on our assessments, we categorised the evidence as potentially being of very low, low, moderate or high certainty. 
+
+Moderate‐certainty evidence from 13 studies (involving 1245 people) suggests that phlebotonics probably slightly reduce puffiness (oedema) compared with placebo. Moderate‐certainty evidence suggests that there is little or no difference in quality of life for people taking phlebotonics when compared with placebo. Low‐certainty evidence suggests there is little or no difference in the proportion of healed ulcers with phlebotonics, compared with placebo. Moderate‐certainty evidence from 37 studies (involving 5789 people) suggests that phlebotonics probably produce more side effects, especially gastrointestinal disorders. 
+
+Certainty of the evidence 
+
+All evidence was of moderate or low certainty. Starting from an initial assumption of high certainty, we downgraded the certainty of evidence by one level for each outcome because of the high risk of bias, primarily due to selective outcome reporting and incomplete outcome data. For the outcome of ulcer healing, we downgraded by an additional level due to statistical imprecision (small number of events). With moderate‐certainty evidence, we are moderately confident in the effect estimates for these outcomes. The true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different. With low‐certainty evidence, our confidence in the effect estimate for that outcome is limited. The true effect may be substantially different from the estimate of the effect. 
+
+How‐up‐to date is this review? 
+
+The evidence in this Cochrane Review is current to November 2019. 
+
+Summary of findings 
+
+Summary of findings 1. Do phlebotonics improve signs and symptoms of venous insufficiency when compared with placebo? 
+
+Phlebotonics compared with placebo for venous insufficiency 
+
+Patient or population: patients with venous insufficiency Settings: hospital and ambulatory settings Intervention: phlebotonics Comparison: placebo 
+
+Outcomes Anticipated absolute effects * Relative effect (95% CI) Number of participants (RCTs) Certainty of the evidence (GRADE) Comments 
+
+Risk with placebo Risk with phlebotonics 
+
+Oedema in the lower legs (dichotomous variable) Follow‐up: 1‐6 months 575 per 1000 403 per 1000 (362 to 449) RR 0.70 (0.63 to 0.78) 1245 (13 studies) ⊕⊕⊕⊝ Moderate a Phebotonics probably slightly reduce oedema in the lower limb compared to placebo 
+
+Oedema in the lower legs (ankle circumference, mm) Follow‐up: 1‐12 months ‐ Mean ankle circumference in the lower legs in the phlebotonic groups was 4.27 mm lower (5.61 to 2.93 lower) than in the placebo groups ‐ 2010 (15 studies) ⊕⊕⊕⊝ Moderate b Phlebotonics probably slightly reduce ankle perimeter circumference compared to placebo 
+
+Quality of life (CIVIQ and other questionnaires) Follow‐up: mean 2‐12 months ‐ The QoL in the phlebotonic groups was 0.06 SMD lower (0.22 lower to 0.1 higher) than in the placebo groups ‐ 1639 (5 studies) ⊕⊕⊕⊝ Moderate c Phebotonics probably make little or no difference to QoL compared with placebo 
+
+Ulcer healing (dichotomous variable) Follow‐up: 1‐12 months 381 per 1000 358 per 1000 (301 to 430) RR 0.94 (0.79 to 1.13) 461 (6 studies) ⊕⊕⊝⊝ Low d Phlebotonics may make little or no difference to ulcer healing compared to placebo 
+
+Adverse events Follow‐up: 1‐12 months 158 per 1000 180 per 1000 (161 to 200) RR 1.14 (1.02 to 1.27) 5789 (37 studies) ⊕⊕⊕⊝ Moderate e Phlebotonics probably slightly increase adverse events compared to placebo 
+
+* The risk in the intervention group (and its 95% confidence interval) is based on the assumed risk in the comparison group and the relative effect of the intervention (and its 95% CI). CI: confidence interval; CIVIQ : Chronic Venous Insufficiency International Questionnaire; QoL : quality of life; RCT : randomised controlled trial; RR: risk ratio 
+
+GRADE Working Group grades of evidence High certainty: we are very confident that the true effect lies close to that of the estimate of the effect. Moderate certainty: we are moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different. Low certainty: our confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the effect. Very low certainty: we have very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of effect. 
+Open in a new tab 
+a The certainty of the evidence was downgraded (1 level) to moderate because of overall risk of bias (10 studies had an unclear risk of bias and two had a high risk of bias) b The certainty of the evidence was downgraded (1 level) to moderate because of overall risk of bias (11 studies had an unclear risk of bias and one had a high risk of bias) c The certainty of the evidence was downgraded (1 level) to moderate because of overall risk of bias (one study had an unclear risk of bias and two had a high risk of bias) d The certainty of the evidence was downgraded (2 levels) to low because of overall risk of bias (four studies had an unclear risk of bias and two had a high risk of bias) and imprecision (low number of events) e The certainty of the evidence was downgraded (1 level) to moderate because of overall risk of bias (28 RCTs had unclear risk of bias and four RCTs had high risk of bias) 
+
+Background 
+
+Description of the condition 
+
+Chronic venous insufficiency (CVI) is a condition in which veins are unable to transport blood unidirectionally toward the heart with flow adapted to tissue drainage needs, temperature regulation and haemodynamic reserve, regardless of their position and activity. CVI first manifests as an increase in venous tension (venous hypertension, or high blood pressure in the veins) with or without reflux ( Kurz 1999 ). Depending on its cause, CVI can be congenital, primary (with undetermined cause) or secondary (post‐thrombotic, post‐traumatic or other). Depending on its pathophysiology, CVI can be related to occlusion (blocked veins), reflux or both. Finally, it might depend on superficial or deep venous systems or on perforator anomalies ( Porter 1995 ). 
+
+CVI is an important cause of discomfort and inability to work, and many people find it difficult to live with this condition. Its prevalence has not been clearly determined because available studies regarding this subject are few, and those that are available present limitations. Some studies do not cover the whole pathological spectrum and focus only on varicose veins or ulcers; others do not use standardized definitions of the illness and apply a variety of diagnostic criteria ( Nicolaides 2000 ). As a result, prevalence has been estimated at between 1% and 50% ( Evans 1999 ; Stanhope 1975 ; Van den Oever 1998 ). The Framingham Study showed an annual incidence of 2.6% among women and 1.9% among men ( Brand 1988 ). In a recent publication of the Edinburgh Vein Study, annual incidence of CVI was reported as 1% among the general population of the UK ( Robertson 2014 ). 
+
+Causes of CVI are unknown, although it has been associated with venous dilation, deformity and valvular venous incompetence. Trophic skin disorders and venous ulcers result from severe varicose illness ( Carpentier 2000 ). Varicose veins have a multi‐factorial origin related to advanced age and certain lifestyles (sedentary life), pregnancy, hereditary factors and obesity. Risk of ulcers may be increased by trauma and previous episodes of deep venous thrombosis (clinical or subclinical) ( Scott 1995 ). 
+
+Clinical manifestations of CVI differ according to stage of the illness and can include feelings of heaviness in the extremities, paraesthesia (tingling), cramps, pain, oedema (swellings), varicose veins, skin pigmentation, varicose sores and signs of skin atrophy (wasting). Symptoms are frequently related to extent of disease. Underlying venous disease (superficial, deep or both, with or without obstruction) has a major impact on both manifestations of the disease and response to treatment. Since 1994, criteria develop by the International Consensus Committee on Chronic Venous Disease have been used to define and classify CVI in a standardized fashion ( Porter 1995 ). According to this Consensus, clinical signs (C), aetiology (E), anatomical distribution (A) and physiological conditions (P) ("Clinical‐Etiology‐Anatomy‐Pathophysiology"; CEAP) are used to classify CVI ( Porter 1995 ). A later revision of the CEAP classification established a means of differentiating between chronic venous disorder (referring to all morphology and functional abnormalities of the venous system) and CVI (reserved for more advanced stages of the disease with oedema, skin changes or venous ulcers) ( Eklöf 2004 ). In parallel, a venous clinical severity score (ranging from none (0) to severe (3)) was established to assess pain, varicose veins, venous oedema, skin pigmentation, inflammation, induration, active ulcer (number, duration and size) and use of compression therapy ( Vasquez 2010 ). Recently, a new version of CEAP classification has been published ( Lurie 2020 ), in which Corona phlebectatica was added as a C4c clinical subclass, the modifier “r” introduced for recurrent varicose veins and recurrent venous ulcers and numeric descriptions of the venous segments replaced by their common abbreviations ( Lurie 2020 ). 
+
+Description of the intervention 
+
+Surgery, sclerotherapy and mechanical compression are generally the preferred treatments for CVI. However, pharmacological treatments or phlebotonics are often used because they are easy to administer, and because compliance with compressive treatments (such as elastic stockings) is often poor. 
+
+Phlebotonics represent a heterogeneous group of medications used to treat CVI. Most of these drugs are natural flavonoids extracted from plants. Synthetic products with flavonoid‐like properties are also used to treat venous disorders. In the Anatomical Therapeutic Chemical (ATC) system, phlebotonics are classified as vasoprotective agents ( ATC 2015 ). Within this classification system, active substances are divided into different groups according to the organ or system on which they act and their therapeutic, pharmacological and chemical properties. Phlebotonics are known as venoactive drugs whose mechanism of action is not scientifically well established despite the availability of numerous studies examining their pharmacological and clinical properties. These medications are associated with effects on macrocirculation (e.g. they may improve venous tone) ( Tsouderos 1991 ) and on microcirculatory parameters (e.g. they may decrease capillary hyperpermeability) ( Behar 1988 ). 
+
+Why it is important to do this review 
+
+Lower limb CVI affects a predominantly adult population and it is a frequent cause for a referral from primary to secondary care ( Venous Forum 2011 ). Although phlebotonics are commercialised in many countries, in others they are not widely available. In some countries, such as Spain, for certain phlebotonics (calcium dobesilate, chromocarbe and naftazone) the CVI indication has been withdrawn, and for several other phlebotonics, such as aminaftone, diosmine, hidrosmine, escin and some rutosides, conditions of use during exacerbations of CVI have been limited to two or three months by the Spanish Ministry of Health ( AEM 2002 ). 
+
+Controversy surrounds the clinical relevance of the efficacy and benefit‐risk balance of phlebotonics. Case‐control studies have found that risk of agranulocytosis (reduced numbers of white blood cells, mainly neutrophils) is associated with some phlebotonics ( Ibañez 2000 ; Ibáñez 2005 ; Kaufman 1991 ). As efficacy is not well defined and serious harmful effects have been associated with phlebotonics, an evaluation of available evidence is needed. 
+
+Objectives 
+
+To assess the efficacy and safety of phlebotonics administered orally or topically for treatment of signs and symptoms of lower extremity CVI. 
+
+Methods 
+
+Criteria for considering studies for this review 
+Types of studies 
+We included randomised, double‐blind, controlled trials assessing the efficacy and/or safety of phlebotonics compared with placebo in patients with chronic venous insufficiency (CVI) at any stage of the disease. We did not include studies which were not RCTs or double‐blind. We did not choose specific diagnostic classifications of CVI a priori because most of the studies were carried out before 1994, before the international diagnostic consensus of CVI. Therefore, we included RCTs with different diagnostic criteria. We included studies in which use of compression measures (support tights) was similar across groups. 
+Types of participants 
+We included both male and female participants who were 18 years of age and older, suffering from any type of CVI. CVI could be diagnosed according to explicit clinical criteria and/or by objective instruments. Participant background, ethnicity and medical co‐morbidities at the beginning of the study did not influence the decision to include or exclude the study. We excluded studies that included participants with active thrombophlebitis and those including pregnant women. 
+Types of interventions 
+We considered the following interventions to treat CVI acceptable for inclusion: treatments including venoactive drugs or phlebotonics, administered orally or topically, at any dosage and independently of the duration of treatment, compared with placebo. We excluded studies that compared phlebotonics among themselves or with any other therapeutic method (i.e. support tights or surgery). 
+
+Natural products 
+
+Flavonoids: rutoside, French maritime pine bark extract (also known as pycnogenol), grape seed extract, diosmine and hidrosmine, disodium flavodate 
+
+Saponosides: Centella asiatica 
+
+Synthetic products 
+
+Calcium dobesilate, naftazone, aminaftone, chromocarbe 
+
+We excluded escin (horse chestnut seed extract), as it is covered in another Cochrane Review ( Pittler 2012 ). 
+
+Pentoxifylline is classified as a peripheral vasodilator, not as a vasoprotective agent ( ATC 2015 ); therefore, we excluded it from this review. 
+Types of outcome measures 
+We included studies that assessed any of the following outcome measures. 
+Primary outcomes 
+
+Oedema in the lower limb measured by the dichotomous variable 'oedema' and the continuous variables 'ankle perimeter circumference' and 'volume of the leg' 
+
+Specific quality of life (QoL) scales (e.g. Chronic Venous Insufficiency International Questionnaire (CIVIQ)) 
+
+Secondary outcomes 
+
+Assessment of CVI: objective signs 
+
+Skin manifestations including venous ulcer healing and trophic alterations (e.g. lipodermatosclerosis (hardening of the skin that may cause red/brown pigmentation and is accompanied by wasting of subcutaneous fat), telangiectasia (tiny blood vessels cause threadlike red lines or patterns on the skin), reticular veins (dilated veins that show as a net‐like pattern on the skin), varicose veins (permanently dilated veins) 
+
+Assessment of CVI: subjective symptoms 
+
+Pain in the lower legs 
+
+Cramps in the lower legs 
+
+Restless legs 
+
+Itching in the lower legs 
+
+Feeling of heaviness in the lower legs 
+
+Swelling in the lower legs 
+
+Paraesthesias (abnormal sensations, such as prickling, burning, tingling) in the lower legs 
+
+Participant satisfaction 
+
+Adverse events 
+
+Adverse reactions experienced by participants during the trial, as reported by questionnaire or related by participants and specified within the publication 
+
+Search methods for identification of studies 
+Electronic searches 
+For this update, the Cochrane Vascular Information Specialist conducted systematic searches of the following databases for randomised controlled trials and controlled clinical trials without language, publication year or publication status restrictions: 
+
+the Cochrane Vascular Specialised Register via the Cochrane Register of Studies (CRS‐Web searched on 12 November 2019); 
+
+the Cochrane Central Register of Controlled Trials (CENTRAL) Cochrane Register of Studies Online (CRSO 2019, issue 10); 
+
+MEDLINE (Ovid MEDLINE® Epub Ahead of Print, In‐Process & Other Non‐Indexed Citations, Ovid MEDLINE® Daily and Ovid MEDLINE®) (searched from 1 January 2017 to 12 November 2019); 
+
+Embase Ovid (searched from 1 January 2017 to 12 November 2019); 
+
+CINAHL Ebsco (searched from 1 January 2017 to 12 November 2019); and 
+
+AMED Ovid (searched from 1 January 2017 to 12 November 2019). 
+
+The Information Specialist modelled search strategies for other databases on the search strategy designed for CENTRAL. Where appropriate, strategies were combined with adaptations of the highly sensitive search strategy designed by the Cochrane Collaboration for identifying randomised controlled trials and controlled clinical trials (as described in the Cochrane Handbook for Systematic Reviews of Interventions Chapter 6, Lefebvre 2011 ). Search strategies for major databases are provided in Appendix 1 . 
+
+The Information Specialist searched the following trials registries on 12 November 2019: 
+
+the World Health Organization International Clinical Trials Registry Platform (who.int/trialsearch); 
+
+ClinicalTrials.gov (clinicaltrials.gov). 
+
+Searching other resources 
+For this update, we searched the reference lists of articles retrieved by electronic searches for additional citations. 
+
+Data collection and analysis 
+Selection of studies 
+For this update, two review authors (RV and DS) independently assessed the eligibility of new studies identified by the searches. A third review author (MMZ) helped to resolve disagreements by discussion. 
+Data extraction and management 
+For this update, two review authors (RV and MMZ) independently extracted data from new studies and entered them to a previously tested standardized form. A consensus between reviewers were reached if any data extraction discrepancies occurred. We collected information including characteristics of study participants, characteristics of intervention and control groups and outcome characteristics of every group of participants. For cross‐over studies, we extracted and analyzed only data related to the first period of treatment. 
+Assessment of risk of bias in included studies 
+For this update, two review authors (RV and MJMZ) independently assessed the risk of bias of the newly included studies. A consensus between review authors was reached by discussion when there was any disagreement. We specifically assessed the randomisation method (sequence generation and allocation concealment); blinding of participants, caregivers/study researchers and outcome assessors to the intervention; whether outcome data were incomplete; and presence of selection bias. Once this information was gathered, review authors classified each study into one of three levels of risk of bias: low, unclear or high, based on the criteria specified in the Cochrane Handbook for Systematic Reviews of Interventions ( Higgins 2011 ). 
+Measures of treatment effect 
+We estimated effects of treatment with phlebotonics by using risk ratios (RRs) for dichotomous variables and mean differences (MDs) or standardized mean differences (SMDs) for continuous variables, along with their corresponding 95% confidence intervals (CIs). We calculated SMDs when studies used different instruments to measure the same variable. 
+Unit of analysis issues 
+We took the unit of analysis to be the individual participant. For cross‐over studies, we extracted and analyzed only data related to the first period of treatment. 
+Dealing with missing data 
+We analyzed dichotomous variables by applying the intention‐to‐treat (ITT) principle to analyze every individual in the randomly assigned treatment group regardless of whether individuals completed treatment or withdrew prematurely from the study. We included in the ITT analysis only studies that provided data from all randomised participants, or that stated the number of participants lost during follow‐up. We numerically imputed missing values due to withdrawal of participants or loss to follow‐up as therapeutic failures in both comparative groups. For continuous variables, we analyzed data as provided by study authors, either per protocol or as ITT values. 
+Assessment of heterogeneity 
+We carried out an analysis to detect the presence of heterogeneity by using the I 2 statistic before obtaining global effect estimators. The I 2 statistic describes the percentage of total variation across studies that is due to heterogeneity rather than to sampling error ( Deeks 2011 ). When statistical heterogeneity was high (I 2 > 75%), we did not pool studies. For levels of I 2 less than 50%, we applied a fixed‐effect model; for levels of I 2 greater than 50% but less than 75%, we applied a random‐effects model ( DerSimonian 1986 ). 
+Assessment of reporting biases 
+We constructed a funnel plot to assess whether the outcome of oedema (dichotomous variable) was subject to publication bias ( Figure 1 ). 
+1. 
+
+Open in a new tab 
+Funnel plot of comparison: 1 Phlebotonics vs placebo, outcome: 1.1 Oedema in the lower legs (dichotomous variable). 
+Data synthesis 
+We obtained data from the included studies for variables evaluated at the end of treatment. In addition, we obtained data from measures of change when no significant baseline differences were evident between compared groups. We then pooled these together with other similar continuous outcomes. 
+
+We split the outcomes of variables measured by ordinal categorical scales into two groups of response. We considered one group as showing success (no signs or symptoms or mild manifestations) and the other as showing failure (moderate, severe or very severe persistence of signs and symptoms). 
+Subgroup analysis and investigation of heterogeneity 
+We carried out subgroup analyses in addition to the overall analysis of phlebotonics. These included looking at the effects of the following phlebotonics: rutosides, hidrosmine, diosmine, calcium dobesilate, disodium flavodate, grape seed extract, French maritime pine bark extract, chromocarbe and aminaftone. 
+Sensitivity analysis 
+We performed sensitivity analyses to assess the influence on data of assumptions and decisions of review authors during the review process. We re‐analysed data by: 
+
+excluding studies that used compression measures; 
+
+excluding unpublished studies; and 
+
+excluding studies with high or unclear risk of bias in at least one domain. 
+
+Summary of findings and assessment of certainty of the evidence 
+We created one 'Summary of findings' table to present the main findings for 'Phlebotonics compared with placebo for venous insufficiency' using GRADE profiler software ( GRADEpro 2008 ). See Table 1 . We used the principles of the GRADE system to assess the certainty of the body of evidence associated with the main outcomes listed below. The GRADE approach appraises the certainty of a body of evidence according to the extent to which one can be confident that an estimate of effect or association reflects the item being assessed. Evaluation of the certainty of a body of evidence considers within‐study risk of bias, indirectness of the evidence, inconsistency (heterogeneity in the data), imprecision (precision of effect estimates) and publication bias ( Schünemann 2011 ). 
+
+Two review authors (DS and RV) independently assessed the certainty of the body of evidence for the following outcomes. 
+
+Oedema in the lower legs (dichotomous variable) 
+
+Oedema in the lower legs (circumference mm) 
+
+QoL 
+
+Ulcer healing 
+
+Adverse events 
+
+Results 
+
+Description of studies 
+Results of the search 
+For this update we identified three new included studies ( NCT01848210 ; Rabe 2015 ; Rabe 2016 ); two new ongoing studies ( Barattini 2019 ; NCT03833024 ); and two new studies were excluded ( EudraCT2009‐014681‐25 ; ISRCTN54360155 ). See Figure 2 . Details of all studies are provided in the Characteristics of included studies , Characteristics of ongoing studies and Characteristics of excluded studies tables. 
+2. 
+
+Open in a new tab 
+Study flow diagram. 
+Included studies 
+For this update, we identified three new included studies ( NCT01848210 ; Rabe 2015 ; Rabe 2016 ). In total with those identified in earlier versions, we included 69 studies. See Characteristics of included studies tables. 
+
+Most studies were published in English, but four were published in German ( Biland 1982 ; Kiesewetter 1997 ; Koscielnny 1996 ; Pedersen 1992 ), seven in French ( Cauwenberge 1978 ; Chassignolle 1994 ; Planchon 1990 ; Thebaut 1985 ; Vin 1994 ; Welch 1985 ; Zucarelli 1987 ), four in Spanish ( Flota‐Cervera 2008 ; Klüken 1971 ; Marinello 2002 ; Serralde 1990 ), three in Italian ( Allegra 1981 ; Lazzarini 1982 ; Pecchi 1990 ), and one in Spanish, French and Dutch ( Padrós 1972 ). 
+
+Of the 69 included double‐blind, placebo‐controlled clinical trials, we did not include 13 studies in the efficacy analysis. Of these, 10 studies corresponded to the rutoside group ( Bergqvist 1981 ; Cloarec 1994 ; Jongste 1986 ; Mann 1981 ; Nocker 1990 ; Prerovsky 1972 ; Renton 1994 ; Rose 1970 ; Rudofsky 1989 ; Sentou 1984 ), two corresponded to calcium dobesilate ( Padrós 1972 ; Pecchi 1990 ) and another corresponded to French bark pine extract ( Petrassi 2000 ). 
+
+We excluded these studies from the efficacy analysis for the following reasons. 
+
+Only mean data were provided without standard deviations (SDs) or standard errors (SEs) ( Sentou 1984 ). 
+
+Medians were provided instead of means ( Renton 1994 ). 
+
+Outcomes were reported by graph only ( Nocker 1990 ; Rose 1970 ; Rudofsky 1989 ). 
+
+First period data were not provided in studies of cross‐over design ( Padrós 1972 ; Prerovsky 1972 ). 
+
+No data were provided for any variable ( Bergqvist 1981 ; Cloarec 1994 ; Jongste 1986 ). 
+
+Measured changes were reported when significant differences in baseline were noted between compared groups ( Mann 1981 ; Petrassi 2000 ). 
+
+A quasi‐randomisation method was used in which treatments were alternatively allocated depending on participants' order of arrival ( Pecchi 1990 ). 
+
+At baseline, a significant imbalance in the ulcer area was evident between groups (1130 mm 2 in the rutoside group vs 430 mm 2 in the placebo group; P = 0.039) ( Mann 1981 ). 
+
+Of the 56 studies with oral phlebotonics included in the efficacy analysis, studied phlebotonics corresponded to 28 studies of rutosides ( Balmer 1980 ; Burnand 1989 ; Cloarec 1996 ; Cauwenberge 1972 ; Cauwenberge 1978 ; Cesarone 2002 ; Cornu‐Thenard 1985 ; Diebschlag 1994 ; Ihme 1996 ; Jongste 1986 ; Jongste 1989 ; Kiesewetter 1997 ; Koscielnny 1996 ; Klüken 1971 ; Kriner 1985 ; Languillat 1988 ; Laurent 1988 ; MacLennan 1994 ; NCT01848210 ; Parrado 1999 ; Pedersen 1992 ; Pulvertaft 1983 ; Schultz‐Ehrenburg 1993 ; Serralde 1990 ; Unkauf 1996 ; Vanscheidt 2002a ; Vanscheidt 2002b ; Vin 1994 ), 11 of hidrosmine and diosmine ( Chassignolle 1994 ; Danielsson 2002 ; Dominguez 1992 ; Fermoso 1992 ; Gilly 1994 ; Guilhou 1997 ; Planchon 1990 ; Rabe 2015 ; Thebaut 1985 ; Welch 1985 ; Zucarelli 1987 ), 10 of calcium dobesilate ( Casley‐Smith 1988 ; DOBESILATO500/2 ; Flota‐Cervera 2008 ; Hachen 1982 ; Labs 2004 ; Marinello 2002 ; Martinez‐Zapata 2008 ; Rabe 2011 ; Rabe 2016 ; Widmer 1990 ), two of Centella asiatica ( Allegra 1981 ; Pointel 1986 ), two of aminaftone ( Belczak 2014 ; Lazzarini 1982 ), two of French maritime pine bark extract ( Arcangeli 2000 ; Petrassi 2000 ) and one of grape seed extract ( Thebaut 1985 ). No studies using topical phlebotonics or chromocarbe or naftazone or disodium flavodate fulfilled the inclusion criteria. Length of treatment and participant follow‐up ranged from 28 days to four months, except for three studies, in which follow‐up lasted six months or more ( DOBESILATO500/2 ; MacLennan 1994 ; Martinez‐Zapata 2008 ). 
+
+Overall, we included 7690 participants in the meta‐analysis; 83% were female and 17% were male; mean age was 50 years (range 32 to 62 years). The mean number of participants included per clinical trial was 150 (range 20 to 1137). All participants met the respective CVI criteria of every study, although we noted variation between studies in degree of progression to CVI, as well as in diagnostic classification criteria applied. Only 22% of studies reported the diagnostic classification used. Among studies that did report on the diagnostic classification of CVI, the CEAP classification was used most often ( Belczak 2014 ; Danielsson 2002 ; DOBESILATO500/2 ; Labs 2004 ; Marinello 2002 ; Martinez‐Zapata 2008 ; Rabe 2011 ; Rabe 2015 ; Rabe 2016 ; Vanscheidt 2002a ; Vanscheidt 2002b ), followed by Widmer's classification ( Casley‐Smith 1988 ; Cloarec 1996 ; Koscielnny 1996 ; Parrado 1999 ; Unkauf 1996 ). Wert's was the only other classification used ( Kiesewetter 1997 ). 
+
+Differences in severity of disease were observed: some studies were performed with participants at early and symptomatic CVI stages ( Cornu‐Thenard 1985 ; Danielsson 2002 ; Gilly 1994 ; Hachen 1982 ; Thebaut 1985 ), and others included participants at advanced stages because of long progression of the disease or the presence of venous ulcers ( Casley‐Smith 1988 ; DOBESILATO500/2 ; Guilhou 1997 ; Lazzarini 1982 ; Marinello 2002 ; Planchon 1990 ; Schultz‐Ehrenburg 1993 ; Vanscheidt 2002a ). However, most studies included participants at moderate CVI stages with oedema, skin pigmentation, varicose veins and post‐thrombotic syndromes. 
+
+Ten studies specified that investigators used additional compression therapy ( DOBESILATO500/2 ; Guilhou 1997 ; Laurent 1988 ; Lazzarini 1982 ; Marinello 2002 ; Martinez‐Zapata 2008 ; Planchon 1990 ; Rabe 2011 ; Schultz‐Ehrenburg 1993 ; Zucarelli 1987 ). 
+
+Eleven studies used a visual analogue scale (VAS) to measure subjective variables ( Alterkamper 1987 ; Cesarone 2002 ; DOBESILATO500/2 ; Labs 2004 ; Martinez‐Zapata 2008 ; Rabe 2011 ; Rabe 2015 ; Unkauf 1996 ; Vanscheidt 2002b ; Widmer 1990 ; Zucarelli 1987 ). Other studies used ordinal categorical scales with a scoring system from ‐3 to +1 ( Hachen 1982 ), ‐1 to + 1 ( Casley‐Smith 1988 ), 0 to 1 ( Ihme 1996 ), 0 to 2 ( Biland 1982 ; Ihme 1996 ; Kiesewetter 1997 ), 0 to 3 ( Allegra 1981 ; Arcangeli 2000 ; Cloarec 1996 ; Cornu‐Thenard 1985 ; Danielsson 2002 ; Diebschlag 1994 ; Dominguez 1992 ; Gilly 1994 ; Jongste 1989 ; Languillat 1988 ; Laurent 1988 ; Lazzarini 1982 ; Parrado 1999 ; Planchon 1990 ; Pointel 1986 ; Pulvertaft 1983 ; Serralde 1990 ; Thebaut 1985 ; Tsouderos 1989 ; Welch 1985 ), 0 to 4 ( Balmer 1980 ; Chassignolle 1994 ; Fermoso 1992 ; Flota‐Cervera 2008 ), 0 to 5 ( NCT01848210 ; Rabe 2011 ), 0 to 7 ( Labs 2004 ) or 0 to 9 ( Dominguez 1992 ). Likewise, some of these scales were used to evaluate signs or objective variables such as oedema or trophic disorders. Methods used to measure oedema included metric tape to measure ankle or calf circumference and plethysmographic values (used in most studies) to determine leg volume. 
+Excluded studies 
+For this update, we identified two new studies that were excluded ( EudraCT2009‐014681‐25 ; ISRCTN54360155 ). Four previously excluded studies were also identified by the search ( Belczak 2014 ; Kiesewetter 1997 ; Prerovsky 1972 ; NCT01532882 ), making a total of 104 studies excluded for a variety of reasons (see Characteristics of excluded studies for details). We summarise the exclusion details below. 
+
+We excluded 58 studies because the intervention used by researchers was not included in this Cochrane Review ( Akbulut 2010 ; Bacci 2003 ; Bastide 1976 ; Batchvarova 1989a ; Behar 1993 ; Bello 1990 ; Bento 2006 ; Berson 1978 ; Bohm 1989 ; Bolliger 1972 ; Bosse 1985 ; Brami 1983 ; Carstens 1985 ; Cataldi 2001 ; Cesarone 2001b ; Chiummariello 2009 ; Cospite 1996 ; de Parades 1990 ; Delacroix 1981 ; Delecluse 1991 ; Dustmann 1984 ; Erdlen 1989 ; Erler 1991 ; EudraCT2009‐014681‐25 ; Henriet 1995 ; Horvath 1985 ; Janssens 1999a ; Kiesewetter 2000 ; Koltringer 1993 ; Krähenbühl 1975 ; Krcílek 1973 ; Languillat 1988b ; Marastoni 1982 ; Monteil‐Seurin 1993 ; Morales 1993 ; NCT02191163 ; NCT02191254 ; NCT02191280 ; Neumann‐Mangoldt 1979 ; Nill 1970 ; Ottillinger 2001 ; Paciaroni 1982 ; Partsch 1981 ; Paul 1983 ; Pauschinger 1987 ; Pointel 1987b ; Pokrovskii 2005 ; Rabe 2011b ; Riccioni 2004 ; Sanctis 2001 ; Steiner 1990 ; Steiner 1992 ; Topalov 1990 ; Turio 2000 ; ISRCTN54360155 ; Weindorf 1987 ; Widmer 1972 ; Zuccarelli 1996 ). 
+
+We excluded 30 studies because researchers assessed no clinical endpoints or reported only outcomes not included in this Cochrane Review ( Androulakis 1989 ; Auteri 1990 ; Belcaro 1995 ; Belcaro 2008 ; Boisseau 1995 ; Bort 1995 ; Cesarone 1992 ; Cesarone 1994 ; Cesarone 2001 ; Cesarone 2001c ; Cesarone 2002b ; Chant 1973 ; Clemens 1986 ; Duchene 1988 ; Forconi 1977 ; Gonzalez‐Fajardo 1990 ; Incandela 1995 ; Incandela 1996 ; Janssens 1999 ; Kalus 2004 ; Kostering 1985 ; Languillat 1989 ; Le Dévéhat 1989 ; Le Dévéhat 1997 ; Naser‐Hijazi 2004 ; Neumann 1988 ; Neumann 1990 ; Questel 1983 ; Roztocil 1977 ; Seydewitz 1992 ). 
+
+We excluded 16 studies because they were not double‐blinded ( Belcaro 1989 ; Blume 1996 ; Cesarone 2001a ; Cesarone 2010 ; De Anna 1989 ; De Sanctis 2001 ; Frausini 1985 ; Glinski 1999 ; Granger 1995 ; Incandela 2001 ; Incandela 2002 ; Menyhei 1994 ; NCT01654016 ; Petruzzellis 2002 ; Roztocil 2003 ; Steru 1988 ). 
+
+Ongoing studies 
+For this update, we identified two new ongoing studies ( Barattini 2019 ; NCT03833024 ). This brings the total number of ongoing studies included to four ( Barattini 2019 ; ISRCTN18841175 ; NCT01532882 ; NCT03833024 ). Details of these can be found in the Characteristics of ongoing studies table. 
+
+Risk of bias in included studies 
+
+Overall, only four studies ( Labs 2004 ; Martinez‐Zapata 2008 ; Rabe 2011 ; Vanscheidt 2002a ) were at low risk of bias (see Characteristics of included studies , Figure 3 and Figure 4 ). 
+3. 
+
+Open in a new tab 
+Methodological quality graph: review authors' judgements about each methodological quality item presented as percentages across all included studies. 
+4. 
+
+Open in a new tab 
+Methodological quality summary: review authors' judgements about each methodological quality item for each included study. 
+Allocation 
+Of the 69 studies included, 19 (28%) submitted details on the randomisation process and were assessed as being at low risk (see Figure 4 and Characteristics of included studies ). The remaining studies were all judged to be at an unclear risk of bias. 
+
+Only 12 (17%) studies provided an accurate explanation of the allocation concealment process. Two used the sealed envelope method ( Danielsson 2002 ; Pedersen 1992 ), four used indistinguishable number packaging ( Biland 1982 ; Padrós 1972 ; Rabe 2011 ; Rose 1970 ), one used randomised numbered bottles provided by an external investigator ( Belczak 2014 ), two used allocation concealment by direct phone calls ( DOBESILATO500/2 ; Martinez‐Zapata 2008 ), and the remaining three studies used computerised random assignment ( Jongste 1989 ; Labs 2004 ; Vanscheidt 2002a ). 
+Blinding 
+Of the 69 studies included, 41 (59%) reported that the placebo used was identical to the active treatment; thus participants, study researchers and outcome assessors were blinded to the intervention and these were judged to have a low risk of bias. The other 28 studies did not mention whether placebo had identical characteristics to those of the active drug and so were at an unclear risk of bias (see Figure 4 and Characteristics of included studies ). 
+Incomplete outcome data 
+Of the 69 studies included, 52 (75%) reported participant withdrawals, and thus were at low risk of bias. The percentage of withdrawn participants ranged from 0% to 42.5% (see Characteristics of included studies ). Only eight (12%) studies included in the efficacy analysis stated that investigators carried out an ITT analysis ( Dominguez 1992 ; Guilhou 1997 ; Ihme 1996 ; Martinez‐Zapata 2008 ; Rabe 2011 ; Rabe 2016 ; Unkauf 1996 ; Vanscheidt 2002a ). Seven studies had high risk of bias in this domain ( Cauwenberge 1978 ; DOBESILATO500/2 ; Mann 1981 ; Rabe 2016 ; Rose 1970 ; Sentou 1984 ; Vanscheidt 2002b ): four described an important percentage of losses (42.5% Cauwenberge 1978 ; 18% Mann 1981 ; 39% Rose 1970 ; 34% Vanscheidt 2002b ), one interrupted recruitment because financial support was interrupted ( DOBESILATO500/2 ) and one did not specify the number of participants included ( Sentou 1984 ). In the Rabe 2016 study, 14.8% of the randomised participants were lost during follow‐up and major protocol violations were reported for 42.4% of the randomised participants. Ten studies were judged to be at unclear risk of bias because the reasons for dropouts ( Cauwenberge 1972 ), or the number of dropouts, were not provided ( Cornu‐Thenard 1985 ; Kiesewetter 1997 ; Klüken 1971 ; Kriner 1985 ; Lazzarini 1982 ; Nocker 1990 ; Padrós 1972 ; Pedersen 1992 ), or the standard deviation was lacking in the results ( Thebaut 1985 ). 
+Selective reporting 
+Of the 69 studies included, 57 (84%) reported all outcomes specified in the methods section and were judged as being at low risk of reporting bias. We evaluated seven studies as having high risk of selective reporting bias because we noted differences between outcomes reported in the methods and results sections ( Cloarec 1994 ; Jongste 1986 ; Jongste 1989 ; Mann 1981 ; Rabe 2015 ), and because data before the cross‐over were not reported ( Padrós 1972 ; Rose 1970 ). One study was interrupted, and results of this study were not published ( DOBESILATO500/2 ). Lazzarini 1982 provided no information about adverse events. Two studies were judged to be at unclear risk of reporting bias because characteristics of participants were not provided (( Allegra 1981 ) and outcomes were not reported in methods and neither a protocol was published ( Klüken 1971 ). 
+
+Figure 1 shows that all studies, except one ( Casley‐Smith 1988 ), are located symmetrically around the effect measure at the top of the pyramid, indicating highly precise results ( Cauwenberge 1972 ; Cornu‐Thenard 1985 ; Kiesewetter 1997 ; Klüken 1971 ; Kriner 1985 ; Lazzarini 1982 ; Nocker 1990 ; Padrós 1972 ; Pedersen 1992 ; Thebaut 1985 ). Apart from one imprecise study favouring phlebotonics, no small or heterogeneous studies provided results favouring placebo or phlebotonics ( Casley‐Smith 1988 ). 
+Other potential sources of bias 
+No other potential sources of bias were detected. 
+
+Effects of interventions 
+
+See: Table 1 
+
+See Table 1 for the main comparison. Results of all analyzed outcomes are specified in an additional Table 2 . Results of outcomes analyzed by active agent (aminaftone, calcium dobesilate, Centella asiatica , diosmine and hidrosmine, French maritime pine bark extract, grape seed extract and rutosides) are specified in Table 3 ; Table 4 ; Table 5 ; Table 6 ; Table 7 ; Table 8 ; and Table 9 , respectively. 
+1. Results of all outcomes analysed (all phlebotonics). 
+Variables Dichotomous Continuous 
+
+Oedema RR 0.70 (0.63 to 0.78) ‐ 
+
+Oedema (mm) ‐ MD ‐4.27 (‐5.61 to ‐2.93) 
+
+Oedema (volume) ‐ SMD ‐0.24 (‐0.33 to ‐0.15) 
+
+Ulcer cured NS ‐ 
+
+Trophic disorders RR 0.87 (0.81 to 0.95) ‐ 
+
+Pain ‐ SMD ‐0.35 (‐0.54, ‐0.17) 
+
+Cramps RR 0.72 (0.58 to 0.89) ‐ 
+
+Restless legs RR 0.81 (0.72 to 0.91) ‐ 
+
+Itching ‐ ‐ 
+
+Heaviness ‐ ‐ 
+
+Swelling RR 0.63 (0.50 to 0.80) ‐ 
+
+Paraesthesia RR 0.67 (0.50 to 0.88) NS 
+
+Quality of life ‐ NS 
+
+Global assessment by the participant ‐ ‐ 
+
+Adverse events RR 1.14 (1.02 to 1.27) ‐ 
+
+Note: No measures of effect are specified when I 2 was > 75% for the subgroup 
+Open in a new tab 
+RR: risk ratio MD: mean difference NS: non‐significant RR: risk ratio SMD: standardized mean difference 
+2. Results by pharmacological group: aminaftone. 
+Variables Dichotomous Continous 
+
+Oedema RR 0.53 (0.28 to 0.99) SMD ‐0.17 (‐0.61 to 0.28) 
+
+Ulcer cured NS ‐ 
+
+Trophic disorder NS ‐ 
+
+Pain RR 0.43 (0.23 to 0.79) ‐ 
+
+Cramps RR 0.56 (0.31 to 0.99) ‐ 
+
+Itching RR 0.53 (0.31 to 0.91) ‐ 
+
+Heaviness RR 0.32 (0.17 to 0.60) ‐ 
+
+Quality of live ‐ MD ‐10.00 (‐17.01 to ‐2.99) 
+
+Adverse events NS ‐ 
+
+Note: Only 1 study was analyzed 
+Open in a new tab 
+MD: mean difference NS: non‐significant RR: risk ratio SMD: standardized mean difference 
+3. Results by pharmacological group: calcium dobesilate. 
+Variables Dichotomous Continuous 
+
+Oedema ‐ ‐ 
+
+Oedema (mm) ‐ NS 
+
+Oedema (volume) ‐ SMD ‐0.38 (‐0.51 to ‐0.24) 
+
+Ulcer cured NS ‐ 
+
+Pain RR 0.53 (0.35 to 0.82) NS 
+
+Cramps RR 0.65 (0.50 to 0.84) ‐ 
+
+Restless legs RR 0.73 (0.59 to 0.91) NS 
+
+Itching ‐ NS 
+
+Heaviness NS NS 
+
+Swelling RR 0.19 (0.08 to 0.41) NS 
+
+Paraesthesia NS ‐ 
+
+Quality of life ‐ NS 
+
+Global assessment by the participant ‐ SMD ‐0.52 (‐0.71 to ‐0.33) 
+
+Adverse events RR 1.22 (1.0 to 1.49) ‐ 
+
+Note: No measures of effect are specified when I 2 was > 75% for the subgroup 
+Open in a new tab 
+NS: non‐significant RR: risk ratio SMD: standardized mean difference 
+4. Results by pharmacological group: Centella asiatica . 
+Variables Dichotomous Continuous 
+
+Heaviness NS ‐ 
+
+Global assessment by the participant RR 0.28 (0.14 to 0.57) ‐ 
+
+Adverse events NS ‐ 
+
+Note: Only 1 study was analyzed 
+Open in a new tab 
+NS: non‐significant RR: risk ratio 
+5. Results by pharmacological group: diosmine, hidrosmine. 
+Variables Dichotomous Continuous 
+
+Oedema RR 0.63 (0.46 to 0.86) ‐ 
+
+Oedema (mm) ‐ MD ‐5.98 (‐7.78 to ‐4.18) 
+
+Ulcer cured NS ‐ 
+
+Trophic disorder RR 0.87 (0.81 to 0.94) ‐ 
+
+Pain NS SMD ‐0.23 (‐0.41 to ‐0.05) 
+
+Cramps RR 0.83 (0.70 to 0.98) SMD ‐0.46 (‐0.78 to ‐0.14) 
+
+Restless legs NS ‐ 
+
+Itching NS ‐ 
+
+Heaviness NS SMD ‐0.69 (‐1.02 to ‐0.36) 
+
+Swelling RR 0.70 (0.52 to 0.94) SMD ‐0.92 (‐1.26 to ‐0.58) 
+
+Paraesthesia NS NS 
+
+Quality of life ‐ NS 
+
+Global assessment by the participant ‐ SMD ‐0.81 (‐1.14 to ‐0.47) 
+
+Adverse events NS ‐ 
+
+Note: No measures of effect are specified when I 2 was > 75% for the subgroup 
+Open in a new tab 
+MD: mean difference NS: non‐significant RR: risk ratio SMD: standardized mean difference 
+6. Results by pharmacological group: French maritime pine bark extract. 
+Variables Dichotomous Continuous 
+
+Pain RR 0.66 (0.48 to 0.91) SMD ‐1.39 (‐2.09 to ‐0.69) 
+
+Heaviness NS SMD ‐1.50 (‐2.21 to ‐0.79) 
+
+Swelling NS SMD ‐1.65 (‐2.38 to ‐0.92) 
+
+Note: Only 1 study was analyzed 
+Open in a new tab 
+NS: non‐significant RR: risk ratio SMD: standardized mean difference 
+7. Results by pharmacological group: grape seed extract. 
+Variables Dichotomous Continuous 
+
+Oedema NS ‐ 
+
+Adverse events NS NS 
+
+Note: Only 1 study was analyzed 
+Open in a new tab 
+NS: non‐significant 
+8. Results by pharmacological group: rutosides. 
+Variables Dichotomous Continuous 
+
+Oedema RR 0.72 (0.64 to 0.81) ‐ 
+
+Oedema (mm) ‐ NS 
+
+Oedema (volume) ‐ SMD ‐0.15 (‐0.16 to ‐0.03) 
+
+Ulcer cured NS ‐ 
+
+Trophic disorder NS ‐ 
+
+Pain ‐ SMD ‐0.71 (‐1.23 to ‐0.19) 
+
+Cramps RR ‐0.83 (‐1.50 to ‐0.16) NS 
+
+Restless legs NS ‐ 
+
+Itching ‐ SMD ‐0.58 (‐1.10 to ‐0.06) 
+
+Heaviness RR 0.60 (0.48 to 0.74) ‐ 
+
+Swelling RR 0.67 (0.50 to 0.88) NS 
+
+Paraesthesias RR 0.55 (0.37 to 0.83) NS 
+
+Global assessment by the participant ‐ ‐ 
+
+Adverse events RR 1.22 (1.04 to 1.43) ‐ 
+
+Note: No measures of effect are specified when I 2 was > 75% 
+Open in a new tab 
+NS: non‐significant RR: risk ratio SMD: standardized mean difference 
+
+Of the 69 included studies, we excluded 13 studies from the efficacy analysis for the reasons explained under Included studies ( Bergqvist 1981 ; Cloarec 1994 ; Jongste 1986 ; Mann 1981 ; Nocker 1990 ; Padrós 1972 ; Pecchi 1990 ; Petrassi 2000 ; Prerovsky 1972 ; Renton 1994 ; Rose 1970 ; Rudofsky 1989 ; Sentou 1984 ). Belczak 2014 compared three different interventions with placebo. For the analysis, we included only the comparison of aminaftone with placebo because the other two interventions were combinations of different drugs (micronised diosmine and hesperidin; coumarin and troxerutin). 
+Primary outcomes Oedema in the lower limb (dichotomous variable) 
+We included 13 trials in the meta‐analysis: seven corresponding to rutosides ( Cauwenberge 1972 ; Cauwenberge 1978 ; Cloarec 1996 ; Ihme 1996 ; Kriner 1985 ; MacLennan 1994 ; Welch 1985 ), two to calcium dobesilate ( Casley‐Smith 1988 ; Labs 2004 ), two to hidrosmine and diosmine ( Fermoso 1992 ; Planchon 1990 ), one to grape seed extract ( Thebaut 1985 ) and one to aminaftone ( Lazzarini 1982 ), with a total of 626 participants in the active treatment group and 619 in the placebo group. The median time to follow‐up was 49 days. Phebotonics probably reduce oedema in the lower limb compared to placebo (RR 0.70, 95% CI 0.63 to 0.78; 13 studies; 1245 participants; moderate‐certainty evidence; Analysis 1.1 ). The certainty of the evidence was downgraded by one step to moderate because of overall risk of bias (10 studies had an unclear risk of bias and two had a high risk of bias) ( Table 1 ). No differences between the subgroups was detected (test for subgroup differences: P = 0.74). 
+1.1. Analysis. 
+
+Open in a new tab 
+Comparison 1: Phlebotonics versus placebo, Outcome 1: Oedema in the lower legs (dichotomous variable) 
+Oedema in the lower limb (continuous variables) Ankle perimeter circumference 
+We included 15 studies in the meta‐analysis: seven corresponding to rutosides ( Cloarec 1996 ; Cornu‐Thenard 1985 ; Jongste 1989 ; MacLennan 1994 ; Parrado 1999 ; Vin 1994 ; Welch 1985 ), five to calcium dobesilate ( Flota‐Cervera 2008 ; Labs 2004 ; Martinez‐Zapata 2008 ; Rabe 2011 ; Widmer 1990 ), and three to diosmine ( Gilly 1994 ; Planchon 1990 ; Tsouderos 1989 ), with a total of 1001 participants given active treatment and 1009 given placebo. The median time to follow‐up was 60 days. Phlebotonics probably slightly reduce ankle perimeter circumference compared to placebo (MD ‐4.27 mm; 95% CI ‐5.61 to ‐2.93; 15 studies; 2010 participants; moderate‐certainty evidence; Analysis 1.2 ). The certainty of the evidence was downgraded by one step to moderate because of overall risk of bias (11 studies had an unclear risk of bias and one had a high risk of bias). Differences between the subgroups was detected (test for subgroup differences: P = 0.02) due to a larger effect of diosmin‐hidrosmin. 
+1.2. Analysis. 
+
+Open in a new tab 
+Comparison 1: Phlebotonics versus placebo, Outcome 2: Ankle perimeter circumference (mm) 
+Volume of the leg 
+We included 11 studies in the analysis: six corresponding to rutosides ( Burnand 1989 ; Diebschlag 1994 ; Ihme 1996 ; Kiesewetter 1997 ; NCT01848210 ; Vanscheidt 2002a ), four to calcium dobesilate ( Casley‐Smith 1988 ; Rabe 2011 ; Rabe 2016 ; Widmer 1990 ) and one to aminaftone ( Belczak 2014 ), with a total of 686 participants treated with phlebotonics and 706 with placebo. Phlebotonics probably slightly reduce volume of the leg compared to placebo (SMD ‐0.24 mL; 95% CI ‐0.33 to ‐0.15; 11 studies; 2072 participants; moderate‐certainty evidence; Analysis 1.3 ). The certainty of the evidence was downgraded (1 level) to moderate because of overall risk of bias (seven studies had an unclear risk of bias and one had a high risk of bias). Differences between the subgroups was detected (test for subgroup differences: P = 0.04) due to a larger effect of calcium dobesilate. 
+1.3. Analysis. 
+
+Open in a new tab 
+Comparison 1: Phlebotonics versus placebo, Outcome 3: Volume of the leg (mL) 
+QoL 
+Seven studies evaluated QoL ( Belczak 2014 ; Martinez‐Zapata 2008 ; Rabe 2011 ; Rabe 2015 ; Rabe 2016 ; Vanscheidt 2002a ; Vanscheidt 2002b ). Vanscheidt 2002a and Vanscheidt 2002b assessed QoL by using a questionnaire (EuroQol Measure of Health‐Related QoL and Freiburg Life Quality Assessment, respectively) and therefore did not provide quantifiable results. Martinez‐Zapata 2008 , Rabe 2011 , Rabe 2015 and Rabe 2016 evaluated QoL via the Chronic Venous Insufficiency International Questionnaire (CIVIQ). Belczak 2014 used a specific questionnaire for chronic venous disease adapted from Cesarone 2006 . Phebotonics probably make little or no difference to QoL compared with placebo (SMD ‐0.06, 95% CI ‐0.22 to 0.10; five studies; 1639 participants; moderate‐certainty evidence; Analysis 1.4 ). The certainty of the evidence was downgraded by one step to moderate because of overall risk of bias (one study had an unclear risk of bias and two had a high risk of bias). Differences between the subgroups was detected (test for subgroup differences: P = 0.02) due to a larger effect of aminaftone . 
+1.4. Analysis. 
+
+Open in a new tab 
+Comparison 1: Phlebotonics versus placebo, Outcome 4: Quality of life 
+Secondary outcomes Assessment of CVI by objective signs: skin manifestations Ulcer healing (dichotomous variable) 
+We included six trials in the meta‐analysis: one on aminaftone ( Lazzarini 1982 ), one on calcium dobesilate ( DOBESILATO500/2 ), two on diosmine ( Fermoso 1992 ; Guilhou 1997 ) and two on rutoside ( MacLennan 1994 ; Schultz‐Ehrenburg 1993 ), with a total of 230 participants in the active treatment group and 231 in the placebo group. Phlebotonics may make little or no difference to dichotomous variable ulcer cured compared to placebo (RR 0.94; 95% CI 0.79 to 1.13; 6 studies; 461 participants; low‐certainty evidence; Analysis 1.5 ). The certainty of the evidence was downgraded by two levels to low because of overall risk of bias (four studies had an unclear risk of bias and two had a high risk of bias) and imprecision (low number of total events) ( Table 1 ). No differences between the subgroups was detected (test for subgroup differences: P = 0.21). 
+1.5. Analysis. 
+
+Open in a new tab 
+Comparison 1: Phlebotonics versus placebo, Outcome 5: Ulcer healing 
+Trophic disorders (dichotomous variable) 
+We included six studies in the meta‐analysis: four on hidrosmine and diosmine ( Fermoso 1992 ; Gilly 1994 ; Laurent 1988 ; Planchon 1990 ), one on aminaftone ( Lazzarini 1982 ) and one on rutosides ( MacLennan 1994 ), with a total of 355 participants in the phlebotonics group and 350 in the placebo group. Phlebotonics probably slightly improve trophic disorders compared to placebo (RR 0.87, 95% CI 0.81 to 0.95; 6 studies; 705 participants; moderate‐certainty evidence; Analysis 1.6 ). The certainty of the evidence was downgraded by one level to moderate because of overall risk of bias (five studies had an unclear risk of bias and one had a high risk of bias). No differences between the subgroups was detected (test for subgroup differences: P = 0.80). 
+1.6. Analysis. 
+
+Open in a new tab 
+Comparison 1: Phlebotonics versus placebo, Outcome 6: Trophic disorders (dichotomous variable) 
+Telangiectasia, reticular veins and varicose veins (dichotomous variable) 
+Included studies did not report data on improvement in skin signs such as telangiectasia, reticular veins and varicose veins. Only Fermoso 1992 reported results regarding varicose veins. Before treatment, 3/16 (18.8%) participants presented varicose veins in the hidrosmine group and 2/12 participants in the placebo group (16.7%). After treatment, one participant from the hidrosmine group was cured of varicose veins, and no participants from the placebo group were cured. 
+Assessment of CVI by subjective symptoms Pain in the lower legs (dichotomous variable) 
+A total of 21 studies reported on this outcome as a dichotomous variable: 10 on rutosides ( Balmer 1980 ; Cauwenberge 1972 ; Cauwenberge 1978 ; Jongste 1989 ; Klüken 1971 ; Languillat 1988 ; Pedersen 1992 ; Pulvertaft 1983 ; Vanscheidt 2002a ; Welch 1985 ), five on calcium dobesilate ( Casley‐Smith 1988 ; Flota‐Cervera 2008 ; Hachen 1982 ; Rabe 2016 ; Widmer 1990 ), four on diosmine and hidrosmine ( Biland 1982 ; Dominguez 1992 ; Fermoso 1992 ; Planchon 1990 ), one on aminaftone ( Lazzarini 1982 ), and one on French maritime pine bark extract ( Arcangeli 2000 ), with a total of 1468 participants treated with phlebotonics and 1130 with placebo ( Analysis 1.7 ). The analysis showed heterogeneity (I 2 = 77%); therefore, we did not pool the data. 
+1.7. Analysis. 
+
+Open in a new tab 
+Comparison 1: Phlebotonics versus placebo, Outcome 7: Pain in the lower legs (dichotomous variable) 
+Pain in the lower legs (continuous variable) 
+We included 12 studies in the meta‐analysis: five on calcium dobesilate ( DOBESILATO500/2 ; Marinello 2002 ; Martinez‐Zapata 2008 ; Rabe 2011 ; Rabe 2016 ), three on rutosides ( Cloarec 1996 ; Cornu‐Thenard 1985 ; Parrado 1999 ), three on diosmine ( Gilly 1994 ; Planchon 1990 ; Rabe 2015 ) and one on French maritime pine bark extract ( Arcangeli 2000 ), with a total of 1110 participants assigned to phlebotonics and 1122 to placebo ( Analysis 1.8 ). Phlebotonics may reduce pain (measured as a continuous variable) in the lower legs compared to placebo (SMD ‐0.35, 95% CI ‐0.54 to ‐0.17; 12 studies; 2232 participants; low‐certainty evidence). The certainty of the evidence was downgraded by two levels to low because of overall risk of bias (seven studies had an unclear risk of bias and three had a high risk of bias) and imprecision. We used a random‐effects model as heterogeneity was detected (I 2 = 75%). Differences between the subgroups was detected (test for subgroup differences: P = 0.002) due to differences in results between the subgroup of French maritime pine bark extract compared to the other subgroups. 
+1.8. Analysis. 
+
+Open in a new tab 
+Comparison 1: Phlebotonics versus placebo, Outcome 8: Pain in the lower legs (continuous variable) 
+Cramps in the lower legs (dichotomous variable) 
+We included 14 studies in the meta‐analysis: eight on rutosides ( Balmer 1980 ; Cauwenberge 1978 ; Jongste 1989 ; Languillat 1988 ; Pedersen 1992 ; Pulvertaft 1983 ; Vin 1994 ; Welch 1985 ), three on diosmine and hidrosmine ( Biland 1982 ; Fermoso 1992 ; Planchon 1990 ), two on calcium dobesilate ( Casley‐Smith 1988 ; Widmer 1990 ) and one on aminaftone ( Lazzarini 1982 ), with a total of 1072 participants treated with phlebotonics and 721 with placebo. Phlebotonics probably reduce cramps (measured as a dichotomous variable) compared to placebo (RR 0.72, 95% CI 0.58 to 0.89; 14 studies; 1793 participants; moderate‐certainty evidence; Analysis 1.9 ) The certainty of the evidence was downgraded by one level to moderate because of overall risk of bias (11 studies had an unclear risk of bias and three had a high risk of bias). We used a random‐effects model as heterogeneity was detected (I 2 = 73%). No differences between the subgroups was detected (test for subgroup differences: P = 0.28). 
+1.9. Analysis. 
+
+Open in a new tab 
+Comparison 1: Phlebotonics versus placebo, Outcome 9: Cramps in the lower legs (dichotomous variable) 
+Cramps in the lower legs (continuous variable) 
+We included four studies in the meta‐analysis: two on rutosides ( Cloarec 1996 ; Parrado 1999 ), one on calcium dobesilate ( Martinez‐Zapata 2008 ), and one on diosmine ( Gilly 1994 ), with 363 participants treated with phlebotonics and 366 with placebo ( Analysis 1.10 ). The analysis showed heterogeneity (I 2 = 86%); therefore, we did not pool the data. 
+1.10. Analysis. 
+
+Open in a new tab 
+Comparison 1: Phlebotonics versus placebo, Outcome 10: Cramps in the lower legs (continuous variable) 
+Restless legs (dichotomous variable) 
+We included seven studies in the meta‐analysis: four on rutosides ( Balmer 1980 ; Cauwenberge 1978 ; Jongste 1989 ; Pedersen 1992 ), two on calcium dobesilate ( Casley‐Smith 1988 ; Widmer 1990 ), and one on diosmine ( Biland 1982 ). A total of 329 participants were treated with phlebotonics and 323 with placebo ( Analysis 1.11 ). Phebotonics probably slightly reduce restless legs (measured as a dichotomous variable) compared to placebo (RR 0.81, 95% CI 0.72 to 0.91; 7 studies; 652 participants; moderate‐certainty evidence). The certainty of the evidence was downgraded by one level to moderate because of overall risk of bias (five studies had an unclear risk of bias and two had a high risk of bias). No differences between the subgroups was detected (test for subgroup differences: P = 0.41). 
+1.11. Analysis. 
+
+Open in a new tab 
+Comparison 1: Phlebotonics versus placebo, Outcome 11: Restless legs (dichotomous variable) 
+Itching in the lower legs (dichotomous variable) 
+We included four studies in the analysis: two on rutoside ( Pedersen 1992 ; Vanscheidt 2002a ), one on hidrosmine ( Fermoso 1992 ), and one on aminaftone ( Lazzarini 1982 ). A total of 206 participants were included in the active treatment group and 199 in the placebo group ( Analysis 1.12 ). The analysis showed heterogeneity (I 2 = 92%); therefore, we did not pool the data. 
+1.12. Analysis. 
+
+Open in a new tab 
+Comparison 1: Phlebotonics versus placebo, Outcome 12: Itching in the lower legs (dichotomous variable) 
+Itching in the lower legs (continuous variable) 
+We included two studies in the analysis: one on calcium dobesilate ( Martinez‐Zapata 2008 ), and one on rutosides ( Parrado 1999 ). A total of 234 participants were treated with phlebotonics and 242 with placebo ( Analysis 1.13 ). The analysis showed heterogeneity (I 2 = 82%), and we did not pool the data. 
+1.13. Analysis. 
+
+Open in a new tab 
+Comparison 1: Phlebotonics versus placebo, Outcome 13: Itching in the lower legs (continuous variable) 
+Feeling of heaviness in the lower legs (dichotomous variable) 
+We included 19 studies in the analysis: nine on rutosides ( Cauwenberge 1972 ; Cauwenberge 1978 ; Jongste 1989 ; Languillat 1988 ; Pedersen 1992 ; Pulvertaft 1983 ; Vanscheidt 2002a ; Vin 1994 ; Welch 1985 ), four on diosmine and hidrosmine ( Dominguez 1992 ; Fermoso 1992 ; Planchon 1990 ; Tsouderos 1989 ), three on calcium dobesilate ( Casley‐Smith 1988 ; Hachen 1982 ; Widmer 1990 ), one on aminaftone ( Lazzarini 1982 ), one on Centella asiatica ( Pointel 1986 ), and one on French maritime pine bark extract ( Arcangeli 2000 ). A total of 1257 participants were included in the active treatment group and 909 in the placebo group ( Analysis 1.14 ). The analysis showed heterogeneity (I 2 = 80%), and we did not pool the data. 
+1.14. Analysis. 
+
+Open in a new tab 
+Comparison 1: Phlebotonics versus placebo, Outcome 14: Heaviness in the lower legs (dichotomous variable) 
+Feeling of heaviness in the lower legs (continuous variable) 
+We included 10 studies in the analysis: six on rutosides ( Alterkamper 1987 ; Cloarec 1996 ; Cornu‐Thenard 1985 ; Diebschlag 1994 ; Parrado 1999 ; Unkauf 1996 ), two on calcium dobesilate ( Marinello 2002 ; Martinez‐Zapata 2008 ), one on diosmine ( Gilly 1994 ), and one on French maritime pine bark extract ( Arcangeli 2000 ). A total of 557 participants were included in the active treatment group and 557 in the placebo group ( Analysis 1.15 ). The analysis showed heterogeneity (I 2 = 91%); therefore, we did not pool the data. 
+1.15. Analysis. 
+
+Open in a new tab 
+Comparison 1: Phlebotonics versus placebo, Outcome 15: Heaviness in the lower legs (continuous variable) 
+Swelling in the lower legs (dichotomous variable) 
+We included 14 studies in the analysis: nine on rutosides ( Balmer 1980 ; Cauwenberge 1978 ; Jongste 1989 ; Kriner 1985 ; Languillat 1988 ; Pedersen 1992 ; Vanscheidt 2002a ; Vin 1994 ; Welch 1985 ), two on calcium dobesilate ( Casley‐Smith 1988 ; Hachen 1982 ), two on diosmine and hidrosmine ( Biland 1982 ; Fermoso 1992 ), and one on French maritime pine bark extract ( Arcangeli 2000 ), with 544 participants included in the active treatment group and 528 in the placebo group. Phebotonics probably reduce swelling in the lower leg (measured as a dichotomous variable) compared to placebo (RR 0.63, 95% CI 0.50 to 0.80; 14 studies; 1072 participants; moderate‐certainty 
