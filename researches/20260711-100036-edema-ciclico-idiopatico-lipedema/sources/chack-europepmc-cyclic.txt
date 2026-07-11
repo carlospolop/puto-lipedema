@@ -1,0 +1,21 @@
+SUCCESS: Europe PMC results for 'idiopathic cyclic edema lipedema' (top 10):
+1. Lipedema: exploring pathophysiology and treatment strategies - state of the art. - https://europepmc.org/article/MED/39866170
+   J Vasc Bras | 2024 | Kamamoto F, Baiocchi JMT, Batista BN, Ribeiro RDA, Modena DAO, Gornati VC.
+2. Hypotheses and Evolution in the Current Treatment of Lipedema Syndrome. - https://europepmc.org/article/MED/35317365
+   J Clin Med Res | 2022 | Pereira de Godoy JM, Guerreiro Godoy MF.
+3. Fascial Pathophysiology in Hypermobility Spectrum Disorders and Hypermobile Ehlers-Danlos Syndrome: A Review of Emerging Evidence. - https://europepmc.org/article/MED/40565051
+   Int J Mol Sci | 2025 | Wang TJ, Stecco A, Hakim AJ, Schleip R.
+4. Lipedema in Male Progressing to Subclinical and Clinical Systemic Lymphedema. - https://europepmc.org/article/MED/35837085
+   J Med Cases | 2022 | Pereira de Godoy LM, Guerreiro Godoy MF, Pereira de Godoy JM.
+5. Lipedema and the Evolution to Lymphedema With the Progression of Obesity. - https://europepmc.org/article/MED/33282608
+   Cureus | 2020 | Pereira de Godoy LM, Pereira de Godoy HJ, Pereira de Godoy Capeletto P, Guerreiro Godoy MF, Pereira de Godoy JM.
+6. Lipedema: Insights into Morphology, Pathophysiology, and Challenges. - https://europepmc.org/article/MED/36551837
+   Biomedicines | 2022 | Poojari A, Dev K, Rabiee A.
+7. Water and Electrolyte Content in Salt-Dependent HYpertension in the SKIn (WHYSKI): Effect of Surgical Cure of Primary Aldosteronism. - https://europepmc.org/article/MED/38123759
+   High Blood Press Cardiovasc Prev | 2024 | Torresan F, Rossi FB, Zanin S, Caputo I, Caroccia B, Iacobone M, Rossi GP.
+8. Lipolymphedema Associated with Idiopathic Cyclic Edema: A Therapeutic Approach. - https://europepmc.org/article/MED/28913000
+   Case Rep Vasc Med | 2017 | Pereira de Godoy JM, Pereira de Godoy HJ, de Sene Souza AA, Budtinger Filho R, de Fatima Guerreiro Godoy M.
+9. Vascular Diseases in Women: Do Women Suffer from Them Differently? - https://europepmc.org/article/MED/38398419
+   J Clin Med | 2024 | Farkas K, Stanek A, Zbinden S, Borea B, Ciurica S, Moore V, Maguire P, Abola MTB, Alajar EB, Marcoccia A, Erer D, Casanegra AI, Sharebiani H, Sprynger M, Kavousi M, Catalano M.
+10. Lipedema: A Call to Action! - https://europepmc.org/article/MED/31544340
+   Obesity (Silver Spring) | 2019 | Buso G, Depairon M, Tomson D, Raffoul W, Vettor R, Mazzolai L.

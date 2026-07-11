@@ -1,0 +1,42 @@
+{
+  "target": {
+    "description": "",
+    "devtoolsFrontendUrl": "https://chrome-devtools-frontend.appspot.com/serve_rev/@5b586c06e0d27582900f17e2d59c5370d8d6e0bb/inspector.html?ws=127.0.0.1:9226/devtools/page/DB7F2906B665EDDF7ABAFBD3D5DD2820",
+    "faviconUrl": "https://chatgpt.com/favicon.ico",
+    "id": "DB7F2906B665EDDF7ABAFBD3D5DD2820",
+    "title": "Diagnóstico diferencial de lipedema",
+    "type": "page",
+    "url": "https://chatgpt.com/c/6a51f983-26ac-83ed-835b-d79cd6cd1652",
+    "webSocketDebuggerUrl": "ws://127.0.0.1:9226/devtools/page/DB7F2906B665EDDF7ABAFBD3D5DD2820"
+  },
+  "url": "https://chatgpt.com/c/6a51f983-26ac-83ed-835b-d79cd6cd1652",
+  "title": "Diagnóstico diferencial de lipedema",
+  "bodyLen": 2037,
+  "stop": false,
+  "turns": [
+    {
+      "i": 0,
+      "role": "user",
+      "len": 584,
+      "text": "[Solicitud Pro/foco clínico] Responde en español con razonamiento crítico y citas: En sospecha de lipedema, ¿cómo distinguir de forma práctica edema cíclico idiopático/ortostático, insuficiencia venosa, linfedema temprano, retención sistémica y grasa lipedematosa? Incluye algoritmo por patrón horario, fóvea, pies/dedos, mañana-noche, calor/ciclo/sal/carbohidratos, peso diario, perímetros, pruebas básicas (analítica, orina, BNP/TSH según caso, eco-Doppler, imagen linfática), señales de alarma y qué NO atribuir a lipedema. Separa evidencia fuerte, opinión clínica y extrapolación."
+    },
+    {
+      "i": 1,
+      "role": "user",
+      "len": 584,
+      "text": "[Solicitud Pro/foco clínico] Responde en español con razonamiento crítico y citas: En sospecha de lipedema, ¿cómo distinguir de forma práctica edema cíclico idiopático/ortostático, insuficiencia venosa, linfedema temprano, retención sistémica y grasa lipedematosa? Incluye algoritmo por patrón horario, fóvea, pies/dedos, mañana-noche, calor/ciclo/sal/carbohidratos, peso diario, perímetros, pruebas básicas (analítica, orina, BNP/TSH según caso, eco-Doppler, imagen linfática), señales de alarma y qué NO atribuir a lipedema. Separa evidencia fuerte, opinión clínica y extrapolación."
+    },
+    {
+      "i": 2,
+      "role": "assistant",
+      "len": 410,
+      "text": "Worked for 18s\nIdea central\n\nEn una sospecha de liped\nLipoedema UK\n+2\nPubMed\n+2\nEurope PMC\n+1\nPMC\n+2\nPMC\n+2\nLipoedema UK\n+1\nAWMF Leitlinienregister\n+2\nDove Medical Press\n+2\nPMC\n+3\nScienceDirect\n+3\nPubMed\n+3\nEjves\n+2\nESVS\n+2\nInternational Society of Lymphology\n+2\nPubMed\n+2\nPLOS\n+3\nPubMed\n+3\nOUP Academic\n+3\nEurope PMC\n+2\nPubMed\n+2\nScienceDirect\n+1\nESVS\n+3\nLipoedema UK\n+3\nInternational Society of Lymphology\n+3"
+    },
+    {
+      "i": 3,
+      "role": "assistant",
+      "len": 395,
+      "text": "Idea central\n\nEn una sospecha de liped\nLipoedema UK\n+2\nPubMed\n+2\nEurope PMC\n+1\nPMC\n+2\nPMC\n+2\nLipoedema UK\n+1\nAWMF Leitlinienregister\n+2\nDove Medical Press\n+2\nPMC\n+3\nScienceDirect\n+3\nPubMed\n+3\nEjves\n+2\nESVS\n+2\nInternational Society of Lymphology\n+2\nPubMed\n+2\nPLOS\n+3\nPubMed\n+3\nOUP Academic\n+3\nEurope PMC\n+2\nPubMed\n+2\nScienceDirect\n+1\nESVS\n+3\nLipoedema UK\n+3\nInternational Society of Lymphology\n+3"
+    }
+  ]
+}
