@@ -1,0 +1,358 @@
+publiziert bei:
+                  1                                 Sociedad Alemana de Flebología y Linfología
+
+
+
+
+                                                                           Sociedad Alemana de Flebología y Linfología
+
+                  Recomendaciones de la Guía clínica para diagnóstico y tratamiento clínico del Lipedema,
+                  „S2k Leitlinie Lipödem“ de la Sociedad Alemana de Flebología y Linfología Número de
+                  Registro AWMF (Grupo de trabajo de sociedades médicas científicas) : 037-12
+
+                  Traducción por encargo de la Sociedad Alemana de Flebología y Linfología, llevada a cabo por Erika Mendoza
+
+
+
+                  En enero de 2024 se publicó la nueva guía de tratamiento del lipedema, clasificada como S2k
+                  por la AWMF, plataforma científica para las “guidelines” de diagnóstico y tratamiento en
+                  Alemania. Puede encontrar la guía completa en inglés en el siguiente enlace
+                  https://register.awmf.org/assets/guidelines/037_D_Ges_fuer_Phlebologie/037-
+                  012le_S2k_Lipoedema__2024-08.pdf
+
+                  Para mejor comprensión, explico la clasificación existente.
+                  S1:    Recomendaciones de grupos de expertos (Consenso informal entre expertos)
+                  S2k: Guía basada en consenso (Panel representativo de las sociedades científicas
+                  involucradas, proceso estructurado de consenso)
+                  S2e: Guía basada en evidencia (Revisión sistemática de la literatura, selección y
+                  evaluación)
+                  S3:    Guía basada en evidencia y consenso (Revisión sistemática de la literatura, selección
+                  y evaluación, llevado a cabo por un panel representativo de las sociedades científicas
+                  involucradas, proceso estructurado de consenso)
+
+                  La guía S2k del lipedema garantiza un enfoque estructurado basado en el estudio de la
+                  literatura conocida por los miembros del grupo y en el consenso entre expertos,
+                  convirtiéndola en un recurso clave para comprender y manejar el lipedema.
+
+                  Las recomendaciones con sus niveles de graduación fueron aprobadas con un "fuerte
+                  consenso" (con más del 95 % de aprobación de los participantes) o con consenso (con más
+                  del 75 % de aprobación de los participantes).
+                  Además, se diferenció entre recomendación fuerte, recomendación (sin más) o cuestión
+                  abierta, como recomienda la AWMF.
+
+                      Grado de la Recomendación          Verbo usado                         Signo
+                      Recomendación fuerte               Debe / no debe
+
+                      Recomendación                      Debería / no debería
+
+                      Cuestión abierta                   Se puede hacer / se puede
+                                                         descartar
+
+
+
+
+                        Traducción de las recomendaciones de la guía clínica del diagnóstico y tratamiento del Lipedema 2024
+2                                 Sociedad Alemana de Flebología y Linfología
+
+
+    Definición                                                                                      Re       Consenso
+                                                                                                    c.
+    1.1.   El lipedema debe describirse como un trastorno doloroso de distribución                           Fuerte
+           desproporcionada y simétrica del tejido graso en las extremidades, que                            (100%)
+           ocurre casi exclusivamente en mujeres
+    1.2. Debido a los hallazgos divergentes, numerosos aspectos y parámetros                                 Consenso
+           del lipedema deberían investigarse de manera más exhaustiva para                                  (94,1%)
+           mejorar la base de datos científicos.
+    Definición clínica
+    2.1. Como síntomas del lipedema deben considerarse el dolor a la presión y                               Fuerte
+           al tacto, el dolor espontáneo y la sensación de pesadez                                           (100%)
+    2.2. Un aumento desproporcionado del tejido graso en las extremidades sin                                Fuerte
+           síntomas asociados no debe clasificarse bajo el diagnóstico de lipedema.                          (100%)
+    2.3. La manifestación morfológica debe tener un carácter descriptivo y no                                Fuerte
+           debe interpretarse como una clasificación por grados de severidad.                                (100%)
+    2.4. La clasificación por estadios de la morfología utilizada hasta ahora en la                          Fuerte
+           literatura no debe considerarse una medida de la gravedad de la                                   (100%)
+           enfermedad. Actualmente, no existe una clasificación por estadios para
+           los síntomas.
+    2.5. El criterio de "tejido graso nodular", frecuentemente utilizado en el                               Fuerte
+           pasado, no debe emplearse para el diagnóstico debido a su falta de                                (100%)
+           validez.
+    2.6. Para la documentación inicial y el seguimiento, se deben registrar al                               Consenso
+           menos los valores biométricos de peso corporal, altura, así como el                               (94,1%)
+           perímetro de la cintura y la cadera.
+    2.7. Otras mediciones en las extremidades e índices deberían incluirse en la                             Fuerte
+           planificación terapéutica y el seguimiento, dependiendo de las                                    (100%)
+           extremidades afectadas.
+    2.8. El uso del cociente de lipohipertrofia según Herpertz puede emplearse                               Fuerte
+           para describir la desproporción.                                                                  (100%)
+    2.9. En la primera consulta, deberían evaluarse los factores psicológicos que                            Consenso
+           puedan influir en la percepción de la enfermedad.                                                 (94,1%)
+    2.10. El lipedema no debe considerarse una enfermedad intrínsecamente                                    Consenso
+           progresiva, ya que su progresión depende de diversos factores.                                    (94,1%)
+    2.11. Las causas de la progresión del lipedema deberían investigarse de                                  Fuerte
+           manera individual, dependiendo de cada paciente.                                                  (100%)
+    Diagnóstico y Diagnóstico diferencial
+    2.12. El diagnóstico de lipedema debe realizarse clínicamente.                                           Fuerte
+                                                                                                             (100%)
+    2.13. Para la diferenciación diagnóstica, pueden utilizarse métodos de                                   Fuerte
+          exploración por imagen.                                                                            (100%)
+    2.14. Para descartar un edema de origen, por ejemplo, flebológico, puede                                 Fuerte
+          utilizarse la ecografía diagnóstica.                                                               (100%)
+    2.15. No deben extraerse conclusiones sobre la etiología de un edema                                     Fuerte
+          subcutáneo basándose en la ecografía en modo B.                                                    (100%)
+    2.16. Los parámetros de laboratorio pueden utilizarse para descartar                                     Consenso
+          diagnósticos diferenciales, pero no son adecuados para confirmar el                                (94,1%)
+          lipedema.
+      Traducción de las recomendaciones de la guía clínica del diagnóstico y tratamiento del Lipedema 2024
+3                                 Sociedad Alemana de Flebología y Linfología
+
+
+    Terapia de compresión en el lipedema
+    4.1. En el caso de un diagnóstico confirmado de lipedema, la terapia de                                  Fuerte
+           compresión debe utilizarse para reducir el dolor en las extremidades                              (100%)
+           afectadas.
+    4.2. Inicialmente, la terapia de compresión en el lipedema puede realizarse                              Fuerte
+           con medias de compresión médica (MCM), vendajes de compresión (VC)                                (100%)
+           y sistemas de compresión médica adaptativa (MAC).
+           Para el tratamiento a largo plazo, en la mayoría de los casos, se deberían
+           preferir las MCM.
+    4.3. La terapia de compresión en el lipedema debe centrarse en la reducción                              Fuerte
+           del dolor y otros síntomas subjetivos.                                                            (100%)
+           Cuando el lipedema se presenta asociado a edemas de otra etiología, la
+           compresión también puede influir positivamente en la formación y
+           reducción del edema asociado.
+    4.4. Las pacientes deben ser informadas de que la compresión no es                                       Fuerte
+           adecuada para la reducción del tejido graso.                                                      (100%)
+    4.5. Al seleccionar y prescribir los materiales de compresión, además de la                              Fuerte
+           presión requerida, también debe considerarse el material más adecuado                             (100%)
+           para cada paciente, ya que la eficacia de la compresión depende tanto de
+           la presión como de las características del material.
+    4.6. La elección del material de compresión o de un tratamiento de varias                                Fuerte
+           piezas debe hacerse en estrecha consulta entre la paciente, el médico, el                         (100%)
+           terapeuta y el proveedor de medias de compresión, para mejorar la
+           adherencia y la efectividad del tratamiento.
+    4.7. El lipedema puede tratarse tanto con MCM de tejido circular como de                                 Fuerte
+           tejido plano.                                                                                     (100%)
+           En casos de grandes cambios en la circunferencia de una extremidad,
+           extremidades con forma cónica o con pliegues profundos en la piel y el
+           tejido graso, se deben prescribir medias de tejido plano, ya que el tejido
+           circular no es adecuado en estas condiciones anatómicas.
+    4.8. Debido a su método de fabricación, las MCM de tejido plano                                          Fuerte
+           generalmente tienen una mayor rigidez (stiffness) y una mayor                                     (100%)
+           resistencia a la flexión. Estas propiedades deberían aprovecharse en el
+           tratamiento de pacientes con lipedema, especialmente en casos de
+           obesidad acompañante. La mayor resistencia a la flexión ayuda a cubrir
+           mejor los pliegues profundos del tejido sin causar estrangulamientos por
+           deslizamiento hacia el pliegue.
+    4.9. El tipo de media y el grado de presión requerido (Clase de                                          Fuerte
+           compresión=CC) deben adaptarse a la localización, los hallazgos clínicos y                        (100%)
+           la gravedad y cambios de los síntomas.
+           No se debe establecer una asignación rígida de una CC específica al
+           diagnóstico de lipedema, ya que el objetivo principal de la terapia de
+           compresión es mejorar los síntomas subjetivos, especialmente el dolor.
+    4.10. Siempre se debe preferir el nivel más bajo de CC que proporcione un                                Fuerte
+           alivio suficiente de los síntomas, ya que esto mejora la adherencia a la                          (100%)
+           terapia de compresión.
+    4.11. Para evitar efectos secundarios y riesgos asociados con la terapia de                              Consenso
+           compresión, se deben seguir las normas para su correcta aplicación. Esto                          (89,5%)
+
+      Traducción de las recomendaciones de la guía clínica del diagnóstico y tratamiento del Lipedema 2024
+4                                 Sociedad Alemana de Flebología y Linfología
+
+
+            incluye el acolchado de áreas propensas a la presión y el cuidado regular
+            de la piel.
+    Compresión pneumática intermitente
+    5.1. Para el tratamiento del lipedema, la compresión pneumática                                          Consenso
+            intermitente debería utilizarse para aliviar el dolor y reducir los edemas                       (94,1%)
+            asociados de otras causas, incluida como terapia domiciliaria.
+    Terapia medicamentosa
+    6.1. Los diuréticos no deben utilizarse para el tratamiento del lipedema.                                Consenso
+            Sin embargo, su uso en pacientes con lipedema afectadas por otras                                (94,1%)
+            enfermedades internistas que precisan de diuréticos, es posible.
+    6.2. En la fase inicial del tratamiento o en caso de un deterioro significativo                          Consenso
+            del cuadro clínico, se puede considerar una terapia farmacológica para el                        (88,8%)
+            dolor. Sin embargo, según la experiencia de los expertos, este
+            tratamiento suele ser ineficaz en el lipedema.
+    6.3. La prescripción de medicamentos asociados con aumento de peso y/o                                   Consenso
+            formación de edema deberían evitarse, siempre que sea posible, tras                              (88,8%)
+            una evaluación de riesgo-beneficio.
+    Fisioterapia en el lipedema
+    7.1. Si la compresión no es aplicable en casos individuales o no logra reducir                           Fuerte
+            el dolor por sí sola, el síntoma principal, el dolor, puede tratarse con                         (100%)
+            drenaje linfático manual adicional, combinado con otras técnicas
+            terapéuticas. En este caso, el drenaje linfático manual no tiene como
+            objetivo la reducción del volumen, sino la modulación de las fibras C.
+    7.2. Dado que el ejercicio con compresión o un programa de entrenamiento                                 Fuerte
+            es un elemento clave en la reducción del dolor, debe integrarse en el                            (100%)
+            plan terapéutico global.
+    7.3. La plataforma vibratoria puede utilizarse con el objetivo de aumentar el                            Fuerte
+            umbral del dolor por presión.                                                                    (100%)
+    7.4. La terapia física descongestiva compleja debería utilizarse en casos de                             Fuerte
+            lipedema con edemas adicionales de otra etiología.                                               (100%)
+    7.5. La práctica adicional de deportes acuáticos (por ejemplo, aquacycling)                              Fuerte
+            puede tener un efecto positivo.                                                                  (100%)
+    7.6. El drenaje linfático manual, en combinación con otras técnicas                                      Consenso
+            terapéuticas, debería considerarse para mejorar la calidad de vida (QoL).                        (94,1%)
+    Lipedema y factores psicosociales
+    8.1. En el diagnóstico del dolor asociado al lipedema, siguiendo el modelo                               Fuerte
+            bio-psico-social, deben considerarse tanto los factores médicos como los                         (100%)
+            psicosociales.
+    8.2. Los trastornos psicológicos pueden influir en los síntomas y la calidad de                          Fuerte
+            vida de las pacientes con lipedema y deberían tenerse en cuenta en su                            (100%)
+            diagnóstico y tratamiento. Esto incluye, por ejemplo, trastornos de la
+            alimentación, depresión y síntomas postraumáticos tras violencia o
+            abuso. Se debe adoptar un enfoque terapéutico interdisciplinario.
+    8.3. Las enfermedades psicológicas graves (por ejemplo, un trastorno de la                               Consenso
+            alimentación severo o una depresión grave) deben tratarse antes de                               (94,1%)
+            realizar una intervención quirúrgica.
+
+
+
+      Traducción de las recomendaciones de la guía clínica del diagnóstico y tratamiento del Lipedema 2024
+5                                 Sociedad Alemana de Flebología y Linfología
+
+
+    Autogestión
+    9.1. La autogestión eficaz es un componente clave de la competencia y                                    Consenso
+          responsabilidad en la salud. Debe fomentarse y se debe animar a la                                 (88,8%)
+          paciente a asumir un papel activo.
+          Las estrategias de resolución de problemas y los objetivos terapéuticos
+          individuales concretos deben desarrollarse conjuntamente para
+          fortalecer la autogestión eficaz de la paciente.
+    9.2. La autogestión debería ser apoyada por los profesionales de la salud                                Consenso
+          mediante medidas adecuadas, pero la responsabilidad debería                                        (88,8%)
+          permanecer en la paciente.
+          Los profesionales deberían reforzar positivamente los logros de la
+          paciente.
+          Se debe evitar un enfoque confrontativo.
+
+    Alimentación y Lipedema
+    10.1. Se debe proporcionar información temprana sobre los efectos negativos                              Fuerte
+          de la obesidad en el lipedema y la importancia de una alimentación                                 (100%)
+          saludable y un estilo de vida activo.
+    10.2. Las pacientes deben ser informadas de que, en caso de sobrepeso u                                  Fuerte
+          obesidad, la reducción de peso mediante una alimentación adecuada                                  (100%)
+          también puede ayudar a disminuir el volumen de las piernas.
+    10.3. La alimentación y el manejo del peso deben contribuir a mantener o                                 Fuerte
+          recuperar la movilidad y funcionalidad, así como a prevenir la progresión                          (100%)
+          de la enfermedad.
+          Los objetivos deben adaptarse a la situación individual de cada paciente
+          e incluir tanto la consecución o mantenimiento de una composición
+          corporal saludable como la reducción del dolor y las molestias.
+    10.4. El tratamiento de las posibles enfermedades concomitantes sobrepeso y                              Fuerte
+          obesidad debe integrarse en el plan terapéutico global del lipedema, ya                            (100%)
+          que ambos pueden contribuir a la progresión del volumen de las
+          extremidades y al empeoramiento del cuadro clínico.
+    10.5. La reducción de peso en caso de obesidad coincidente debe basarse                                  Fuerte
+          siempre en una combinación de medidas nutricionales, de actividad                                  (100%)
+          física y, si es necesario, psicoterapias conductuales. Esta estrategia debe
+          abarcar tanto la fase de pérdida de peso como la estabilización a largo
+          plazo.
+    10.6. Las pacientes deben ser informadas de que deben evitar las dietas a                                Fuerte
+          corto plazo y, en su lugar, adoptar hábitos alimenticios saludables a largo                        (100%)
+          plazo, adaptados a sus necesidades individuales.
+    10.7. Las pacientes deben ser informadas de que sus hábitos alimenticios                                 Fuerte
+          pueden influir positiva o negativamente en los niveles de glucosa e                                (100%)
+          insulina en sangre, así como en la lipogénesis y los procesos
+          inflamatorios.
+    10.8. Se puede recomendar una alimentación mediterránea (hipocalórica si es                              Fuerte
+          necesario) debido a sus propiedades antiinflamatorias.                                             (100%)
+    10.9. Se puede recomendar una alimentación cetogénica (hipocalórica si es                                Consenso
+          necesario), ya que se han descrito efectos de reducción de peso,                                   (94,1%)
+          antiinflamatorios y de alivio de los síntomas.
+
+      Traducción de las recomendaciones de la guía clínica del diagnóstico y tratamiento del Lipedema 2024
+6                                 Sociedad Alemana de Flebología y Linfología
+
+
+    Lipedema y cirugía bariátrica
+    11.1. La indicación para cirugías bariátricas en pacientes con lipedema y                                Consenso
+          obesidad debe establecerse de acuerdo con la guía S3 "Terapia                                      (94,1%)
+          quirúrgica de la obesidad y enfermedades metabólicas".
+          La relación cintura-altura (Waist-Height-Ratio) debe considerarse en la
+          evaluación de la indicación, ya que en casos de desproporción severa, el
+          IMC por sí solo no es un indicador fiable.
+          En pacientes con lipedema y un IMC ≥ 40 kg/m², se debería considerar un
+          procedimiento bariátrico con el objetivo de reducir el peso corporal y el
+          volumen de las piernas.
+          En pacientes con lipedema y un IMC entre ≥ 35 kg/m² y < 40 kg/m², así
+          como al menos una enfermedad asociada a la obesidad, se puede
+          considerar un procedimiento bariátrico con el mismo objetivo.
+
+    Terapia quirúrgica del lipedema
+    12.1. Como terapia quirúrgica para el tratamiento del lipedema debe                                      Consenso
+           considerarse la liposucción para la reducción del tejido graso subcutáneo                         (96,4%)
+           afectado por el lipedema en piernas y brazos.
+    12.2. Los siguientes aspectos deben tenerse en cuenta al evaluar la indicación                           Consenso
+           de una terapia quirúrgica mediante liposucción en pacientes con                                   (96,4%)
+           lipedema en piernas y/o brazos:
+
+            •   Dolor documentado y refractario al tratamiento: Sin mejoría a pesar
+                de la terapia conservadora.
+           • Complicaciones, como limitaciones en la movilidad, enfermedades
+                dermatológicas u ortopédicas secundarias.
+           • Evaluación crítica de la indicación en pacientes con un Waist-Height-
+                Ratio (WHtR) superior a 0,55 y un IMC mayor de 40 kg/m².
+           • Tratamiento prioritario de la obesidad coincidente antes de
+                considerar la liposucción.
+           • Descongestión preoperatoria en casos de edema concomitante de
+                otra etiología.
+           • Indicación estricta en pacientes menores de 18 años.
+    12.3. La indicación para la liposucción no debe basarse en la clasificación                              Fuerte
+          tradicional por estadios, ya que no existe correlación entre la gravedad                           (100%)
+          de los síntomas y la (antigua) clasificación por estadios.
+    12.4. La liposucción debe realizarse con una técnica que preserve los tejidos y                          Consenso
+          los vasos linfáticos. Se deben considerar los siguientes aspectos:                                 (96,4%)
+               • Uso de sistemas asistidos por vibración (PAL) o por chorro de
+                   agua (WAL).
+               • Realización del procedimiento bajo anestesia tumescente local
+                   (TLA) o anestesia general.
+               • Número de sesiones recomendadas:
+                    • 1 a 4 sesiones para ambas piernas.
+                    • 1 a 2 sesiones para ambos brazos.
+               • Tiempo de espera mínimo de 60 a 120 minutos después de la
+                   infiltración de TLA, para facilitar una aspiración más suave.
+
+      Traducción de las recomendaciones de la guía clínica del diagnóstico y tratamiento del Lipedema 2024
+   7                                 Sociedad Alemana de Flebología y Linfología
+
+
+                  •  Límite de la solución tumescente utilizada: Si se usa la solución de
+                     Klein, la dosis máxima de lidocaína debe ser de 45 mg/kg de peso
+                     corporal, con un máximo de 10 litros de solución.
+                  • Volumen máximo de aspiración: 10 % del peso corporal.
+       12.5. Inmediatamente después de la liposucción, se debería realizar una                                  Fuerte
+             terapia física descongestiva compleja, iniciando con la fase I.                                    (100%)
+             La intensidad y la duración del tratamiento deberían ajustarse según los
+             hallazgos postoperatorios.
+       12.6. Después de una liposucción, las pacientes deben continuar con un                                   Consenso
+             tratamiento conservador, dependiendo de sus síntomas.                                              (96,4%)
+             Se debe prestar especial atención a la movilidad, estabilidad del peso y
+             regulación del estrés.
+             El lipedema no se cura con la liposucción. La liposucción puede aliviar el
+             dolor de forma duradera y mejorar la calidad de vida.
+
+
+
+
+Versionsnummer:                                     5.0
+
+Erstveröffentlichung:                               12/1998
+
+Überarbeitung von:                                  01/2024
+
+Nächste Überprüfung geplant:                        01/2029
+
+Die AWMF erfasst und publiziert die Leitlinien der Fachgesellschaften mit
+größtmöglicher Sorgfalt - dennoch kann die AWMF für die Richtigkeit des
+Inhalts keine Verantwortung übernehmen. Insbesondere bei
+Dosierungsangaben sind stets die Angaben der Hersteller zu beachten!
+
+ Autorisiert für elektronische Publikation: AWMF online
+
+
+
+
+         Traducción de las recomendaciones de la guía clínica del diagnóstico y tratamiento del Lipedema 2024
+

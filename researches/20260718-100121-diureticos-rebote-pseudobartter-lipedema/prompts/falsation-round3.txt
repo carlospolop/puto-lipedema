@@ -1,0 +1,21 @@
+You are an independent clinical-safety and evidence-falsation reviewer for iteration 3 of a lipedema website research. Work read-only: do not edit repository files, regenerate indexes, commit, push, use browser logins, or expose secrets. Return only a concise but rigorous Markdown report; the parent shell will preserve it as `evidence/subagents/falsation-round3.md`. Use primary/official sources already named below and open them directly where possible; search snippets are not evidence. This is a saturation/critique pass, not another broad review.
+
+QUESTION: Is the following planned Spanish public explanation accurate, sufficiently qualified, and safe?
+
+A) “Los diuréticos no tratan la grasa ni la causa principal del lipedema. La guía alemana S2k dice que no deben usarse para tratar el lipedema, pero permite usarlos si otra enfermedad internista los necesita. Por tanto, no es ‘nunca si tienes lipedema’, sino ‘¿para qué se indicó?’.”
+B) “Si se prescribieron por insuficiencia cardiaca, enfermedad renal/nefrótica, ascitis/cirrosis u otra sobrecarga sistémica, no deben suspenderse ni modificarse sin el prescriptor.”
+C) “Después de uso crónico puede haber retención de sodio/agua al retirar, pero el rebote no es universal ni prueba que el fármaco siga siendo necesario. En un RCT de 63 adultos mayores seleccionados, el edema medio alcanzó un pico modesto en semana 3 y tendió a basal; una revisión de 22 estudios halló evidencia heterogénea y de certeza baja. El empeoramiento también puede ser recaída de insuficiencia cardiaca o hipertensión.”
+D) “Pseudo-Bartter es un patrón adquirido de depleción de cloruro/volumen con hipopotasemia, alcalosis metabólica y activación renina-aldosterona, asociado a diuréticos, vómitos, purgas/laxantes y otros estados; no demuestra abuso por sí solo. Una muestra de cloro urinario depende del momento.”
+E) “Riesgos por clase: asa/tiazidas pueden bajar sodio, potasio y magnesio y favorecer alcalosis; espironolactona/amilorida pueden elevar potasio, sobre todo con riñón o fármacos RAAS; acetazolamida es distinta y puede causar acidosis. No dar pautas de retirada ni dosis en una web.”
+
+SOURCES/FACTS TO RECHECK: official Spanish translation of German S2k recommendation 6.1 (94.1% consensus); US Standard of Care statement 2.8 (⊕B consensus); ISL 2023 diuretic section; NCBI PMIDs 46960, 84258, 2302993, 8136670, 9284668, 3671223, 7894988; systematic review PMID 39117602/DOI 10.1111/bcp.16189; eating-disorder review PMID 36803805; metabolic alkalosis Core Curriculum 2022.
+
+TASKS:
+1. Attack every sentence: find counterexamples, hidden overclaims, ambiguous terms, unsafe omission or misleading causal language.
+2. Check whether any numeric claim needs deletion or clearer population limits.
+3. Separate direct lipedema guidance from adjacent withdrawal/eating-disorder evidence.
+4. Propose the shortest safe Spanish wording, simple enough for patients, including urgent red flags but avoiding alarmism.
+5. Decide whether a class-specific paragraph helps or overwhelms; recommend keep/trim/remove.
+6. Audit the tempting but oversimplified statement that diuretics “leave proteins behind and worsen lymphedema”; determine whether to omit it.
+7. Assess community claims (water pills work wonders / always rebound / natural is safer) only as anecdote or misinformation.
+8. Report source failures and uncertainty. End with a saturation verdict: material new finding, wording-only refinement, or no material change. Do not provide individual tapering, fluid, salt, potassium or drug-dosing instructions.

@@ -1,0 +1,12 @@
+{
+  "mode": "pro",
+  "started_at": 1784417306.35508,
+  "terminal_state": "timeout",
+  "answer_chars": 4429,
+  "conversation_url": "https://chatgpt.com/c/6a5c0c22-32b8-83eb-842e-b29f990ea084",
+  "updated_at": 1784422107.554015,
+  "running": false,
+  "forced_answer": false,
+  "finished_at": 1784422123.4576828,
+  "error": "ChatGPTWebResearchError: ChatGPT pro request did not reach an extractable terminal state within 4800 seconds plus a 0-second answer grace period."
+}

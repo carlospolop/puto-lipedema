@@ -1,0 +1,75 @@
+{
+  "retrieved_via": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=46960%2C84258%2C2302993%2C8136670%2C9284668%2C3671223%2C7894988&retmode=xml",
+  "records": [
+    {
+      "pmid": "46960",
+      "title": "Diuretic-induced oedema.",
+      "journal": "Lancet (London, England)",
+      "year": "1975",
+      "doi": "10.1016/s0140-6736(75)92833-0",
+      "pmc": null,
+      "abstract": "Diuretics are now commonly prescribed for women with so-called idiopathic oedema. Two patients with idiopathic oedema, one of whom was oedematous on diuretics, had the diuretics stopped. In one the oedema became much worse, and in the other oedema developed. However, this oedema disappeared spontaneously in both patients and they have remained free of oedema on no treatment. It is suggested that in some patients treated with diuretics compensatory mechanisms to retain sodium and water may be stronger than the diuretic-effect itself and may lead to perpetuation of unnecessary treatment."
+    },
+    {
+      "pmid": "84258",
+      "title": "Is \"idiopathic\" edema idiopathic?",
+      "journal": "Lancet (London, England)",
+      "year": "1979",
+      "doi": "10.1016/s0140-6736(79)90880-8",
+      "pmc": null,
+      "abstract": "Ten women with \"idiopathic\" edema had sodium and water retention and a rapid gain in weight when their accustomed intake of diuretics was suddenly stopped. The magnitude of these changes was directly related to the levels of plasma-rening activity before withdrawal of diuretics. Nine patients became edematous. Within 10 days of stopping diuretics, plasma-renin activity and urinary aldosterone excretion decreased to normal or below and within 20 days weight-gain and edema had subsided in seven patients. But the greatest gains in weight, in three patients, were sustained beyond 20 days. Nevertheless, a year later, two of these three patients were free of edema without the use of diuretics. Intermittent edema of unknown cause in most, if not all, otherwise healthy women seems to result from their use of diuretics, abetted in some patients by self-imposed flucuation of sodium and carbohydrate intake, and does not appear to be idiopathic."
+    },
+    {
+      "pmid": "2302993",
+      "title": "[Diuretic-induced edema].",
+      "journal": "Deutsche medizinische Wochenschrift (1946)",
+      "year": "1990",
+      "doi": "10.1055/s-2008-1064996",
+      "pmc": null,
+      "abstract": "The diagnosis of \"diuretic-induced oedema\" was made in 17 women (mean age 42.4 [23-60] years) who had developed generalized oedema after stopping their (chronic) intake of diuretics. Five patients were between 11 and 32% overweight, five of them were unusually old. A further four patients had severe concomitant diseases, such as primary lymphoedema, mitral valve defect and lupus erythematosus. In 10 of the 17 discontinuation was successful: the initial weight gain averaged 3.9 (1.5-7.5) kg. The maximal weight-gain, in a woman in the course of weaning her of the diuretic, was reversed within 20 days. Diuretic withdrawal after more than 20 years in a woman with mitral valve disease caused heart failure. Diuretic abuse caused prerenal failure in one women, but renal function became normal again after stopping of the diuretic and rehydration."
+    },
+    {
+      "pmid": "8136670",
+      "title": "Short term effect of withdrawal of diuretic drugs prescribed for ankle oedema.",
+      "journal": "BMJ (Clinical research ed.)",
+      "year": "1994",
+      "doi": "10.1136/bmj.308.6927.511",
+      "pmc": "PMC2542786",
+      "abstract": "To determine the effect of withdrawing diuretic drugs on oedema in patients prescribed them for only ankle oedema, excluding patients with cardiac, hepatic, or renal failure. Randomised controlled trial. 15 general practices in the Netherlands. 1202 patients aged 65 years or older and taking diuretic drugs, 63 of whom were eligible for the trial. Change in volumetrically determined ankle oedema (oedema index) over six weeks. 34 patients were randomised to stop diuretics and 29 to the control group. In eight patients diuretics had to be restarted. Among patients who had diuretics withdrawn successfully, rebound oedema caused a temporary increase in mean oedema index. The peak level (3.5% (95% confidence interval 1.5% to 5.2%) was reached in the third week, after which the oedema seemed to be returning to the baseline level. Few patients who have been prescribed diuretics for only ankle oedema clearly have no contraindications to withdrawing diuretics. If patients are unlikely to have cardiac insufficiency and careful monitoring is provided, withdrawal of diuretics seems to be feasible, though moderate rebound oedema may occur for a short time."
+    },
+    {
+      "pmid": "9284668",
+      "title": "Withdrawal of long-term diuretic medication in elderly patients: a double blind randomised trial.",
+      "journal": "BMJ (Clinical research ed.)",
+      "year": "1997",
+      "doi": "10.1136/bmj.315.7106.464",
+      "pmc": "PMC2127314",
+      "abstract": "About 20% of elderly people use long-term diuretic medication, but there is doubt whether prolonged diuretic medication on such a large scale is necessary. We performed a study to assess what proportion may successfully be withdrawn from diuretic therapy. Double blind randomised controlled trial with six month follow up. General practice. 202 patients taking long-term diuretics without manifest heart failure or hypertension. Patients were allocated to either placebo (withdrawal group, n = 102) or continuation of diuretic treatment (control group, n = 100). Occurrence of clinical conditions requiring diuretic therapy based on fixed criteria. During follow up diuretic therapy was required in 50 patients in the withdrawal group and 13 in the control group (risk difference 36%; 95% confidence interval 22% to 50%). Heart failure was the most frequent cause of prescribing diuretic therapy (n = 25). Cessation of diuretic therapy caused a mean increase in systolic blood pressure of 13.5 (9.2 to 17.8) mm Hg and in diastolic pressure of 4.6 (1.9 to 7.3) mm Hg. Withdrawal of long-term diuretic treatment in elderly patients leads to symptoms of heart failure or increase in blood pressure to hypertensive values in most cases. Any attempt to withdraw diuretic therapy requires careful monitoring conditions, notably during the initial four weeks."
+    },
+    {
+      "pmid": "3671223",
+      "title": "Idiopathic oedema and diuretics.",
+      "journal": "Postgraduate medical journal",
+      "year": "1987",
+      "doi": "10.1136/pgmj.63.735.25",
+      "pmc": "PMC2428203",
+      "abstract": "Diuretic abuse has been invoked as the cause of idiopathic oedema. In this study, eight patients with idiopathic oedema were studied. Symptoms and weight variation continued despite the proven absence of diuretics in seven of them as determined by urinary chromatograms. Idiopathic oedema cannot therefore be attributed to diuretic use alone."
+    },
+    {
+      "pmid": "7894988",
+      "title": "The role of diuretics in the aetiology of idiopathic oedema.",
+      "journal": "QJM : monthly journal of the Association of Physicians",
+      "year": "1995",
+      "doi": null,
+      "pmc": null,
+      "abstract": "The hypothesis that diuretic use and abuse and other purging behaviours cause idiopathic oedema was investigated in 102 patients. Of 91 symptomatic idiopathic oedema patients tested at referral, 16 (17.6%) had diuretic and four (4.4%) laxative in their urine. None had grossly disturbed serum urea and electrolytes. Examination of primary care records from 41 idiopathic oedema patients who denied current diuretic consumption, and denied or were uncertain about past consumption, showed that 20 had not been prescribed diuretics by their general practitioners at any time; a further 18 had not been prescribed diuretics for between seven months and 12 years before referral. The absence of evidence of plasma volume depletion (as judged by similar concentrations of mean serum urea, creatinine, total protein and albumin in patient and age-matched control groups) suggests that neither systematic diuretic and laxative use or abuse, nor episodic overeating and vomiting were responsible for symptoms of idiopathic oedema in our patients. Idiopathic oedema has a strong genetic basis, and correction of major and minor risk factors for this condition leads to substantial amelioration of symptoms in most cases."
+    }
+  ],
+  "systematic_review_pmc11671325": {
+    "citation_title": "The effects of diuretic deprescribing in adult patients: A systematic review to inform an evidence‐based diuretic deprescribing guideline",
+    "citation_journal_title": "British Journal of Clinical Pharmacology",
+    "citation_date": null,
+    "citation_doi": "10.1111/bcp.16189",
+    "citation_pmid": "39117602"
+  }
+}
