@@ -77,8 +77,90 @@
     return searchRoot + url;
   }
 
-  function initSearch() {
+  function initHeader() {
     const header = document.querySelector(".site-header");
+    if (!header) return;
+
+    const isHome = Boolean(document.querySelector(".hero"));
+    const nav = header.querySelector(".nav");
+
+    if (nav && !isHome) {
+      nav.innerHTML = [
+        '<a href="' + pageUrl("index.html") + '">Inicio</a>',
+        '<a href="' + pageUrl("index.html#que-es") + '">Qué es</a>',
+        '<a href="' + pageUrl("index.html#pruebas") + '">Detectarlo</a>',
+        '<a href="' + pageUrl("index.html#modelo") + '">Modelo</a>',
+        '<a href="' + pageUrl("index.html#causas") + '">Qué lo causa</a>',
+        '<a href="' + pageUrl("index.html#efectos") + '">Qué provoca</a>',
+        '<a href="' + pageUrl("index.html#manejo") + '">Manejo</a>',
+        '<a href="' + pageUrl("index.html#anexos") + '">Anexos</a>',
+      ].join("");
+    }
+
+    if (!header.querySelector(".site-header-inner")) {
+      const inner = document.createElement("div");
+      inner.className = "site-header-inner";
+      while (header.firstChild) inner.appendChild(header.firstChild);
+      header.appendChild(inner);
+    }
+  }
+
+  function initPageHero() {
+    const hero = document.querySelector(".page-hero");
+    if (!hero || hero.querySelector(":scope > .page-hero-inner")) return;
+
+    const inner = document.createElement("div");
+    inner.className = "page-hero-inner";
+    while (hero.firstChild) inner.appendChild(hero.firstChild);
+
+    const eyebrow = inner.querySelector(":scope > .eyebrow");
+    const tags = inner.querySelector(":scope > .page-category-tags");
+    if (eyebrow) {
+      const meta = document.createElement("div");
+      meta.className = "page-hero-meta";
+      if (tags) meta.appendChild(tags);
+      meta.appendChild(eyebrow);
+      const heading = inner.querySelector(":scope > h1");
+      inner.insertBefore(meta, heading || inner.firstChild);
+    }
+
+    hero.appendChild(inner);
+  }
+
+  function initMedicalNote() {
+    const hero = document.querySelector(".hero");
+    const note = hero && hero.querySelector(".hero-note");
+    if (!hero || !note || document.querySelector(".medical-note-wrap")) return;
+
+    const wrap = document.createElement("div");
+    wrap.className = "medical-note-wrap";
+    wrap.appendChild(note);
+    hero.insertAdjacentElement("afterend", wrap);
+  }
+
+  function initFooter() {
+    let footer = document.querySelector(".footer");
+
+    if (!footer) {
+      footer = document.createElement("footer");
+      footer.className = "footer";
+      footer.innerHTML = [
+        '<p>Guía divulgativa. No sustituye diagnóstico ni seguimiento médico personalizado.</p>',
+        '<p><a href="' + pageUrl("index.html") + '">← Volver al inicio</a></p>',
+      ].join("");
+      document.body.appendChild(footer);
+    }
+
+    if (!footer.querySelector(":scope > .footer-inner")) {
+      const inner = document.createElement("div");
+      inner.className = "footer-inner";
+      while (footer.firstChild) inner.appendChild(footer.firstChild);
+      footer.appendChild(inner);
+    }
+  }
+
+  function initSearch() {
+    const header = document.querySelector(".site-header-inner") || document.querySelector(".site-header");
     if (!header || document.querySelector(".search-open")) return;
 
     const button = document.createElement("button");
@@ -260,6 +342,10 @@
   }
 
   document.addEventListener("DOMContentLoaded", function () {
+    initHeader();
+    initPageHero();
+    initMedicalNote();
+    initFooter();
     initSearch();
 
     const hero = document.querySelector(".page-hero");
@@ -269,15 +355,9 @@
 
     if (!hero || !article || !body) return;
 
-    if (summary) {
-      summary.classList.add("hero-summary");
-      hero.classList.add("has-summary");
-      hero.appendChild(summary);
-    }
-
     const headings = Array.from(body.querySelectorAll("h2, h3"))
       .filter(function (heading) {
-        return heading.textContent.trim() && !heading.closest(".side-panel");
+        return heading.textContent.trim() && !heading.closest(".side-panel, .article-summary");
       });
 
     if (!headings.length) return;
@@ -296,7 +376,7 @@
     toc.setAttribute("aria-label", "Índice de la página");
 
     const title = document.createElement("h2");
-    title.textContent = "Índice";
+    title.textContent = "En esta página";
     toc.appendChild(title);
 
     const list = document.createElement("ol");
@@ -312,7 +392,31 @@
       list.appendChild(item);
     });
     toc.appendChild(list);
-    article.appendChild(toc);
+    article.insertBefore(toc, body);
+
+    if (summary) {
+      summary.classList.add("article-summary");
+      body.appendChild(summary);
+    }
+
+    if ("IntersectionObserver" in window) {
+      const links = Array.from(toc.querySelectorAll("a"));
+      const linksById = new Map(links.map(function (link) {
+        return [decodeURIComponent(link.hash.slice(1)), link];
+      }));
+
+      const observer = new IntersectionObserver(function (entries) {
+        const visible = entries
+          .filter(function (entry) { return entry.isIntersecting; })
+          .sort(function (a, b) { return a.boundingClientRect.top - b.boundingClientRect.top; });
+        if (!visible.length) return;
+        links.forEach(function (link) { link.classList.remove("is-active"); });
+        const active = linksById.get(visible[0].target.id);
+        if (active) active.classList.add("is-active");
+      }, { rootMargin: "-92px 0px -68% 0px" });
+
+      headings.forEach(function (heading) { observer.observe(heading); });
+    }
 
     if (window.location.hash) {
       const target = document.getElementById(decodeURIComponent(window.location.hash.slice(1)));
