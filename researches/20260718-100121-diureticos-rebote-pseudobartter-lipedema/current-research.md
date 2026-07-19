@@ -52,4 +52,4 @@
 - [x] Integrar contenido español breve y seguro en `efectos/edema-retencion.html`.
 - [x] Regenerar índice con `node .github/scripts/build-search-index.js`; `node --check`, 103 entradas, frase única presente, 98 páginas HTML y enlaces internos válidos; se retiró además una referencia interna rota preexistente.
 - [x] Barrera terminal confirmada: Chack sin lotes abiertos/procesando y lista de procesos vacía; commit preparado solo con esta investigación y cambios web relacionados.
-- [ ] Push a `main`; verificar Search Index, GitHub Pages y producción.
+- [x] Push principal `2272aba` a `main`; Search Index [29670900003](https://github.com/carlospolop/puto-lipedema/actions/runs/29670900003) y GitHub Pages [29670900002](https://github.com/carlospolop/puto-lipedema/actions/runs/29670900002) finalizaron con éxito; página e índice de producción devolvieron HTTP 200 y la frase única nueva.
