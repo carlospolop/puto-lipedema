@@ -1,0 +1,66 @@
+# Europe PMC lipedema adipocyte/fibrosis/inflammation/lipolysis
+SUCCESS: Europe PMC results for 'lipedema adipocyte fibrosis inflammation macrophages lipolysis' (top 10):
+1. The role of extracellular vesicles in the context of (inter-)cellular communication contributing to adipose tissue dysfunction in lipedema. - https://europepmc.org/article/MED/41988381
+   Front Cell Dev Biol | 2026 | Morawitz KH, Gross JC.
+2. New Frontiers in modeling the lipedema microenvironment &lt;i&gt;in vitro&lt;/i&gt;. - https://europepmc.org/article/MED/42093722
+   Front Cell Dev Biol | 2026 | Soni K, Abbott RD.
+3. Lipedema and adipose tissue: current understanding, controversies, and future directions. - https://europepmc.org/article/MED/41278213
+   Front Cell Dev Biol | 2025 | Rabiee A.
+4. Impact of hormones on lipedema development: a systematic literature review. - https://europepmc.org/article/MED/41575573
+   Arch Gynecol Obstet | 2026 | Lüchinger JE, Pavicic E, Giachino CL, Stute P.
+5. Lipedema: pathophysiological insights and therapeutic strategies - An update for dermatologists. - https://europepmc.org/article/MED/41512532
+   An Bras Dermatol | 2026 | Dal'Forno-Dini T, Birck MS, Saalfeld RM, Macedo CLD, Bagatin E.
+6. Menopause as a Critical Turning Point in Lipedema: The Estrogen Receptor Imbalance, Intracrine Estrogen, and Adipose Tissue Dysfunction Model. - https://europepmc.org/article/MED/40806207
+   Int J Mol Sci | 2025 | Pinto da Costa Viana D, Caseri Câmara L, Borges Palau R.
+7. Dercum’s Disease: Bridging Present Understanding and Emerging Directions - https://europepmc.org/article/PMC/PMC12941686
+   Life (Basel) | 2026 | Gorini F, Coi A, Verdelli A, Magnaterra E, Magliulo M, Sanna L, Corti V, Landini S, Donati M, Bonanni I, Daher R, Corrà A, Pupilli C, Mariotti E, Ruffo di Calabria V, Magnatta A, Caproni M.
+8. Lipedema: A Disease Triggered by M2 Polarized Macrophages? - https://europepmc.org/article/MED/40149538
+   Biomedicines | 2025 | Grewal T, Kempa S, Buechler C.
+9. Characterization of Gut Microbiota Profile in Lipedema: A Pilot Study. - https://europepmc.org/article/MED/41470854
+   Nutrients | 2025 | Di Renzo L, Frank G, Pala B, Cianci R, De Santis GL, Nicoletti F, Bigioni G, Ortoman M, Borro M, Simmaco M, Peluso D, De Lorenzo A, Gualtieri P.
+10. Therapeutic Applications of Ketogenic Diets in Lipedema: A Narrative Review of Current Evidence. - https://europepmc.org/article/MED/40419722
+   Curr Obes Rep | 2025 | Sanlier N, Baltacı S.
+\n# Europe PMC gluteofemoral/femoral adipose tissue lipolysis
+SUCCESS: Europe PMC results for 'femoral gluteofemoral adipose tissue lipolysis adrenergic women' (top 10):
+1. Adipose-androgen crosstalk in polycystic ovary syndrome: mechanisms and therapeutic implications. - https://europepmc.org/article/MED/41476920
+   Front Endocrinol (Lausanne) | 2025 | Ni M, Lei H, Ye T, Wang Y.
+2. Thermogenesis in Adipose Tissue: Adrenergic and Non-Adrenergic Pathways. - https://europepmc.org/article/MED/41597206
+   Cells | 2026 | Hossain MA, Poojari A, Rabiee A.
+3. Is Adipose Tissue Inflammation the Culprit of Obesity-Associated Comorbidities? - https://europepmc.org/article/MED/40533358
+   Obes Rev | 2025 | Turner L, Wanasinghe AI, Brunori P, Santosa S.
+4. Hallmarks of Cancer Cachexia: Sexual Dimorphism in Related Pathways. - https://europepmc.org/article/MED/40362192
+   Int J Mol Sci | 2025 | Satari S, Mota INR, Silva ACL, Brito HO, Oliveira PA, Gil da Costa RM, Medeiros R.
+5. Lipedema: Progress, Challenges, and the Road Ahead. - https://europepmc.org/article/MED/40425048
+   Obes Rev | 2025 | Cifarelli V.
+6. Immune Regulatory Crosstalk in Adipose Tissue Thermogenesis. - https://europepmc.org/article/MED/39921241
+   Compr Physiol | 2025 | Yildiz R, Ganbold K, Sparman NZR, Rajbhandari P.
+7. Sex- and Gender-Related Differences in Obesity: From Pathophysiological Mechanisms to Clinical Implications. - https://europepmc.org/article/MED/39000449
+   Int J Mol Sci | 2024 | Koceva A, Herman R, Janez A, Rakusa M, Jensterle M.
+8. Cardiometabolic risk assessment by anthropometric and biochemical indices in mexican population. - https://europepmc.org/article/MED/40727914
+   Front Endocrinol (Lausanne) | 2025 | Quirino-Vela L, Mayoral-Chavez M, Pérez-Cervera Y, Ildefonso-García O, Cruz-Altamirano E, Ruiz-García M, Alpuche J.
+9. Sex Differences in Adipose Tissue Function. - https://europepmc.org/article/MED/32418585
+   Endocrinol Metab Clin North Am | 2020 | Gavin KM, Bessesen DH.
+10. New Mediators in the Crosstalk between Different Adipose Tissues. - https://europepmc.org/article/MED/38731880
+   Int J Mol Sci | 2024 | Gómez-Hernández A, de Las Heras N, Gálvez BG, Fernández-Marcelo T, Fernández-Millán E, Escribano Ó.
+\n# SerpAPI Scholar lipedema lipolysis low carbohydrate
+SUCCESS: SerpAPI google_scholar results for 'lipedema lipolysis adipose tissue low carbohydrate diet' (top 10):
+1. Therapeutic applications of ketogenic diets in lipedema: a narrative review of current evidence - https://link.springer.com/article/10.1007/s13679-025-00642-y
+   … by low carbohydrate as well as high fat content, ketogenic diets … metabolism due to GH being a potent stimulator of lipolysis. … of subcutaneous adipose tissue in lipedema [15, 76]. A …
+2. Lipedema: From women's hormonal changes to nutritional intervention - https://www.mdpi.com/2673-396X/6/2/24
+   … Lipedema is a chronic, painful disease of adipose tissue (AT) that primarily affects women and … insulin plasma concentrations enough to promote lipolysis of lipedema adipocytes [62], …
+3. The effect of a low-carbohydrate diet on subcutaneous adipose tissue in females with lipedema - https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2024.1484612/full
+   … insulin plasma concentrations sufficiently to facilitate lipolysis of lipedema adipocytes (11). This theory is reinforced by our findings of a significant decrease in SAT area and calf …
+4. Current Evidence-Based Clinical Nutritional Approaches in Lipedema: A Scoping Review - https://academic.oup.com/nutritionreviews/advance-article-abstract/doi/10.1093/nutrit/nuaf203/8342097
+   … that reducing carbohydrate intake in lowcarbohydrate diets may decrease … lipolysis in adipose tissue.Studies have shown that low-carbohydrate diets have positive effects on lipedema …
+5. Influence of ketogenic diet and nutraceutical correction in the complex treatment of lower limbs lipedema - https://www.vvmr.ru/en/archives/2021/5-20-oktyabr-2021/tekhnologii-vosstanovitelnoy-meditsiny-i-meditsinskoy-reabilitatsii/2021-5-primenenie-ketogennoi-diety-i-nutricevticheskoi-korrekcii-v-kompleksnom-lechenii-lipedemy-nizhnih-konechnostei.html
+   … decrease , but also the lipogenesis decrease and stimulation of lipolysis. Adipose tissue reduction due to lipolysis stimulation was also indicated by a decrease in leptin expression. …
+6. Clinical or cultural? Dietary interventions for lipedema: a systematic review - https://www.sciencedirect.com/science/article/pii/S0378512225005249
+   … Lipedema is a chronic, progressive condition characterized by symmetrical … of adipose tissue, predominantly in women's lower extremities. It is frequently associated with pain, reduced …
+7. The efficacy of ketogenic diets (low carbohydrate; high fat) as a potential nutritional intervention for lipedema: A systematic review and meta-analysis - https://www.mdpi.com/2072-6643/16/19/3276
+   … in adipose tissue [10,11]. Several studies have also found that the condition is resistant to … diet and exercise interventions [10,12]. Research into the adipose tissue disorder lipedema …
+8. The effect of a low-carbohydrate, high-fat diet versus moderate-carbohydrate and fat diet on body composition in patients with lipedema - https://www.tandfonline.com/doi/abs/10.2147/DMSO.S377720
+   … , lipolysis in buttock regions is reduced compared to the area of adipose tissue located in … -beta expression) in white adipose tissue from areas involved in lipedema may also play a role …
+9. Lipedema and adipose tissue: current understanding, controversies, and future directions - https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2025.1691161/full
+   … adipose tissue, … adipose tissue dysfunction in lipedema remain incompletely understood. This mini review combines current knowledge about adipose tissue biology in lipedema, …
+10. Modified Mediterranean-ketogenic diet and carboxytherapy as personalized therapeutic strategies in lipedema: a pilot study - https://www.mdpi.com/2072-6643/15/16/3654
+   … adipose tissue and into four stages based on the severity of the disease [1]. The first clinical study on diet therapy in lipedema … effect on fibroblastic activity and a lipolytic effect with an …

@@ -1,0 +1,15 @@
+{
+  "mode": "pro",
+  "started_at": 1784469983.3345792,
+  "terminal_state": "timeout",
+  "answer_chars": 0,
+  "conversation_url": "https://chatgpt.com/",
+  "updated_at": 1784474940.849297,
+  "running": false,
+  "forced_answer": false,
+  "finished_at": 1784474940.849297,
+  "output_timeout_seconds": 1800,
+  "output_deadline_at": 1784471783.3345792,
+  "interrupted_for_timeout_upgrade": true,
+  "error": "Legacy ChatGPT Pro run produced no extractable output, exceeded the newly enforced 1800-second total output deadline, and was interrupted while reloading the Lipedema MCP."
+}
