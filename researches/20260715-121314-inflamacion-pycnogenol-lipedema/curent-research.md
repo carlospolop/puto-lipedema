@@ -34,7 +34,16 @@ Cerrar la auditoría de Pycnogenol, resolver identificadores, muestra, pauta, re
 - [x] Página de venoactivos reescrita en español sencillo.
 - [x] Páginas relacionadas corregidas para retirar combinaciones y dosis extrapoladas.
 - [x] Página de actualizaciones creada/actualizada y limitada a 30 días.
-- [x] Índice regenerado y validaciones locales completadas; commit y push en curso.
+- [x] Índice regenerado, validaciones locales completadas, commit integrado con los cambios remotos y producción verificada.
+
+## Verificación de publicación
+
+- Commit público inicial: `a26ee08ffefbedf18eccc835859d0b4451dc177d`.
+- Workflow **Search index**: éxito.
+- Workflow **Deploy GitHub Pages**: éxito.
+- `https://putolipedema.com/manejo/suplementos-microcirculacion.html`: HTTP 200 y contenido corregido comprobado.
+- `https://putolipedema.com/anexos/ultimas-incorporaciones.html`: HTTP 200 y entrada del 20 de julio comprobada.
+- Mirror de GitHub Pages: contenido corregido comprobado.
 
 ## Conclusión
 

@@ -57,7 +57,7 @@ Inventario verificable de los artefactos preservados al cierre del 20 de julio d
 | `chack-artifacts/lipedema-pycnogenol-venoactivos-20260719/researches/research-000-d0c2334e/researcher_outputs/async_task-0-17a6bf_prochatgpt_researcher.json` | 7481 | `c253df0f6529e2301f5cc95c3d78da2be3a4dd643f669863611d74077aaeff77` |
 | `chack-artifacts/lipedema-pycnogenol-venoactivos-20260719/researches/research-000-d0c2334e/researcher_outputs/async_task-0-830aac_prochatgpt_researcher.json` | 10947 | `78d4b4f54ed0d6f773279c841544fcededd4dbfc13a2ef5a13d0c706f21abff7` |
 | `contradiction-resolution.md` | 2022 | `f56942c31d5717423ef81782a6ae188399254f31c6b8fb348a8c6d5d9d05083f` |
-| `curent-research.md` | 1995 | `e9b56956b0d7687daba85a3c68dc7449ad786891d71ae05ad46be056c632cc2a` |
+| `curent-research.md` | 2509 | `cc626358db7e36d3a6d0d86f8bd0c4a42d474d608ab5a3a9937b504758e88ce3` |
 | `launch-log.md` | 2237 | `7c513451e2b62fa2a48bb29ca5ef82b2198ead459569b40bbbae18089900ce4b` |
 | `local-research-cleanup.md` | 1439 | `605c4ed361a7e163dba7c3b83a66234fa6f75d68276ea2d164c54dd3911496a1` |
 | `prompts/osint.txt` | 1836 | `6469cbdd7b14f461ad46ed97a8ae0e90a6f22b76b2f81a73ab5943a29a35522f` |
