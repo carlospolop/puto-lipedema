@@ -1331,6 +1331,11 @@ p {
   grid-column: 2;
 }
 
+.page-hero .article-summary {
+  max-width: 780px;
+  margin: 30px 0 0;
+}
+
 .article-summary h2,
 .side-panel h2 {
   margin: 0 0 15px;

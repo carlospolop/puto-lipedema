@@ -396,7 +396,10 @@
 
     if (summary) {
       summary.classList.add("article-summary");
-      body.appendChild(summary);
+      if (!summary.closest(".page-hero")) {
+        const heroInner = hero.querySelector(".page-hero-inner") || hero;
+        heroInner.appendChild(summary);
+      }
     }
 
     if ("IntersectionObserver" in window) {
