@@ -33,11 +33,13 @@ Comparar fórmula previa, HSN Circucare, Axaven, Codeage Veins Vitamins+ y PiùL
 - [x] Axaven/PiùLife: problemas documentales impiden priorizarlos.
 - [x] Circu Care: evitar de entrada por beneficio no demostrado e incertidumbre hemostática.
 
-## Publicación [EN CURSO: commit y push]
+## Publicación [COMPLETADA]
 - [x] `summary.md` creado.
 - [x] Evidencias Chack y logs de subagentes preservados.
 - [x] Web y últimas incorporaciones actualizadas; retirada entrada con más de 30 días.
 - [x] Buscador regenerado: 104 entradas.
 - [x] HTML y enlaces relativos validados: 99 páginas, 0 enlaces rotos.
-- [x] `MANIFEST.md` preparado tras la última edición de la investigación.
-- [ ] Commit, push, Actions y producción verificados.
+- [x] `MANIFEST.md` regenerado tras la última edición de la investigación.
+- [x] Commit `7580018` y push a `main` completados.
+- [x] Search Index y Deploy GitHub Pages en éxito.
+- [x] Producción HTTP 200 verificada con frases únicas en la comparativa, actualizaciones y buscador.

@@ -1,6 +1,6 @@
 # MANIFEST
 
-Archivos inventariados: 64. Hash: SHA-256.
+Archivos inventariados: 65. Hash: SHA-256.
 
 | Archivo | Bytes | SHA-256 |
 |---|---:|---|
@@ -63,7 +63,8 @@ Archivos inventariados: 64. Hash: SHA-256.
 | `chack-artifacts/researches/research-001-d152ee3b/admin_output.json` | 11489 | `b1a06ffa216763407adbc858c5611f527df6cb6bf1f11f5e641c506e36a86123` |
 | `chack-artifacts/researches/research-001-d152ee3b/merged_prompt.json` | 3578 | `51a245d9b1771ccc80338d117e1460409865754984b9c20357918c29e2fc46d2` |
 | `chack-launch-log.md` | 2197 | `391801cf558910501a096fdec3ff10a40f945a393a4e892ef6404077acd71c96` |
-| `curent-research.md` | 2787 | `4ff56c345184bd6649963b2581cd8069ef106550c6b9bbb82b2e4d90d81d3c65` |
+| `curent-research.md` | 2928 | `69a2bc79462d5914c48e0aa056e198969318e57538e5cb02a41c3491617577b0` |
+| `deployment-verification.md` | 1249 | `5714d0e8b750b16e3b77e69c36b8cc703bb0b773574f3c47573b32d1624e730b` |
 | `subagents/osint-community.log` | 17511 | `5eb3503d4009433c6c191ebe8c532a4ae08527df0f980f39ab414fe9e025425f` |
 | `subagents/scientific-audit.log` | 3999 | `beb3ee4e0ecce9287fc5177ff4eda0f28fd38c9ec98c0b3583d0ed494d73b7a0` |
 | `subagents/serpapi-label-audit.log` | 17987 | `5c47a066d63365ac46c2e053c308c4090ec87d6dc0bb796ffa26aa41c1e4455d` |
