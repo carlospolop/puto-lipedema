@@ -1,0 +1,13 @@
+{
+  "mode": "pro",
+  "execution_backend": "local_worker",
+  "remote_job_id": "job_f3089ad5-8344-45cf-ba7b-5bfbc5d947c1",
+  "submitted_at": 1785321782.3741138,
+  "terminal_state": "extracted",
+  "output_timeout_seconds": 5400,
+  "remote_status": "SUCCEEDED",
+  "answer_chars": 13565,
+  "last_polled_at": 1785326118.7016082,
+  "started_at": 1785321789.845448,
+  "finished_at": 1785326119.0292697
+}

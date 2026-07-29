@@ -1,0 +1,14 @@
+{
+  "mode": "pro",
+  "execution_backend": "remote",
+  "remote_job_id": "job_ad259513-d8ee-40c2-807f-967a1c20eab0",
+  "submitted_at": 1785321664.1172292,
+  "terminal_state": "error",
+  "output_timeout_seconds": 5400,
+  "remote_status": "FAILED",
+  "answer_chars": 0,
+  "last_polled_at": 1785321679.3997986,
+  "started_at": 1785321668.5527842,
+  "finished_at": 1785321679.5726273,
+  "error": "ChatGPTWebResearchError: Remote ChatGPT pro job ended as FAILED (BROWSER_EXECUTION_FAILED): ChatGPTWebResearchError: The Pro option was not present in the ChatGPT model selector."
+}

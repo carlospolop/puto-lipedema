@@ -1,0 +1,11 @@
+{
+  "mode": "pro",
+  "execution_backend": "remote",
+  "remote_job_id": "job_de736ac8-d7b7-47a6-8393-e294b45ef209",
+  "submitted_at": 1785326412.1565552,
+  "terminal_state": "forcing_answer",
+  "output_timeout_seconds": 5400,
+  "remote_status": "RUNNING",
+  "answer_chars": 0,
+  "last_polled_at": 1785331565.1735785
+}

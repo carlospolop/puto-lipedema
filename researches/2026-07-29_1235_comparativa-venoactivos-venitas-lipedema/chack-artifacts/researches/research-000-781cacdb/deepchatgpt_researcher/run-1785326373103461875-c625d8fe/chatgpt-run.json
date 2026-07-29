@@ -1,0 +1,14 @@
+{
+  "mode": "deep",
+  "execution_backend": "remote",
+  "remote_job_id": "job_3d5c83d0-c019-4387-9e1a-c2c25e0150aa",
+  "submitted_at": 1785326373.6956499,
+  "terminal_state": "error",
+  "output_timeout_seconds": 4500,
+  "remote_status": "FAILED",
+  "answer_chars": 0,
+  "last_polled_at": 1785326434.402964,
+  "started_at": 1785326380.7902367,
+  "finished_at": 1785326434.6423385,
+  "error": "ChatGPTWebResearchError: Remote ChatGPT deep job ended as FAILED (BROWSER_EXECUTION_FAILED): ChatGPTWebResearchError: The sent request did not create a verified Deep Research connector target; refusing to count it as Deep Research."
+}
