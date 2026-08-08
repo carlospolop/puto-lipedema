@@ -3,14 +3,14 @@
 Regenerado el 2026-08-08. Incluye todos los artefactos de la carpeta excepto este propio `MANIFEST.md`. SHA-256 calculado sobre bytes exactos.
 
 - Archivos inventariados: **288**
-- Bytes totales: **25548917**
+- Bytes totales: **25549505**
 - Cola Chack: `lipedema-diureticos-20260718`
 - Barrera terminal: 0 lotes abiertos/procesando; 2 Deep extraídos históricos; 4 solicitudes Pro materialmente diferenciadas en total, con fallos terminales preservados; respaldos científicos/web/regulatorios/CLI completos.
 
 | Tipo | Ruta | Bytes | SHA-256 |
 |---|---|---:|---|
-| Control/síntesis | `curent-research.md` | 8154 | `8bbc1c80fea0b296f98250229bb1865d98e68887df38ac3a83732b80038452e1` |
-| Control/síntesis | `current-research.md` | 8154 | `8bbc1c80fea0b296f98250229bb1865d98e68887df38ac3a83732b80038452e1` |
+| Control/síntesis | `curent-research.md` | 8448 | `842c3d3772f1eb447ff528b65e1533c369ef7a7ad9fae650b0278ab0cd0a0633` |
+| Control/síntesis | `current-research.md` | 8448 | `842c3d3772f1eb447ff528b65e1533c369ef7a7ad9fae650b0278ab0cd0a0633` |
 | Chack/respaldos | `evidence/chack/deep-01-admin.json` | 71928 | `964eb0a48d488659d43285048536192b96d87676905802fe9e30a4b2a2231e8a` |
 | Chack/respaldos | `evidence/chack/deep-01-internal-output-001.json` | 28297 | `95a9ea7e45dd2240dc6262f050e528a8ff5e03799f895495823030b5f565579c` |
 | Chack/respaldos | `evidence/chack/deep-01-internal-output-002.json` | 29837 | `50a71e1049af609030b2f3e4e5ade09a346a35e17bf3ebb537b0289d30e3bd13` |

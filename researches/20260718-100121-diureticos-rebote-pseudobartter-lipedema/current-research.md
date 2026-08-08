@@ -52,7 +52,7 @@
 - [x] Pro 4 alcanzó error terminal tras 2 intentos Chack (`BROWSER_EXECUTION_FAILED`, timeout de navegación); no cuenta como evidencia Pro. El administrador completó diferencial con especialistas científico/web/CLI y preservó fuentes.
 - [x] Inspeccionados todos los resultados. Hallazgos nuevos útiles: los antagonistas mineralocorticoides pueden ser tratamiento modificador de insuficiencia cardiaca y no solo “pastillas de agua”; un cribado tardío negativo no excluye exposición; la diarrea habitual suele causar acidosis, no pseudo-Bartter.
 - [x] Saturación: la nueva ronda confirmó y afinó seguridad, sin cambiar la conclusión central ni descubrir evidencia directa en lipedema.
-- [x] Barrera terminal: cola Chack sin lotes abiertos/procesando; síntesis, manifest, web/actualizaciones, commit y verificación de producción en curso.
+- [x] Barrera terminal: cola Chack sin lotes abiertos/procesando. `summary.md`, `MANIFEST.md`, web y novedades completados; commit principal `c5627e3` enviado a `main`. Search Index [31250415221](https://github.com/carlospolop/puto-lipedema/actions/runs/31250415221) y GitHub Pages [31250415227](https://github.com/carlospolop/puto-lipedema/actions/runs/31250415227) terminaron con éxito; producción devolvió HTTP 200 y las frases únicas nuevas.
 
 ## Cierre previo (2026-07-19; sujeto a revalidación)
 - [x] Preservar cada respuesta Chack/subagente y evidencia primaria; registrar fallos terminales.
