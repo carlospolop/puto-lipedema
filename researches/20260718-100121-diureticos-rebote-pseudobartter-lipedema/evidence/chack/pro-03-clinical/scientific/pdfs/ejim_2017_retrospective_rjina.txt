@@ -1,0 +1,193 @@
+Title: Is diuretic withdrawal safe in patients with heart failure and reduced ejection fraction? A retrospective analysis of our outpatient cohort
+
+URL Source: http://doi.org/10.1016/j.ejim.2017.03.025
+
+Markdown Content:
+Although diuretics are essential to optimize volume status in patients with heart failure with reduced ejection fraction (HFrEF) [[1]](http://doi.org/10.1016/j.ejim.2017.03.025#)
+
+1.
+
+Ponikowski, Piotr ∙ Voors, Adriaan A. ∙ Anker, Stefan D. ...
+
+**ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure 2016: the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC). Developed with the special contribution of the Heart Failure Association (HFA) of the ESC**
+
+_Eur Heart J._ 2016;
+
+, safety and benefits of prolonged diuretic treatment are uncertain, in particular on patients with chronic and compensated HFrEF. In facts, diuretics can increase the neuro-humoral activation in HFrEF [[2]](http://doi.org/10.1016/j.ejim.2017.03.025#)
+
+2.
+
+Bayliss, J. ∙ Norell, M. ∙ Re, Canepa-Anson ...
+
+**Untreated heart failure: clinical and neuroendocrine effects of introducing diuretics**
+
+_Br Heart J._ 1987; **57**:17-22
+
+, determine electrolyte disturbances [[3]](http://doi.org/10.1016/j.ejim.2017.03.025#)
+
+3.
+
+Wehling, M.
+
+**Morbus diureticus in the elderly: epidemic overuse of a widely applied group of drugs**
+
+_\_Journal of the American Medical Directors Association J\_ Am Med Dir Assoc._ 2013; **14**:437-442
+
+ and acute renal insufficiency [[4]](http://doi.org/10.1016/j.ejim.2017.03.025#)
+
+4.
+
+Ronco, C. ∙ Di Lullo, L.
+
+**Cardiorenal syndrome**
+
+_Heart Fail Clin._ 2014; **10**:251-280
+
+. On the contrary, Hopper et al. identified seven studies of diuretic withdrawal (DW) in stable chronic HF, in which clinical decompensation was more frequent in the DW group [[5]](http://doi.org/10.1016/j.ejim.2017.03.025#)
+
+5.
+
+Hopper, I. ∙ Samuel, R. ∙ Hayward, C. ...
+
+**Can medications be safely withdrawn in patients with stable chronic heart failure? Systematic review and meta-analysis**
+
+_J Card Fail._ 2014; **20**:522-532
+
+. Our hypothesis was that diuretic therapy could be safely suspended in patients with HFrEF after adequate therapeutic neuro-hormonal antagonism [[6]](http://doi.org/10.1016/j.ejim.2017.03.025#)
+
+6.
+
+Galve, E. ∙ Mallol, A. ∙ Catalan, R. ...
+
+**Clinical and neurohumoral consequences of diuretic withdrawal in patients with chronic, stabilized heart failure and systolic dysfunction**
+
+_Eur J Heart Fail._ 2005; **7**:892-898
+
+. Therefore, we retrospectively analyzed our cohort of HFrEF outpatients with a twofold aim: first, to asses if DW is safe in patients with HFrEF and second, to identify clinical, biochemical or echocardiographic parameters associated to DW among HFrEF patients regularly followed-up at our outpatient's clinic. The study was conducted in our tertiary level HF clinical center. All ambulatory patients referred from November 2011 through September 2014 at our center were considered for recruitment. Exclusion criteria were as follows: (I) hospitalization for HF within 30 days before ambulatory evaluation, (II) myocardial revascularization and/or resynchronization therapy within 180 days before ambulatory visit, (III) congenital heart disease, (IV) severe valve heart disease. Overall, 216 consecutive clinically stable HFrEF patients (ejection fraction HF≤35%) were evaluated for retrospective enrollment. Among them, 26 patients were excluded, since they were not taking diuretics. Eventually, 190 patients were recruited and stratified according to diuretics continuation: no withdrawal group (NWG), N=169 (89%), and diuretics withdrawal group (WG) N=21 (11%) (Fig. 1S in supplementary materials). Furosemide was the only diuretic used. Patients were assessed at baseline visit. Medical history, physical exam, 12-lead electrocardiogram and laboratory analysis comprehensive of N-terminal pro brain natriuretic peptides (NT-proBNP) and highly sensitive troponin essay were obtained. To assess the safety of DW, furosemide dose in WG was tapered down (steps of 25 mg) at each visit usually at the sixth month re-evaluation, according to the following criteria: 1) no symptoms or signs of congestion were evident at the clinical assessment and 2) NT-proBNP trend was in downturn. A standard 2-Dimensional and Doppler transthoracic echocardiogram was performed at baseline visit and repeated in case of worsening clinical conditions. Baseline characteristics between WG and NWG were compared using Mann-Whitney U test and Fisher exact test. Changes from baseline characteristics at follow-up were tested by paired t-or McNemar test. Univariate Logistic regression was used to identify baseline characteristics associated to diuretic withdrawal, while ROC analysis identified best cut-off values to differentiate WG and NWG groups. Two models of multivariate analysis were built: one including baseline echocardiographic parameters and the other including NT-proBNP and TAPSE. Furosemide dosage at baseline was forced in both models using SAS JMP 9 software package. NWG patients were older, had higher body mass index (BMI), had more frequently history of arterial hypertension, atrial fibrillation and were more commonly cardiac resynchronization therapy and implantable cardioverter defibrillator (ICD) carriers. No differences were found between the two groups concerning medical treatment except for diuretics. According to univariate logistic regression analysis, younger age, higher BMI, history of arterial hypertension, the presence of ICD and diuretic dose were associated with lower chance of discontinuing diuretics ([Table 1](http://doi.org/10.1016/j.ejim.2017.03.025#t0005)). Patients in WG had lower NT-proBNP levels ([Table 2](http://doi.org/10.1016/j.ejim.2017.03.025#t0010)). According to univariate regression analysis: NT-proBNP<550 pg/ml and estimated glomerular filtration rate were associated with DW. Regarding echocardiography findings a LVEDD>60 mm, TAPSE≥20 mm were associated to DW ([Table 2](http://doi.org/10.1016/j.ejim.2017.03.025#t0010)).
+
+|  | NWG | WG | _p_-Value | OR (_p_-value) |
+| --- | --- | --- | --- |
+| (_N_=169) | (_N_=21) |
+| Age, years | 60.9±8.7 | 56.3±13.7 | 0.041 | 1.04 (1.00–1.09) |
+| Females, % | 35 (21) | 3 (14) | 0.47 | 1.56 (0.49–6.95) |
+| Etiology of heart failure |  |  |  |  |
+| Ischemic cardiopathy, % | 71 (42) | 9 (43) | 1.00 | 1.03 (0.41–2.58) |
+| Hypertensive/non-ischemic, % | 87 (51) | 12 (57) | 0.65 | 0.79 (0.30–1.97) |
+| Valve disease, % | 11 (7) | 0 (0) | 0.61 |  |
+| BMI, % | 27.7±3.7 | 24.7±3.4 | 0.0003 | 1.26 (1.11–1.46) |
+| NYHA class III/IV, % | 33 (18) | 2 (9) | 0.28 | 1.92 (0.61–8.49) |
+| CRT % | 48 (28) | 0 (0) | 0.002 |  |
+| Atrial fibrillation, % | 21 (12) | 0 (0) | 0.22 |  |
+| Intra-cardiac defibrillator, % | 135 (80) | 10 (48) | 0.002 | 4.36 (1.70–11.32) |
+| Diabetes, % | 40 (24) | 2 (10) | 0.11 | 2.94 (0.80–18.98) |
+| Hypertension, % | 52 (31) | 1 (2) | 0.004 | 8.88 (1.77–161) |
+| COPD, % | 21 (12) | 3 (14) | 0.73 | 0.85 (0.81–7.35) |
+| Drugs |  |  |  |  |
+| Furosemide, mg | 169 (100) | 21 (100) |  |  |
+| Furosemide mean dosage, mg | 119.2±149.7 | 24.1±21 | < 0.0001 | 1.04 (1.02–1.08) |
+| Spironolactone, % | 106 (62) | 11 (52) | 0.36 | 1.52 (0.60–3.82) |
+| ACE Inhibitor/ARB, % | 160 (94) | 20 (95) | 0.91 | 0.88 (0.04–5.10) |
+| Beta-Blockers, % | 151 (89) | 18 (86) | 0.62 | 1.39 (0.30–4.66) |
+| Ivabradine, % | 8 (5) | 0 (0) | 0.60 |  |
+| Digoxin, % | 24 (14) | 4 (19) | 0.56 | 0.70 (0.23–2.60) |
+
+Table 1
+
+Patients' demographics and clinical characteristics.
+
+NWG=no withdrawal group; WG=withdrawal group; BMI=Body Mass Index; NYHA=New York Heart Association; CRT=Cardiac Resynchronization Therapy; COPD=Chronic Obstructive Pulmonary Disease; ACE=Angiotensin Converting Enzyme; ARB=Angiotensin Receptor Blockers.
+
+*   [Open table in a new tab](https://www.ejinme.com/action/showFullTableHTML?isHtml=true&tableId=t0005&pii=S0953-6205%2817%2930129-2)
+
+|  | NWG | WG | _p_-value | OR (_p_-value) |
+| --- | --- | --- | --- |
+| (_N_=169) | (_N_=21) |  |  |
+| Biochemical markers |  |  |  |  |
+| NT-proBNP, pg/ml | 1.702±1.863 | 564±0.623 | < 0.001 | 2.40 (1.35–5.62) |
+| NT-proBNP <550, pg/ml | 57 (34) | 14 (67) | 0.005 | 0.26 (0.09–0.66) |
+| High sensitivity troponin I, pg/ml | 29.6±94.1 | 13.5±23.7 | 0.24 | 1.00 (0.99–1.04) |
+| Blood urea nitrogen, mg/dl | 47.4±21.1 | 39.2±11.4 | 0.09 | 1.02 (0.99–1.07) |
+| Creatinine, mg/dL | 1.2±0.3 | 1.1±0.3 | 0.15 | 3.38 (0.60–26.24) |
+| Glomerular Filtration Rate | 62.7±17.3 | 74±18.9 | 0.009 | 0.96 (0.93–0.99) |
+| Hemoglobin, gr/dL | 13.9±1.6 | 14.2±1.4 | 0.37 | 0.86 (0.62–1.18) |
+| Serum sodium, mmol/l | 137.0±3.3 | 137.8±3.5 | 0.49 | 0.92 (0.76–1.09) |
+| Serum potassium, mmol/l | 4.0±0.3 | 4.2±0.5 | 0.035 | 0.25 (0.06–0.90) |
+| Echocardiographic data |  |  |  |  |
+| LVEDD, mm | 64.1±7.3 | 58.6±7.3 | 0.001 | 1.11 (1.04–1.19) |
+| LVEDD <60 mm | 38 (23) | 13 (62) | 0.0005 | 0.18 (0.06–0.47) |
+| LV ejection fraction, % | 25.7±5.7 | 28.3±5.9 | 0.045 | 0.92 (0.84–0.99) |
+| Mitral regurgitation (Vena contracta, mm) | 2.1±1.4 | 1.7±1.2 | 0.15 | 1.28 (0.91–1.87) |
+| E/A ratio | 1.65±1.25 | 1.23±0.78 | 0.09 | 1.47 (0.93–2.66) |
+| E/E’ | 15.3±7.7 | 11.8±5.4 | 0.0342 | 1.08 (1.00–1.19) |
+| LAV Index, mL/m2 | 50.3±23 | 37.7±13.4 | 0.005 | 1.03 (1.01–1.07) |
+| sPAP | 28.2±13.3 | 24.7±7.1 | 0.26 | 1.02 (0.98–1.07) |
+| TAPSE, mm | 18.3±4.1 | 21.2±3.6 | 0.009 | 0.82 (0.72–0.93) |
+| TAPSE ≥20 mm | 65 (41) | 16 (80) | 0.001 | 0.17 (0.04–0.49) |
+| Central venous pressure (IVC, mm Hg) | 7.1±4.3 | 6±2.9 | 0.24 | 1.08 (0.95–1.29) |
+
+Table 2
+
+Biochemical markers and echocardiographic data.
+
+NWG=no withdrawal group; WG=withdrawal group; NT-proBNP=N-Terminal proBrain Natriuretic Peptide; LVEDD=Left Ventricular End Diastolic Diameter; LV=Left Ventricular; E/A Ratio=Trans-mitral Doppler flow early wave velocity/Trans-mitral Doppler flow late wave velocity Ratio; E/E’=Trans-mitral Doppler flow early wave velocity/ Early pulsed wave tissue Doppler velocities at the mitral annulus; LAV=Left Atrial Volume; sPAP=sistolic pulmonary artery pressure; TAPSE=Tricuspid Annular Plane Systolic Excursion; IVC=inferior caval vein.
+
+*   [Open table in a new tab](https://www.ejinme.com/action/showFullTableHTML?isHtml=true&tableId=t0010&pii=S0953-6205%2817%2930129-2)
+
+## Keywords
+
+1.   [Heart failure](https://www.ejinme.com/action/doSearch?AllField=%22Heart+failure%22&journalCode=ejinme)
+2.   [Echocardiography](https://www.ejinme.com/action/doSearch?AllField=%22Echocardiography%22&journalCode=ejinme)
+3.   [Diuretics](https://www.ejinme.com/action/doSearch?AllField=%22Diuretics%22&journalCode=ejinme)
+4.   [Natriuretic peptides](https://www.ejinme.com/action/doSearch?AllField=%22Natriuretic+peptides%22&journalCode=ejinme)
+
+[![Image 1: European Journal of Internal Medicine home. Opens in new tab](https://www.ejinme.com/pb-assets/ux3/logos/ha/etoc/ejinme_toc_banner-1656362013563.png)](https://www.ejinme.com/action/ShowMarlinJournalHome?journalCode=ejinme "European Journal of Internal Medicine home. Opens in new tab")
+
+## Get full text access
+
+Log in, subscribe or purchase for full access.
+
+## References
+
+Ponikowski, Piotr ∙ Voors, Adriaan A. ∙ Anker, Stefan D. ...
+
+**ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure 2016: the Task Force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC). Developed with the special contribution of the Heart Failure Association (HFA) of the ESC**
+
+_Eur Heart J._ 2016;
+
+Bayliss, J. ∙ Norell, M. ∙ Re, Canepa-Anson ...
+
+**Untreated heart failure: clinical and neuroendocrine effects of introducing diuretics**
+
+_Br Heart J._ 1987; **57**:17-22
+
+Wehling, M.
+
+**Morbus diureticus in the elderly: epidemic overuse of a widely applied group of drugs**
+
+_\_Journal of the American Medical Directors Association J\_ Am Med Dir Assoc._ 2013; **14**:437-442
+
+Ronco, C. ∙ Di Lullo, L.
+
+**Cardiorenal syndrome**
+
+_Heart Fail Clin._ 2014; **10**:251-280
+
+Hopper, I. ∙ Samuel, R. ∙ Hayward, C. ...
+
+**Can medications be safely withdrawn in patients with stable chronic heart failure? Systematic review and meta-analysis**
+
+_J Card Fail._ 2014; **20**:522-532
+
+Galve, E. ∙ Mallol, A. ∙ Catalan, R. ...
+
+**Clinical and neurohumoral consequences of diuretic withdrawal in patients with chronic, stabilized heart failure and systolic dysfunction**
+
+_Eur J Heart Fail._ 2005; **7**:892-898
+
+7.
+
+Romano, G. ∙ Raffa, G.M. ∙ Licata, P. ...
+
+**Can multiple previous treatment-requiring rejections affect biventricular myocardial function in heart transplant recipients? A two-dimensional speckle-tracking study**
+
+_Int J Cardiol._ 2016; **209**:54-56

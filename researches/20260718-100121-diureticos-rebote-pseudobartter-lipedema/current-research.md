@@ -2,7 +2,7 @@
 
 **Carpeta:** `20260718-100121-diureticos-rebote-pseudobartter-lipedema`  
 **Cola Chack:** `lipedema-diureticos-20260718`  
-**Estado:** en curso
+**Estado:** cerrada y revalidada el 2026-08-08; evidencia preservada y publicación en curso
 
 ## Pregunta central
 ¿Cuándo están indicados o contraindicados los diuréticos en una persona con lipedema y edema coexistente, qué evidencia existe sobre edema por diuréticos/rebote y pseudo-Bartter, y cómo explicar una revisión o retirada segura sin inducir a suspender tratamientos necesarios?
@@ -45,7 +45,16 @@
 - [x] Revisar calidad comunitaria: “water pills funcionan”, “siempre hay rebote” y “natural es más seguro” son anécdota/desinformación, no evidencia.
 - [x] Saturación: solo refinó redacción y seguridad; no apareció un hallazgo clínico material nuevo. Omitir cifras en la página, no decir «causa principal», no generalizar laxantes y no usar «deja proteínas atrás».
 
-## Cierre
+## Iteración 4 — recuperación obligatoria 2026-08-01
+- [x] `main` y `origin/main` sincronizados; carpeta ya publicada localizada y evidencia previa preservada.
+- [x] `researcher_queue_status`: 0 lotes abiertos/procesando; cola estable `lipedema-diureticos-20260718` reabierta una sola vez.
+- [x] Pro 3 alcanzó error terminal tras 2 intentos Chack (`BROWSER_EXECUTION_FAILED`, timeout de navegación); no cuenta como evidencia Pro. El administrador completó auditoría regulatoria/científica/web/producto y preservó fuentes primarias.
+- [x] Pro 4 alcanzó error terminal tras 2 intentos Chack (`BROWSER_EXECUTION_FAILED`, timeout de navegación); no cuenta como evidencia Pro. El administrador completó diferencial con especialistas científico/web/CLI y preservó fuentes.
+- [x] Inspeccionados todos los resultados. Hallazgos nuevos útiles: los antagonistas mineralocorticoides pueden ser tratamiento modificador de insuficiencia cardiaca y no solo “pastillas de agua”; un cribado tardío negativo no excluye exposición; la diarrea habitual suele causar acidosis, no pseudo-Bartter.
+- [x] Saturación: la nueva ronda confirmó y afinó seguridad, sin cambiar la conclusión central ni descubrir evidencia directa en lipedema.
+- [x] Barrera terminal: cola Chack sin lotes abiertos/procesando; síntesis, manifest, web/actualizaciones, commit y verificación de producción en curso.
+
+## Cierre previo (2026-07-19; sujeto a revalidación)
 - [x] Preservar cada respuesta Chack/subagente y evidencia primaria; registrar fallos terminales.
 - [x] Redactar `summary.md` y `MANIFEST.md` con bytes/SHA-256 (regenerar manifest tras la última edición de control).
 - [x] Actualizar `researches/suggestions.md`.

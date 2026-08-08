@@ -1,0 +1,14 @@
+{
+  "mode": "pro",
+  "execution_backend": "remote",
+  "remote_job_id": "job_2f6b240e-1651-4196-ad4c-a9684834793a",
+  "submitted_at": 1786176501.113734,
+  "terminal_state": "error",
+  "output_timeout_seconds": 5400,
+  "remote_status": "FAILED",
+  "answer_chars": 0,
+  "last_polled_at": 1786176607.184069,
+  "started_at": 1786176539.4634483,
+  "finished_at": 1786176607.433706,
+  "error": "ChatGPTWebResearchError: Remote ChatGPT pro job ended as FAILED (BROWSER_EXECUTION_FAILED): TimeoutError: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://chatgpt.com/\", waiting until \"domcontentloaded\"\n"
+}

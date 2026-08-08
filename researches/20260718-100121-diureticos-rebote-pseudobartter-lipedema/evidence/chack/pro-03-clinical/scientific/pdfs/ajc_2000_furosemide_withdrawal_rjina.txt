@@ -1,0 +1,312 @@
+Title: Furosemide withdrawal in elderly heart failure patients with preserved left ventricular systolic function
+
+URL Source: http://doi.org/10.1016/S0002-9149(00)00795-5
+
+Markdown Content:
+## Abstract
+
+To explore the possibilities of furosemide withdrawal in elderly heart failure (HF) patients with intact left ventricular (LV) systolic function and assess its effects on functional status and orthostatic blood pressure homeostasis, we performed a placebo-controlled pilot trial of furosemide withdrawal with 3 months of follow-up in 32 HF patients (aged 75.1 ± 0.7 years [mean ± SEM]) with a LV ejection fraction of 60 ± 2% and without overt congestion. Investigations included repeated clinical assessment, spirometry, standardized 6-minute walking test, and chest x-rays. Measurements of blood pressure response on active standing and Doppler echocardiography were performed before and 3 months after furosemide withdrawal. Recurrent congestive HF occurred in 2 of 21 patients (10%) who discontinued furosemide use, and in 1 of 11 patients (9%) who continued furosemide (p = NS). Three patients restarted furosemide for ankle edema and 1 for blood pressure levels >180/100 mm Hg. After 3 months, there were no differences regarding HF symptom scores, blood pressure, heart rate, spirometric results, 6-minute walking distance, or quality of life scores between patients who discontinued use and patients who continued the therapy. In patients successfully withdrawn, Doppler E/A ratio increased from 0.68 ± 0.05 to 0.79 ± 0.06 after withdrawal (p <0.01), and maximum blood pressure decrease on active standing changed from −8 ± 5 mm Hg to +5 ± 3 mm Hg systolic (p <0.05). Thus, in this pilot investigation of furosemide withdrawal in elderly HF patients without overt congestion and with a normal LV systolic function, withdrawal was successful in almost all patients and was associated with improvement of LV diastolic filling and blood pressure homeostasis on active standing.
+
+[![Image 1: American Journal of Cardiology home. Opens in new tab](https://www.ajconline.org/pb-assets/ux3/logos/ha/etoc/ajc_toc_banner-1656361803533.png)](https://www.ajconline.org/action/ShowMarlinJournalHome?journalCode=ajc "American Journal of Cardiology home. Opens in new tab")
+
+## Get full text access
+
+Log in, subscribe or purchase for full access.
+
+## References
+
+1.
+
+Ramachandran, S.V ∙ Benjamin, E.J ∙ Levy, D
+
+**Prevalence, clinical features and prognosis of diastolic heart failure**an epidemiologic perspective
+
+_J Am Coll Cardiol._ 1995; **26**:1565-1574
+
+2.
+
+Tresch, D.D ∙ McGough, M.F
+
+**Heart failure with normal systolic function**a common disorder in older people
+
+_J Am Geriatr Soc._ 1995; **43**:1035-1042
+
+3.
+
+Wei, J.Y
+
+**Age and the cardiovascular system**
+
+_N Engl J Med._ 1992; **327**:1735-1739
+
+4.
+
+Van Kraaij, D.J.W ∙ Jansen, R.W.M.M ∙ De Gier, J.J ...
+
+**Prescription patterns of diuretics in Dutch community-dwelling elderly patients**
+
+_Br J Clin Pharmacol._ 1998; **46**:403-407
+
+5.
+
+Young, J.B ∙ Weiner, D.H ∙ Yusuf, S ...
+
+**Patterns of medication use in patients with heart failure**a report from the Registry of Studies of Left Ventricular Dysfunction (SOLVD)
+
+_South Med J._ 1995; **88**:514-523
+
+6.
+
+Cohn, J.N
+
+**The management of chronic heart failure**
+
+_N Engl J Med._ 1996; **335**:490-498
+
+7.
+
+Williams, J.F ∙ Bristow, M.R ∙ Fowler, M.B ...
+
+**Guidelines for the evaluation and management of heart failure. Report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (Committee on Evaluation and Management of Heart Failure)**
+
+_J Am Coll Cardiol._ 1995; **26**:1376-1398
+
+8.
+
+Aronow, W.S
+
+**Treatment of congestive heart failure in older persons**
+
+_J Am Geriatr Soc._ 1997; **45**:1252-1258
+
+9.
+
+Carlson, K.J ∙ Lee, D.C.S ∙ Goroll, A.H ...
+
+**An analysis of physicians’ reasons for prescribing long-term digitalis therapy in outpatients**
+
+_J Chronic Dis._ 1985; **38**:733-739
+
+10.
+
+Cooper, J.W ∙ Nanda, N.C ∙ Philpot, E.F ...
+
+**Evaluation of valvular regurgitation by color Doppler**
+
+_J Am Soc Echocardiogr._ 1989; **2**:56-66
+
+11.
+
+with the Pimobendan Multicenter Research Group ∙ Rector, T.S ∙ Cohn, J.N
+
+**Assessment of patient outcome with the Minnesota Living with Heart Failure questionnaire**reliability and validity during a randomized, double-blind, placebo-controlled trial of pimobendan
+
+_Am Heart J._ 1992; **124**:1017-1024
+
+12.
+
+Guyatt, G.H
+
+**Use of the six-minute walk test as an outcome measure in clinical trials in chronic heart failure**
+
+_Heart Failure._ 1987; **3**:211-271
+
+13.
+
+Cockgroft, D.W ∙ Gault, M.N
+
+**Prediction of creatinine clearance from serum creatinine**
+
+_Nephron._ 1976; **16**:31-41
+
+14.
+
+Kraaij van, D.J.W ∙ Jansen, R.W.M.M ∙ Bouwels, L.H.R ...
+
+**Furosemide withdrawal improves postprandial hypotension in elderly heart failure patients with preserved left ventricular systolic function**
+
+_Arch Int Med._ 1999; **159**:1599-1605
+
+15.
+
+Nagano, R ∙ Masuyama, T ∙ Lee, J.M ...
+
+**Prediction of changes in cardiac output in association with preload reduction therapy in patients with hypertensive heart failure**
+
+_Cardiovasc Drugs Ther._ 1997; **11**:49-56
+
+16.
+
+Walma, E.P ∙ Hoes, A.W ∙ Dooren van, A.W ...
+
+**Withdrawal of long term diuretic medication in elderly patients**a double blind randomized trial
+
+_BMJ._ 1997; **315**:464-468
+
+17.
+
+Van Kraaij, D.J.W ∙ Jansen, R.W.M.M ∙ Bruijns, E ...
+
+**Diuretic usage and withdrawal patterns in a Dutch geriatric patient population**
+
+_J Am Geriatr Soc._ 1997; **45**:918-922
+
+18.
+
+Grinstead, W.C ∙ Francis, M.J ∙ Marks, G.F ...
+
+**Discontinuation of chronic diuretic therapy in stable congestive heart failure secondary to coronary artery disease or to idiopathic dilated cardiomyopathy**
+
+_Am J Cardiol._ 1994; **74**:881-886
+
+19.
+
+Shannon, R.P ∙ Wei, J.Y ∙ Rosa, R.M ...
+
+**The effect of age and sodium depletion on cardiovascular response to orthostasis**
+
+_Hypertension._ 1986; **8**:438-443
+
+20.
+
+Jansen, R.W.M.M ∙ Kelley-Gagnon, M.M ∙ Lipsitz, L.A
+
+**Intraindividual reproducibility of postprandial and orthostatic blood pressure changes in older nursing-home patients**relationship with chronic use of cardiovascular medications
+
+_J Am Geriatr Soc._ 1996; **44**:383-389
+
+## Figures (2)
+
+## Article metrics
+
+*   43
+
+Citations
+
+*   34
+
+Captures
+
+## Related articles (40)
+
+*   [Bedside diagnosis of preserved versus impaired left ventricular systolic function in heart failure](https://www.ajconline.org/article/0002-9149(91)90174-J/fulltext "Bedside diagnosis of preserved versus impaired left ventricular systolic function in heart failure")
+_American Journal of Cardiology_
+
+*   [Heart Failure With Preserved Left Ventricular Systolic Function Among Patients With Non–ST-Segment Elevation Acute Coronary Syndromes](https://www.ajconline.org/article/S0002-9149(07)00249-4/fulltext "Heart Failure With Preserved Left Ventricular Systolic Function Among Patients With Non–ST-Segment Elevation Acute Coronary Syndromes")
+_American Journal of Cardiology_
+
+*   [Usefulness of Left Atrial Volume in Predicting First Congestive Heart Failure in Patients ≥65 Years of Age With Well-Preserved Left Ventricular Systolic Function](https://www.ajconline.org/article/S0002-9149(05)01032-5/fulltext "Usefulness of Left Atrial Volume in Predicting First Congestive Heart Failure in Patients ≥65 Years of Age With Well-Preserved Left Ventricular Systolic Function")
+_American Journal of Cardiology_ August 5, 2005
+
+*   [Analysis of Circumferential and Longitudinal Left Ventricular Systolic Function in Patients With Non-Ischemic Chronic Heart Failure and Preserved Ejection Fraction (from the CARRY-IN-HFpEF Study)](https://www.ajconline.org/article/S0002-9149(11)02935-3/fulltext "Analysis of Circumferential and Longitudinal Left Ventricular Systolic Function in Patients With Non-Ischemic Chronic Heart Failure and Preserved Ejection Fraction (from the CARRY-IN-HFpEF Study)")
+_American Journal of Cardiology_ November 24, 2011
+
+*   [Effect of Statins, Angiotensin-Converting Enzyme Inhibitors, and Beta Blockers on Survival in Patients ≥65 Years of Age With Heart Failure and Preserved Left Ventricular Systolic Function](https://www.ajconline.org/article/S0002-9149(07)01886-3/fulltext "Effect of Statins, Angiotensin-Converting Enzyme Inhibitors, and Beta Blockers on Survival in Patients ≥65 Years of Age With Heart Failure and Preserved Left Ventricular Systolic Function")
+_American Journal of Cardiology_
+
+*   [Prognosis of congestive heart failure in elderly patients with normal versus abnormal left ventricular systolic function associated with coronary artery disease](https://www.ajconline.org/article/0002-9149(90)91112-J/fulltext "Prognosis of congestive heart failure in elderly patients with normal versus abnormal left ventricular systolic function associated with coronary artery disease")
+_American Journal of Cardiology_
+
+*   [Association Between Left Atrial Stiffness Index and Clinical Outcomes in Chronic Heart Failure With Impaired Left Ventricular Systolic Function](https://www.ajconline.org/article/S0002-9149(26)00474-1/fulltext "Association Between Left Atrial Stiffness Index and Clinical Outcomes in Chronic Heart Failure With Impaired Left Ventricular Systolic Function")
+_American Journal of Cardiology_ July 25, 2026
+
+*   [Potentials and limitations of color M-Mode and tissue Doppler indexes in identifying pseudonormal mitral filling pattern in patients with acute symptoms of heart failure and preserved left ventricular systolic function](https://www.ajconline.org/article/S0002-9149(04)00038-4/fulltext "Potentials and limitations of color M-Mode and tissue Doppler indexes in identifying pseudonormal mitral filling pattern in patients with acute symptoms of heart failure and preserved left ventricular systolic function")
+_American Journal of Cardiology_
+
+*   [Comparison of Afro-Caribbean Patients Presenting in Heart Failure With Normal Versus Poor Left Ventricular Systolic Function](https://www.ajconline.org/article/S0002-9149(07)01338-0/fulltext "Comparison of Afro-Caribbean Patients Presenting in Heart Failure With Normal Versus Poor Left Ventricular Systolic Function")
+_American Journal of Cardiology_
+
+*   [Normal left ventricular systolic function in adults with atrial septal defect and left heart failure](https://www.ajconline.org/article/0002-9149(82)90204-1/fulltext "Normal left ventricular systolic function in adults with atrial septal defect and left heart failure")
+_American Journal of Cardiology_
+
+*   [Intact systolic left ventricular function in clinical congestive heart failure](https://www.ajconline.org/article/0002-9149(85)90741-6/fulltext "Intact systolic left ventricular function in clinical congestive heart failure")
+_American Journal of Cardiology_
+
+*   [Importance of congestive heart failure and interaction of congestive heart failure and left ventricular systolic function on prognosis in patients with acute myocardial infarction](https://www.ajconline.org/article/S0002-9149(96)90064-8/fulltext "Importance of congestive heart failure and interaction of congestive heart failure and left ventricular systolic function on prognosis in patients with acute myocardial infarction")
+_American Journal of Cardiology_
+
+*   [Prevalence, predictors, and prognostic implications of improvement in left ventricular systolic function and clinical status in patients >70 years of age with recently diagnosed systolic heart failure](https://www.ajconline.org/article/S0002-9149(03)00532-0/fulltext "Prevalence, predictors, and prognostic implications of improvement in left ventricular systolic function and clinical status in patients >70 years of age with recently diagnosed systolic heart failure")
+_American Journal of Cardiology_
+
+*   [Long-Term Outcomes of Adults With Heart Failure by Left Ventricular Systolic Function Status](https://www.ajconline.org/article/S0002-9149(18)31218-9/fulltext "Long-Term Outcomes of Adults With Heart Failure by Left Ventricular Systolic Function Status")
+_American Journal of Cardiology_ June 21, 2018
+
+*   [Quality of Life Outcomes of Atrial Fibrillation Ablation in Heart Failure With Preserved or Mildly Reduced Left Ventricular Systolic Function](https://www.ajconline.org/article/S0002-9149(23)01414-5/fulltext "Quality of Life Outcomes of Atrial Fibrillation Ablation in Heart Failure With Preserved or Mildly Reduced Left Ventricular Systolic Function")
+_American Journal of Cardiology_ January 12, 2024
+
+*   [Impact of Left Ventricular Diastolic Function on Left Atrial Mechanics in Systolic Heart Failure](https://www.ajconline.org/article/S0002-9149(13)01117-X/fulltext "Impact of Left Ventricular Diastolic Function on Left Atrial Mechanics in Systolic Heart Failure")
+_American Journal of Cardiology_ June 13, 2013
+
+*   [Comparison of left ventricular systolic and diastolic function in patients with idiopathic dilated cardiomyopathy and mild heart failure versus those with severe heart failure](https://www.ajconline.org/article/S0002-9149(02)02495-5/fulltext "Comparison of left ventricular systolic and diastolic function in patients with idiopathic dilated cardiomyopathy and mild heart failure versus those with severe heart failure")
+_American Journal of Cardiology_
+
+*   [Analysis of Left Ventricular Systolic Function Using Midwall Mechanics in Patients >60 Years of Age With Hypertensive Heart Disease and Heart Failure](https://www.ajconline.org/article/S0002-9149(05)01275-0/fulltext "Analysis of Left Ventricular Systolic Function Using Midwall Mechanics in Patients >60 Years of Age With Hypertensive Heart Disease and Heart Failure")
+_American Journal of Cardiology_ September 14, 2005
+
+*   [Outcome of Patients With Systolic Heart Failure Who Underwent Sympathectomy for Ventricular Arrhythmia](https://www.ajconline.org/article/S0002-9149(24)00421-1/fulltext "Outcome of Patients With Systolic Heart Failure Who Underwent Sympathectomy for Ventricular Arrhythmia")
+_American Journal of Cardiology_ June 10, 2024
+
+*   [Importance of heart failure with preserved systolic function in patients ≥65 years of age](https://www.ajconline.org/article/S0002-9149(00)01393-X/fulltext "Importance of heart failure with preserved systolic function in patients ≥65 years of age")
+_American Journal of Cardiology_
+
+*   [Prevalence of Mechanical Dyssynchrony in Patients With Heart Failure and Preserved Left Ventricular Function (a Report from the Belgian Multicenter Registry on Dyssynchrony)](https://www.ajconline.org/article/S0002-9149(05)01439-6/fulltext "Prevalence of Mechanical Dyssynchrony in Patients With Heart Failure and Preserved Left Ventricular Function (a Report from the Belgian Multicenter Registry on Dyssynchrony)")
+_American Journal of Cardiology_ October 21, 2005
+
+*   [Comparison of Left Ventricular Relaxation and Left Atrial Function in Patients With Heart Failure and Preserved Ejection Fraction Versus Patients With Systemic Hypertension and Healthy Subjects](https://www.ajconline.org/article/S0002-9149(16)31183-3/fulltext "Comparison of Left Ventricular Relaxation and Left Atrial Function in Patients With Heart Failure and Preserved Ejection Fraction Versus Patients With Systemic Hypertension and Healthy Subjects")
+_American Journal of Cardiology_ July 18, 2016
+
+*   [Color tissue Doppler-derived long-axis left ventricular function in heart failure with preserved global systolic function](https://www.ajconline.org/article/S0002-9149(02)02794-7/fulltext "Color tissue Doppler-derived long-axis left ventricular function in heart failure with preserved global systolic function")
+_American Journal of Cardiology_
+
+*   [Usefulness of verapamil for congestive heart failure associated with abnormal left ventricular diastolic filling and normal left ventricular systolic performance](https://www.ajconline.org/article/0002-9149(90)90937-V/fulltext "Usefulness of verapamil for congestive heart failure associated with abnormal left ventricular diastolic filling and normal left ventricular systolic performance")
+_American Journal of Cardiology_
+
+*   [Effects of histamine type 2-receptor antagonists cimetidine and famotidine on left ventricular systolic function in chronic congestive heart failure](https://www.ajconline.org/article/0002-9149(93)90987-N/fulltext "Effects of histamine type 2-receptor antagonists cimetidine and famotidine on left ventricular systolic function in chronic congestive heart failure")
+_American Journal of Cardiology_
+
+*   [Ventricular Dyssynchrony of Idiopathic Versus Pacing-Induced Left Bundle Branch Block and Its Prognostic Effect in Patients With Preserved Left Ventricular Systolic Function](https://www.ajconline.org/article/S0002-9149(11)03042-6/fulltext "Ventricular Dyssynchrony of Idiopathic Versus Pacing-Induced Left Bundle Branch Block and Its Prognostic Effect in Patients With Preserved Left Ventricular Systolic Function")
+_American Journal of Cardiology_ December 2, 2011
+
+*   [Usefulness of B-type natriuretic peptide levels in predicting hemodynamic perturbations after heart transplantation despite preserved left ventricular systolic function](https://www.ajconline.org/article/S0002-9149(02)02871-0/fulltext "Usefulness of B-type natriuretic peptide levels in predicting hemodynamic perturbations after heart transplantation despite preserved left ventricular systolic function")
+_American Journal of Cardiology_
+
+*   [Mortality and readmission of hospitalized patients with congestive heart failure and preserved versus depressed systolic function](https://www.ajconline.org/article/S0002-9149(01)01732-5/fulltext "Mortality and readmission of hospitalized patients with congestive heart failure and preserved versus depressed systolic function")
+_American Journal of Cardiology_
+
+*   [Usefulness of Doppler Echocardiographic Left Ventricular Diastolic Function and Peak Exercise Oxygen Consumption to Predict Cardiovascular Outcomes in Patients With Systolic Heart Failure (from HF-ACTION)](https://www.ajconline.org/article/S0002-9149(12)01349-5/fulltext "Usefulness of Doppler Echocardiographic Left Ventricular Diastolic Function and Peak Exercise Oxygen Consumption to Predict Cardiovascular Outcomes in Patients With Systolic Heart Failure (from HF-ACTION)")
+_American Journal of Cardiology_ June 11, 2012
+
+*   [Relation of Left Ventricular Systolic Dyssynchrony in Patients With Heart Failure to Left Ventricular Ejection Fraction and to QRS Duration](https://www.ajconline.org/article/S0002-9149(08)00762-5/fulltext "Relation of Left Ventricular Systolic Dyssynchrony in Patients With Heart Failure to Left Ventricular Ejection Fraction and to QRS Duration")
+_American Journal of Cardiology_ June 13, 2008
+
+*   [Usefulness of C-Reactive Protein and Left Ventricular Diastolic Performance for Prognosis in Patients With Left Ventricular Systolic Heart Failure](https://www.ajconline.org/article/S0002-9149(07)01912-1/fulltext "Usefulness of C-Reactive Protein and Left Ventricular Diastolic Performance for Prognosis in Patients With Left Ventricular Systolic Heart Failure")
+_American Journal of Cardiology_
+
+*   [Effects of aging on neuroendocrine activation in subjects and patients in the presence and absence of heart failure with left ventricular systolic dysfunction](https://www.ajconline.org/article/S0002-9149(96)00162-2/fulltext "Effects of aging on neuroendocrine activation in subjects and patients in the presence and absence of heart failure with left ventricular systolic dysfunction")
+_American Journal of Cardiology_
+
+*   [Long-term outcome in patients with congestive heart failure and intact systolic left ventricular performance](https://www.ajconline.org/article/0002-9149(92)90938-U/fulltext "Long-term outcome in patients with congestive heart failure and intact systolic left ventricular performance")
+_American Journal of Cardiology_
+
+*   [Usefulness of tissue Doppler imaging for estimation of left ventricular filling pressures in patients with systolic and diastolic heart failure](https://www.ajconline.org/article/S0002-9149(05)00016-0/fulltext "Usefulness of tissue Doppler imaging for estimation of left ventricular filling pressures in patients with systolic and diastolic heart failure")
+_American Journal of Cardiology_
+
+*   [Comparison of left ventricular–biventricular pacing on ventricular synchrony, mitral regurgitation, and global left ventricular function in patients with severe chronic heart failure](https://www.ajconline.org/article/S0002-9149(04)00727-1/fulltext "Comparison of left ventricular–biventricular pacing on ventricular synchrony, mitral regurgitation, and global left ventricular function in patients with severe chronic heart failure")
+_American Journal of Cardiology_
+
+*   [Sudden Cardiac Death in Patients With Stable Coronary Artery Disease and Preserved Left Ventricular Systolic Function](https://www.ajconline.org/article/S0002-9149(07)02034-6/fulltext "Sudden Cardiac Death in Patients With Stable Coronary Artery Disease and Preserved Left Ventricular Systolic Function")
+_American Journal of Cardiology_
+
+*   [Usefulness of Left Ventricular Diastolic Function to Predict Recurrence of Atrial Fibrillation in Patients With Preserved Left Ventricular Systolic Function](https://www.ajconline.org/article/S0002-9149(14)00952-7/fulltext "Usefulness of Left Ventricular Diastolic Function to Predict Recurrence of Atrial Fibrillation in Patients With Preserved Left Ventricular Systolic Function")
+_American Journal of Cardiology_ April 18, 2014
+
+*   [Relation of ventricular size and function to heart failure status and ventricular dysrhythmia in patients with severe left ventricular dysfunction](https://www.ajconline.org/article/S0002-9149(97)89315-0/fulltext "Relation of ventricular size and function to heart failure status and ventricular dysrhythmia in patients with severe left ventricular dysfunction")
+_American Journal of Cardiology_
+
+*   [Predicting Outcome in Patients With Left Ventricular Systolic Chronic Heart Failure Using a Nutritional Risk Index](https://www.ajconline.org/article/S0002-9149(12)00063-X/fulltext "Predicting Outcome in Patients With Left Ventricular Systolic Chronic Heart Failure Using a Nutritional Risk Index")
+_American Journal of Cardiology_ February 16, 2012
+
+*   [Usefulness of a Combination of Systolic Function by Left Ventricular Ejection Fraction and Diastolic Function by E/E′ to Predict Prognosis in Patients With Heart Failure](https://www.ajconline.org/article/S0002-9149(09)00118-0/fulltext "Usefulness of a Combination of Systolic Function by Left Ventricular Ejection Fraction and Diastolic Function by E/E′ to Predict Prognosis in Patients With Heart Failure")
+_American Journal of Cardiology_ March 9, 2009
+
+Show more

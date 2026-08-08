@@ -1,0 +1,794 @@
+iMedPub Journals
+www.imedpub.com
+Case Report
+DOI: 10.36648/2380-7245.5.2.196
+2019
+Vol.5 No.2:4
+ Journal of Rare Disorders: Diagnosis & Therapy
+ISSN 2380-7245 
+1
+© Under License of Creative Commons Attribution 3.0 License | This article is available from: https://raredisorders.imedpub.com
+Maria Helena Vaisbich*, 
+Juliana Caires de Oliveira 
+Achili Ferreira,  
+Ana Carola Hebbia Lobo 
+Messa and  
+Fernando Kok
+Department of Pediatric Nephrology, 
+Instituto da Criança, University of São Paulo, 
+São Paulo, Brasil
+*Corresponding author:  
+Maria Helena Vaisbich
+Department of Pediatric Nephrology, 
+Instituto da Criança, University of São Paulo, 
+São Paulo, Brasil.
+ maria.vaisbich@hc.fm.usp.br
+Tel: +55-11-99940-3433
+Citation: Vaisbich MH, Ferreira JCDOA, 
+Messa ACHL, Kok F (2019) Congenital Chloride 
+Diarrhea in a Bartter Syndrome Misdiagnosed 
+Brazilian Patient. J Rare Disord Diagn Ther. 
+Vol.5 No.2:4
+Congenital Chloride Diarrhea in a Bartter 
+Syndrome Misdiagnosed Brazilian Patient
+Abstract
+The differential diagnosis in children with hypokalemic hypochloremic alkalosis 
+include a group of an inherited tubulopathies, such as Bartter Syndrome (BS) 
+and Gitelman Syndrome (GS). However, some of the clinically diagnosed 
+patients present no pathogenic mutation in BS/GS known genes. Therefore, 
+one can conclude that a similar clinical picture may be caused by PseudoBartter 
+Syndrome (PBS) conditions. PBS include acquired renal problems (ex.: use of 
+diuretics) as well as genetic or acquired extrarenal problems such as cystic 
+fibrosis or cyclic vomiting, respectively. The accurate diagnosis of BS/GS needs 
+a rational investigation. First step is to rule out PBS and confirm the primary 
+renal tubular defect. However, it is not easy in some situations. In this sense, 
+we reported a patient that was referred to our service with the diagnosis 
+of BS, but presented no mutation in BS/GS known genes. The whole-exome 
+sequencing detected a SCL26A3 likely pathogenic mutation leading to the final 
+diagnosis of Congenital Chloride Diarrhea (CCD).  Reviewing the records, the 
+authors noticed that liquid stools were mistaken for urine. In addition, urinary 
+and fecal samples were collected at an inappropriate time. The fecal sample 
+taken during dehydration led to a low fecal chloride level and urine taken soon 
+after sodium and potassium chloride infusion led to a high urinary chloride 
+fractional excretion. Based on this data, BS was misdiagnosed. Our goal is to 
+report the first Brazilian CCD patient initially misdiagnosed as BS and discuss 
+the difficulties to achieve the correct diagnosis in clinical practice. 
+Keywords: Alkalosis; Child; Bartter syndrome; Gitelman syndrome; Congenital 
+chloride diarrhea; Hypokalemia
+Abbreviations: BS:  Bartter Syndrome; GS: Gitelman Syndrome; PBS: 
+PseudoBartter Syndrome; CCD: Congenital Chloride Diarrhea; CFTR: Cystic 
+Fibrosis Transmembrane Conductance Regulator
+Received: August 16, 2019; Accepted: November 11, 2019; Published: November 18, 
+2019
+Introduction
+General pediatricians are frequently the first professionals to 
+detect metabolic and electrolyte disturbances in childhood 
+and they should be aware of the differential diagnosis. In cases 
+of persistent hypochloremic hypokalemic metabolic alkalosis, 
+acquired situations such as cyclic vomiting, chloride-intake 
+deficiency, laxative abuse, diuretics use or nephrotoxic agents 
+have to be investigated [1]. However, the late diagnosis could be 
+harmful to patients with some rare genetic diseases [2]. In this 
+context, the differential diagnosis of persistent hypochloremic 
+hypokalemic metabolic alkalosis with high serum renin and 
+aldosterone in childhood include a group of an autosomal 
+recessive salt-loss tubulopathies, such as Bartter Syndrome 
+(BS) and Gitelman Syndrome (GS) [3]. However, variants in 
+known BS/GS genes have not been identified in some patients 
+[4] suggesting other rare diseases may cause a PseudoBartter 
+Syndrome (PBS). Table 1 summarizes the main differential 
+diagnosis of this metabolic and electrolyte disturbance and 
+provides some details of the etiologies. The clinical diagnosis of 
+BS can be achieved with a rational investigation excluding PBS 
+and confirming the primary renal tubular dysfunction. However, 
+it is not easy in some situations. Congenital Chloride Diarrhea 
+(CCD), a disease characterized by fecal chloride waste, can
+
+2
+Journal of Rare Disorders: Diagnosis & Therapy
+ISSN 2380-7245
+2019
+Vol.5 No.2:4
+This article is available from: https://raredisorders.imedpub.com
+Genetic Diseases
+Disease/Inheritance Epidemiological 
+Data
+Summary of 
+Genetics and 
+Pathogenesis
+Special Clinical Manifestations Lab Findings Treatment
+Renal Genetic Diseases
+Antenatal 
+BS
+BS Type 
+1/AR unknown
+Pathogenic loss of 
+function mutations 
+in SLC12A1 (15q15-q21) 
+encoding Na +-K+-Cl- 
+cotransporter (NKCC2), 
+leading to Na+, K+ and Cl- 
+urinary waste
+Polyhydramnios (fetal polyuria) 
+and prematurity. Life-threatening 
+electrolyte disturbances; early 
+nephrocalcinosis. 
+↑ plasmatic renin and aldosterone; hypercalciuria; 
+↑K+FE, ↑Na +FE, ↑Cl -FE; isothenuria/ 
+hyposthenuria. 
+There is no specific treatment.
+Treatment is based on electrolytes 
+supplementation and prostaglandin 
+inhibitors objecting to reduce 
+polyuria. AARS inhibitors can be 
+employed in selective cases with 
+close monitoring of renal function 
+and blood pressure.
+Spironolactone can also be used to 
+increase K+ tubular reabsorption. 
+BS Type 
+2/AR unknown
+pathogenic loss of 
+function mutation in 
+KCNJ1(11q24), which 
+encodes ROMK, leading 
+to Na+, K+, Cl- urinary 
+losses
+Similar to BS type 1, but less severe 
+hypokalemic alkalosis.
+Similar to BS type 1, but newborns can present 
+transient hyperkalemic metabolic acidosis.
+BS Type 
+4a/AR unknown
+Pathogenic mutation in 
+BSND (1p31) encoding 
+barttin a subunit of CLC-
+Kb, responsible for its 
+activation
+In addition to the metabolic and 
+electrolyte disturbances patients 
+present sensorineural deafness.
+Similar to BS type 1
+BS Type 
+4b/DR unknown
+Compound  
+heterozygous mutation 
+in CLCNKA/CLCNKB, 
+leading to Na +, K +, and 
+Cl- urinary waste
+In addition to the metabolic and 
+electrolyte disturbances patients 
+present sensorineural deafness.
+Similar to BS type 1
+Classic BS - BS type 
+3/AR
+Unknown, but 
+was the most 
+common type in 
+BS/GS patients 
+evaluated at 
+the Instituto 
+da Criança – 
+HCFMUSP , Brazil 
+(unpublished 
+data)
+Pathogenic mutations in 
+CLCNKB, encoding CLC-
+Kb (1p36) and leading to 
+urinary losses of Na +, K+ 
+and Cl-.
+Classic manifestations: failure 
+to thrive, polydipsia, polyuria, 
+vomiting, episodes of fever and 
+hypotension about 6 – 12 months 
+of age. However, there is a great 
+phenotype overlap among classic 
+and antenatal forms.
+Nephrocalcinosis is uncommon and, patients can 
+present hypomagnesemia and hypercalciuria.
+Electrolytes supplementation and 
+prostaglandin inhibitor, preferably 
+COX 2 selective one. Inhibitors of 
+AARS can be employed monitoring 
+renal function and blood pressure. 
+Spironolactone can be used to 
+increase K+ tubular reabsorption.
+MAGED2 associated 
+BS (transient BS)
+BS type 5/
+X-linked recessive
+Unknown
+Few cases 
+reported
+Pathogenic mutations 
+in MAGED2 (Xp11.21), 
+which encodes 
+MAGE-D2 protein 
+implicated in the 
+regulation of NKCC2 and 
+NCC, leading to severe 
+antenatal form of BS.
+Early manifestation with severe 
+polyhydramnios and prematurity; 
+high mortality rate. Notably, the 
+survivors evolving with complete 
+clinical resolution.
+↑ plasmatic aldosterone and renin; 
+↑ K+FE, ↑Na+FE, 
+↑Cl-FE
+Electrolytes supplementation
+Table 1 Differential diagnosis of persistent hypochloremic hypokalemic metabolic alkalosis in childhood.
+
+3
+© Under License of Creative Commons Attribution 3.0 License
+Journal of Rare Disorders: Diagnosis & Therapy
+ISSN 2380-7245
+2019
+Vol.5 No.2:4
+Genetic Diseases
+Hypocalcemia 
+autosomal dominant 
+with BS /AD
+unknown
+Pathogenic gain of 
+function variants in 
+CASR (3q13.3-q21.1), 
+which encodes the 
+CaSR, a calcium sensible 
+receptor. 
+Therefore, even when 
+the serum calcium is 
+low, the hypercalciuria 
+persists. The K + urinary 
+wasting can be due to 
+ROMK direct inhibition 
+or due to electrogenic 
+potential differential 
+gradient.
+Generally asymptomatic 
+hypocalcemia, but there are cases 
+present with seizures or tetany, 
+with hypercalciuria, have low-
+normal serum PTH concentrations 
+and have often been diagnosed 
+with hypoparathyroidism.
+Hypocalcemia and hypercalciuria (↑Ca ++FE); ↑ 
+urinary Na+, K+ and Cl-. ↑renin and aldosterone.
+↓ PTH.
+10% of the patients present nephrocalcinosis; 35% 
+basal ganglia calcification
+Thiazides diuretics can be used 
+to decrease hypercalciuria and 
+also increase calcemia. PTH 
+supplementation can also be an 
+option.
+Calcium supplementation 
+and vitamin D. Na +, K + and Cl - 
+supplementations are necessary.
+Gitelman Syndrome/
+AR
+Prevalence
+1-9:100.000
+Pathogenic loss of 
+function variants in 
+SLC12A3, which encodes 
+NCC, leading to excessive 
+urinary loss of Na+, Cl-, K+ 
+and Mg ++, hypocalciuria 
+and hypomagnesemia 
+Symptoms are uncommon in 
+children < 6 years old; more often 
+occur in adolescents and young 
+adults; hypotension is often.
+↑ plasmatic aldosterone and renin; 
+↑ K+FE, ↑Na+FE, 
+↑Cl-FE
+Sodium, chloride and potassium 
+rich diet and electrolytes 
+supplementation
+Liddle Syndrome 
+(pseudo 
+hyperaldosteronism)/
+AD
+Prevalence 
+<1: 1.000.000
+Pathogenic gain of 
+function variants in 
+SCNN1B and SCNN1G, 
+encoding ENaC, leading 
+to excessive sodium 
+reabsorption, and 
+excessive urinary loss of 
+K+ and H+. 
+hypertension in children, young 
+adults and adolescents, specially 
+in familial cases; failure to thrive in 
+infants
+ plasmatic aldosterone and renin; 
+↑ K+FE; 
+↓ Na+FE; 
+ENaC inhibitors as amiloride and 
+triamtere
+Dent Disease /
+X-linked recessive
+unknown
+Dent type 1: Pathogenic 
+mutations in CLCN5 
+(Xp11.22), which 
+encodes the electrogenic 
+Cl-/H+ exchanger ClC-5, 
+which belongs to the 
+CLC family of chloride 
+(Cl-) channels.  
+Dent type 2: pathogenic 
+mutations in  OCRL1 , 
+which encodes a 
+phosphatidylinositol 
+bisphosphate (PIP2) 
+5-phosphatase  
+(associated with Lowe 
+Syndrome).
+The disease manifests in childhood 
+as failure to thrive, polyuria, 
+hematuria, sometimes rickets, and 
+patients can present proteinuria 
+and glomerulosclerosis.
+Dent type 2: Beyond the renal 
+manifestations, patients can 
+present mild intellectual deficit, 
+hypotonia, subclinical cataract 
+↑ urinary low molecular weight protein; 
+hypercalciuria, and at least one of the following 
+sings: nephrocalcinosis, nephrolithiasis, 
+hypophosphatemia, but also with glomerular 
+proteinuria and glomerulosclerosis; renal 
+insufficiency about the 3rd to 5th decade of life
+No specific treatment, just AARS 
+inhibition to reduce proteinuria; 
+urinary alkalization (potassium 
+citrate or potassium/magnesium 
+citrate) to avoid or aggravate 
+nephrocalcinosis; thiazide diuretics 
+to decrease the calcium urinary 
+waste.
+A few patients do not present mutations in CLCN5 or OCRL; this suggests other genes can also be involved
+others genetic diseases
+
+4
+Journal of Rare Disorders: Diagnosis & Therapy
+ISSN 2380-7245
+2019
+Vol.5 No.2:4
+This article is available from: https://raredisorders.imedpub.com
+Genetic Diseases
+Congenital chloride 
+diarrhea/AR
+In general, is 
+unknown, but 
+more often in 
+some areas as in 
+Finland, Saudit 
+Arabia, Kwait 
+and Poland (see 
+text). In Brazil is 
+unknown
+Pathogenic loss of 
+function in SLC26A3 
+gene, encoding Cl -/
+HCO3
+- exchanger 
+in colonic and ileal 
+epithelial 
+Polyhydramnios and prematurity; 
+watery diarrhea beginning in utero and 
+persistent during life; poor growth and 
+weight gain; life-threatening electrolytes 
+and metabolic disturbances
+↑ plasmatic renin and aldosterone;
+↑ fecal chloride
+ (> 90mmol/L)
+↓ K+FE
+Sodium, chloride and potassium 
+supplementation;
+Proton inhibitor bomb can be 
+beneficial, since its action decreases 
+the gastric chloride secretion
+Cystic fibrosis (CF) /
+AR
+Prevalence:
+More often in 
+Caucasians; less 
+common in Asian 
+and African; 
+in Brazil the 
+incidence is 1: 
+10.000.
+Pathogenic loss of 
+function variants 
+in CFTR, encoding 
+the cystic fibrosis 
+transmembrane  
+regulator (CFTR), 
+a chloride channel 
+expressed in a 
+variety of epithelia, 
+implicated in 
+chloride transport, 
+but also with protein 
+processing and 
+traffic, secretion of 
+ATP and control of 
+the ENaC, the renal 
+secretory K+
+ 
+channel 
+(ROMK-2) and the 
+outwardly rectifying 
+chloride channel.
+CF manifests in early childhood and 
+newborns (meconium ileus); later forms 
+are observed. 
+CF is characterized by accumulation 
+of thick mucus in the airway epithelia 
+and pancreatic and sweat ducts. These 
+disturbances can result in pancreatic 
+insufficiency, increase in sweat Cl - 
+concentration, male infertility, intestinal 
+and airway obstructions. Mutations in 
+CFTR impair mucociliary clearance in the 
+lung, which facilitates bacterial infection 
+increasing the lung damage that results 
+in lung insufficiency. Morbidity and 
+mortality are related to the severity of 
+bronchopulmonry involvement.
+↑ sweat Cl - concentration (> 60 mmol/L); 
+confirmation is done by genetic test showing a 
+pathogenic mutation in CFTR (classes I,II,II,IV,IV,V 
+and VI). Neonatal screening is available leading to 
+diagnosis in 95% of patients.
+Chest physiotherapy; 
+hypertonic saline inhalation; 
+antibiotics to prevent and treat 
+bronchopulmonary infections; 
+inhaled dornase alfa; CFTR-
+modulating therapies used isolated 
+or in combination according to 
+the type of mutation: Potentiators 
+of CFTR protein (Ivacaftor) 
+and correctors of CFTR defects 
+(ataluren, lumacaftor). 
+Supplementation of fat-soluble 
+vitamins.
+Acquired conditions
+condition etiology
+Chloride-intake deficiency Infants inadvertently fed chloride-deficient formula;
+nasogastric tube suctioning in hospitalized children.
+Surreptitious diuretics use loop diuretic (mimicking Bartter syndrome) or a thiazide diuretic (mimicking Gitelman syndrome)
+Laxative abuse This is an uncommon situation in neonates and infants, but is an important differential diagnosis in older constipated 
+children.
+Cyclic vomiting Gastroesophageal reflux; surreptitious vomiting and bulimia (more common in adolescents); childhood cyclic vomiting 
+syndrome; delayed gastric emptying, hypertrophic pyloric stenosis.
+Nephrotoxic agents Examples: aminoglycosides, amphotericin B, and heavy metal intoxication.
+Excessive and persistent sweating
+Primary hyperhidrosis –characterized by overactive sweat glands. The pathophysiology is still unknown.
+Secondary hyperhidrosis – several diseases can cause excessive sweat such as hyperthyroidism, anxiety disorders or heat 
+exhaustion among others.
+
+5
+© Under License of Creative Commons Attribution 3.0 License
+Journal of Rare Disorders: Diagnosis & Therapy
+ISSN 2380-7245
+2019
+Vol.5 No.2:4
+cause similar biochemical abnormalities and, in these patients, 
+diarrhea can be confounded with polyuria, making this disease 
+difficult to be suspected [5]. According to a recent publication of 
+Ben-David et al., there are 13 case reports in literature about CCD 
+patients initially misdiagnosed as BS, 10 from Middle East, 2 from 
+Japan and 1 Serbian [6]. In this paper, the authors report the first 
+Brazilian patient with CCD who was misdiagnosed as BS and the 
+diagnosis was achieved just by Whole-Exome Sequencing (WES). 
+Our goal is to discuss the difficulties to achieve the diagnosis in 
+clinical practice. 
+Case Report
+A female patient was born from healthy non-consanguineous 
+parents at 36 weeks of gestation with an appropriate birth weight 
+of 3420 g. She had non-remarkable familial history. In the third 
+trimester of gestation, polyhydramnios was observed. Hospital 
+records reported polyuria and episodes of vomiting. At the fourth 
+day of life she developed jaundice and the exams showed indirect 
+bilirubin of 23 mg/dl and blood type O Rh+, while maternal 
+blood type was A Rh+. ABO incompatibility was diagnosed 
+and exsanguinous transfusion indicated. For this reason, other 
+exams were collected and unexpectedly showed metabolic 
+alkalosis (pH= 7.6 pCO 2= 36.5 mmHg HCO 3- = 36.3 mEq/L BE= 
++15.1), hyponatremia (125 mEq/L), hypokalemia (2.9 mEq/L) 
+and hypochloremia (90 mEq/L). Unfortunately, simultaneous 
+urinary electrolyte concentration was not checked. A surgical 
+problem was ruled out. She was discharged on the 21st day of 
+life, after jaundice resolution and serum sodium, potassium and 
+chloride improvement with oral supplementation. The patient 
+was followed up on an outpatient basis, being treated with oral 
+potassium chloride supplementation (2 – 3 mEq/kg/day) with 
+serum potassium range of 2.5 to 3.2 mEq/L. During follow up, 
+she   was appropriately oral fed and the mother reported that the 
+patient had pasty stools without blood or mucus about 2 times/
+day and polyuria. No mental or other congenital defects were 
+observed. She evolved with failure to thrive, but with adequate 
+neuropsychomotor development.  The investigation showed 
+normal chloride levels in the sweat and normal functional 
+coprology. Infectious diarrhea and food allergy or intolerance 
+was ruled out. At 16 months of age, she was presented at 
+emergency service with severe watery diarrhea, vomiting and 
+dehydration, and the exams showed serum (s) Na += 130 mEq/L, 
+sK+= 2.5 mEq/L, sCl -= 91mEq/L, blood pH= 7.58 and HCO 3
+- = 
+44 mEq/l. At this time, an investigation about the pathway of 
+electrolyte waste was finally proposed. Then, a sample of stool 
+was collected, and the fecal electrolyte measurements were: 
+Na+= 9.5 mEq/L, K+= 8.95 mEq/L and Cl-= 40.3 mEq/L. The patient 
+received sodium and potassium chloride infusion. Immediately 
+after volume recovery, a urine sample was taken for examination 
+and showed: Na+= 77 mEq/L, K+= 68 mEq/L and Cl- = 61mEq/L. The 
+investigation detected elevated plasma renin= 15 ng/ml (normal: 
+0.51-2.64) and aldosterone= 95 ng/dL (normal: up to 39,2). All 
+this information was obtained from the medical records, checking 
+the time of each procedure, and can be susceptible to error. CCD 
+was suspected since the patient was being treated for chronic 
+hypochloremic metabolic alkalosis and was in the emergency 
+room due to watery diarrhea. However, as CCD diagnosis criteria 
+includes fecal chloride > 90 mEq/l and low urinary chloride [7] 
+this hypothesis was ruled out and the patient was referred to 
+our pediatric nephrology service with provisional diagnosis of 
+BS. Supporting this possible diagnosis, the patient presented 
+polyhydramnios, premature delivery, reported polyuria and 
+characteristic lab findings. Unfortunately, the diagnosis of BS 
+was accepted and new urinary electrolytes were not measured. 
+She was treated with potassium chloride, indomethacin 
+(later replaced by celecoxib) and omeprazole to avoid gastric 
+symptoms. During follow up she presented rare episodes of mild 
+diarrhea, metabolic and electrolyte control, adequate growth and 
+weight gain. We performed genetic evaluation of our clinically 
+diagnosed BS/GS patients, including the following genes: GLA, 
+CLCNKA, CLCNKB, BSND, KCNJ1, SLC12A1, CTNS, AQP2, AVPR2, 
+SLC12A3, CLDN19, CNNM2, CLDN16, TRPM6, SCNN1G, SCNN1B, 
+ATP6V1B1, ATP6V0A4, SLC4A4. She had no mutation detected 
+and WES was done revealing a homozygous mutation (c.1487 
+T>G; p.Leu496Arg) in the solute carrier family 26 (SLC26A3) on 
+chromosome 7q31, encoding for a transmembrane Cl -/HCO3
+- 
+exchanger mainly expressed in the apical brush border of ileum  
+and colonic epithelium [8]. This variant was confirmed by Sanger 
+sequencing. This mutation is likely pathogenic and was reported 
+at least once related to CCD in a family from Hong Kong [8]. 
+Celecoxib was withdrawn and the patient has evolved well under 
+oral potassium chloride supplementation and omeprazole. She 
+has no sign of renal dysfunction.
+Discussion 
+The differential diagnosis of persistent hypochloremic 
+hypokalemic metabolic alkalosis in childhood include some 
+acquired conditions as well as genetic diseases that pediatricians 
+must be aware of, in which the precise diagnosis is essential 
+due to the life-threatening situation. The lack of knowledge of 
+the differential diagnosis and an inappropriate investigation of 
+this metabolic electrolyte disturbance can lead to misdiagnosis 
+and, consequently, incorrect treatment and complications. 
+This is exactly what happened to this patient that received 
+indomethacin or celecoxib. This mistake could have led to renal 
+dysfunction [9]. Table 1 shows possible diagnosis of this condition 
+and details some factors that can guide the investigation. The 
+diagnosis can vary according to the age and the clinical and 
+familial history can rule out possibilities such as drug effects. 
+Figure 1 suggests a way to investigate these patients. Especially 
+in neonates and infants, information about prenatal and delivery 
+conditions are important.  For instance, gastric suction can cause 
+metabolic alkalosis. Polyhydramnios associated with dilation 
+of bowel loop in gestational ultrasonography can lead to CCD 
+suspicion [10]. Metabolic alkalosis in neonates and young infants 
+can be due to surgical problems such as hypertrophic pyloric 
+stenosis and these issues must be ruled out at presentation [11]. 
+The presence of early manifestations such as premature labor, 
+polyhydramnios, and failure to thrive increases the probability 
+of genetic causes. The basis of the investigation is to identify the 
+pathway of electrolyte waste. This includes electrolyte serum 
+and urinary measurements, but these have to be done after
+
+6
+Journal of Rare Disorders: Diagnosis & Therapy
+ISSN 2380-7245
+2019
+Vol.5 No.2:4
+This article is available from: https://raredisorders.imedpub.com
+Figure 1 Algorithm of evaluation of metabolic alkalosis generating and sustained factors of persistent metabolic alkalosis. Urinary chloride is 
+the key for determining etiology and guides the treatment.
+Persistent Hypokalemic Hypochloremic 
+Metabolic Alkalosis
+Loss of H+ from GI fluid. 
+-Gastrointestinal loss of H+
+-CCD
+-vomiting, gastric suction 
+-Contraction alkalosis
+-Cl- deficient diet
+-Post-hypercapnia syndrome
+-Cystic fibrosis
+-Exogenous alkalosis agent
+-HCO3
+- retention
+-H+ shift intracellular
+-loop and thiazide diuretics. 
+-Bartter Syndrome/ Gitelman Syndrome
+Metabolism from 
+bicarbonate precursors: 
+citrate, acetate, and lactate.
+-massive transfusions, 
+-infusion of large volume of 
+fresh  frozen plasma, 
+-use of citrate as an 
+anticoagulant.
+Metabolic Alkalosis
+Loss of Acid from the Extracellular Fluid ↑ Bicarbonate Concentration in the Extracellular Fluid
+-continuous bicarbonate load or acid
+loss.
+-Cl- depletion
+-hypokalemia
+-hyperaldosteronism
+-hypovolemia
+-↓ glomerular filtration rate
+-↓ effective arterial volume
+-Primary hyperaldosteronism, 
+-Liddle Syndrome (gain-of-function 
+of epithelial sodium channel).
+↑renin ↑aldosterone ↓renin ↓aldosterone
+with hypertension
+Urinary Cl- > 20 mEq/L
+[Cl- resistant)
+Sustained factors 
+conditions leading to ↓ 
+HCO3
+- renal excretion 
+capacity
+Intracellular 
+transfer of H+
+Urinary Cl- < 10 mEq/L
+[Cl- responsive]
+excessive chloride 
+loss in the sweat.
+Acid loss from the extracellular fluid.
+Renal loss of H+:
+- ↓ Na+, K+ and Cl- reabsorption:
+- ↑ Na+ reabsorption with
+hypervolemia and hypertension
+Alkali administration:
+-overnutrition, 
+-excessive alkalinization
+of acidosis, 
+-milk–alkali syndrome 
+-anticids.
+Drugs
+-use of Mg-hydroxide 
+containing antacid 
+binds, 
+-parenteral high-dose 
+penicillin salts 
+administration. 
+Generating 
+Factors
+volume stabilization and without an intravenous overload of 
+NaCl and KCL, which can influence the results. In the presence 
+of non-urinary waste, a PBS condition is suspected and chloride 
+loss from other places such as skin or gastrointestinal tract has 
+to be evaluated. CCD (OMIM 214700) is an autosomal recessive 
+disease, that presents in the uterus with polyhydramnios 
+(result of fetal diarrhea), which can cause slightly preterm birth 
+(generally around 2 weeks before term) [12]. Therefore, CCD 
+should be considered in cases of polyhydramnios and premature 
+delivery. In cases that diarrhea is early recognized CCD is easily 
+suspected, but the watery diarrhea often is misinterpreted as 
+polyuria [12] especially in diaper babies. The disease is caused 
+by mutations in the solute carrier family 26, member 3 gene 
+(SLC26A3), on chromosome 7q31, encoding for a transmembrane 
+Cl-/HCO3
+- [13]. This protein coordinates the chloride absorption 
+and bicarbonate secretion in the gastrointestinal tract. Loss-of-
+function mutations in SLC26A3 determine chloride accumulation 
+in the intestinal lumen and HCO 3
+− is retained in the blood, 
+resulting in watery Cl- rich diarrhea, hypochloremia, hypokalemia, 
+and metabolic alkalosis [13]. Hypokalemia is a result of intestinal 
+loss, but renal loss also occurs due to chloride depletion, 
+hypovolemia and hyperactivation of the renin angiotensin 
+aldosterone system. Secondarily, defective Na +/H+ exchangers 
+(NHE2 and/or NHE3) can lead to intestinal loss of NaCl and fluid, 
+aggravating the diarrhea [13]. A close interaction between the 
+cystic fibrosis transmembrane conductance regulator (CFTR) 
+and SLC26A3 is supposed to be essential for epithelial HCO 3
+- 
+secretion. Interesting, at least two mutations in SLC26A3 prevent 
+the activation of CFTR [13]. 
+CCD is more common in some geographic areas. The estimated 
+incidences in Finland and Poland are 1 in 10,000 and 1 in 200,000, 
+respectively. Consanguineous marriages in Saudi Arabia and 
+Kuwait cause high local incidences, such as 1 in 5,000 [8]. In Latin 
+America, a novel homozygous likely pathogenic mutation was 
+reported in a Mexican male in 2015 [14]. In Brazil, there is a lack 
+of epidemiological data. Although the diagnosis of CCD seems to 
+be simple, it cannot be predicted just on the basis of fecal chloride 
+concentration, since it fluctuates depending on diet, hydration 
+status, salt intake, and electrolyte balance. Volume and salt 
+depletion may result in a low fecal Cl- of even 40 mEq/l [15]. This 
+is the supposed reason for low fecal chloride in this patient, since 
+the fecal sample was collected soon after the patient arrived in 
+the emergency room while the patient was still dehydrated. 
+Conclusion
+Low urinary chloride concentration is essential to confirm 
+extrarenal chloride losses, gastrointestinal or skin. In this patient, 
+the urinary sample was taken soon after sodium chloride and 
+potassium infusion. This probably led to a transient increase 
+in urinary chloride concentration, supporting the misdiagnosis 
+of urinary chloride loss. Therefore, the collections should be 
+done during volume stabilization and no electrolytes (sodium, 
+potassium and chloride) intravenous administration which could 
+influence the results. There are some reports identifying CCD-
+related mutations in PBS patients. However, gene testing usually 
+needs high cost and it is commonly unavailable. Therefore, it is 
+important to keep in mind this uncommon diagnosis and proceed 
+adequately to localize the place of electrolyte waste. Possibly, in 
+near future some mutations could direct the treatment.
+References
+1 Matsunoshita N, Nozu K, Shono A, Nozu Y , Fu XJ, et al. (2016)
+
+7
+© Under License of Creative Commons Attribution 3.0 License
+Journal of Rare Disorders: Diagnosis & Therapy
+ISSN 2380-7245
+2019
+Vol.5 No.2:4
+Differential diagnosis of Bartter syndrome, Gitelman syndrome, and 
+pseudo-Bartter/Gitelman syndrome based on clinical characteristics. 
+Genet Med 18: 180-188.
+2 Qiu L, Yang L, He Y , Yuan H, Zhou J (2018) Clinical characterization 
+and diagnosis of cystic fibrosis through exome sequencing in Chinese 
+infants with Bartter-syndrome-like hypokalemia alkalosis. Front Med 
+12: 550-558.
+3 Seyberth HW, Schlingmann KP (2011) Bartter- and Gitelman-like 
+syndromes: salt-losing tubulopathies with loop or DCT defects. 
+Pediatr Nephrol 26: 1789-1802.
+4 Matsunoshita N, Nozu K, Yoshikane M, Kawaguchi A, Fujita N, et al. 
+(2018) Congenital chloride diarrhea needs to be distinguished from 
+Bartter and Gitelman syndrome. J Hum Genet 63: 887-892. 
+5 Saneian H, Bahraminia E (2013) Congenital chloride diarrhea 
+misdiagnosed as pseudo-bartter syndrome. J Res Med Sci 18: 
+822-824.
+6 Ben-David Y , Halevy R, Sakran W, Zehavi Y , Spiegel R (2019) The utility 
+of next generation sequencing in the correct diagnosis of congenital 
+hypochloremic hypokalemic metabolic alkalosis. Eur J Med Genet 62: 
+103728.
+7 Kamal NM, Khan HY , El-Shabrawi MHF, Laila M, Sherief LM (2019) 
+A single center experience in a highly consanguineous population. 
+Medicine 98: (e15928).
+8 Hoglund P , Auranen M, Socha J, Popinska K, Nazer H, et al. (1998) 
+Genetic Background of Congenital Chloride Diarrhea in High-
+Incidence Populations: Finland, Poland, and Saudi Arabia and Kuwait. 
+Am J Hum Genet 63: 760-768.  
+9 Winkelmayer WC, Waikar SS, Mogun H, Solomon DH (2008) 
+Nonselective and cyclooxygenase-2-selective NSAIDs and acute 
+kidney injury. Am J Med 121: 1092-1098. 
+10 Kawamura T, Nishiguchi T (2017) Congenital Chloride Diarrhea (CCD): 
+A Case Report of CCD Suspected by Prenatal Ultrasonography and 
+Magnetic Resonance Imaging (MRI). Am J Case Rep 18: 707-713. 
+11 Acker SN, Garcia AJ, Ross JT, Somme S (2015) Current trends in 
+the diagnosis and treatment of pyloric stenosis. Pediatr Surg Int 
+31: 363-366.
+12 Wedenoja S, Hoglund P , Holmberg C (2010) Review article: the clinical 
+management of congenital chloride diarrhoea. Aliment Pharmacol 
+Ther 31: 477-485.
+13 Wedenoja S, Pekansaari E, Hoglund P , Makela S, Holmberg C, et al.  
+(2011) Update on SLC26A3 mutations in congenital chloride diarrhea. 
+Human Mutation 32: 715-722. 
+14 Reimold FR, Balasubramanian S, Doroquez DB, Shmukler BE, 
+Zsengeller ZK, et al. (2015) Congenital chloride-losing diarrhea in 
+a Mexican child with the novel homozygous SLC26A3 mutation 
+G393W. Front Physiol 6: 179.
+15 Amato F, Cardillo G, Liguori R, Scorza M, Comegna M, et al. (2017) 
+Twelve novel mutations in the SLC26A3 gene in 17 sporadic cases of 
+Congenital Chloride Diarrhea. J Pediatr Gastroenterol Nutr 65: 26-30.

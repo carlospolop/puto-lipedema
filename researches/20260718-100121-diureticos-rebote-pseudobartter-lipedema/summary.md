@@ -56,3 +56,9 @@ Se completaron **tres iteraciones**: mapa amplio, verificación primaria/contrad
 ## Cambio web
 
 Se amplió `efectos/edema-retencion.html` con una sección sencilla sobre indicación, no retirada autónoma, rebote versus reaparición de enfermedad, pseudo-Bartter, diferencias entre clases y señales de alarma. No se creó una página separada para evitar duplicar y abrumar.
+
+## Revalidación y ampliación — 2026-08-08
+
+Una cuarta iteración volvió a comprobar la publicación y lanzó dos investigaciones Pro materialmente distintas. Chack intentó cada Pro dos veces, pero los cuatro intentos terminaron con `BROWSER_EXECUTION_FAILED` al navegar a ChatGPT; no produjeron respuesta ni cuentan como evidencia Pro. El administrador sí completó y preservó respaldos científico, web, regulatorio/legal, producto y CLI, todos terminales.
+
+La nueva evidencia no cambió la conclusión central, pero añadió tres matices útiles: (1) espironolactona/eplerenona pueden formar parte del tratamiento modificador de insuficiencia cardiaca, no ser solo un remedio para edema, por lo que retirarlas puede ser especialmente peligroso; (2) un cribado urinario tardío o incompleto negativo no excluye una exposición previa y un resultado positivo no demuestra intención; (3) afirmar que «los laxantes causan pseudo-Bartter» es demasiado amplio, porque la diarrea habitual suele producir acidosis, aunque existen excepciones raras de pérdida marcada de cloro. La página pública se afinó sin añadir pautas de retirada ni algoritmos de autodiagnóstico.

@@ -1,0 +1,1 @@
+{"research_worked":false,"failure_reason":"Researcher produced 11 preserved artifact file(s) but did not return parseable final researcher JSON. Artifact manifest tool/kind rows: exec:14.","final_research_review":"","researcher_tool":"cli_research","status":"partial_artifacts_without_result","tool_call_counts":{"exec":14},"total_tool_calls":14}

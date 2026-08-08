@@ -15,6 +15,8 @@
 | B01 | 1 | Subagente biomédico | PubMed/PMC/Europe PMC/OpenAlex, guías y mecanismo | `exit 0` (796 líneas) | Proceso local bloqueante | `evidence/subagents/scientific-round1.md` | Evidencia histórica pequeña/heterogénea; sin RCT lipedema |
 | V02 | 2 | Subagente de verificación | Auditoría primaria de guías, identificadores, cifras históricas, clases y pseudo-Bartter | `exit 0` (214 líneas; 35.045 bytes) | Proceso local bloqueante | `evidence/subagents/source-verification-round2.md` | stderr solo `session_id`; sin efectos laterales; algunos PDFs 403 compensados con PubMed/PMC/Crossref |
 | F03 | 3 | Subagente de falsación clínica | Ataque a redacción pública, contraejemplos, seguridad, clases y saturación | `exit 0` (110 líneas; 12.545 bytes) | Proceso local bloqueante | `evidence/subagents/falsation-round3.md` | Sin hallazgo material nuevo; refinamientos de seguridad; stderr solo `session_id` |
+| P03 | 4 | `prochatgpt_researcher` | Auditoría clínica por indicación/clase, deprescripción y seguridad | `FAILED` terminal; 2 intentos | `research-000-53fe83ff`; `/tmp/chack-research-data/researcher-queues/lipedema-diureticos-20260718/researches/research-000-53fe83ff` | `evidence/chack/pro-03-clinical/` | `BROWSER_EXECUTION_FAILED`: `Page.goto` agotó 60 s; no cuenta como Pro; especialistas de respaldo sí terminaron |
+| P04 | 4 | `prochatgpt_researcher` | Diferencial de pseudo-Bartter/alcalosis y límites diagnósticos | `FAILED` terminal; 2 intentos | `research-001-c0e6051c`; `/tmp/chack-research-data/researcher-queues/lipedema-diureticos-20260718/researches/research-001-c0e6051c` | `evidence/chack/pro-04-pseudobartter/` | `BROWSER_EXECUTION_FAILED`: `Page.goto` agotó 60 s; no cuenta como Pro; especialistas de respaldo sí terminaron |
 
 ## Iteración 2 — contradicciones resueltas
 - DOI correcto de MacGregor 1975: `10.1016/S0140-6736(75)92833-0`; `90639-X` corresponde a una carta distinta.
@@ -28,3 +30,8 @@
 - Se reutilizó la cola con `researcher_queue_create(queue_id=lipedema-diureticos-20260718)` y no se relanzó el Deep equivalente.
 - Se copiaron los artefactos ya completados sin sobrescribir la evidencia original.
 - Se halló un Pro antiguo con `chatgpt-run.json` aún marcado `running` y 0 caracteres, pero no figuraba en ningún lote abierto/en proceso tras reinicio del servicio. Se preserva como `P00` interrumpido/no extraído y no cuenta como evidencia; se relanzarán investigaciones Pro materialmente diferenciadas.
+
+## Recuperación 2026-08-08
+- Lote bloqueante `batch-1-cbe05eaa`; 0 trabajos abiertos/procesando al cierre.
+- P03 y P04 fueron materialmente distintos y Chack intentó cada Pro dos veces. Los cuatro intentos alcanzaron error terminal de navegación, sin texto parcial; no se usan como evidencia Pro.
+- Respaldos terminales preservados: P03 (web, científico, legal/regulatorio y producto) y P04 (web, científico y CLI). Confirmaron fuentes AEMPS/PMC, añadieron contraejemplos de retirada de antagonistas mineralocorticoides y afinaron el diferencial de alcalosis.

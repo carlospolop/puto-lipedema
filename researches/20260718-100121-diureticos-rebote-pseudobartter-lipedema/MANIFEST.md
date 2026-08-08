@@ -1,46 +1,275 @@
 # MANIFEST — diuréticos, rebote y pseudo-Bartter
 
-Generado el 2026-07-19. Incluye todos los artefactos preservados en la carpeta de investigación excepto este propio `MANIFEST.md`, cuyo hash no puede auto-incluirse sin recursión. Los SHA-256 se calcularon con `sha256sum`.
+Regenerado el 2026-08-08. Incluye todos los artefactos de la carpeta excepto este propio `MANIFEST.md`. SHA-256 calculado sobre bytes exactos.
 
-- Archivos inventariados: **59**
-- Bytes totales: **8267503**
+- Archivos inventariados: **288**
+- Bytes totales: **25548917**
 - Cola Chack: `lipedema-diureticos-20260718`
-- Estado terminal al cierre: 0 lotes abiertos/procesando; dos Deep extraídos; dos Pro fallidos preservados y no usados como evidencia terminal.
+- Barrera terminal: 0 lotes abiertos/procesando; 2 Deep extraídos históricos; 4 solicitudes Pro materialmente diferenciadas en total, con fallos terminales preservados; respaldos científicos/web/regulatorios/CLI completos.
 
 | Tipo | Ruta | Bytes | SHA-256 |
 |---|---|---:|---|
-| Control/síntesis | `curent-research.md` | 19 | `ec3bd442d1b99348f25daa24b9044a0f33e67a93a6b4ee15664b3b65775e463d` |
-| Control/síntesis | `current-research.md` | 6640 | `ec3bd442d1b99348f25daa24b9044a0f33e67a93a6b4ee15664b3b65775e463d` |
-| Chack Deep/Pro | `evidence/chack/deep-01-admin.json` | 71928 | `964eb0a48d488659d43285048536192b96d87676905802fe9e30a4b2a2231e8a` |
-| Chack Deep/Pro | `evidence/chack/deep-01-internal-output-001.json` | 28297 | `95a9ea7e45dd2240dc6262f050e528a8ff5e03799f895495823030b5f565579c` |
-| Chack Deep/Pro | `evidence/chack/deep-01-internal-output-002.json` | 29837 | `50a71e1049af609030b2f3e4e5ade09a346a35e17bf3ebb537b0289d30e3bd13` |
-| Chack Deep/Pro | `evidence/chack/deep-01-matched-researches.json` | 14265 | `33d5088d8ab219313233a941ab203e12fb581bcc4bf270f470bbd9a322654102` |
-| Chack Deep/Pro | `evidence/chack/deep-01-request.md` | 4155 | `31abace8a5e341996854d2b41a52efcd573598c492509524b5d778169de297a7` |
-| Chack Deep/Pro | `evidence/chack/deep-01-response.md` | 26946 | `8ec1a9a92af850d5bccf5b12f5a085f6a836164bfef9e81ff731c1c7e86bb640` |
-| Chack Deep/Pro | `evidence/chack/deep-01-run.json` | 271 | `4c72ea8b09ee4f3f137985e3973e85476905161032ba69d967e1e8be1b195dec` |
-| Chack Deep/Pro | `evidence/chack/pro-00-interrupted/chatgpt-request.md` | 1904 | `85edd77f85fb1d9318d4a956e820e37a05a1e6d59bcdec8eb288e2d39f73bf3f` |
-| Chack Deep/Pro | `evidence/chack/pro-00-interrupted/chatgpt-run.json` | 270 | `c1636f703ccb536079b8d8baa0a2a5e19efb5a9ddbf563b051597c3c23ac37d7` |
-| Chack Deep/Pro | `evidence/chack/pro-01-timeout/admin_output.json` | 12734 | `d179d569954a78c409699e609de0721ca00f09b46ea251851c4b9773953467f3` |
-| Chack Deep/Pro | `evidence/chack/pro-01-timeout/merged_prompt.json` | 1693 | `07d2dc1352992ab0070f2d2ff1ffd90ab2343712c97b10eb569f0cae4c77f343` |
-| Chack Deep/Pro | `evidence/chack/pro-01-timeout/prochatgpt_researcher/_artifact_manifest.jsonl` | 744 | `e63a3de904a5b6fca12e9823550ffa0c4b6cc57e7d0b1d01fb57acd929ab2546` |
-| Chack Deep/Pro | `evidence/chack/pro-01-timeout/prochatgpt_researcher/chatgpt-pro-partial.md` | 4486 | `7de774c8ec2a09bb92367135a29c2665391d8df37060cd8d47af4a55aa4268f7` |
-| Chack Deep/Pro | `evidence/chack/pro-01-timeout/prochatgpt_researcher/chatgpt-request.md` | 4614 | `dc6be2012e80977b3dd30cbbc613f5550f9fd2239a9aa7a439280e37f8f29ee8` |
-| Chack Deep/Pro | `evidence/chack/pro-01-timeout/prochatgpt_researcher/chatgpt-run.json` | 470 | `954f34c3cc4b3eaf5695fb48e248648aa523e2b89d357313e8d07c6a8dd664d5` |
-| Chack Deep/Pro | `evidence/chack/pro-01-timeout/researcher_outputs/001_prochatgpt_researcher.json` | 5736 | `2814b06bf7bce7727f862cab27b0d01464f174bfe2e1da7d2a83c63d487f02e5` |
-| Chack Deep/Pro | `evidence/chack/pro-01-timeout/researcher_outputs/async_task-0-d2b071_prochatgpt_researcher.json` | 5736 | `2814b06bf7bce7727f862cab27b0d01464f174bfe2e1da7d2a83c63d487f02e5` |
-| Chack Deep/Pro | `evidence/chack/pro-02-fallback/admin_output.json` | 35362 | `6386ce23e63dd000892870cc59d8163f4a9f2a1f02e4eb6292b65c5291879295` |
-| Chack Deep/Pro | `evidence/chack/pro-02-fallback/deepchatgpt_researcher/_artifact_manifest.jsonl` | 750 | `9635d7845c7b7bcf1672969edf589ca34cefdb897adcbdc2e86b179720d3643d` |
-| Chack Deep/Pro | `evidence/chack/pro-02-fallback/deepchatgpt_researcher/chatgpt-deep-response.md` | 25842 | `c03b3405c5a904c844992cdf4bae08c601b621865252320a73219890081d2b94` |
-| Chack Deep/Pro | `evidence/chack/pro-02-fallback/deepchatgpt_researcher/chatgpt-request.md` | 2327 | `0b2a8a6705308e01b9003297f42df419c0be65b45cf42e48d47ca8ac18dc7c47` |
-| Chack Deep/Pro | `evidence/chack/pro-02-fallback/deepchatgpt_researcher/chatgpt-run.json` | 270 | `dad22d71f9ac6c671a35cdbc2907c9c1cef48f4d26c3ee8a4f9373e0d08dc8b9` |
-| Chack Deep/Pro | `evidence/chack/pro-02-fallback/merged_prompt.json` | 1785 | `fbf448e61db17d21952cdefa058a0dbf0c842667046741ec2a6885f4d6b393bb` |
-| Chack Deep/Pro | `evidence/chack/pro-02-fallback/prochatgpt_researcher/_artifact_manifest.jsonl` | 486 | `b37cfc083745d1f45ff770aed22dc17a957829b064448cf25f1ec42b57ed06a0` |
-| Chack Deep/Pro | `evidence/chack/pro-02-fallback/prochatgpt_researcher/chatgpt-request.md` | 2214 | `59406dc47dced101c2c2f128e04426fb57de77100e734614bf60bad07265297a` |
-| Chack Deep/Pro | `evidence/chack/pro-02-fallback/prochatgpt_researcher/chatgpt-run.json` | 272 | `2105f5ddc28a9a2fcaee8269d800382f4aaa062160b09ad829ebf11511847849` |
-| Chack Deep/Pro | `evidence/chack/pro-02-fallback/researcher_outputs/001_deepchatgpt_researcher.json` | 27060 | `66e24ddce8c5e59420fd0ee8859c160f131e687f85d73e70316071cce5892b74` |
-| Chack Deep/Pro | `evidence/chack/pro-02-fallback/researcher_outputs/002_deepchatgpt_researcher.json` | 219 | `1cd2f57824a6c71f3100c1267463652f84e8a32b524bbba786294987556bfe65` |
-| Chack Deep/Pro | `evidence/chack/pro-02-fallback/researcher_outputs/async_task-0-50f791_deepchatgpt_researcher.json` | 27060 | `66e24ddce8c5e59420fd0ee8859c160f131e687f85d73e70316071cce5892b74` |
-| Auditoría/síntesis | `evidence/source-audit-parent.md` | 4903 | `1b6e60469558492637d4dd9bfefc4704ab0282c2cd6564cb21386bf7ddcdbc28` |
+| Control/síntesis | `curent-research.md` | 8154 | `8bbc1c80fea0b296f98250229bb1865d98e68887df38ac3a83732b80038452e1` |
+| Control/síntesis | `current-research.md` | 8154 | `8bbc1c80fea0b296f98250229bb1865d98e68887df38ac3a83732b80038452e1` |
+| Chack/respaldos | `evidence/chack/deep-01-admin.json` | 71928 | `964eb0a48d488659d43285048536192b96d87676905802fe9e30a4b2a2231e8a` |
+| Chack/respaldos | `evidence/chack/deep-01-internal-output-001.json` | 28297 | `95a9ea7e45dd2240dc6262f050e528a8ff5e03799f895495823030b5f565579c` |
+| Chack/respaldos | `evidence/chack/deep-01-internal-output-002.json` | 29837 | `50a71e1049af609030b2f3e4e5ade09a346a35e17bf3ebb537b0289d30e3bd13` |
+| Chack/respaldos | `evidence/chack/deep-01-matched-researches.json` | 14265 | `33d5088d8ab219313233a941ab203e12fb581bcc4bf270f470bbd9a322654102` |
+| Chack/respaldos | `evidence/chack/deep-01-request.md` | 4155 | `31abace8a5e341996854d2b41a52efcd573598c492509524b5d778169de297a7` |
+| Chack/respaldos | `evidence/chack/deep-01-response.md` | 26946 | `8ec1a9a92af850d5bccf5b12f5a085f6a836164bfef9e81ff731c1c7e86bb640` |
+| Chack/respaldos | `evidence/chack/deep-01-run.json` | 271 | `4c72ea8b09ee4f3f137985e3973e85476905161032ba69d967e1e8be1b195dec` |
+| Chack/respaldos | `evidence/chack/pro-00-interrupted/chatgpt-request.md` | 1904 | `85edd77f85fb1d9318d4a956e820e37a05a1e6d59bcdec8eb288e2d39f73bf3f` |
+| Chack/respaldos | `evidence/chack/pro-00-interrupted/chatgpt-run.json` | 270 | `c1636f703ccb536079b8d8baa0a2a5e19efb5a9ddbf563b051597c3c23ac37d7` |
+| Chack/respaldos | `evidence/chack/pro-01-timeout/admin_output.json` | 12734 | `d179d569954a78c409699e609de0721ca00f09b46ea251851c4b9773953467f3` |
+| Chack/respaldos | `evidence/chack/pro-01-timeout/merged_prompt.json` | 1693 | `07d2dc1352992ab0070f2d2ff1ffd90ab2343712c97b10eb569f0cae4c77f343` |
+| Chack/respaldos | `evidence/chack/pro-01-timeout/prochatgpt_researcher/_artifact_manifest.jsonl` | 744 | `e63a3de904a5b6fca12e9823550ffa0c4b6cc57e7d0b1d01fb57acd929ab2546` |
+| Chack/respaldos | `evidence/chack/pro-01-timeout/prochatgpt_researcher/chatgpt-pro-partial.md` | 4486 | `7de774c8ec2a09bb92367135a29c2665391d8df37060cd8d47af4a55aa4268f7` |
+| Chack/respaldos | `evidence/chack/pro-01-timeout/prochatgpt_researcher/chatgpt-request.md` | 4614 | `dc6be2012e80977b3dd30cbbc613f5550f9fd2239a9aa7a439280e37f8f29ee8` |
+| Chack/respaldos | `evidence/chack/pro-01-timeout/prochatgpt_researcher/chatgpt-run.json` | 470 | `954f34c3cc4b3eaf5695fb48e248648aa523e2b89d357313e8d07c6a8dd664d5` |
+| Chack/respaldos | `evidence/chack/pro-01-timeout/researcher_outputs/001_prochatgpt_researcher.json` | 5736 | `2814b06bf7bce7727f862cab27b0d01464f174bfe2e1da7d2a83c63d487f02e5` |
+| Chack/respaldos | `evidence/chack/pro-01-timeout/researcher_outputs/async_task-0-d2b071_prochatgpt_researcher.json` | 5736 | `2814b06bf7bce7727f862cab27b0d01464f174bfe2e1da7d2a83c63d487f02e5` |
+| Chack/respaldos | `evidence/chack/pro-02-fallback/admin_output.json` | 35362 | `6386ce23e63dd000892870cc59d8163f4a9f2a1f02e4eb6292b65c5291879295` |
+| Chack/respaldos | `evidence/chack/pro-02-fallback/deepchatgpt_researcher/_artifact_manifest.jsonl` | 750 | `9635d7845c7b7bcf1672969edf589ca34cefdb897adcbdc2e86b179720d3643d` |
+| Chack/respaldos | `evidence/chack/pro-02-fallback/deepchatgpt_researcher/chatgpt-deep-response.md` | 25842 | `c03b3405c5a904c844992cdf4bae08c601b621865252320a73219890081d2b94` |
+| Chack/respaldos | `evidence/chack/pro-02-fallback/deepchatgpt_researcher/chatgpt-request.md` | 2327 | `0b2a8a6705308e01b9003297f42df419c0be65b45cf42e48d47ca8ac18dc7c47` |
+| Chack/respaldos | `evidence/chack/pro-02-fallback/deepchatgpt_researcher/chatgpt-run.json` | 270 | `dad22d71f9ac6c671a35cdbc2907c9c1cef48f4d26c3ee8a4f9373e0d08dc8b9` |
+| Chack/respaldos | `evidence/chack/pro-02-fallback/merged_prompt.json` | 1785 | `fbf448e61db17d21952cdefa058a0dbf0c842667046741ec2a6885f4d6b393bb` |
+| Chack/respaldos | `evidence/chack/pro-02-fallback/prochatgpt_researcher/_artifact_manifest.jsonl` | 486 | `b37cfc083745d1f45ff770aed22dc17a957829b064448cf25f1ec42b57ed06a0` |
+| Chack/respaldos | `evidence/chack/pro-02-fallback/prochatgpt_researcher/chatgpt-request.md` | 2214 | `59406dc47dced101c2c2f128e04426fb57de77100e734614bf60bad07265297a` |
+| Chack/respaldos | `evidence/chack/pro-02-fallback/prochatgpt_researcher/chatgpt-run.json` | 272 | `2105f5ddc28a9a2fcaee8269d800382f4aaa062160b09ad829ebf11511847849` |
+| Chack/respaldos | `evidence/chack/pro-02-fallback/researcher_outputs/001_deepchatgpt_researcher.json` | 27060 | `66e24ddce8c5e59420fd0ee8859c160f131e687f85d73e70316071cce5892b74` |
+| Chack/respaldos | `evidence/chack/pro-02-fallback/researcher_outputs/002_deepchatgpt_researcher.json` | 219 | `1cd2f57824a6c71f3100c1267463652f84e8a32b524bbba786294987556bfe65` |
+| Chack/respaldos | `evidence/chack/pro-02-fallback/researcher_outputs/async_task-0-50f791_deepchatgpt_researcher.json` | 27060 | `66e24ddce8c5e59420fd0ee8859c160f131e687f85d73e70316071cce5892b74` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/admin_output.json` | 98008 | `a6769089187fd541ffcc8faf9ec6f713dd8b6004c71b9906b9cb80c8476c4a79` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/legal/_artifact_manifest.jsonl` | 3278 | `888aed70cb6d8a58c23b43438a32a169f3fc07ea616501d92b9098ae813abee4` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/legal/wayback-cdx/easl.eu_fd62ccda7b1547318c7559b70b77af07.json` | 2116 | `be3cc759449edf7d7b56666afe4d7247df598bf922e81d72a692f2e091261825` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/legal/web-pages/cima.aemps.es_20abb3afc940423485972ac4866db90b.html` | 198772 | `60de6cbb53aeae7d40f800f4532c3edfab0de2d9dd972794046fb5cdfa04cc54` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/legal/web-pages/cima.aemps.es_42ae46b5057d4b6c804df67398290880.html` | 75908 | `1fbceaeee75d8e89006ab349f781abecc066a9cd7fa2794448178f5c341b548d` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/legal/web-pages/cima.aemps.es_448ad8ab95764308a999157e4f0f48ba.html` | 103752 | `5be13642d2d46ca970100d102c4e9a9c32b1ec71c4ad0665e32ad1ade1ca4b19` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/legal/web-pages/cima.aemps.es_4c91b10b2c2e4ee38bb278661160cfe0.html` | 125601 | `1f1cd34019c23e0d6b6a77551fa95ac1543348183ac011e973198d8fd8c4a838` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/legal/web-pages/cima.aemps.es_837a64144a7e463badfa8b455983e45f.html` | 136717 | `08b1394adf0f3f1d86b48c6d4814efb8d39be1da1a6d7092171529df9aa9fc4e` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/legal/web-pages/cima.aemps.es_b272cba30e1b4707a43245044be59c95.html` | 16679 | `fea3183def6bc5d88bc03dcd9abfd5ffb956b3405ea046fe98a1e0f798b88ee3` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/legal/web-pages/cima.aemps.es_b92691bfebdd42bd962ab2b1e20802ad.txt` | 1118 | `7e6eb225f56edae1313f93e2f463415a58b55061fadca6470659828d274def36` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/legal/web-pages/cima.aemps.es_e4716bdea20d46428e24be76a170e180.html` | 135727 | `782735ff7fbaabf10a50ce8fe60fd9abf2d29a79abea3fb420121139a9114140` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/legal/web-pages/cima.aemps.es_f740755aa7b1401a98236a35951baeb4.html` | 65534 | `82c4f810be8b16b5118b28985d2cc67879e6f5fbfbf417cf94c9447630d87534` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/legal/web-pages/cima.aemps.es_f7552e9f437f4707b5abf6a36a4d313a.html` | 105684 | `ade109851ed51813d4827891aff3d71bf26037b91cf6c3a998a0e006752b3612` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/legal/web-pages/easl.eu_5f849295141e414b920a8d8c255cd085.html` | 83300 | `0a720b5925466890b7e5d7aa8ef1d540c2667c40e48dbce2f649b0c7708d407a` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/legal/web-pages/easl.eu_a3edb3068ab34f08b72864af5eaedba5.html` | 100271 | `add9b624a8990038c84a3f94470648368985c84b19e3ed14c62fec7ea3251f81` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/merged_prompt.json` | 2878 | `474cb0c4022a2a8986860274759738f7a0916a88ec35eb466c8a085dc049c1da` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/prochatgpt_researcher/_artifact_manifest.jsonl` | 1368 | `2a2f293c6e4e3097e01e47266285cbdd51c372254db96cfd4915d2480407926b` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/prochatgpt_researcher/run-1786176188303547754-be720292/chatgpt-request.md` | 2091 | `e35ecd4685c8b302295dca61b63755c88c56f93e9ec2cf5f2a937ee6d327e298` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/prochatgpt_researcher/run-1786176188303547754-be720292/chatgpt-run.json` | 629 | `2e7d61c924c912e2518c7f66aa6f57f9fd13ce75e00f558ac5db92cd0e0ad66f` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/prochatgpt_researcher/run-1786176652977875385-8ab5519c/chatgpt-request.md` | 1723 | `58343c3ed843e507370b9b3077ebde705e30939b5ac51c80219d30c1d22f9e49` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/prochatgpt_researcher/run-1786176652977875385-8ab5519c/chatgpt-run.json` | 628 | `fc28fd21566b19ba2df8cf4f9c77421d71307e5fca39e229ba8e022b752300c2` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/_artifact_manifest.jsonl` | 10096 | `d3e578255bf281fc7798bfe83695d966e18078b2ba692b941f8121273dc93587` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/nvd-cve/cve_acetazolamide_9ca5e71fb2a341578d488ea28104df9c.json` | 146 | `65030cced0cb679a32592897ba3874ea11c5a8a94e3c2070ea7f3a5b24c56b77` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/openfda/food_diuretic_dfb8e9795e3f4103bf0e90c58cff288d.json` | 1851 | `2b407b1a553876db7dfc2b453dca5e58d4f91dcb6a7f6e2b78fcfd65cc7aa586` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/openfda/food_water_weight_gain_b3487418673a469a8a8e1304ec3a3f40.json` | 1851 | `2b407b1a553876db7dfc2b453dca5e58d4f91dcb6a7f6e2b78fcfd65cc7aa586` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/openfda/food_weight_loss_5c160bda10c445d5aa9d44358cf1dc90.json` | 7643 | `5ed113a6d7094359b4b5243e8015fb255eda0939feefb3c6c6bf1b26cdfb5796` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_1972680ecae344e0a457e7c139e3925e.html` | 75908 | `1fbceaeee75d8e89006ab349f781abecc066a9cd7fa2794448178f5c341b548d` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_1972680ecae344e0a457e7c139e3925e.txt` | 30099 | `8d964b8ed205dff138f39342a0b7545984ddd7bbbd5d3a6fefa6912db016157a` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_1ab4312cac894b1a97820623984518a8.txt` | 7924 | `546ad5294d55b952ae2f9044344c3e11efe01f96bb9ed5cb943bc118fd3e4205` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_1ff0c14774e84ac996a6b32eaf541752.html` | 65534 | `82c4f810be8b16b5118b28985d2cc67879e6f5fbfbf417cf94c9447630d87534` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_1ff0c14774e84ac996a6b32eaf541752.txt` | 25999 | `b8703b3c29da4ebbc6cf52557f60361902a6d1caceb0d505a5185b53ea12f48d` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_2a6a1921895549cdac159fbdce18a8c9.txt` | 53142 | `ff560db69365f078fdfc2acb81768ddc0f21118f98a1af3af00d6ab0afa4eb73` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_620014f39fa648babdff7456891fdb67.txt` | 1170 | `1c72472b8e0cd452acaf2166a085ab6f98659f2c7c04830b8e69b373ad2e7c34` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_6239fa72d8e34aa0a369b8214d93ee8a.html` | 198772 | `60de6cbb53aeae7d40f800f4532c3edfab0de2d9dd972794046fb5cdfa04cc54` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_6239fa72d8e34aa0a369b8214d93ee8a.txt` | 34652 | `7ecb54eadcc04686e2fccd58a457a02558dea3e9ff9a61ad418aba2a600e5ece` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_79c34d102fac4852ae80ef58d3178bd1.html` | 20375 | `65946003cad4701201c49ec6783bbfa5ac25c76071198342983cb03248f0c299` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_79c34d102fac4852ae80ef58d3178bd1.txt` | 101 | `737f8e60e5371da5e13432c2bb79e1bfdca7a024cfd62c6dbe0d5e5eb5b6bacf` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_81c943bae3394f7a853d46780aa297fd.html` | 65534 | `82c4f810be8b16b5118b28985d2cc67879e6f5fbfbf417cf94c9447630d87534` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_81c943bae3394f7a853d46780aa297fd.txt` | 25999 | `b8703b3c29da4ebbc6cf52557f60361902a6d1caceb0d505a5185b53ea12f48d` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_8561648ba717484384c184577942d166.txt` | 63 | `f687ee5b30fdf517789e635c8cd9a83af1c87aca5511e6e288f7cb0e80dcaba4` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_8781562559f94a4f80e3f21e47c7f588.txt` | 33265 | `92d2a160f72cc826958f74b4a54cbe0a294cda9097b78671c9432d8765bb1f28` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_887902355d6d400b8db476f260641f27.html` | 136717 | `08b1394adf0f3f1d86b48c6d4814efb8d39be1da1a6d7092171529df9aa9fc4e` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_887902355d6d400b8db476f260641f27.txt` | 24039 | `6a4a870f0dd0c05389f84d4d57e6abcd599e3670604cc3a5e8be9045639317f3` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_8e11860f544a4fad96f77eb38608dd11.html` | 90054 | `509c9fda428d4350746ae2d9f28455b12072491308e8cac2af3c4f3c0a273344` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_8e11860f544a4fad96f77eb38608dd11.txt` | 30219 | `c0b7d07069ef97d7ffa73592e1d4726eb718652cb5a4f49c610dc7207296d583` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_96528359c2284c2cac55b9141cf07f98.html` | 81653 | `a628d13a2b7053079646d613c0023dcdf5a4e571724cc737c2b6ab106a69181d` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_96528359c2284c2cac55b9141cf07f98.txt` | 24049 | `980912507a52c038eaeec12c9e24eb5c5ad1f1b4b5ddaf2ba4a6a7225c0e4969` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_a46071342ee74d5d82f5b62088aaa40b.txt` | 285866 | `67c44b25686fc27988eb8e726299148371255ee9d3504dfc7317c9cfbb14a149` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_ab039ad24f184c678fa05e03e04f2abf.html` | 81653 | `a628d13a2b7053079646d613c0023dcdf5a4e571724cc737c2b6ab106a69181d` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_ab039ad24f184c678fa05e03e04f2abf.txt` | 24049 | `980912507a52c038eaeec12c9e24eb5c5ad1f1b4b5ddaf2ba4a6a7225c0e4969` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_c5ab33a766554f6ba17025a6d310c285.txt` | 1142 | `bfe6c1369c8191c764120cfec0f2a8ccf96db2c8290b41f1ba3739e5cd3c31d6` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_cf58da4c87844cf1a69c3c293c2edf81.txt` | 32731 | `776d601b3199efed6bb0d77c5a0a6bb474f90fbf4f05a6c33b89cafcdf298057` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_d68d812f09ac4111b21784d183025034.html` | 103752 | `5be13642d2d46ca970100d102c4e9a9c32b1ec71c4ad0665e32ad1ade1ca4b19` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_d68d812f09ac4111b21784d183025034.txt` | 23230 | `ca93c1430fd321e08d45a131263892a15a14ed82e3367dbef3bfa09afd443a9c` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_de3100c765004aaebb1eb857ab44f848.txt` | 5701 | `fba471fd30720299ad6ea8318dd13088ac09cebd57a43ac0164484a6b45823d9` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_e5f632492bd94809bf043c10e704efe8.txt` | 30854 | `96a00982d7a9d330e664c47c4700579cca3f200e0414f14e3c4096258b14e3ec` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_f5d1ab5a959f4d618c4e16e803a92a6d.html` | 125601 | `1f1cd34019c23e0d6b6a77551fa95ac1543348183ac011e973198d8fd8c4a838` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/cima.aemps.es_f5d1ab5a959f4d618c4e16e803a92a6d.txt` | 37491 | `c4a09d37a644a21066ad6497def3c3ad3c50e3a2d74497d21461275cd7666730` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/www.aemps.gob.es_e328264dab4f40159b9bbef02fb3ac3f.html` | 99052 | `aca7072054c512642e35db113607637cde0b2d7d7935949ec5c59e20eed41ea7` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/www.aemps.gob.es_e328264dab4f40159b9bbef02fb3ac3f.txt` | 5849 | `d269a3733e051d57d7aab8fb7115da6690a4603e736f1e9ea2bc027087edef69` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/www.ema.europa.eu_656ef9d4392e42d1a6e168435c9829e4.html` | 73799 | `ad86ffcf188bd618cc058e0cb91bef9193d33d53f319ea38fa8f180252cb268a` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/product/web-pages/www.ema.europa.eu_656ef9d4392e42d1a6e168435c9829e4.txt` | 7827 | `518d2ba5c25372d9bb9e2d4675b6a15d2938d978a251e71603a4a6f25b9d9236` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/researcher_outputs/001_prochatgpt_researcher.json` | 962 | `e846b7400fe44fdae1863dcb74cd16a8a8029e1905bfcfd026ccb2e83c207a2b` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/researcher_outputs/002_prochatgpt_researcher.json` | 962 | `2320e5168b6794ddd9b384a93e9af89db2234ebf40acd35f16e0d0e99ea0143e` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/researcher_outputs/003_websearcher_research.json` | 17026 | `4383d04a8c2dc2e9a6ce98b6e41d11f8acfa759057857950cfaf25a16465f04c` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/researcher_outputs/004_legal_research.json` | 13999 | `fb4e8495453524a4b91ac78149751ed4ecec8f638665dfd5b548b696820fcea3` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/researcher_outputs/005_product_research.json` | 21480 | `d2e4d4e13d1c81fbb3f38c49b253d98073d601fd7111f2b4815eec246646cd5b` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/researcher_outputs/006_scientific_research.json` | 29446 | `edab35c1ed1fdd0e64b11bd9f9116e7d5f7aa503f5b606956ad1293d00f09fe5` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/researcher_outputs/async_task-0-815864_prochatgpt_researcher.json` | 962 | `e846b7400fe44fdae1863dcb74cd16a8a8029e1905bfcfd026ccb2e83c207a2b` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/researcher_outputs/async_task-0-8c4972_prochatgpt_researcher.json` | 962 | `2320e5168b6794ddd9b384a93e9af89db2234ebf40acd35f16e0d0e99ea0143e` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/researcher_outputs/async_task-0-d956fc_websearcher_research.json` | 17026 | `4383d04a8c2dc2e9a6ce98b6e41d11f8acfa759057857950cfaf25a16465f04c` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/researcher_outputs/async_task-1-856324_legal_research.json` | 13999 | `fb4e8495453524a4b91ac78149751ed4ecec8f638665dfd5b548b696820fcea3` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/_artifact_manifest.jsonl` | 18378 | `4424763da4e53123795e3260bb8c71889f073c5ad297b05ddb5ae74f17a8fe04` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.1001_archinte.159.14.1599_3e63658e87ac4bb396b54fdce6f91c97.json` | 2276 | `8ef9c20cf80535403a98d5147995e41db6c21b7bb505408f4a824cdb753165cf` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.1016_0002-8703_92_90075-7_91931eb87ef24172b3740027978a62d5.json` | 15712 | `c0100d07a40be5db890429440c43f9d534949db43afea68c868a4cc9e0dd1fde` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.1016_0002-9149_89_90255-5_bfac8db7f2084989a3946c626cd9d96d.json` | 6949 | `49e4b4914fd147f95d874510558f14961527c496b81aea2eee0efdb6527e76f9` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.1016_S0002-9149_00_00795-5_82073135affa444c9648c723ef60c090.json` | 10484 | `2f1254b3df27ca1d7d4e3baa551359c04863b9ac90ffd1223fb8f69eaba2a252` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.1016_S1388-9842_02_00205-2_77495b768d6d4498b91da10caee6e8f8.json` | 16185 | `ad40fe27055db42a480538169b0509b8f1bf442c35ad21c790b2a3fefd3d090d` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.1016_j.ejheart.2004.09.006_2975c3b38d5b4208808649ecee3b602e.json` | 14457 | `4fbdfcc0603d7d8b678e1758d59d813c05bf64819ab7251b97f609354c0d4ba7` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.1016_j.ejim.2017.03.025_7bd5730023684294afefa16c6a168124.json` | 5875 | `4d0687dd484c871057fc7cb54399c17849733dabd0d70c58e761a831385bbb57` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.1016_j.ijcard.2014.09.156_8f573360151e42b5a63ee4ad3739234d.json` | 7610 | `29fc6bdf4b8ce16e72473e38ea8df94d52873d6c81daa82b6621a0002f10db57` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.1097_HJH.0000000000001405_f9a7479e0213419586f3d1f1fd48350a.json` | 12153 | `89a24d1b05ce2b20e5bcb77340cdb6460202d255d9953626524bda2d8d934738` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.1111_bcp.16189_36df70d70ae644819ad93d56bdd26ecb.json` | 13967 | `9be0cd9abb38883a3fbe437e4c4f4657b1e332e0fee38c8be180684990e32198` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.1111_ddg.15513_8c43f18c85c240629de3488dc99b0f40.json` | 22927 | `b0f82904bc99f2fc25e4360b6f7041bdc52c0518f4a87f66a165fc443930677d` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.1111_ddg.15513_98ba1a03062f4b2a8d8b1a749aaaab40.json` | 22927 | `b0f82904bc99f2fc25e4360b6f7041bdc52c0518f4a87f66a165fc443930677d` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.1111_j.1532-5415.1999.tb07448.x_623adc3b6f6e4db1b011766ce5d4430b.json` | 4207 | `d4dcf47a2d287a3506a72064172847c8f45b9a86e74542a60e6fb7ece1234e49` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.1136_bmj.308.6927.511_b6ba710c7f0d4c948ad9227555c2fc45.json` | 7251 | `3e3a69ad83f2d9cc316f88abb37b9d857ccf799316fbe189afda840589807eef` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.1136_bmj.315.7106.464_da6b704424e3417788087a06909ff8d6.json` | 2269 | `1d4a8575638fd0cec8760934518b42a2a7ccb0a2e5b71007a7a39dd74d4dfaa7` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.1161_01.HYP.5.4.539_81e902bde761424b988c308c0862999f.json` | 3773 | `5ee7a7c472b209e111da09345377ab65edf7b0b0a29d8266698ff76c68188ae1` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.2458_lymph.4649_60e4945b298f497c9d070249f0e16894.json` | 2153 | `dc59571de664d005af3e6b05a2bf5f1d3746f51beb0931930637d9a92e792cba` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.2458_lymph.6372_cb668e40fb104d5ab19071b69d908884.json` | 6640 | `7051c57384f872601b279a260b29555c594d2c58d3ec3cf1d339c0e4dc75c00c` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.2458_lymph.6372_e6fee75b318343e49f0853a959d25b15.json` | 6640 | `7051c57384f872601b279a260b29555c594d2c58d3ec3cf1d339c0e4dc75c00c` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.3389_fcvm.2021.725399_196e4f3899ee4f64837fc17eea8e0944.json` | 14699 | `0ce25363f82a90a782eb207996b96ce4856d62d6f4d92703c3c2f2e8cb535a6b` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-doi/10.48158_lipedema2019.en_2d1bba5fe8144ecd99b723368c2468eb.json` | 5597 | `8d00f3e3798e1f21cc36ec38a247c76f07c35a80ae7723120a935bac464d21e8` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-search/10.1111_ddg.15513_diuretics_should_be_avoided_lipedema_009605e5fc994f64932a1f45bc2475e5.json` | 37590 | `091e50443b31c2a8d57e665e46d8237b9d4a56fd1ed88d9718dd18bc56f6f7b8` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-search/39117602_diuretic_deprescribing_systematic_review_a6f66707435647a3815362c3287968ad.json` | 49084 | `dd58547fdd2c80ace51961701ae5141d2a83494e20588f894bc52ed87167514c` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-search/Clinical_and_neurohumoral_consequences_of_diuretic_withdrawal_in_patients_with_chronic_stabilized_heart_failure_and_syst_797a919a8ff04509b375288c7ce6fb71.json` | 101442 | `6b40a919a9315c47684869b8f943289dd718927ec2fe0618c540f080190d7d4b` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/crossref-search/Neurohormonal_effects_of_furosemide_withdrawal_in_elderly_heart_failure_patients_with_normal_systolic_function_867120c0707a4c6d8336db7be70acbcb.json` | 228536 | `7a9b6688c3515bd927030ea528f3098c56e32031fcfb20f825b3edaa92dc77ba` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pdfs/ahj_1992_diuretic_acei_withdrawal_rjina.txt` | 18597 | `f476c4b3fc8dbbb4f865bbd2fa393c77716daa328070634ee038f710439529d8` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pdfs/ajc_2000_furosemide_withdrawal_rjina.txt` | 22830 | `1d06f81c7f3514cf69c0725f1ac05802116580ba478da67c97c3c4f2e35a9b90` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pdfs/amj_1989_hypertension_reduction_rjina.txt` | 22783 | `9901f0b78eb84f59ba28de0a30ac97d6dbd4a67b1715e169669eb60da74c32b0` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pdfs/ejim_2017_fulltext_rjina.txt` | 31692 | `c046a604f82ee5f4ffd6ef86b3c4c3c404dfba73f8574d21f09257967562f0f5` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pdfs/ejim_2017_retrospective_rjina.txt` | 12934 | `e78eac790e9cd5746ecddc7e043e8fda15a96ea2bdeff8cf34d5fdbcbf87cbd5` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pdfs/ijcard_2014_fulltext_rjina.txt` | 24656 | `f33f9d0bb44a9205eae1d761c0a3117d68aea8cc8b70a8d458e8b99240c41c21` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pdfs/ijcard_2014_randomized_rjina.txt` | 38570 | `f07a5cbd81218990a70c3dde7d9a713637a2ffedd65f9b4274bd695063f03460` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pdfs/isl_2023_doi_rjina.txt` | 5249 | `2f107a51b1e5c43152d29d33a104ce91aa854794a342fd53a8f6a5420b74d877` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pdfs/lipedema_consensus_2019.pdf` | 2443162 | `2f84e470496763dc94113a0e96cb7fd924ed204ddc67cc0ca43cfd1a6a5710e3` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pdfs/lipedema_consensus_2019.txt` | 218273 | `a767aad1d6f05debef9610445f4505eb2ea85d49c7472192734475867c112cf9` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC10600299_34fa6522f8aa4727b58caed4f81a4983.txt` | 42175 | `1bc95b67b8b6d5a42dbb43bc3ad56bd8e6aa526133cfed0ae8d8a626077d20c1` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC10600299_34fa6522f8aa4727b58caed4f81a4983.xml` | 78913 | `943d96fc9346043a012e5c3080fba913bd73cbaa4064d746414e011fdceb0cf5` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC10600299_81407c63356e4a14b6d65186823b96af.txt` | 42175 | `1bc95b67b8b6d5a42dbb43bc3ad56bd8e6aa526133cfed0ae8d8a626077d20c1` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC10600299_81407c63356e4a14b6d65186823b96af.xml` | 78913 | `943d96fc9346043a012e5c3080fba913bd73cbaa4064d746414e011fdceb0cf5` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC11671325_ffc9a233314a4e30968af2a7a0b4e56b.txt` | 75590 | `a8042db9e97b31f17a7604ea90d4f191ad116df990648e40cb0225ee16b7b635` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC11671325_ffc9a233314a4e30968af2a7a0b4e56b.xml` | 162593 | `3fcc07dd1c703ab8caf7af6cd166b35d680f4b00ea31045abfd4e165e63071f5` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC2127314_1aa25271ee9145fc882ab90e58c73933.txt` | 2353 | `cec1480e199d311ed3b63c5d222291c7549fcb22956f6f419808676da493147a` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC2127314_1aa25271ee9145fc882ab90e58c73933.xml` | 6255 | `726ea26de3a0abfbf5ad9360768f6aa11efc4f44866b5daf9699009a07ac823d` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC2127314_ccb0f1109f614cb386f5acc17b052cf0.txt` | 2353 | `cec1480e199d311ed3b63c5d222291c7549fcb22956f6f419808676da493147a` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC2127314_ccb0f1109f614cb386f5acc17b052cf0.xml` | 6255 | `726ea26de3a0abfbf5ad9360768f6aa11efc4f44866b5daf9699009a07ac823d` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC2542786_45006d870858457fa65baa1f40e916ad.txt` | 2105 | `b9f62ac1eb899aef7b3736ba99d1aa361879602426c763d02165cf9546eb0a56` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC2542786_45006d870858457fa65baa1f40e916ad.xml` | 6270 | `b843252a1898173e1e7c088812a3be37ff10ffc64ca24eab1e9e9fcde1c5c866` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC5548513_c859831bb47b4f1ea9c88a4118c465d7.txt` | 34402 | `aae1e3531137ff5751ea4c6f57b8dbe2c879ab46651c97a118d008c10bac6f32` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC5548513_c859831bb47b4f1ea9c88a4118c465d7.xml` | 72499 | `3c359c1c6ed25a56b71dd6663fe57c1494f212961e748bd74657ccdd787880b1` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC6283675_69bba817f44a4c0db0101f9d0aac40aa.txt` | 40192 | `73bcfcc5422a6ee351e8406449523532d2e9dadf584c0a1e84136eb9d7223696` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC6283675_69bba817f44a4c0db0101f9d0aac40aa.xml` | 86996 | `7babf515ffe33a6580832dfcaf352e0627c9f57064ad98f1bc785efdf49b9ad3` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC6319251_096b2ff877a442bea6b423d7f426351f.txt` | 68329 | `5888204c9a1bbdc96641ea18e02806c928fb2a38e32b335137610ce62727f8ae` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC6319251_096b2ff877a442bea6b423d7f426351f.xml` | 140250 | `fe3da23f00b5f6def998f1845fd23cc19965ea647a184ae2702ad380dc217184` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC7387859_4bbfde0d74854014bd4ebf4780dda2b2.txt` | 11098 | `e3147ec02d69a36ef7d7dc3e28b37fbcfc311e6dba3edd13387378177a76a234` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC7387859_4bbfde0d74854014bd4ebf4780dda2b2.xml` | 19956 | `29f5b293fbd3029041c49af4fe64fdef1f5829cd4a26dc301cb716bfb4bcabaa` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC8481596_430ba35bf48b4ff0a4cc592a74f58bcc.txt` | 44118 | `89498af9f3354f0dfe2b8a52ea0dc754bfa9dc3af7a052d8e014531bf0669e06` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC8481596_430ba35bf48b4ff0a4cc592a74f58bcc.xml` | 102520 | `da147e3cdb717af07e2c9b34a3d351bd10a51dd70c88f7058440fa1809e3a3c8` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC8652358_95122dc0977c46ee99c336254b68b3ff.txt` | 77952 | `892079e3687ee9e5a8dbd1c8ab5045c02354b624905492ede49fcc47237d156b` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pmc-full-text/PMC8652358_95122dc0977c46ee99c336254b68b3ff.xml` | 203687 | `946b29a0cc8174915335f2d6982d69406ca083395c4b84a82e3922fbb8761cbe` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pubmed/pmid_39117602.xml` | 41943 | `709784ba6df37e1c90c67e31a72c898ff3be3cf475bd25541892edc58c0ca39a` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pubmed/pmid_39117602_refs.json` | 25898 | `6277702e787a172977c099827dd1c9e366941c2408d81086ed46050148996564` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pubmed/pmid_batch_key_diuretic_studies.json` | 43678 | `3418e0afbe33967e4bbc8a14e54bc54a44d5af7b84442bab7b26a831b908c6c2` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/scientific/pubmed/pmid_batch_key_diuretic_studies.xml` | 415034 | `ec990634b5272dd57b866a3aa655ec5168c171d13a83005f112758bc7ff68de7` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/_artifact_manifest.jsonl` | 5494 | `1de3cb44932f37f3f5077fabfd29678da7777ab137c2e6f8260343224616c489` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/wayback-captures/http_journals.librarypublishing.arizona.edu_lymph_article_id_6372_3f9230101a1e40da8d69249102c0bf3c.txt` | 6885 | `dc9e6ebc39b72c0cdf388eb11b3d9abfd6a4e08c8f7c9c4753628c112aef6b90` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/wayback-captures/https_journals.librarypublishing.arizona.edu_lymph_eae414050be5419599101b0e76e1fdee.txt` | 2452 | `34dffd905b3d73952633abaab4bfdd7cf88cadbb6b9527e90377500d37647c2f` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/wayback-captures/https_onlinelibrary.wiley.com_doi_10.1111_ddg.15513_82c18c8a291142b58d223a3f30a6e17e.html` | 429817 | `01ba18d771ea32695e03066d84a0080cb95b1cb55f7cbdeade4bfda87cf8af6d` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/web-pages/api.crossref.org_3961012018a84eaba65fc4b551911c2c.txt` | 369770 | `9a3cd46e504ba45936d8d08c383d231b2ebb9734cdb442465e885ea8c0873643` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/web-pages/api.crossref.org_4062b9487a4448efbed86b116028abf0.txt` | 23145 | `2997c709380b5d28b5160e06b72b711a6581dec1c95d6ba7608df8f533fab578` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/web-pages/cima.aemps.es_ac4fd47834fb4bd8a15971277a19aa84.txt` | 23230 | `ca93c1430fd321e08d45a131263892a15a14ed82e3367dbef3bfa09afd443a9c` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/web-pages/cima.aemps.es_bd4fa365ac5e496d9d5717e31258c4ae.txt` | 30099 | `8d964b8ed205dff138f39342a0b7545984ddd7bbbd5d3a6fefa6912db016157a` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/web-pages/cima.aemps.es_d6ca188d1b254b5c8255c7e715857223.txt` | 30219 | `c0b7d07069ef97d7ffa73592e1d4726eb718652cb5a4f49c610dc7207296d583` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/web-pages/cima.aemps.es_d8e329ba278f4f6f8bd8ee28ac026b96.txt` | 34652 | `7ecb54eadcc04686e2fccd58a457a02558dea3e9ff9a61ad418aba2a600e5ece` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/web-pages/cima.aemps.es_f39f8db549914206a8ad3ca22253f510.txt` | 24039 | `6a4a870f0dd0c05389f84d4d57e6abcd599e3670604cc3a5e8be9045639317f3` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/web-pages/cima.aemps.es_f46311802d5940caad259b8415092a82.txt` | 4338 | `352083ed95299efaa32fdd0eb4f1df24f5174394db1bca372df772f7e6f22c6f` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/web-pages/kdigo.org_49f4bc238e5949609cf2e21da62156a8.txt` | 3180 | `aa6d70ceb2214e49eaf8ad8437820af0203a48a3438233e483b34e29b0e4f02a` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/web-pages/pmc.ncbi.nlm.nih.gov_341316b2cf8849f7a3cc5bd314a54f1e.html` | 336365 | `6d6bf3a5099b1571f71769a620922049586812114c86be07c09a534598e69841` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/web-pages/pmc.ncbi.nlm.nih.gov_874a989e3bfd4af7aebb2447c69372db.html` | 536957 | `4cc8514002004f3741b4e8180230eed5cd7899e7a2503b3617153d48bdac2910` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/web-pages/pmc.ncbi.nlm.nih.gov_b141e1a067214e23ab161dfaa37534ef.html` | 273842 | `a30b10aab7b43ee0e04438887a31a6d71e6a917577d41a341a5527e8597b0c10` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/web-pages/pubmed.ncbi.nlm.nih.gov_0ba1a02281104b6ea050a7549eca5c4f.txt` | 15837 | `98b19f574a5c9101a2ad1cb26e9916a6fb780f1de9c026e3f0b907d9a3ad7e39` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/web-pages/pubmed.ncbi.nlm.nih.gov_bfa21c91620e49baa9f7b886a222a598.txt` | 17120 | `72c7e44fa62933f42c94193ce9f9d7b99a0d3663e249d838189d09150e12341a` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/web-pages/pubmed.ncbi.nlm.nih.gov_f2c87a9f1ff44aa394157968d12556ef.txt` | 14475 | `6ac2f88027791a5a332e04123add360fff1d077cc6b0ae6355d82cd6033baaa7` |
+| Chack/respaldos | `evidence/chack/pro-03-clinical/websearcher/web-pages/www.escardio.org_ccb8cfae0975426bb6b2dec7cb10a4e7.txt` | 13241 | `ec30fbd120cb34b8f2e9baff7a9de49290bed07363732d65b74284a6415ee42e` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/admin_output.json` | 45429 | `ab0a110609eef66b82c656dc8348edb27ebbbe6c2ce965f91757bd888e7d8289` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/cli/_artifact_manifest.jsonl` | 5776 | `68ee120a9c3518f13760024202e06a079de774909c3eff2e679edf519454fe7b` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/cli/aemps_hctz.html` | 109131 | `b83a196ed6c45c0435ba4e0e26fe3414b7545a5c0e44ca4eb435675a8f3bbd63` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/cli/arup_diuretic_screen.html` | 87911 | `869ff05063f0522d1725e35240d4097d1cf998e12c662c7a059ee0587b6ceb9d` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/cli/labcorp_renin_activity.html` | 160477 | `d9f847a4910ca24e955c0b653c288633d1f6f0d1bc3fb57a04b42fb65d80a31a` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/cli/medtox_diuretic_profile_urine.html` | 58386 | `b632ca497a0d0a6d82a35529551cf22d312b6578e3b70cc1742f6af91b944124` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/cli/pmc_5881435.html` | 203678 | `22276a5e170b854c19c601db267c4227ed754c72082be43a1099b3868c173cd9` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/cli/pmc_6390907.html` | 183704 | `312fee5e9e04adc96064fbc68530bf4927a2edfd092343962c7beda926b73ff2` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/cli/pmc_7769018.html` | 190419 | `29ac2c727d86208d8797926937b1d3710f35a92c88a2fd49c06391177dde61ba` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/cli/pubmed_29540487.html` | 129065 | `cdfcce2c59b107c1e95f2e4f23c66f6efbbb39abcc85be0c72f94c6908118074` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/cli/pubmed_32384182.html` | 151761 | `c57ea6e8b48be76efec6d86c77b38cc8f62972580736fbe30f2c64a03c3db26b` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/cli/rch_urine_diuretic_screen.html` | 64438 | `0765cf2b301c139572b9feb4d1759fcc6385185d9ac9e783e3311458551cf8f2` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/cli/scielo_gitelman.html` | 38412 | `429e588224cba27f3b78e2566104b3eca3fcf742ddf8214fe5dcf1551c838430` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/merged_prompt.json` | 2768 | `e443869c3001b1dded74610e0a1c648e0ee4f0a5e4fb188559ececb7c61defc2` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/prochatgpt_researcher/_artifact_manifest.jsonl` | 1368 | `71f182a8efd35a17cd23bf34b240148196a380cc552e8567871c63ab31afa6c5` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/prochatgpt_researcher/run-1786176179707849725-8bbd5379/chatgpt-request.md` | 1914 | `c8d4bd4b03d40d6eed08fc6647f1c14fe55febd4641d0544f1c8d23f3168385b` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/prochatgpt_researcher/run-1786176179707849725-8bbd5379/chatgpt-run.json` | 628 | `91042279e54d3f22da595483fb3567c39e073a039121c057a820211bbf3f8c2b` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/prochatgpt_researcher/run-1786176500517221165-fc0e85c7/chatgpt-request.md` | 1521 | `1ac0291e91c514b306bb4e76e9edf9b4476c8a4722c404054eb8802f93ee1602` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/prochatgpt_researcher/run-1786176500517221165-fc0e85c7/chatgpt-run.json` | 626 | `aeb6f8ef8147f8fc6c13da012264b284430645b7c611b3a2f2a1917bc01d23f5` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/researcher_outputs/001_prochatgpt_researcher.json` | 962 | `39e62df3d70e2b208e967ab53d819835ba4e22125feed95921fa767006b2afbe` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/researcher_outputs/002_prochatgpt_researcher.json` | 962 | `8f4de5559c9456974bdf641f18c5e0abd23c5dc9446e2f30751d079822299118` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/researcher_outputs/003_websearcher_research.json` | 14862 | `360e90350a46282ada3b2967c25f000b5bedce06b6dfb9c029707b2b7cea0692` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/researcher_outputs/004_scientific_research.json` | 16090 | `0a99853182d534b5ddda90b11fdd4144c6b6caf167d869a157f150c2b59e027b` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/researcher_outputs/005_cli_research.json` | 346 | `599f337c1724bc25a2addc22fb39bb51cfdefb7ba72957fe39c8e0cc8ff65860` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/researcher_outputs/async_task-0-60d52a_prochatgpt_researcher.json` | 962 | `39e62df3d70e2b208e967ab53d819835ba4e22125feed95921fa767006b2afbe` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/researcher_outputs/async_task-0-84013b_prochatgpt_researcher.json` | 962 | `8f4de5559c9456974bdf641f18c5e0abd23c5dc9446e2f30751d079822299118` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/researcher_outputs/async_task-0-d539b5_websearcher_research.json` | 14862 | `360e90350a46282ada3b2967c25f000b5bedce06b6dfb9c029707b2b7cea0692` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/researcher_outputs/async_task-1-39110d_scientific_research.json` | 16090 | `0a99853182d534b5ddda90b11fdd4144c6b6caf167d869a157f150c2b59e027b` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/_artifact_manifest.jsonl` | 12326 | `27d7a8ecce759cce2fde800439f49631ac33802b2ffb01dcba38ba77ec8b48a9` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/ncbi-bookshelf/NBK482465_01f50ca7362e4426a41204897e13cde5.txt` | 36713 | `313473a985ed22b353457a77f1563231b82d2372e6dd0c8fa85015597625ea6f` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/ncbi-bookshelf/NBK557838_5f6d4dfcaebb4fa68fe798bc5a4d230b.txt` | 111797 | `87aa193b52b11bab5641ccb60f49cb66594d36c94fc7d15b96d019ce2207108f` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pdf-text/_pdf_d27ba7b682c746bc847ee06f2b95322a.txt` | 18783 | `e1e507a72bfd9489ff35e385e6c10c2141cafcb78c345d779d564ca257304b85` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pdf-text/arm-35-922_f6568c56b791461da891531cb5691ca6.txt` | 22880 | `b65bed4d51e8d878e58299c41fc7cec25d1830d60fd8610fb76bcc1c1e58f155` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pdf-text/congenital-chloride-diarrhea-in-a-bartter-syndrome-misdiagnosed-brazilian-patient_6a8786d84f6e47eab1b854524b73ab6b.txt` | 30314 | `f4e13c3c8679aeccfc92909b96beff3c22b7581742d661ee2572855d9c5dfdcd` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pdf-text/guid-e379418a-59b4-4abb-9d61-06109fee2e31-ASSET1.0_928a878d063544ab9a0932a9d9e82eaa.txt` | 279950 | `18cf186a42282c0f684b11d5c6b59eddefc8897720e5f3a8db6c28cb3e0a9c25` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pdf-text/ijp-151462_a893886522b54e54bba3599752d19254.txt` | 19191 | `f478092de77c74e0080d044a4dd366d62779f9beb03d4004c9eaf3f9f8dd190b` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pmc-full-text/PMC10831455_3f7e17e5561d4976b1f4a775eb06d688.txt` | 2462 | `69a0823689fb6d03ea80b4fbc54559151dd4461bf2241f0f536b95348dac1b34` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pmc-full-text/PMC11442729_0c5c4a9062ad480f84f17c7652b3f3d0.txt` | 3688 | `9d4bcaed33edad49a8957f9a008d3f8de97ebd3f7c95fe4b55ff79537006223a` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pmc-full-text/PMC11608191_4ab402d7ad7b4e46b2d01276c49d8e33.txt` | 2847 | `1342daf8431126e07c43c8a8baf3867ee3fcb3fa6196f00962e3c4a839cee199` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pmc-full-text/PMC12347376_8c4a69a6625f428c9e21a5fa35ac4f83.txt` | 92554 | `6e6ae227e1493c30f60ae389d1d39d27efa216fd0cc2befe3bf4c71f371f3701` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pmc-full-text/PMC12660418_a1a411e527ea4f928b8f662333e8c563.txt` | 36472 | `f6d0eb006790528cc6f3dbc4213c6fc0b5d523e57956c87bd51ba1767d9d033e` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pmc-full-text/PMC12816854_69fe1ac8eef04b67bd0ab1ac586d8869.txt` | 63842 | `fd1969bd75ec827bc4fd2bfa2192a9a7265ec5ba68ed2e60fa9978728bf51cd9` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pmc-full-text/PMC12888987_f1824365b48f4e15bfcc93bbbefe00ee.txt` | 3298 | `11cc491386e0fcf2305c99a136942495d499b577c56801c8e832529509e5ff64` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pmc-full-text/PMC13009017_59f4bd1b047c4b5b9e80d8bbdb11ccc4.txt` | 177826 | `9f695745e205d67187d021cffbe3235c5f20ea373868579e792bf07e0f592c8d` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pmc-full-text/PMC13423759_e33aa1ff1f0142e281ed8a5d93e6933b.txt` | 34337 | `79b931cdfc3bf3fd8199651a0890daced1c0903bb158d8e1fd63c2b47f0bc5e3` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pmc-full-text/PMC3028182_b41c732c2db04baca1bb402a080c735b.txt` | 2505 | `110a37576c18b824087845bd86c30d3fb3615d7a8189b1f2b8688e6725de1255` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pmc-full-text/PMC3309375_bda3b45acd814c43b9bf1256de20adc0.txt` | 22135 | `162938b602978a7021602138ef2239e0f1c64b2adbfcb4e8bd83cd1ed62e131c` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pmc-full-text/PMC5757610_97b89080013b4b47947fac9c35747e74.txt` | 2095 | `7a49e4f068cd4e76f938113d5cecf2d879411fdfbd93aed246a0c659f29e6a93` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pmc-full-text/PMC6233707_557b5a000c8340aa968ad88ae9eebd15.txt` | 51033 | `6ebdcd92d904df84cc59c18550ec0d63e9a5ae116a8708ed588039d04f1450c9` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pmc-full-text/PMC6976311_8c7d7f47b60b4d94bb149d97607bfb5b.txt` | 2175 | `c7e1c70a04365b825e5262b5c3d4445878ae2267a43538a9817a3152eb25182e` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pmc-full-text/PMC7857843_313def9a8f584c709149bf99ec8bd3e6.txt` | 64519 | `a03014f6fb959af8a4e8a4bce359a9a99996ac9ed64cd0446a9729c31b0b487e` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pmc-full-text/PMC8584233_8ba3a56f498048d8ae9766a4e6ac434c.txt` | 107410 | `838c97d7b79728802978107f253655dfde71fe4119eb75a0a3b28819bb1c4b94` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/scientific/pmc-full-text/PMC9144947_82df31c1612d43d0b47fb44fc49d6347.txt` | 60936 | `0e485bd3e6dafbf3622b53d10136e1ed6700e0dfb4e30552abf97f5da4dc95c6` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/_artifact_manifest.jsonl` | 5379 | `a47dc1729a25e2b3a47fe59efae9a388f2d6384bf515f6e96a826873c75b5c3d` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/web-pages/cima.aemps.es_3f27a50dd8d14abfad043ee8a778fc1b.html` | 103752 | `5be13642d2d46ca970100d102c4e9a9c32b1ec71c4ad0665e32ad1ade1ca4b19` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/web-pages/cima.aemps.es_40f5ea22c82e41e28ff8a85ee912ff37.html` | 75908 | `1fbceaeee75d8e89006ab349f781abecc066a9cd7fa2794448178f5c341b548d` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/web-pages/cima.aemps.es_4495fdb579a24ce392187896b62058e3.txt` | 386049 | `fee63b65d0ad1f3786986a11c8817512e18f37dcbaf37e82da5e666c12de1c88` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/web-pages/cima.aemps.es_449ba6595d0b4ae6bfb919cf31b663c2.txt` | 347654 | `496e4565b2ce73778332e696dea9a2c8f784923eac1fd0779e42d5b57b618df3` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/web-pages/cima.aemps.es_c17e7634f8124d4d88378b0558672d93.txt` | 657951 | `b45d96a4930af4a0b45788a523d122718de7ec629b1f08832c3916a34cdb0c81` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/web-pages/cima.aemps.es_c8b786a3885c4426b891ee9e8e495836.txt` | 433362 | `cc77c78efe86d820ff3f36dbf9fcef246af2d64344528cadc5d77276fa57e1ed` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/web-pages/cima.aemps.es_de9e23f44efb45b8b2b67599f2be576c.html` | 593436 | `1b7c945c317f1e84e2563f47c86ee72c44c55fee462b45b1c96293b09dbb0dd3` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/web-pages/cima.aemps.es_e403b178417b423987e93b4bc3201e86.html` | 90054 | `509c9fda428d4350746ae2d9f28455b12072491308e8cac2af3c4f3c0a273344` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/web-pages/dailymed.nlm.nih.gov_5639bec56a42492bbfc1d170a47722ca.html` | 162935 | `96c27606f909967431d8a165b33f0bdaa690b4f8af0aa04591834f8deb9831e1` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/web-pages/eutils.ncbi.nlm.nih.gov_0d707d8b86bf4707a8271865fdaaeecc.txt` | 1657 | `42b0e572b1b5232359d864ac3d041c87ad037f83d160ebc5997359a227aacbea` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/web-pages/eutils.ncbi.nlm.nih.gov_3f937e42468049b9a76b34a2e2c50b72.txt` | 2683 | `f5a2e13e05e0e71aafdd327a68c0b82947734455a783e8e21fdf0b7f482bbca9` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/web-pages/eutils.ncbi.nlm.nih.gov_75ab6e31e9cb450484e0ae0caf18e724.txt` | 723 | `b94ea020125bff1217944ef28b6393f70118d591fe60bed2626968b3619e5679` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/web-pages/eutils.ncbi.nlm.nih.gov_8a022f94e7144b4aa6d48e6fc738dfb5.txt` | 1815 | `03e08e849182521e768e5aefa1050e46f95bbc74fea90067af0066e715f45dcd` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/web-pages/eutils.ncbi.nlm.nih.gov_a5de81755ada4775a666428ec6081732.txt` | 1643 | `0f33525ed6a71441956ce3443ce276dc165531a469617f7de9f1a2a909f55e2c` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/web-pages/pmc.ncbi.nlm.nih.gov_747de0eccc0f4cffb4cdf6b7f30e0ee8.html` | 109985 | `5e89972915082e3646f767a88c8697f57731e2d518e063b392d87605c761e7ca` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/web-pages/pmc.ncbi.nlm.nih.gov_c4568813c5794ff582d8a5661d4a1092.html` | 167408 | `eee44cdf9ed9e4a9ab8528e2f10b9c1500cac361350361ffe14537e7e3bebd14` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/web-pages/pmc.ncbi.nlm.nih.gov_f496fd65b45b4b9786aab796825b3b22.html` | 121137 | `902cf729f2fac241f63eb1ec1b2178f2a13a5fc0a542a22694cb1ded8e6bf5fc` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/web-pages/pubmed.ncbi.nlm.nih.gov_2dfca116aa0f46608f2ef34227245353.html` | 127634 | `7e09df3c2d3f892d39e329eee606ce3050c8b34b588b879bac56743874c94070` |
+| Chack/respaldos | `evidence/chack/pro-04-pseudobartter/websearcher/web-pages/pubmed.ncbi.nlm.nih.gov_b0701baeac1d4de99c2c7a30ee7cd754.html` | 140154 | `3d4cde6f445d40fd86ed4f7882e58622309bd0739d09f4307d4b1a73e82bf2de` |
+| Control/síntesis | `evidence/source-audit-parent.md` | 4903 | `1b6e60469558492637d4dd9bfefc4704ab0282c2cd6564cb21386bf7ddcdbc28` |
 | Fuente primaria | `evidence/sources/pubmed-identifier-audit.json` | 8877 | `ee506fdd9990eb1955b9a8876162515161fa0782836ca75f6cc3e640425e3d3f` |
 | Fuente primaria | `evidence/sources/raw/de-jonge-1994.html` | 101704 | `35547a1f3c47bcae5b9bce9c239f6273760c3cc420a77483ad23294a7ec07da4` |
 | Fuente primaria | `evidence/sources/raw/diuretic-deprescribing-systematic-review.html` | 273622 | `5612c0680ee5b690863d1da0a8a5b4237f28ae1121ce98203e83ab022e43b8af` |
@@ -61,10 +290,10 @@ Generado el 2026-07-19. Incluye todos los artefactos preservados en la carpeta d
 | Subagente | `evidence/subagents/serpapi-round1.stderr` | 36 | `658924fa8a59cba344db72d523987588998f6e4c2bf53514d2b00a98839026f4` |
 | Subagente | `evidence/subagents/source-verification-round2.md` | 35045 | `80f9ee44990138a68551fa0e9b3bf521c4ff18e0ea68870b7d9e3d1f549f2ecb` |
 | Subagente | `evidence/subagents/source-verification-round2.stderr` | 36 | `ec4262d62b018becfe5192fd74337be6b85ac15d9178b56e1c731c03b65cd6a6` |
-| Control/síntesis | `launch-log.md` | 4794 | `3f90003e220aedd788020e76a34467477348620ed9bc6c7c186b3c3324f4438a` |
+| Control/síntesis | `launch-log.md` | 6218 | `f9d0f830a7e511809a65f3d7e0a1e9e52148c8c6567bb49e607898321830f93f` |
 | Prompt | `prompts/falsation-round3.txt` | 3617 | `5bb3ca238e4d473acbffe2d18d5d2da3882a353c51c2608bd18e3daffc8e7263` |
 | Prompt | `prompts/osint-round1.txt` | 2661 | `93508b245c657184d9d9e014e9eab60347f69f414019a8b2375716767038c05d` |
 | Prompt | `prompts/scientific-round1.txt` | 2363 | `e10e8b02956cc5ea6151f15bc634f18cad546d2b66cfcc67341244fe2ffbdbea` |
 | Prompt | `prompts/serpapi-round1.txt` | 2463 | `30c6392546f8204c6fbbe887a12b956099178570ae9098cc3f7d55abfeb53278` |
 | Prompt | `prompts/source-verification-round2.txt` | 3116 | `f4583b26d2f2c23972ca2d0c44fc6947f83c9e33ab462a6567a3772c71bccf3a` |
-| Control/síntesis | `summary.md` | 7429 | `a3af3c2e71dec0ea757bb77632719cb492ef5dff06bf633c0550f5c9fff5df10` |
+| Control/síntesis | `summary.md` | 8609 | `314fd0124c22a625fad924fd554cd8f6daa6d44c9a1107044c5140aed51fb81c` |

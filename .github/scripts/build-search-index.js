@@ -3,7 +3,7 @@ const path = require("path");
 
 const root = path.resolve(__dirname, "../..");
 const output = path.join(root, "search-index.js");
-const ignoredDirs = new Set([".git", ".github", ".venv", ".pytest_cache", ".benchmarks", "03_lipedema", "pages", "scripts"]);
+const ignoredDirs = new Set([".git", ".github", ".venv", ".pytest_cache", ".benchmarks", "03_lipedema", "pages", "researches", "scripts"]);
 
 function walk(dir) {
   const entries = fs.readdirSync(dir, { withFileTypes: true });

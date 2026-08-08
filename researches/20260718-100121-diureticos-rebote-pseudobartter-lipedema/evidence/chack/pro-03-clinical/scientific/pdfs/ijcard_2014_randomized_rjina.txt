@@ -1,0 +1,907 @@
+Title: Lowering furosemide dose in stable chronic heart failure patients with reduced ejection fraction is not accompanied by decompensation: A randomized study
+
+URL Source: http://doi.org/10.1016/j.ijcard.2014.09.156
+
+Markdown Content:
+[Skip to Main Content](http://doi.org/10.1016/j.ijcard.2014.09.156#page-body-id "Skip to Main Content")[Skip to Main Menu](http://doi.org/10.1016/j.ijcard.2014.09.156#mega-menu-nav "Skip to Main Menu")
+
+[](http://doi.org/10.1016/j.ijcard.2014.09.156# "Close login popup")
+## Login to your account
+
+Email/Username 
+
+Your email address is a required field.
+
+E.g., j.smith@mail.com
+
+Password 
+
+[Show](http://doi.org/10.1016/j.ijcard.2014.09.156#)
+
+Your password is a required field.
+
+[Forgot password?](https://www.internationaljournalofcardiology.com/action/requestResetPassword)
+
+- [x] Remember me 
+
+Don’t have an account?
+
+[Create a Free Account](http://doi.org/action/registration?redirectUri=https%3A%2F%2Fwww.internationaljournalofcardiology.com%2Farticle%2FS0167-5273%2814%2901876-2%2Fabstract)
+
+[](http://doi.org/10.1016/j.ijcard.2014.09.156# "Close reset password popup")
+
+If you don't remember your password, you can reset it by entering your email address and clicking the Reset Password button. You will then receive an email that contains a secure link for resetting your password
+
+Email* 
+
+If the address matches a valid account an email will be sent to __email__ with instructions for resetting your password
+
+[Cancel](http://doi.org/10.1016/j.ijcard.2014.09.156# "Close reset password popup")
+
+ADVERTISEMENT
+
+SCROLL TO CONTINUE WITH CONTENT
+
+Open GPT Console
+
+Refresh Values
+
+| Property | Value |
+| --- | --- |
+| Status |  |
+| Version |  |
+| Ad File |  |
+| Disable Ads Flag |  |
+| Environment |  |
+| Moat Init |  |
+| Moat Ready |  |
+| Contextual Ready |  |
+| Contextual URL |  |
+| Contextual Initial Segments |  |
+| Contextual Used Segments |  |
+| AdUnit |  |
+| SubAdUnit |  |
+| Custom Targeting |  |
+| Ad Events |  |
+| Invalid Ad Sizes |  |
+
+![Image 2: Advertisement](http://doi.org/templates/jsp/_style2/_marlin/images/bg_adHoriz.gif)
+
+[![Image 3: International Journal of Cardiology ](http://doi.org/pb-assets/ux3/logos/ha/ijca-1579197007900.svg)](http://doi.org/ "International Journal of Cardiology ")
+
+*   [Submit](https://www.editorialmanager.com/ijcjournal/ "Submit")
+*   
+Log in
+
+    *   [Log in](https://www.internationaljournalofcardiology.com/action/idLogin?type=login&redirectUri=https%3A%2F%2Fwww.internationaljournalofcardiology.com%2Farticle%2FS0167-5273%2814%2901876-2%2Fabstract "Log in")
+    *   [Get Institutional Access](https://www.internationaljournalofcardiology.com/action/idLogin?type=institution&redirectUri=https%3A%2F%2Fwww.internationaljournalofcardiology.com%2Farticle%2FS0167-5273%2814%2901876-2%2Fabstract "Institutional access")
+
+*   [Register](https://www.internationaljournalofcardiology.com/action/idLogin?type=registration&redirectUri=https%3A%2F%2Fwww.internationaljournalofcardiology.com%2Farticle%2FS0167-5273%2814%2901876-2%2Fabstract "Register a username and password for free")
+*   open links dialog close links dialog
+    *   [Submit](https://www.editorialmanager.com/ijcjournal/ "Submit")
+    *   [Log in](https://www.internationaljournalofcardiology.com/action/idLogin?type=login&redirectUri=https%3A%2F%2Fwww.internationaljournalofcardiology.com%2Farticle%2FS0167-5273%2814%2901876-2%2Fabstract "Log in")
+    *   [Get Institutional Access](https://www.internationaljournalofcardiology.com/action/idLogin?type=institution&redirectUri=https%3A%2F%2Fwww.internationaljournalofcardiology.com%2Farticle%2FS0167-5273%2814%2901876-2%2Fabstract "Institutional access")
+    *   [Register](https://www.internationaljournalofcardiology.com/action/idLogin?type=registration&redirectUri=https%3A%2F%2Fwww.internationaljournalofcardiology.com%2Farticle%2FS0167-5273%2814%2901876-2%2Fabstract "Register a username and password for free")
+
+Access provided by
+
+[Skip menu](http://doi.org/10.1016/j.ijcard.2014.09.156#searchText)
+
+Main menu
+*   Articles
+
+    *   [![Image 4: Cover Image - International Journal of Cardiology, Volume 462, Issue undefined](http://doi.org/cms/asset/0b8853b6-0079-4e30-b528-d58a63d663eb/large_placeholder_cover.jpg)](http://doi.org/issue/S0167-5273(26)X2015-0)  Download full issue Download started.
+
+[Ok](http://doi.org/10.1016/j.ijcard.2014.09.156#)     
+    *   #### Latest
+
+        *   [Articles in Press](http://doi.org/inpress)
+        *   [Issues In Progress](http://doi.org/inprogress)
+        *   [Current issue](http://doi.org/current)
+        *   [Past Issues](http://doi.org/issues)
+        *   [Special Issues](http://doi.org/specialissues)
+
+    *   
+## Popular Articles
+
+        *   
+Research Article   
+#### [Proposed diagnostic criteria for arrhythmogenic cardiomyopathy: European Task Force consensus report](http://doi.org/article/S0167-5273(23)01509-7/fulltext)
+
+            *   Corrado et al.
+
+        *   
+Research Article   
+#### [Diagnosis of arrhythmogenic cardiomyopathy: The Padua criteria](http://doi.org/article/S0167-5273(20)33293-9/fulltext)
+
+            *   Corrado et al.
+
+        *   
+Research Article   
+#### [Regulation of uric acid metabolism and excretion](http://doi.org/article/S0167-5273(15)30342-9/fulltext)
+
+            *   Maiuolo et al.
+
+    *   
+## Latest Articles
+
+        *   
+Research Article   
+#### [Association of serial neutrophil-to-lymphocyte ratio trajectories with clinical risk profiles and one-year outcomes in patients with Takotsubo syndrome](http://doi.org/article/S0167-5273(26)00567-X/fulltext)
+
+            *   Sans-Roselló et al.
+
+        *   
+Editorial   
+#### [Obesity in STEMI: Beyond BMI, beyond the paradox](http://doi.org/article/S0167-5273(26)00563-2/fulltext)
+
+            *   Gragnano et al.
+
+        *   
+Editorial   
+#### [Choosing wisely under pressure: Adjunctive reperfusion therapy in high-risk pulmonary embolism on VA-ECMO](http://doi.org/article/S0167-5273(26)00564-4/fulltext)
+
+            *   Wong et al.
+
+*   Publish
+
+    *   #### For Authors
+
+        *   [Submit Article External Link](https://www.editorialmanager.com/ijcjournal)
+        *   [Guide for Authors](http://doi.org/authorinfo)
+        *   [Aims & Scope](http://doi.org/aims)
+        *   [Open Access Information External Link](http://www.elsevier.com/journals/international-journal-of-cardiology/0167-5273/open-access-options)
+        *   [Researcher Academy External Link](http://www.researcheracademy.com/)
+
+*   About
+
+    *   #### Society
+
+        *   [ISACHD External Link](https://www.isachd.org/home)
+        *   [Editorial Board](http://doi.org/edboard)
+
+    *   #### Journal Information
+
+        *   [Aims & Scope](http://doi.org/aims)
+        *   [Permissions](http://doi.org/content/permission)
+        *   [Reprints External Link](https://www.medreprints.com/)
+        *   [Abstracting & Indexing](http://doi.org/abstracting)
+
+    *   #### Access
+
+        *   [Subscribe](http://doi.org/action/ecommerce)
+        *   [Activate Online Access](http://doi.org/claim/activate)
+
+*   Contact
+
+    *   #### Contact
+
+        *   [Contact Us](http://doi.org/contact-us)
+        *   [Career Opportunities External Link](http://www.myhealthtalent.com/)
+        *   [Advertise with Us External Link](http://www.elsmediakits.com/)
+        *   [Go to Product Catalog External Link](http://www.elsevierhealth.com/index.jsp)
+
+    *   #### Follow Us
+
+        *   [New Content Alerts](http://doi.org/action/doUpdateAlertSettings?action=addJournal&journalCode=ijca&referrer=/)
+        *   [Facebook External Link](https://www.facebook.com/CardiologyAdvance)
+
+*   [Subscribe Direct Link](http://doi.org/action/ecommerce)
+
+Go search[Advanced search](https://www.internationaljournalofcardiology.com/search/advanced?SeriesKey=ijca&ISSN=0167-5273&journalCode=ijca "Advanced search")
+
+[Advanced search](https://www.internationaljournalofcardiology.com/search/advanced?SeriesKey=ijca&ISSN=0167-5273&journalCode=ijca "Advanced search")
+
+[](javascript:void(0) "Close search options")
+
+Please enter a term before submitting your search.
+
+[Ok](http://doi.org/10.1016/j.ijcard.2014.09.156#)
+
+Letter to the Editor[Volume 177, Issue 2](http://doi.org/issue/S0167-5273(14)X0021-5)p690-692 December 15, 2014
+
+# Lowering furosemide dose in stable chronic heart failure patients with reduced ejection fraction is not accompanied by decompensation: A randomized study
+
+[Chris J.Kapelios](http://doi.org/10.1016/j.ijcard.2014.09.156#)
+
+Chris J.Kapelios
+
+Affiliations
+
+3rd Department of Cardiology, University of Athens School of Medicine, 67 Mikras Asias Street, Athens, 11 527, Greece
+
+[Search for articles by this author](http://doi.org/authored-by/Kapelios/Chris+J)
+
+ ∙ [Elisabeth Kaldara](http://doi.org/10.1016/j.ijcard.2014.09.156#)
+
+Elisabeth Kaldara
+
+Affiliations
+
+3rd Department of Cardiology, University of Athens School of Medicine, 67 Mikras Asias Street, Athens, 11 527, Greece
+
+[Search for articles by this author](http://doi.org/authored-by/Kaldara/Elisabeth)
+
+ ∙ [Argyrios Ntalianis](http://doi.org/10.1016/j.ijcard.2014.09.156#)
+
+Argyrios Ntalianis
+
+Affiliations
+
+3rd Department of Cardiology, University of Athens School of Medicine, 67 Mikras Asias Street, Athens, 11 527, Greece
+
+[Search for articles by this author](http://doi.org/authored-by/Ntalianis/Argyrios)
+
+ ∙ …  ∙ [Emmeleia Nana](http://doi.org/10.1016/j.ijcard.2014.09.156#)
+
+Emmeleia Nana
+
+Affiliations
+
+3rd Department of Cardiology, University of Athens School of Medicine, 67 Mikras Asias Street, Athens, 11 527, Greece
+
+[Search for articles by this author](http://doi.org/authored-by/Nana/Emmeleia)
+
+ ∙ [Chris Pantsios](http://doi.org/10.1016/j.ijcard.2014.09.156#)
+
+Chris Pantsios
+
+Affiliations
+
+3rd Department of Cardiology, University of Athens School of Medicine, 67 Mikras Asias Street, Athens, 11 527, Greece
+
+[Search for articles by this author](http://doi.org/authored-by/Pantsios/Chris)
+
+ ∙ [Evangelos Repasos](http://doi.org/10.1016/j.ijcard.2014.09.156#)
+
+Evangelos Repasos
+
+Affiliations
+
+3rd Department of Cardiology, University of Athens School of Medicine, 67 Mikras Asias Street, Athens, 11 527, Greece
+
+[Search for articles by this author](http://doi.org/authored-by/Repasos/Evangelos)
+
+ ∙ [Zafeiria Margari](http://doi.org/10.1016/j.ijcard.2014.09.156#)
+
+Zafeiria Margari
+
+Affiliations
+
+3rd Department of Cardiology, University of Athens School of Medicine, 67 Mikras Asias Street, Athens, 11 527, Greece
+
+[Search for articles by this author](http://doi.org/authored-by/Margari/Zafeiria)
+
+ ∙ [Vasileios Sousonis](http://doi.org/10.1016/j.ijcard.2014.09.156#)
+
+Vasileios Sousonis
+
+Affiliations
+
+3rd Department of Cardiology, University of Athens School of Medicine, 67 Mikras Asias Street, Athens, 11 527, Greece
+
+[Search for articles by this author](http://doi.org/authored-by/Sousonis/Vasileios)
+
+ ∙ [Konstantinos Malliaras](http://doi.org/10.1016/j.ijcard.2014.09.156#)
+
+Konstantinos Malliaras
+
+Affiliations
+
+3rd Department of Cardiology, University of Athens School of Medicine, 67 Mikras Asias Street, Athens, 11 527, Greece
+
+[Search for articles by this author](http://doi.org/authored-by/Malliaras/Konstantinos)
+
+ ∙ [John N.Nanas](http://doi.org/10.1016/j.ijcard.2014.09.156#)
+
+John N.Nanas
+
+Correspondence
+
+Corresponding author. Tel.: +30 210 8236877; fax: +30 210 7789901.
+
+[Send email to inanas@med.uoa.gr](mailto:inanas@med.uoa.gr)
+
+Affiliations
+
+3rd Department of Cardiology, University of Athens School of Medicine, 67 Mikras Asias Street, Athens, 11 527, Greece
+
+[Search for articles by this author](http://doi.org/authored-by/Nanas/John+N)
+
+[Send email to inanas@med.uoa.gr](mailto:inanas@med.uoa.gr) … Show more Show less
+
+Affiliations & Notes
+
+3rd Department of Cardiology, University of Athens School of Medicine, 67 Mikras Asias Street, Athens, 11 527, Greece
+
+Article Info
+
+Publication History:
+
+Received September 18, 2014; Accepted September 27, 2014; Published online October 2, 2014
+
+DOI: [10.1016/j.ijcard.2014.09.156 External Link](https://doi.org/10.1016/j.ijcard.2014.09.156)Also available on [ScienceDirect External Link](https://www.sciencedirect.com/science/article/pii/S0167527314018762)
+
+Copyright: © 2014 Elsevier Ireland Ltd.
+
+[](http://doi.org/10.1016/j.ijcard.2014.09.156# "Check for updates on crossmark")
+
+Linked Articles (0)
+
+[![Image 5: Cover Image - International Journal of Cardiology, Volume 177, Issue 2](http://doi.org/cms/asset/9318dd0b-01d6-47e7-8dce-87604e6b1fcb/cov200h.gif)](https://www.internationaljournalofcardiology.com/issue/S0167-5273(14)X0021-5)
+
+Get Access
+
+Outline
+
+Outline
+
+*   [Keywords](http://doi.org/10.1016/j.ijcard.2014.09.156#keywords)
+*   [References](http://doi.org/10.1016/j.ijcard.2014.09.156#references)
+*   [Article metrics](http://doi.org/10.1016/j.ijcard.2014.09.156#core-collateral-metrics)
+*   [Related Articles](http://doi.org/10.1016/j.ijcard.2014.09.156#core-collateral-relatedArticles)
+
+Share
+
+#### Share
+
+Share on
+*   [Email](http://doi.org/#email "Email")
+*   [X](http://doi.org/#twitter "formerly known as Twitter")
+*   [Facebook](http://doi.org/#facebook "Facebook")
+*   [LinkedIn](http://doi.org/#linkedin "LinkedIn")
+*   [Sina Weibo](http://doi.org/#sina_weibo "Sina Weibo")
+*   [Add to Mendeley](http://doi.org/#mendeley "Add to Mendeley")
+*   [bluesky](http://doi.org/#bluesky "bluesky")
+
+[Add to my reading list](http://doi.org/personalize/addFavoritePublication?doi=10.1016/j.ijcard.2014.09.156)
+
+More
+
+More
+
+*   Get Access
+*   [Cite](https://www.internationaljournalofcardiology.com/action/showCitFormats?doi=10.1016%2Fj.ijcard.2014.09.156&pii=S0167-5273%2814%2901876-2 "Cite")
+*   
+Share
+
+#### Share
+
+Share on
+    *   [Email](http://doi.org/#email "Email")
+    *   [X](http://doi.org/#twitter "formerly known as Twitter")
+    *   [Facebook](http://doi.org/#facebook "Facebook")
+    *   [LinkedIn](http://doi.org/#linkedin "LinkedIn")
+    *   [Sina Weibo](http://doi.org/#sina_weibo "Sina Weibo")
+    *   [Add to Mendeley](http://doi.org/#mendeley "Add to Mendeley")
+    *   [Bluesky](http://doi.org/#bluesky "Bluesky")
+
+[Add to my reading list](http://doi.org/personalize/addFavoritePublication?doi=10.1016/j.ijcard.2014.09.156)
+
+*   [Set Alert](https://www.internationaljournalofcardiology.com/action/addCitationAlert?doi=10.1016%2Fj.ijcard.2014.09.156 "Set Alert")
+*   [Get Rights](https://s100.copyright.com/AppDispatchServlet?publisherName=ELS&contentID=S0167527314018762&orderBeanReset=true&orderSource=Phoenix "Get Rights")
+*   [Reprints](https://www.contentednet.com/salesforce-form/?pii=S0167527314018762&issn=01675273&source=jbs "Reprints")
+
+[Previous article](http://doi.org/article/S0167-5273(14)01877-4/fulltext)[Next article](http://doi.org/article/S0167-5273(14)01870-1/fulltext)
+
+Show Outline Hide Outline
+*   [Keywords](http://doi.org/10.1016/j.ijcard.2014.09.156#keywords)
+*   [References](http://doi.org/10.1016/j.ijcard.2014.09.156#references)
+*   [Article metrics](http://doi.org/10.1016/j.ijcard.2014.09.156#core-collateral-metrics)
+*   [Related Articles](http://doi.org/10.1016/j.ijcard.2014.09.156#core-collateral-relatedArticles)
+
+Diuretics are the cornerstone of heart failure (HF) therapy. Over 80% of ambulatory patients suffering from HF are treated with a diuretic [[1]](http://doi.org/10.1016/j.ijcard.2014.09.156#)
+
+1.
+
+Maggioni, A.P. ∙ Anker, S.D. ∙ Dahlström, U. ...
+
+**Are hospitalized or ambulatory patients with heart failure treated in accordance with European Society of Cardiology guidelines? Evidence from 12,440 patients of the ESC Heart Failure Long-Term Registry**
+
+_Eur J Heart Fail._ 2013; **15**:1173-1184
+
+[Crossref](https://doi.org/10.1093/eurjhf/hft134)
+
+[Scopus (559)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_1_2&dbid=137438953472&doi=10.1016%2Fj.ijcard.2014.09.156&key=2-s2.0-84885042198)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/23978433/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.1093%2Feurjhf%2Fhft134&pmid=23978433)
+
+. However, while diuretics have been assigned a class I recommendation for the alleviation of dyspnoea, the evidence supporting this recommendation is sparse [[2]](http://doi.org/10.1016/j.ijcard.2014.09.156#)
+
+2.
+
+McMurray, J.J. ∙ Adamopoulos, S. ∙ Anker, S.D. ...
+
+**ESC guidelines for the diagnosis and treatment of acute and chronic heart failure 2012: the Task Force for the Diagnosis and Treatment of Acute and Chronic Heart Failure 2012 of the European Society of Cardiology. Developed in collaboration with the Heart Failure Association (HFA) of the ESC**
+
+_Eur J Heart Fail._ 2012; **14**:803-869
+
+[Crossref](https://doi.org/10.1093/eurjhf/hfs033)
+
+[Scopus (70)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_2_2&dbid=137438953472&doi=10.1016%2Fj.ijcard.2014.09.156&key=2-s2.0-84859084617)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/22828712/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.1093%2Feurjhf%2Fhfs033&pmid=22828712)
+
+. Moreover, in several observational studies, diuretics appeared to have exerted an adverse effect on survival, especially when administered in high doses [[3,4]](http://doi.org/10.1016/j.ijcard.2014.09.156#)
+
+3.
+
+Eshaghian, S. ∙ Horwich, T.B. ∙ Fonarow, G.C.
+
+**Relation of loop diuretic dose to mortality in advanced heart failure**
+
+_Am J Cardiol._ 2006; **97**:1759-1764
+
+[Full Text](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_3_2&dbid=4&doi=10.1016%2Fj.ijcard.2014.09.156&key=10.1016%2Fj.amjcard.2005.12.072&cf=fulltext&site=ajc-site)
+
+[Full Text (PDF)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_3_2&dbid=4&doi=10.1016%2Fj.ijcard.2014.09.156&key=10.1016%2Fj.amjcard.2005.12.072&cf=pdf&site=ajc-site)
+
+[Scopus (344)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_3_2&dbid=137438953472&doi=10.1016%2Fj.ijcard.2014.09.156&key=2-s2.0-33744510817)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/16765130/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.1016%2Fj.amjcard.2005.12.072&pmid=16765130)
+
+4.
+
+Kapelios, C.J. ∙ Kaldara, E. ∙ Ntalianis, A. ...
+
+**Ιn patients with stable heart failure high furosemide dose has detrimental effects on their survival**
+
+_Hellenic J Cardiol._ 2014;
+
+[in press]
+
+[Google Scholar](https://scholar.google.com/scholar?q=C.J.KapeliosE.KaldaraA.NtalianisV.SousonisE.RepasosT.Sfakianaki%CE%99n+patients+with+stable+heart+failure+high+furosemide+dose+has+detrimental+effects+on+their+survivalHellenic+J+Cardiol2014%5Bin+press%5D)
+
+. Whereas recently issued practice guidelines recommend the down-titration of diuretics once euvolaemia has been reached [[2]](http://doi.org/10.1016/j.ijcard.2014.09.156#)
+
+2.
+
+McMurray, J.J. ∙ Adamopoulos, S. ∙ Anker, S.D. ...
+
+**ESC guidelines for the diagnosis and treatment of acute and chronic heart failure 2012: the Task Force for the Diagnosis and Treatment of Acute and Chronic Heart Failure 2012 of the European Society of Cardiology. Developed in collaboration with the Heart Failure Association (HFA) of the ESC**
+
+_Eur J Heart Fail._ 2012; **14**:803-869
+
+[Crossref](https://doi.org/10.1093/eurjhf/hfs033)
+
+[Scopus (70)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_2_2&dbid=137438953472&doi=10.1016%2Fj.ijcard.2014.09.156&key=2-s2.0-84859084617)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/22828712/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.1093%2Feurjhf%2Fhfs033&pmid=22828712)
+
+, this goal has not been systematically adopted and in only 14–21% of patients treated with high doses of diuretics is the dose lowered over the following year [[5]](http://doi.org/10.1016/j.ijcard.2014.09.156#)
+
+5.
+
+Mielniczuk, L.M. ∙ Tsang, S.W. ∙ Desai, A.S. ...
+
+**The association between high-dose diuretics and clinical stability in ambulatory chronic heart failure patients**
+
+_J Card Fail._ 2008; **14**:388-393
+
+[Full Text](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_5_2&dbid=4&doi=10.1016%2Fj.ijcard.2014.09.156&key=10.1016%2Fj.cardfail.2008.01.015&cf=fulltext&site=yjcaf-site)
+
+[Full Text (PDF)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_5_2&dbid=4&doi=10.1016%2Fj.ijcard.2014.09.156&key=10.1016%2Fj.cardfail.2008.01.015&cf=pdf&site=yjcaf-site)
+
+[Scopus (76)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_5_2&dbid=137438953472&doi=10.1016%2Fj.ijcard.2014.09.156&key=2-s2.0-44349115163)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/18514930/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.1016%2Fj.cardfail.2008.01.015&pmid=18514930)
+
+. Furthermore, the general tendency with respect to dose changes is in favour of an increase, regardless of the initial dosage [[5]](http://doi.org/10.1016/j.ijcard.2014.09.156#)
+
+5.
+
+Mielniczuk, L.M. ∙ Tsang, S.W. ∙ Desai, A.S. ...
+
+**The association between high-dose diuretics and clinical stability in ambulatory chronic heart failure patients**
+
+_J Card Fail._ 2008; **14**:388-393
+
+[Full Text](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_5_2&dbid=4&doi=10.1016%2Fj.ijcard.2014.09.156&key=10.1016%2Fj.cardfail.2008.01.015&cf=fulltext&site=yjcaf-site)
+
+[Full Text (PDF)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_5_2&dbid=4&doi=10.1016%2Fj.ijcard.2014.09.156&key=10.1016%2Fj.cardfail.2008.01.015&cf=pdf&site=yjcaf-site)
+
+[Scopus (76)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_5_2&dbid=137438953472&doi=10.1016%2Fj.ijcard.2014.09.156&key=2-s2.0-44349115163)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/18514930/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.1016%2Fj.cardfail.2008.01.015&pmid=18514930)
+
+. Thus, we designed this prospective, randomized study with a view to examine the feasibility of lowering the doses of diuretics and the effects of this intervention on clinical, paraclinical and outcome indices of patients presenting with stable, chronic HF.
+
+## Keywords
+
+1.   [Diuretics](http://doi.org/action/doSearch?AllField=%22Diuretics%22&journalCode=ijca)
+2.   [Chronic heart failure](http://doi.org/action/doSearch?AllField=%22Chronic+heart+failure%22&journalCode=ijca)
+3.   [Mortality](http://doi.org/action/doSearch?AllField=%22Mortality%22&journalCode=ijca)
+4.   [Risk factor](http://doi.org/action/doSearch?AllField=%22Risk+factor%22&journalCode=ijca)
+5.   [Prognosis](http://doi.org/action/doSearch?AllField=%22Prognosis%22&journalCode=ijca)
+
+[![Image 6: International Journal of Cardiology home. Opens in new tab](http://doi.org/pb-assets/ux3/logos/ha/etoc/ijca_toc_banner-1656362119217.png)](http://doi.org/action/ShowMarlinJournalHome?journalCode=ijca "International Journal of Cardiology home. Opens in new tab")
+
+## Get full text access
+
+Log in, subscribe or purchase for full access.
+
+Get Access
+
+## References
+
+[1.](http://doi.org/10.1016/j.ijcard.2014.09.156#body-ref-rf0005 "View in article")
+
+Maggioni, A.P. ∙ Anker, S.D. ∙ Dahlström, U. ...
+
+**Are hospitalized or ambulatory patients with heart failure treated in accordance with European Society of Cardiology guidelines? Evidence from 12,440 patients of the ESC Heart Failure Long-Term Registry**
+
+_Eur J Heart Fail._ 2013; **15**:1173-1184
+
+[Crossref](https://doi.org/10.1093/eurjhf/hft134)
+
+[Scopus (559)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_1_2&dbid=137438953472&doi=10.1016%2Fj.ijcard.2014.09.156&key=2-s2.0-84885042198)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/23978433/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.1093%2Feurjhf%2Fhft134&pmid=23978433)
+
+[2.](http://doi.org/10.1016/j.ijcard.2014.09.156#body-ref-rf0010-1 "View in article")
+
+McMurray, J.J. ∙ Adamopoulos, S. ∙ Anker, S.D. ...
+
+**ESC guidelines for the diagnosis and treatment of acute and chronic heart failure 2012: the Task Force for the Diagnosis and Treatment of Acute and Chronic Heart Failure 2012 of the European Society of Cardiology. Developed in collaboration with the Heart Failure Association (HFA) of the ESC**
+
+_Eur J Heart Fail._ 2012; **14**:803-869
+
+[Crossref](https://doi.org/10.1093/eurjhf/hfs033)
+
+[Scopus (70)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_2_2&dbid=137438953472&doi=10.1016%2Fj.ijcard.2014.09.156&key=2-s2.0-84859084617)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/22828712/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.1093%2Feurjhf%2Fhfs033&pmid=22828712)
+
+[3.](http://doi.org/10.1016/j.ijcard.2014.09.156#body-ref-rf0050 "View in article")
+
+Eshaghian, S. ∙ Horwich, T.B. ∙ Fonarow, G.C.
+
+**Relation of loop diuretic dose to mortality in advanced heart failure**
+
+_Am J Cardiol._ 2006; **97**:1759-1764
+
+[Full Text](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_3_2&dbid=4&doi=10.1016%2Fj.ijcard.2014.09.156&key=10.1016%2Fj.amjcard.2005.12.072&cf=fulltext&site=ajc-site)
+
+[Full Text (PDF)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_3_2&dbid=4&doi=10.1016%2Fj.ijcard.2014.09.156&key=10.1016%2Fj.amjcard.2005.12.072&cf=pdf&site=ajc-site)
+
+[Scopus (344)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_3_2&dbid=137438953472&doi=10.1016%2Fj.ijcard.2014.09.156&key=2-s2.0-33744510817)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/16765130/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.1016%2Fj.amjcard.2005.12.072&pmid=16765130)
+
+[4.](http://doi.org/10.1016/j.ijcard.2014.09.156#body-ref-rf0050 "View in article")
+
+Kapelios, C.J. ∙ Kaldara, E. ∙ Ntalianis, A. ...
+
+**Ιn patients with stable heart failure high furosemide dose has detrimental effects on their survival**
+
+_Hellenic J Cardiol._ 2014;
+
+[in press]
+
+[Google Scholar](https://scholar.google.com/scholar?q=C.J.KapeliosE.KaldaraA.NtalianisV.SousonisE.RepasosT.Sfakianaki%CE%99n+patients+with+stable+heart+failure+high+furosemide+dose+has+detrimental+effects+on+their+survivalHellenic+J+Cardiol2014%5Bin+press%5D)
+
+[5.](http://doi.org/10.1016/j.ijcard.2014.09.156#body-ref-rf0020-1 "View in article")
+
+Mielniczuk, L.M. ∙ Tsang, S.W. ∙ Desai, A.S. ...
+
+**The association between high-dose diuretics and clinical stability in ambulatory chronic heart failure patients**
+
+_J Card Fail._ 2008; **14**:388-393
+
+[Full Text](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_5_2&dbid=4&doi=10.1016%2Fj.ijcard.2014.09.156&key=10.1016%2Fj.cardfail.2008.01.015&cf=fulltext&site=yjcaf-site)
+
+[Full Text (PDF)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_5_2&dbid=4&doi=10.1016%2Fj.ijcard.2014.09.156&key=10.1016%2Fj.cardfail.2008.01.015&cf=pdf&site=yjcaf-site)
+
+[Scopus (76)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_5_2&dbid=137438953472&doi=10.1016%2Fj.ijcard.2014.09.156&key=2-s2.0-44349115163)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/18514930/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.1016%2Fj.cardfail.2008.01.015&pmid=18514930)
+
+6.
+
+Cooper, H.A. ∙ Dries, D.L. ∙ Davis, C.E. ...
+
+**Diuretics and risk of arrhythmic death in patients with left ventricular dysfunction**
+
+_Circulation._ 1999; **100**:1311-1315
+
+[Crossref](https://doi.org/10.1161/01.CIR.100.12.1311)
+
+[Scopus (332)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_6_2&dbid=137438953472&doi=10.1016%2Fj.ijcard.2014.09.156&key=2-s2.0-0033592418)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/10491376/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.1161%2F01.CIR.100.12.1311&pmid=10491376)
+
+7.
+
+Francis, G.S. ∙ Siegel, R.M. ∙ Goldsmith, S.R. ...
+
+**Acute vasoconstrictor response to intravenous furosemide in patients with chronic congestive heart-failure — activation of the neurohumoral axis**
+
+_Ann Intern Med._ 1985; **103**:1-6
+
+[Crossref](https://doi.org/10.7326/0003-4819-103-1-1)
+
+[Scopus (507)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_7_2&dbid=137438953472&doi=10.1016%2Fj.ijcard.2014.09.156&key=2-s2.0-0021807871)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/2860833/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.7326%2F0003-4819-103-1-1&pmid=2860833)
+
+8.
+
+Bayliss, J. ∙ Norell, M. ∙ Canepa-Anson, R. ...
+
+**Untreated heart failure: clinical and neuroendocrine effects of introducing diuretics**
+
+_Br Heart J._ 1987; **57**:17-22
+
+[Crossref](https://doi.org/10.1136/hrt.57.1.17)
+
+[Scopus (433)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_8_2&dbid=137438953472&doi=10.1016%2Fj.ijcard.2014.09.156&key=2-s2.0-0023276509)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/3541995/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.1136%2Fhrt.57.1.17&pmid=3541995)
+
+9.
+
+Tomaschitz, A. ∙ Pilz, S. ∙ Ritz, E. ...
+
+**Associations of plasma renin with 10-year cardiovascular mortality, sudden cardiac death, and death due to heart failure**
+
+_Eur Heart J._ 2011; **32**:2642-2649
+
+[Crossref](https://doi.org/10.1093/eurheartj/ehr150)
+
+[Scopus (60)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_9_2&dbid=137438953472&doi=10.1016%2Fj.ijcard.2014.09.156&key=2-s2.0-80054927562)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/21606079/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.1093%2Feurheartj%2Fehr150&pmid=21606079)
+
+10.
+
+Triposkiadis, F. ∙ Karayannis, G. ∙ Giamouzis, G. ...
+
+**The sympathetic nervous system in heart failure physiology, pathophysiology, and clinical implications**
+
+_J Am Coll Cardiol._ 2009; **54**:1747-1762
+
+[Full Text](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_10_2&dbid=4&doi=10.1016%2Fj.ijcard.2014.09.156&key=10.1016%2Fj.jacc.2009.05.015&cf=fulltext)
+
+[Full Text (PDF)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_10_2&dbid=4&doi=10.1016%2Fj.ijcard.2014.09.156&key=10.1016%2Fj.jacc.2009.05.015&cf=pdf)
+
+[Scopus (769)](http://doi.org/servlet/linkout?suffix=e_1_5_1_2_10_2&dbid=137438953472&doi=10.1016%2Fj.ijcard.2014.09.156&key=2-s2.0-70350513886)
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/19874988/)
+
+[Google Scholar](https://scholar.google.com/scholar_lookup?doi=10.1016%2Fj.jacc.2009.05.015&pmid=19874988)
+
+## Article metrics
+
+*   27 Citations 
+*   23 Captures 
+
+![Image 7: Plum X logo](http://doi.org/products/marlin/releasedAssets/images/plumx-logo.png)
+
+[View details opens in a new tab](https://plu.mx/plum/a/?doi=10.1016/j.ijcard.2014.09.156&theme=plum-jbs-theme&hideUsage=true)
+
+## Related Articles
+
+![Image 8: Advertisement](http://doi.org/templates/jsp/_style2/_marlin/images/bg_adVert.gif)
+
+[View full text](http://doi.org/article/S0167-5273(14)01876-2/fulltext)
+
+[Open in viewer](http://doi.org/10.1016/j.ijcard.2014.09.156#)
+
+[](http://doi.org/10.1016/j.ijcard.2014.09.156# "Close Figure Viewer")
+
+[](http://doi.org/10.1016/j.ijcard.2014.09.156# "Previous Frame")[](http://doi.org/10.1016/j.ijcard.2014.09.156# "Next Frame")
+
+[Hide Caption](http://doi.org/10.1016/j.ijcard.2014.09.156#)[Download](http://doi.org/10.1016/j.ijcard.2014.09.156#)[See figure in Article](http://doi.org/10.1016/j.ijcard.2014.09.156#figures)
+
+[Toggle Thumbstrip](http://doi.org/10.1016/j.ijcard.2014.09.156#)[](http://doi.org/10.1016/j.ijcard.2014.09.156# "Previous Thumbnails")[](http://doi.org/10.1016/j.ijcard.2014.09.156# "Next Thumbnails")
+
+*   [Download Hi-res image](http://doi.org/specs/products/marlin/components/figure-viewer/images/facets-2015-0010-f10-standard.jpg "View high resolution image in a new tab")
+*   [Download .PPT](http://doi.org/action/downloadFigures?pii=e00489)
+
+[Go to](http://doi.org/10.1016/j.ijcard.2014.09.156)
+
+Go to
+
+*   [](http://doi.org/10.1016/j.ijcard.2014.09.156)
+
+Show all references
+
+Expand All
+
+Collapse
+
+Expand Table
+
+[Authors Info & Affiliations](http://doi.org/10.1016/j.ijcard.2014.09.156#tab-contributors)
+
+*   [Home](http://doi.org/home)
+*   [Access for Developing Countries](http://doi.org/developing-countries)
+
+## Articles & Issues
+
+*   [Articles In Press](http://doi.org/inpress)
+*   [Current Issue](http://doi.org/current)
+*   [List of Issues](http://doi.org/issues)
+*   [Supplements](http://doi.org/supplements)
+
+## For Authors
+
+*   [About Open Access](http://doi.org/open-access-information)
+*   [Author Information](http://doi.org/authorinfo)
+*   [Permissions](http://doi.org/content/permission)
+*   [Researcher Academy](http://www.researcheracademy.com/)
+*   [Submit a Manuscript](https://www.editorialmanager.com/ijcjournal)
+
+## Journal Info
+
+*   [About Open Access](http://doi.org/open-access-information)
+*   [About the Journal](http://doi.org/aims)
+*   [Abstracting/Indexing](http://doi.org/abstracting)
+*   [Activate Online Access](http://doi.org/claim/activate)
+*   [Contact Information](http://doi.org/contact-us)
+*   [Editorial Board](http://doi.org/edboard)
+*   [Info for Advertisers](http://www.elsmediakits.com/)
+*   [Pricing](http://doi.org/pricing)
+*   [Reprints](https://www.contentednet.com/salesforce-form/)
+*   [New Content Alerts](http://doi.org/user/alerts)
+
+## [Special Issues](http://doi.org/specialissues)
+
+## [ISACHD](http://www.isachd.org/)
+
+## Follow Us
+
+*   [Twitter](https://twitter.com/#!/cardio_matters)
+*   [Facebook](https://www.facebook.com/CardiologyAdvance)
+
+* * *
+
+**The content on this site is intended for healthcare professionals.**
+
+* * *
+
+ All content on this site: Copyright © 2026 Elsevier Inc., its licensors, and contributors. 
+
+All rights are reserved, including those for text and data mining, AI training, and similar technologies. 
+
+For all open access content, the relevant licensing terms apply. 
+
+[Privacy Policy](https://www.elsevier.com/legal/privacy-policy)Cookie settings[Terms and Conditions](https://www.elsevier.com/legal/elsevier-website-terms-and-conditions)[Accessibility](https://www.healthadvance.com/accessibility)[Help & Contact](https://service.elsevier.com/app/overview/healthadvance/)[Responsible AI](https://www.elsevier.com/about/responsible-ai)
+
+[![Image 9: RELX](http://doi.org/pb/assets/raw/Health%20Advance/images/relx-1554393210983.png)](https://www.relx.com/)
+
+Get access
+
+Log in Purchase Subscribe
+
+[Log in](javascript:getIdUrl('login'))
+
+[Access through your institution](https://www.internationaljournalofcardiology.com/action/idLogin?type=institution&redirectUri=https%3A%2F%2Fwww.internationaljournalofcardiology.com%2Farticle%2FS0167-5273%2814%2901876-2%2Fabstract)
+
+*   New Subscriber:[Claim access with activation code.](http://doi.org/action/activateClaim)[](javascript:void(0))New subscribers select Claim to enter your activation code.   
+
+Don’t already have access?[View purchase options](javascript:void(0))
+
+*   ### Academic & Personal
+
+ 24-hour online access. Suitable for academic or non-commercial use only. $35.95 [Academic access](http://doi.org/action/ecommerce?backUri=%2Farticle%2FS0167-5273%2814%2901876-2%2Fabstract&offerId=302562%2C10.1016%2Fj.ijcard.2014.09.156&addToCart=true&journal=ijca) 
+*   ### Corporate R&D Professionals
+
+ 24-hour online access. Suitable for commercial use. $45.95 [Corporate access](http://doi.org/action/ecommerce?backUri=%2Farticle%2FS0167-5273%2814%2901876-2%2Fabstract&offerId=343006%2C10.1016%2Fj.ijcard.2014.09.156&addToCart=true&journal=ijca) 
+
+*   Full online access to your subscription and archive of back issues
+*   Table of Contents alerts
+*   Access to all multimedia content, e.g. podcasts, videos, slides
+
+[View all subscription options and pricing](http://doi.org/action/ecommerce?journal=ijca)
+
+[](javascript:void(0))
+
+✓
+
+Thanks for sharing!
+
+[AddToAny](https://www.addtoany.com/ "Share Buttons")
+
+[More…](http://doi.org/10.1016/j.ijcard.2014.09.156#addtoany "Show all")
+
+Close crossmark popup
+
+We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and your digital experience. You can manage your cookie preferences using the[Cookie settings](http://doi.org/10.1016/j.ijcard.2014.09.156#) link. For more information, see our[Cookie Policy](https://www.elsevier.com/legal/cookienotice)
+
+Cookie settings Accept all cookies
+
+![Image 10: Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)
+
+Opt-Out Request Honored
+
+## Cookie Preference Center
+
+We use cookies which are necessary to make our site work. We may also use additional cookies to analyse, improve and personalise our content and your digital experience. For more information, see our [Cookie Policy](https://www.elsevier.com/legal/cookienotice) and the list of [Google Ad-Tech Vendors](https://support.google.com/admanager/answer/9012903). 
+
+ You may choose not to allow some types of cookies. However, blocking some types may impact your experience of our site and the services we are able to offer. See the different category headings below to find out more or change your settings. 
+
+ You may also be able to exercise your privacy choices ![Image 11: Cookie Settings | Your Privacy Choices](https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZWxzZXZpZXJcL2ZpbGVcL05DSmJ6RDhNV3M1dlU5QlJ1djduLnBuZyJ9:elsevier:Yp1j0Yyk-ykfbG0S8wnos_RNIKx91C44OIjUpaxPXWE?width=2400) as described in our [Privacy Policy](https://www.elsevier.com/legal/privacy-policy)
+
+Allow all
+### Manage Consent Preferences
+
+#### Strictly Necessary Cookies
+
+Always active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+
+Cookie Details List‎
+
+#### Functional Cookies
+
+- [x] Functional Cookies 
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Cookie Details List‎
+
+#### Performance Cookies
+
+- [x] Performance Cookies 
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site.
+
+Cookie Details List‎
+
+#### Targeting Cookies
+
+- [x] Targeting Cookies 
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. If you do not allow these cookies, you will experience less targeted advertising.
+
+Cookie Details List‎
+
+### Cookie List
+
+Clear
+
+- [x] checkbox label label
+
+Apply Cancel
+
+Consent Leg.Interest
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+Confirm my choices
+
+[![Image 12: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)
