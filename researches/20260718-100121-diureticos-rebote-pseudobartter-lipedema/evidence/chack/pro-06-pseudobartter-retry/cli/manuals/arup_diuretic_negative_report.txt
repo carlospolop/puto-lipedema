@@ -1,0 +1,132 @@
+                                                                                            Patient Report |FINAL
+
+
+
+Client: ARUP Example Report Only                         Patient: ARUPTest, 25864 Patient
+500 Chipeta Way
+Salt Lake City, UT 84108                                 DOB                        2/5/1987
+UNITED STATES                                            Sex:                       Male
+                                                         Patient Identifiers:       46192
+Physician: Test, Test                                    Visit Number (FIN):        46601
+                                                         Collection Date:           9/15/2025 09:07
+
+
+
+Diuretic Screen, Urine
+ARUP test code 0091258
+
+Diuretic Screen                             NEGATIVE
+                                            Performed by: MEDTOX LABORATORIES
+                                            402 WEST COUNTY ROAD D
+                                            ST PAUL, MN 55112
+                                            Walker, Karla J
+
+
+Bumetanide                                  NEGATIVE
+                                            Performed by: MEDTOX LABORATORIES
+                                            402 WEST COUNTY ROAD D
+                                            ST PAUL, MN 55112
+                                            Walker, Karla J
+
+
+Chlorothiazide                              NEGATIVE
+                                            Performed by: MEDTOX LABORATORIES
+                                            402 WEST COUNTY ROAD D
+                                            ST PAUL, MN 55112
+                                            Walker, Karla J
+
+
+Chlorthalidone                              NEGATIVE
+                                            Performed by: MEDTOX LABORATORIES
+                                            402 WEST COUNTY ROAD D
+                                            ST PAUL, MN 55112
+                                            Walker, Karla J
+
+
+Furosemide                                  NEGATIVE
+                                            Performed by: MEDTOX LABORATORIES
+                                            402 WEST COUNTY ROAD D
+                                            ST PAUL, MN 55112
+                                            Walker, Karla J
+
+
+Hydrochlorothiazide                         NEGATIVE
+                                            Performed by: MEDTOX LABORATORIES
+                                            402 WEST COUNTY ROAD D
+                                            ST PAUL, MN 55112
+
+                                   H=High, L=Low, *=Abnormal, C=Critical
+
+
+                                                                                           Patient: ARUPTest, 25864 Patient
+                                                                                             ARUP Accession: 25-258-101693
+                                                                                                    Patient Identifiers: 46192
+                                                                                                  Visit Number (FIN): 46601
+                                                                                Page 1 of 2 | Printed: 9/16/2025 2:33:35 PM
+                                                                                                         Patient Report |FINAL
+
+
+
+                                                         Walker, Karla J
+
+
+Hydroflumethiazide                                       NEGATIVE
+                                                         Performed by: MEDTOX LABORATORIES
+                                                         402 WEST COUNTY ROAD D
+                                                         ST PAUL, MN 55112
+                                                         Walker, Karla J
+
+
+Metolazone                                               NEGATIVE
+                                                         Qualitative diuretic screen includes:
+                                                         bumetanide, chlorothiazide, chlorthalidone,
+                                                         furosemide, hydrochlorothiazide,
+                                                         hydroflumethiazide, and metolazone.
+                                                         Testing Threshold: 2 ug/mL
+                                                         This test was developed and its performance characteristics
+                                                         determined by Labcorp. It has not been cleared or approved
+                                                         by the Food and Drug Administration.
+                                                         Performed by: MEDTOX LABORATORIES
+                                                         402 WEST COUNTY ROAD D
+                                                         ST PAUL, MN 55112
+                                                         Walker, Karla J
+
+
+
+                                                        VERIFIED/REPORTED DATES
+
+                      Procedure     Accession                  Collected                Received                      Verified/Reported
+
+
+Diuretic Screen                   25-258-101693          9/15/2025 9:07:00 AM     9/15/2025 9:11:49 AM              9/16/2025 9:46:00 AM
+
+Bumetanide                        25-258-101693          9/15/2025 9:07:00 AM     9/15/2025 9:11:49 AM              9/16/2025 9:46:00 AM
+
+Chlorothiazide                    25-258-101693          9/15/2025 9:07:00 AM     9/15/2025 9:11:49 AM              9/16/2025 9:46:00 AM
+
+Chlorthalidone                    25-258-101693          9/15/2025 9:07:00 AM     9/15/2025 9:11:49 AM              9/16/2025 9:46:00 AM
+
+Furosemide                        25-258-101693          9/15/2025 9:07:00 AM     9/15/2025 9:11:49 AM              9/16/2025 9:46:00 AM
+
+Hydrochlorothiazide               25-258-101693          9/15/2025 9:07:00 AM     9/15/2025 9:11:49 AM              9/16/2025 9:46:00 AM
+
+Hydroflumethiazide                25-258-101693          9/15/2025 9:07:00 AM     9/15/2025 9:11:49 AM              9/16/2025 9:46:00 AM
+
+Metolazone                        25-258-101693          9/15/2025 9:07:00 AM     9/15/2025 9:11:49 AM              9/16/2025 9:46:00 AM
+
+
+
+                                                           END OF CHART
+
+
+
+
+                                                H=High, L=Low, *=Abnormal, C=Critical
+
+
+                                                                                                        Patient: ARUPTest, 25864 Patient
+                                                                                                          ARUP Accession: 25-258-101693
+                                                                                                                 Patient Identifiers: 46192
+                                                                                                               Visit Number (FIN): 46601
+                                                                                             Page 2 of 2 | Printed: 9/16/2025 2:33:35 PM
+

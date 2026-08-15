@@ -1,0 +1,53 @@
+                                                              Effective Date: September 2, 2025
+
+
+
+TEST CHANGE
+Diuretic Screen, Urine
+0091258, DIURETIC U
+Specimen Requirements:
+   Patient Preparation:
+   Collect:                      Random urine.
+
+   Specimen Preparation:         Transfer 10 mL urine to ARUP standard transport
+                                 tubes.Standard Transport Tubes. (Min: 1.2 mL) Test is not
+                                 performed at ARUP; separate specimens must be submitted
+                                 when multiple tests are ordered.
+
+   Transport Temperature:        Refrigerated. Also acceptable: Frozen.
+
+   Unacceptable Conditions:
+   Remarks:
+   Stability:                    Ambient: 72 hours; Refrigerated: 2 weeks; Frozen: 6 months
+
+Methodology:                     Qualitative High Pperformance Liquid Chromatography With
+                                 Ultraviolet Detectionchromatography with ultraviolet detection
+                                 (HPLC/UV)
+
+Performed:                       Varies
+
+Reported:                        5-14 days
+
+Note:                            Includes: benzthiazide, bumetanide, chlorothiazide,
+                                 chlorthalidone, furosemide, hydrochlorothiazide,
+                                 hydroflumethiazide, and metolazone.
+
+CPT Codes:                       80377 (Alt code: G0480)
+
+New York DOH Approval Status:    This test is New York DOH approved.
+Interpretive Data:
+
+
+Reference Interval:
+
+By report
+
+
+HOTLINE NOTE: There is a component change associated with this test. One or more components
+have been added or removed. Refer to the Hotline Test Mix for interface build information.
+
+
+
+
+                                                                                              Page 1 of 1
+

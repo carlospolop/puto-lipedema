@@ -62,3 +62,11 @@
 - [x] Regenerar índice con `node .github/scripts/build-search-index.js`; `node --check`, 103 entradas, frase única presente, 98 páginas HTML y enlaces internos válidos; se retiró además una referencia interna rota preexistente.
 - [x] Barrera terminal confirmada: Chack sin lotes abiertos/procesando y lista de procesos vacía; commit preparado solo con esta investigación y cambios web relacionados.
 - [x] Push principal `2272aba` a `main`; Search Index [29670900003](https://github.com/carlospolop/puto-lipedema/actions/runs/29670900003) y GitHub Pages [29670900002](https://github.com/carlospolop/puto-lipedema/actions/runs/29670900002) finalizaron con éxito; página e índice de producción devolvieron HTTP 200 y la frase única nueva.
+
+## Recuperación obligatoria 2026-08-15
+- Cola Chack terminal sin trabajos activos. P05 y P06 fueron intentos diferenciados pero terminaron sin salida Pro utilizable; se preservan sus artefactos y no se cuentan como evidencia Pro.
+- El sitio ya contenía la actualización segura de diuréticos del commit previo; no se amplía con conclusiones nuevas de solicitudes fallidas.
+
+## Recuperación obligatoria 2026-08-15
+- Cola Chack terminal sin trabajos activos. P05 y P06 fueron intentos diferenciados pero terminaron sin salida Pro utilizable; se preservan sus artefactos y no se cuentan como evidencia Pro.
+- El sitio ya contenía la actualización segura de diuréticos del commit previo; no se amplía con conclusiones nuevas de solicitudes fallidas.

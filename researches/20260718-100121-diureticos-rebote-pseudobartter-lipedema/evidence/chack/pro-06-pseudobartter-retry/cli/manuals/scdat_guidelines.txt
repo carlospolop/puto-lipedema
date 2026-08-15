@@ -1,0 +1,2792 @@
+     SCDAT
+Guidelines for Drugs of Abuse Testing
+        Vers EN 2021-03-25 (corrected 2022-12-6)
+
+
+
+
+                       Page 1 of 55
+Glossary
+CSC               Correctional Service of Canada
+Compliance        A patient's adherence to a recommended course of treatment
+Cut-off           Medical and/or Legal Decision Value, positive/negative
+Donor             Person who donates something voluntarily
+EWDTS             The European Workplace Drug Testing Society
+GC-MS             Gas Chromatography with Mass Spectrometric Detection
+HPLC-MS           High Performance Liquid Chromatography with Mass Spectrometric
+                  Detection
+ID                Identification
+ISO/IEC           International Organization for Standardization/International
+                  Electrotechnical Commission
+IUPAC             International Union of Pure and Applied Chemistry
+KLV               Health Care Insurance Benefits Ordinance (Switzerland)
+KVG               Federal Law about Health Insurance (Switzerland)
+KVV               Health Insurance Ordinance (Switzerland)
+MS                Mass Spectrometry
+On Site           Done or located at the site
+Peak              Portion of a differential chromatogram recording the detector response
+                  when a single component is eluted from the column
+Prodrug           Inactive (or significantly less active) form of a drug
+QC                Quality Control
+QUALAB            Swiss Association on Quality in the Medical Laboratory
+SAMHSA            Substance Abuse and Mental Health Services Administration (U.S.A.)
+SCDAT             Swiss Committee for Drugs of Abuse Testing
+Spiker            Person pretending compliance in a drug substitution program
+Spot              Spontaneous urine, urine specimen
+Workplace Testing Drug Testing Programs in the Workplace
+
+
+
+
+                                      Page 2 of 55
+Contents
+Glossary ........................................................................................................................................ 2
+Contents ........................................................................................................................................ 3
+Foreword ....................................................................................................................................... 6
+1.           Scope of the Guidelines.................................................................................................. 7
+2.           Scope of Application of the Guidelines ......................................................................... 8
+3.           Sample Collection, Shipping and Handling (“Chain of Custody”) ............................... 8
+3.1.         Collecting Samples............................................................................................................ 8
+3.1.1        Objectives of Sampling Strategy........................................................................................ 8
+3.1.2        Chain of Custody ............................................................................................................... 8
+3.1.3        Specific measures for urine specimens ............................................................................. 8
+3.1.4        Specific measures for other sample sources ..................................................................... 9
+3.2          Handling of Samples ......................................................................................................... 9
+3.2.1        Objectives of sample handling ........................................................................................... 9
+3.2.2        Measures .......................................................................................................................... 9
+3.3          Sample Handling at the Testing Laboratory Site .............................................................. 10
+3.3.1        Objectives of sample handling at the testing laboratory site ............................................ 10
+3.3.2        Measures ........................................................................................................................ 10
+4.           Specimens ..................................................................................................................... 10
+4.1          Specimen Stability and Preservation ............................................................................... 10
+4.1.1        General Information......................................................................................................... 10
+4.1.2        Storing and Packaging of Specimens .............................................................................. 11
+5.           Factors Interfering with Results of Analytical Testing, Tampering with Urine
+             Specimens ..................................................................................................................... 11
+5.1          Objectives ....................................................................................................................... 11
+5.2          Interfering Factors and Adulterations in Urine Drug Testing ............................................ 12
+5.3          Detection of Interfering Factors and Adulterations in Urine Drug Testing ........................ 12
+5.4          Detection of Sample Dilution ........................................................................................... 13
+6.           Immunochemical Screening Analyses in Urine .......................................................... 14
+6.1          Single-Substance Analyses ............................................................................................. 15
+6.2          Substance Group Analyses ............................................................................................. 15
+6.3          Recommended Cut-off Concentrations for Instrument Immunoassays of Urine Specimens
+             without Prior Hydrolysis ................................................................................................... 15
+6.4          Enzymatic Alcohol Test ................................................................................................... 16
+6.5          Use of Non-Instrument Rapid Tests ................................................................................ 17
+6.5.1        General Remarks ............................................................................................................ 17
+7.           Confirmation and Screening Analyses ........................................................................ 17
+7.1          General Remarks ............................................................................................................ 17
+7.2          Analytical Platforms ......................................................................................................... 18
+7.3.         Remarks on Urine Analyses ............................................................................................ 19
+7.4          Remarks on Other Matrices............................................................................................. 19
+8.           Interpretation of Results ............................................................................................... 20
+8.1          Stages of Interpretation ................................................................................................... 20
+8.1.1        Analytical Interpretation (Laboratory Experts) .................................................................. 20
+
+                                                                Page 3 of 55
+8.1.2    Toxicological Interpretation (Laboratory Experts) ............................................................ 20
+8.1.3    Medical Interpretation (Client, Medical Practitioner, Laboratory Experts) ......................... 20
+8.2      Factors Interfering with Pharmacokinetics and the Result of the Analysis ....................... 20
+8.3      Significance of a Result ................................................................................................... 21
+8.3.1    Questions to Ask When Interpreting a Result .................................................................. 21
+8.3.2    Answers .......................................................................................................................... 21
+8.4      Implications of the Finding ............................................................................................... 22
+9.       Quality Assurance in Testing for Drugs of Abuse ...................................................... 22
+9.1      Metrology Terms for Verification and Validation of Testing Procedures .......................... 22
+9.2      Quality Control ................................................................................................................ 22
+9.2.1    Internal Quality Controls .................................................................................................. 23
+9.2.2    External Quality Control .................................................................................................. 23
+9.2.3    Providers of External Quality Control Programs relevant for Drugs of abuse ................... 23
+10.      Documentation of Order, Results and Reports, Archiving ......................................... 25
+10.1     Order for an Analysis....................................................................................................... 25
+10.1.1   Precise Identification of an Order .................................................................................... 25
+10.1.2   Reason and/or Clinical Details2 ....................................................................................... 25
+10.1.3   Sample Data1 .................................................................................................................. 25
+10.1.4   Personal Data ................................................................................................................. 25
+10.1.5   Tests Requested ............................................................................................................. 25
+10.2     Report and Results.......................................................................................................... 26
+10.2.1   Material1 .......................................................................................................................... 26
+10.2.2   Result .............................................................................................................................. 26
+10.2.3   Administrative Data ......................................................................................................... 26
+10.3     Archiving ......................................................................................................................... 27
+10.3.1   Data Retention Period ..................................................................................................... 27
+11.      Legal Aspects, Data Privacy ......................................................................................... 27
+11.1     Data Privacy .................................................................................................................... 27
+11.2     Confidentiality of Unsolicited Positive Results ................................................................. 27
+12.      Pharmacokinetics, Detectability................................................................................... 28
+12.1     Ethanol (alcohol) ............................................................................................................. 29
+12.2     Cannabis ......................................................................................................................... 29
+12.3     Cocaine ........................................................................................................................... 30
+12.4     Opiates............................................................................................................................ 30
+12.5     Methadone ...................................................................................................................... 32
+12.6     Oxycodone ...................................................................................................................... 32
+12.7     Fentanyl, fentanyl analogs, and other synthetic opioids ................................................... 32
+12.8     Benzodiazepines ............................................................................................................. 33
+12.9     Gamma-Hydroxybutyrate (GHB) ..................................................................................... 36
+12.10    Pregabalin ....................................................................................................................... 36
+12.11    Ketamine ......................................................................................................................... 37
+12.12    Lysergic Acid Diethylamide (LSD) ................................................................................... 37
+12.13    Psilocybin ........................................................................................................................ 38
+12.14    Amphetamine .................................................................................................................. 38
+12.15    Methamphetamine........................................................................................................... 39
+                                                             Page 4 of 55
+12.16       Methylenedioxymethamphetamine (Ecstasy) .................................................................. 40
+12.17       Methylphenidate and ethylphenidate ............................................................................... 40
+12.18       New Psychoactive substances ........................................................................................ 41
+12.18.1 Synthetic cathinones ........................................................................................................ 41
+12.18.2 Synthetic cannabinoids .................................................................................................... 42
+12.18.3 Piperazines ...................................................................................................................... 43
+12.18.4 Other NPS........................................................................................................................ 43
+13.     Literature ....................................................................................................................... 45
+13.1        Originals .......................................................................................................................... 45
+13.2        Manuals, Monographs, Guidelines .................................................................................. 48
+13.3        Websites ......................................................................................................................... 49
+13.3.1      Guidelines of Other Institutions:....................................................................................... 49
+14.         Members of the Working Group ................................................................................... 50
+Annex 1 : Metrology terms for verification, validation and qualification of testing procedures
+       ........................................................................................................................................ 51
+
+
+
+
+                                                                Page 5 of 55
+Foreword
+SCDAT Guidelines were originally published by the work group on Drugs of Abuse Testing (AGSA).
+The SCDAT, successor to AGSA, was a work group composed of members of the following
+institutions: Swiss Association of Pharmacists (pharmaSuisse), Swiss Society of Clinical Chemistry
+(SSCC), Swiss Society of Legal Medicine (SGRM), Swiss Association of the Diagnostic Equipment
+and Product Industry (SVDI), and University of Bern.
+
+Since 2014, the responsibility of the SCDAT Guidelines have been transferred to the SSCC. This
+version of the guidelines is the result of a revision commissioned to the working group “Medicaments”
+of the SSCC.
+
+These guidelines are intended as recommendations for the clinical laboratories and non-legal
+institutions testing urine and blood samples for drugs of abuse. They are not legally binding in nature.
+Harmonization in drug analyses is the objective.
+
+Legal samples need to be analyzed by a forensic testing laboratory and samples, which are used for
+the assessment of driving capability, need to be analyzed by a testing laboratory with a valid
+authentication by the Federal Roads Office.
+
+The use of drug analysis for the various questions in the therapeutic sectors as well as in specific
+workplaces can have far-reaching consequences of a professional and social nature for those
+affected. For this reason, the greatest possible care must be taken when conducting analyses and
+interpreting the results. These guidelines support analytical laboratories in their adherence to
+requisite quality assurance measures.
+
+Although SSCC takes the utmost care in assuring the correctness of the information in printed or
+electronic form, it does not assume liability with regard to the correctness, accuracy, timeliness,
+reliability, and comprehensiveness of this information as contained herein. SSCC expressly reserves
+the right to alter, delete, or temporarily refrain from publishing the contents, in full or in part, at any
+time without prior notice thereof. Any liability claims against SSCC for damages of a material or
+immaterial nature ensuing from the access to, the use or non-use of the published information, the
+inappropriate use of the link, or from technical defects, are hereby excluded.
+
+The guidelines are periodically revised and enlarged.
+
+
+
+
+                                               Page 6 of 55
+ 1.         Scope of the Guidelines
+The following guidelines encompass the different stages of drug analyses, from the individual to be
+tested, through the client, to the result. The guidelines specifically deal with sampling, shipping,
+preanalytical, analytical, and postanalytical aspects, quality assurance, interpretation and
+documentation of the results of the analyses, as well as the costs (Fig. 1).
+
+
+Figure 1     Scope of the Guidelines
+
+      Preanalytical
+
+                      Sampling Place
+
+                        Sampling
+
+                        Identity, authenticity, integrity of the donor and/or of the sample,       Ch
+                        “chain of custody”, questioning, range of analyses                         3,4
+
+                                                        Shipping
+                                                                                                   Ch
+                        Containers, shipping materials, protection against breakage, “chain of
+                                                                                                   3,
+                        custody”
+                                                                                                   10.1
+                      Testing laboratory
+                                                                                                   Ch
+                        Storage, sample processing
+                                                                                                   4.1
+
+
+       Analytical
+
+                        Analytics
+                                                                                                   Ch
+                        Quality management, methodology, detection limit, sensitivity,
+                                                                                                   5, 6,
+                        specificity, interferences and adulteration
+                                                                                                   7
+                        Quality Assurance
+                                                                                                   Ch
+                        Internal and external quality control
+                                                                                                   9
+
+
+   Postanalytical
+
+                        Post-Analytics
+                                                                                                   Ch
+                        Storage, additional test orders, confirmation
+                                                                                                   7
+                        Interpretation
+                                                                                                   Ch
+                        Cut-off values, time of sample collection, pharmacokinetics,               6.3,
+                        significance of a result                                                   8,
+                                                                                                   12
+                        Documentation
+
+                        Reports, release of results, handling of positive results, confirmation,   Ch
+                        recommendation                                                             10
+
+
+
+
+                                              Page 7 of 55
+2.        Scope of Application of the Guidelines
+
+The guidelines are recommended for use in the clinical and socio-medical areas of application.
+
+Table 1     Scope of Application of the Guidelines
+
+
+     A     Testing for drugs of abuse associated with differential diagnosis
+
+
+
+     B     Testing for drugs of abuse during substitution therapy, heroin-based therapy, and/or
+           detoxification treatment, educational facilities
+
+
+
+
+3.        Sample Collection, Shipping and Handling (“Chain of
+          Custody”)
+
+3.1.      Collecting Samples
+
+3.1.1     Objectives of Sampling Strategy
+
+The identity of the individual and the authenticity and integrity of the specimens collected from the
+individual must be ensured at any time. Sampling strategy should undertake adequate measures to
+identify and to prevent any medical, chemical or physical tampering with collected specimen.
+Urine specimen collection must respect the dignity of the individual whilst ensuring that the collected
+specimen is freshly voided.
+
+3.1.2     Chain of Custody
+
+The chain of custody must be warranted throughout sample collection, transport and analysis.
+Standard operation procedures should be in place to guarantee a documented sampling process
+carried out by dedicated and qualified personnel. At the site of sample collection, a chain of custody
+form should be used to accompany the sampling process. This form can stay at the collection site,
+whilst the collected sample is accompanied by the order (request) form. The site of the sample
+collection is responsible for the correct identification of the sample tube and the order form.
+
+3.1.3     Specific measures for urine specimens
+
+Urine specimens used for screening purposes are known to be target of adulteration attempts.
+Medical, chemical or physical tampering with collected specimen include issues such as endogenous
+or exogenous dilution, additives, submission of another’s urine specimen or artificial urine, and
+substitution of an analyte.
+
+
+Dilution, addition of additives and use of artificial urines can be controlled by various laboratory
+procedures (see below); submission of another’s urine specimen or substitution of an analyte can
+be controlled by proving the body passage of the received specimen.
+
+To minimize the risk of sample adulteration during the collection process, measures must be taken
+to avoid items or substances, which might be suited to adulterate the urine specimen to be introduced
+to the collection site in a concealed manner (e.g. remove coats or jackets, control pockets, leave
+purses with the garment). Additionally, the place of sample collection should also be prepared in a
+
+                                             Page 8 of 55
+similar manner. For example control access to tap water, use coloring of toilet water, and remove
+soap and other liquids.
+
+To respect the dignity of the individual whilst urinating, observed collection is not necessary if the
+named precautions are taken and there is not a strong suspicion of sample adulteration and no
+adulterated specimen has been presented in a previous collection. A measure, which can be taken
+to ensure the body passage of the collected urine, is the use of suited marker substances, which are
+ingested, in an appropriate amount and time gap prior to urine sampling.
+
+Prior to urine sample collection:
+ Instruct the donor to avoid excessive drinking. Not more than 200 mL liquid per hour should be
+    ingested 2-3 hours prior to sample collection.
+ Give oral or written instruction on the collection procedure, which may include the measures
+    outlined in the prior paragraphs.
+
+Urine sample collection:
+ Provide labelled and clean specimen container for urine sampling and urine shipment. Make sure
+   that all containers are unequivocally identifiable (e.g. by using bar coding or ID numbers). Make
+   sure that the donor is aware of the identity of the primary and secondary specimen labelling.
+ If not enough sample (10 mL) is collected at the first urination, a second collection after additional
+   liquid intake (max. 250 mL) can be undertaken. Samples should not be pooled.
+
+After urine sample collection:
+ If possible, a urine temperature measurement should be performed at the sampling site.
+    Timeframe: up to 4 min after collection; acceptable temperature range: 32-38 °C.
+ Check for appearance and color. Note any unusual findings on the chain of custody form and
+    transfer them to the order form.
+ Transfer the urine from primary to secondary sampling containers. If possible, divide the urine in
+    two or more unequivocally identified portions. Ensure shipment in accordance with the
+    information provided by the testing laboratory.
+
+3.1.4    Specific measures for other sample sources
+
+Generally, any sampling and shipping must be in accordance with the information provided by the
+testing laboratory. Particularly for hair and saliva, where testing requires very sensitive methods,
+very specific preanalytical measures are necessary to ensure successful and correct analyses.
+
+3.2      Handling of Samples
+
+3.2.1    Objectives of sample handling
+The chain of custody must be ensured over the whole analysis process. The identity, authenticity
+and integrity of any specimen must be guaranteed at any time from sampling to analysis. Hence,
+sampling, shipment and storage of any sample must agree with the instructions provided by the
+testing laboratory. Any evidence of tampering, mix-ups, damage and/or loss of the specimen must
+be recorded and measures must be taken to minimize the risk of such incidents.
+
+3.2.2    Measures
+Whenever possible 10 ml urine should be sampled and divided in at least two separated sub-
+specimens to allow completely independent secondary / confirmative testing if needed. This is
+specifically necessary in sample collections with an assumed or known legal background. The
+minimal urine volume to be submitted for screening and confirmation testing is 5 mL.
+Blood samples should be collected as two independent samples in primary tubes whenever a legal
+background has to be assumed. For all other specimens follow the specific information provided by
+the testing laboratory.
+
+                                             Page 9 of 55
+Sampling containers must adhere to the rules of the testing laboratory. The closure must be
+unbreakable and leak proof. Tamper proof closures (e.g. by the application of a tape) are not
+mandatory. All subsamples must bear a legible identification number. The samples must be stored
+at a secured place before shipment to the testing laboratory.
+
+Order forms must be filled in accordance with the rules of the testing laboratory. Beside the ordered
+test, the order form should at least contain the following information: sample identification number,
+last name, first name, date of birth, and gender of the donor and date/time of sampling (see Chapter
+10.1 for more details).
+
+3.3      Sample Handling at the Testing Laboratory Site
+
+3.3.1    Objectives of sample handling at the testing laboratory site
+The chain of custody must also be ensured at the site of analysis. Traceability of all steps in the
+analytical procedure is mandatory.
+
+Sample handling and the quality of the analytical methods must comply with written requirements.
+All testing procedures must adhere at least to the QUALAB requirements. Testing laboratory
+accreditation (ISO17025, ISO15189) is not mandatory but highly recommended. If such accreditation
+is not in place, the minimal requirements outlined further below must be documented in a suitable
+manner.
+
+3.3.2    Measures
+Minimal requirements for testing laboratory competency:
+ Limited and controlled access to the testing laboratory.
+ Reception and analysis of the samples only by authorized personnel.
+ Appropriate sample storage facilities: +2 to +8°C pre-analytical, below –18 °C post-analytical.
+   Post-analytical storage and storage of excess samples should be at least 6 months.
+
+
+4.       Specimens
+Urine is the most commonly used specimen for drug testing as drug concentrations are usually
+higher in urine than in other specimens and urine is an easy specimen to work with. Blood is also a
+commonly used specimen, especially if urine is not available.
+
+Alternative specimen as oral fluid and hair are increasingly being utilized in drug testing. These
+specimens offer many advantages over blood and urine such as easy sample collection without a
+need for a special collection facility or personnel, less intrusion in privacy during sample collection,
+and reduced potential for sample adulteration. Despite these advantages, alternative specimens
+present unique analytical and interpretive challenges.
+
+4.1      Specimen Stability and Preservation
+
+4.1.1    General Information
+A negligible decrease in stability is of little consequence for qualitative testing. In general, for
+quantitative determinations, conditions that are somewhat more restrictive should be maintained
+while checking the applicable literature. Depending on the substance, the testing laboratory has to
+perform its own validations, since only sparse amounts of data might be available in the literature.
+
+
+
+
+                                             Page 10 of 55
+4.1.2      Storing and Packaging of Specimens
+Practically all common drugs of abuse and their metabolites are stable in urine for 7 days at 4 °C
+when kept in a dark place (i.e. protected from light).
+
+For further information, please consult the applicable guidelines, literature and websites [e.g. CLSI.
+Toxicology and Drug Testing in the Medical Laboratory; EWDTS, www.ewdts.org ; SAMHSA,
+www.samhsa.gov, Gonzales E. et. al. 2013, Dasgupta A. 2019] and Table 2.
+
+Commercially available plastic materials, which are tested and provided by various suppliers, are
+recommended for sampling and storing samples. Some plastic materials might adsorb analytes and
+related metabolites and should therefore be tested before use if not being cleared by the supplier.
+
+The stability of standards that cannot be obtained commercially along with a declaration of stability
+should be verified on a regular basis.
+
+Table 2      Stability and Storage of Urine Samples
+ Substance or Substance Group            Stability in Urine ( 6 months = assured up to 6 months)
+ 6-Acetylmorphine                        7 days at +4 to +8 °C, < -18 °C:  6 months
+ Amphetamines, incl. MDMA                7 days at +4 to +8 °C, < -18 °C:  6 months
+ Barbiturates                            7 days at +4 to +8 °C, < -18 °C:  6 months
+ Benzodiazepines                         7 days at +4 to +8 °C, < -18 °C:  6 months
+ Buprenorphine                           7 days at +4 to +8 °C, < -18 °C:  6 months
+ Cocaine + metabolites                   7 days at +4 to +8 °C, < -18 °C:  6 months
+ Codeine                                 7 days at +4 to +8 °C, < -18 °C:  6 months
+                                         7 days at +4 to +8 °C, < -18 °C:  6 months;
+ Ethanol
+                                         store in gastight containers.
+ Ethyl glucuronide (EtG)                 7 days at +4 to +8 °C (nonbacterial urine), < -18 °C:  6 months
+                                         7 days at +4 to +8 °C, < -18 °C:  6 months
+ GHB
+
+ LSD                                     7 days at +4 to +8 °C, < -18 °C:  6 months
+ Methadone                               7 days at +4 to +8 °C, < -18 °C:  6 months
+ Methadone metabolite (EDDP)             7 days at +4 to +8 °C, < -18 °C:  6 months
+ Nicotine, cotinine                      2 days at +4 to +8 °C, < -18 °C:  2 months
+ Opiates                                 7 days at +4 to +8 °C, < -18 °C:  6 months
+ Phencyclidine (PCP)                     7 days at +4 to +8 °C, < -18 °C:  6 months
+ Psilocybin/psilocin                     < -18 °C:  6 months
+ THC-carboxylic acid (Cannabis)          7 days at +4 to +8 °C, < -18 °C:  6 months
+
+
+5.         Factors Interfering with Results of Analytical Testing,
+           Tampering with Urine Specimens
+
+5.1        Objectives
+Inaccurate result readings, which complicates the interpretation of test results (see Chapter 8
+interpretation), may be caused by substances influencing the testing procedures. The underlying
+cause for such perturbances can be intentional (adulteration of the sample) or unintentional
+(endogenous or exogenous interferences).
+
+
+
+                                            Page 11 of 55
+Most forms of adulteration involve tampering with the urine specimen at the point of sample
+collection. Other sample materials (for example blood, hair, sweat) are collected by trained staff of
+the institution ordering the test or performing the analyses, whereas urine sampling involves direct
+sample handling by the donor.
+
+It must not be overlooked, that in some instances biological effects can be misinterpreted as
+tampering attempts. This is notably the case for urine dilution, which is generally addressed by the
+surrogate marker creatinine which can have a low concentration in specific medical conditions.
+
+5.2      Interfering Factors and Adulterations in Urine Drug Testing
+Interfering factors alter a test result such that the true test value is not accessible. Interferences may
+lead to false negative or false positive results.
+
+Interferences occur in vivo and are often associated with recent uptake of food / supplements or
+therapeutically used drugs. In the case of nutritional causes, the ingestion of poppy seeds (which
+can contain traces of opiates) may for example rarely lead to false positive results in urinary opiate
+screening tests. In the case of drugs taken for therapeutic purposes, parent compounds or
+metabolites may interfere with immunochemical screening methods. The trazodone metabolite m-
+CPP for example may lead to false positive readings in urinary amphetamine screening assays. Care
+must be taken, that data provided by reagent manufacturers are often not capable to cover all
+possible interferences and data from literature may not refer to actual assay designs.
+
+An adulteration is present, if the voided urine specimen is deliberately fortified with substances /
+substance cocktails (xenobiotics) or is replaced or blended with natural or artificial matrices.
+Adulteration of a specimen usually intends to give false negative testing results. In certain situations
+also positive results may also occur, for example if a patient on substitution therapy adds the
+substitution drug (e.g. methadone) to a voided urine specimen free of the drug.
+ Adulteration by xenobiotics includes the acidification of the urine or the addition of bleach or
+   detergents. In addition, substances (e.g. enzymes) may be added which modify the addictive
+   drug to be detected, thereby preventing detection of said addictive drug with a confirmation test.
+ Blending or replacement of the specimen includes the substitution with another person's drug-
+   free urine sample or commercially available urine and the dilution with water or other liquids to
+   which coloring has been added or that have similar coloring as urine (e.g. apple juice).
+
+5.3      Detection of Interfering Factors and Adulterations in Urine Drug
+         Testing
+Key to the detection of interfering factors or specimen adulteration is the unbroken chain of custody.
+
+It is always within the responsibility of the testing laboratory to identify common causes of interfering
+factors and sample adulteration and to provide information about adequate countermeasures. If care
+is taken that the sample has not been tampered, damaged or incorrectly transported / stored after
+specimen collection, any suspicious testing result can be associated with the sampling collection
+process. For suspicion of sample adulteration at the point of sample collection, see chapter 3.
+
+If interferences from therapeutic drugs, supplements or diet is suspected from screening results, the
+customer must be informed to provide further anamnestic information, e.g. on drugs taken up to two
+weeks prior to testing. In addition, adequate measures must be taken to identify the contamination
+source and to rule out false positive results; for example, by confirmative testing.
+
+To identify sample adulteration by the addition of substances interfering with the test principle, it is
+highly recommended either to use screening assays, which give strongly positive test results upon
+sample adulteration due to a competitive assay design, or to employ additional reaction control
+testing (e.g. the “sample check” principle of CEDIA assays.
+
+
+
+
+                                              Page 12 of 55
+If such tests are not available, the urine sample integrity can be checked by urine test strip testing
+including for example pH (test for acidification / basification), specific gravity (test for urine dilution),
+nitrite (addition as adulterant), ”leukocytes” (the measurement principle - esterase activity - may give
+positive results if esterases of different origin (e.g. fruit juice) are present, or if strong oxidizing agents
+/ formaldehyde are present), “erythrocytes” (the measurement principle - peroxidase activity - may
+give positive results if strong oxidizing agents are present), glutaraldehyde.
+
+Measurement of creatinine, pH and specific gravity are mandatory if no other measures are taken to
+test the sample integrity. For the interpretation of creatinine and specific gravity measurement results
+see Chapter 5.4.
+
+A specimen is defined as adulterated (“specimen validity failed”) if the performance of the screening
+assay is impaired as defined by the test instructions and / or if additional integrity checks are
+indicating an integrity problem (Table 3).
+
+Table 3       Criteria for sample adulteration based on laboratory testing and specimen
+              inspection
+    Parameter                     A specimen is defined as adulterated (“specimen validity
+                                  failed”) if…
+    Visual inspection             …an exogenous substance is detectable, which indicates an
+                                  adulteration (e.g. foam building from liquid soap).
+    Substance specific urinary … any endogenous substances (e.g. creatinine, glucose) are
+    testing                       detectable in grossly non-physiological concentrations without
+                                  medical evidence of an underlying cause.
+    Drug testing control reaction …“sample check” alerts in accordance with the test instructions.
+    pH                            < 3 or > 10
+    Specific gravity              Outside 1.001 – 1.020
+    Nitrite                       > 500 mg/L
+
+5.4        Detection of Sample Dilution
+Creatinine testing is a mandatory element of urine drug testing. A number of factors have to be
+understood and considered when interpreting its concentration. Its concentration in urine depends
+strongly on a person’s muscle mass, weight and gender. Due to the water balance of the body,
+increased drinking leads to an increased water excretion, which in consequence leads to lowered
+creatinine concentrations but also dilutes urinary drug metabolite concentrations. Hence, excessive
+drinking must be avoided prior to urinary drug testing (see above).
+
+Urinary creatinine reference ranges provided by assay manufacturers are often defined for a specific
+urine (e.g. first / second morning urine) but rarely for random sampling. Patients from the emergency
+department or intensive care unit or pediatric patients may have lower creatinine levels without
+adulteration. Hence, these ranges must not be used in drug testing to assess the validity of a urine
+specimen. The following decision limits define lowered creatinine levels as adulteration attempt and
+are summarized in Table 4:
+
+     Specimen with creatinine levels exceeding 2.0 mmol/L are considered acceptable for drug
+      testing.
+     Specimens with creatinine levels less or equal 2.0 mmol/L but above 0.5 mmol/L must undergo
+      additional specific gravity testing. Acceptable gravity results to accept a sample for drug testing
+      range from 1.001 to 1.020.
+     Specimens with creatinine levels within the range 0.5 mmol/L to 2.0 mmol/L and acceptable
+      specific gravity: results should be reported as diluted. Since such samples can cause false
+      negative results, a comment should be added to negative drug results. Confirmatory reflex testing
+      must be recommended in such cases. Positive results are not commented.
+     Specimens with creatinine levels within the range 0.5 mmol/L to 2.0 mmol/L and not acceptable
+      specific gravity: results are treated equally as specimens with creatinine levels less or equal 0.5
+      mmol/L.
+
+                                                Page 13 of 55
+     Specimen with creatinine levels less or equal 0.5 mmol/L and / or specific gravity results outside
+      the range given above may be unsuited for analysis and should be reported as “specimen validity
+      failed”. If such samples are nevertheless positive in the screening test, confirmative reflex testing
+      must be recommended. Negative results must not be reported.
+
+If specific gravity measurements are not available, urine specimen within the range 0.5 mmol/L to
+2.0 mmol/L creatinine must be treated as if the specific gravity test has failed.
+
+Table 4           Summary of urinary creatinine concentration levels for dilution adulteration
+                  detection
+    Creatinine      Sample status      Specific        Reporting of findings           Comments
+    [mmol/L]                           gravity
+       >2.0         acceptable for     not needed      all findings are reported       None
+                    drug testing
+    >0.5 - ≤2.0     diluted, subject   1.001 - 1.020   all findings are reported       Comment on negative
+                    to specific                                                        results: dilution can
+                    gravity testing                                                    cause false negative
+                                                                                       results hence
+                                                                                       confirmatory reflex
+                                                                                       testing is
+                                                                                       recommended.
+    >0.5 - ≤2.0     diluted, subject   < 1.001         negative results must not be    Comment on all
+                    to specific        > 1.020         reported                        results: specimen
+                    gravity testing                    recommend confirmatory reflex   validity failed
+                                                       testing for positive results
+       ≤0.5                            any value       negative results must not be    Comment on all
+                                                       reported                        results: specimen
+                                                       recommend confirmatory reflex   validity failed
+                                                       testing for positive results
+
+
+6.            Immunochemical Screening Analyses in Urine
+In general, screening analyses permit only qualitative results. Depending on the consequence of the
+qualitative screening results, confirmation analyses should be performed. Whatever the case, a
+chromatographic test method is more conclusive than most immunoassays. However, the latter are
+the methods of choice for rapid testing, since chromatographic procedures are usually work- and
+time-intensive. Immunochemical group testing is indicated when rapid detection of presumably
+ingested substances within a certain substance class (which may cover a large number of
+substances) and serial analyses are needed. Be aware that there is a substantial probability for false
+positive and false negative results.
+
+Antibodies used in immunoassays may cross-react with more than one single substance (the main
+target substance and some of its metabolites or a number of substances of the same class). The
+amplitude of the cross-reactivity is not homogeneous across the detectable substances. The
+resulting signal is therefore a cumulative value from all cross-reacting substances. In some cases,
+this can lead to positive results (according to a defined cut-off concentration) that cannot be
+confirmed by chromatographic methods (i.e. LC-MS/MS), which detect and quantify single
+substances with higher individual selectivity. The chromatographic methods are targeted methods
+that do not necessarily cover all metabolites of a given drug or even all possible drugs from a class,
+and does not sum up all concentrations of the detected substances. And even so, at similar detection
+limit to immunoassays, concentrations below this limit will not sum up to a detectable signal. Negative
+immunoassays may be, in the same reasoning, due to the presence of a low cross-reacting
+substance, which does underestimate the real concentration.
+
+Since detection with immunoassays normally yields “yes/no” cut-off levels, the results require critical
+interpretation and, depending on the case, additional confirmative measurements are needed
+(Chapter 7).
+
+
+                                                    Page 14 of 55
+Many immunoassays can produce semiquantitative results, but these values should be cautiously
+interpreted in urine, because of the cumulative effect of cross-reactivity of multiple substances, as
+described earlier. Therefore, such semiquantitative results in urine must not be extrapolated to drug
+dosage or time of ingestion.
+
+6.1      Single-Substance Analyses
+Immunoassays of single substances are designed to detect a substance and/or one of its presence
+proving metabolites.
+Examples of single-substance analyses are:
+ Substance detected:                                  Proving the presence of:
+ 6-Acetylmorphine (6-AM) =                            Heroin
+ 6-Monoacetylmorphine (6-MAM)
+ Benzoylecgonine                                      Cocaine
+ Buprenorphine                                        Buprenorphine
+ Cotinine                                             Nicotine
+ Ethyl glucuronide (EtG)                              Ethanol
+ LSD                                                  LSD
+ Methadone and/or EDDP                                Methadone
+ THC carboxylic acid                                  THC
+
+6.2      Substance Group Analyses
+Substance-group analyses using immunoassays detect a range of (but usually not all) structurally
+related substances or metabolites as a group in a single analytical process.
+Depending on the manufacturer, calibration of the analytical systems for substance-group testing is
+based on a different standard substance, leading to varying specificity in terms of the results. The
+results in each case are only qualitative as the reactivity of the antibodies used with individual
+substances within a substance class is highly variable. In addition, it remains unknown if one or
+several substances produce the positive result.
+
+Negative results are not necessarily always conclusive since, depending of the antibody used
+individual substances of the substance class or their metabolites will not react sufficiently due to their
+low cross reactivity with the diagnostic antibody.
+
+Examples of such substance-group analyses are:
+     Amphetamines
+     Barbiturates
+     Benzodiazepines
+     Opiates
+     Tricyclic antidepressants
+Urine specimens exhibiting high concentrations of the analyte (above measuring range) should not
+be diluted as there is no direct correlation between the antibody affinity and the concentration of the
+substance.
+
+6.3      Recommended Cut-off Concentrations for Instrument
+         Immunoassays of Urine Specimens without Prior Hydrolysis
+Table 5 shows the cut-off concentrations from different publications for single substances and
+substance groups. They apply to instrument immunoassays of urine specimens that have not
+undergone prior hydrolysis.
+
+
+
+
+                                              Page 15 of 55
+Table 5:      Different Recommended Screening Cut-off Concentrations for Instrument
+              Immunoassays of Urine Specimens without Prior Hydrolysis (X: No
+              recommendation)
+                                                              SCDAT         EWDTS          SAMHSA            CSC
+                  Single Substances
+                                                              (2020)         (2015)         (2012)          (2019)
+            6-Acetylmorphine (6-AM) [µg/L]                      10             X              10              10
+            Buprenorphine [µg/L]                                10              5              X               X
+            Cocaine or cocaine metabolite
+                                                                300            150            150             150
+            (benzoylecgonine) [µg/L]
+            Cotinine (nicotine) [µg/L]                          50              X              X               X
+
+    Single EDDP (Methadone) [µg/L]                              100            100             X              100
+           Ethyl glucuronide (EtG) [mg/L]                       0.51            X              X               X
+            GHB [mg/L]                                           52             X              X               X
+            LSD [µg/L]                                          0.5            1.0             X              0.2
+            Methadone [µg/L]                                    300            300             X               X
+            THC carboxylic acid (Cannabis) [µg/L]               50              50             50              50
+                   Substance Groups
+            Amphetamines [µg/L]                                 500            500            500             500
+            Barbiturates [µg/L]                                 300            200             X               X
+    Group
+            Benzodiazepines [µg/L]                              100            200             X              100
+            Opiates [µg/L]                                      300            300           2000             300
+
+1      A cut-off value of 0.1 mg/L may be appropriate to establish abstinence. Persons to be tested then need to be
+       informed that some food in rare cases may lead to a positive result.
+2      The endogenous GHB concentration in urine is < 5 mg/L in most cases.
+
+For non-instrument immunoassays (“rapid tests”) the cut-off concentrations are established by the
+manufacturers and are therefore constant. When selecting a non-instrument immunoassay, the
+applied cut-off concentration needs to be considered (see table 5).
+
+Hydrolysis of the urine prior to analysis permits indirect determination of conjugated metabolites
+(e.g., morphine glucuronides, benzodiazepine glucuronides), thus improving the likelihood to detect
+consumption.
+
+6.4         Enzymatic Alcohol Test
+In clinical cases, alcohol (ethanol) is determined by enzymatic tests, which convert ethanol by alcohol
+dehydrogenase (ADH). Other alcohols like isopropyl alcohol (isopropanol, ingredient of many
+disinfectants) are also converted by ADH and therefore detected. These alcohols can only be found
+in urine in case of an intoxication with these compounds. It must be considered that after the
+consumption of ripe fruits alcohol, concentrations of < 3 mmol/L can be found in urine.
+
+In case of a blood sampling for the analysis of alcohol, disinfectants without ethanol or isopropanol
+should be used (e.g. aqueous solutions of iodine of chlorhexidine).
+
+Due to longer detection windows compared to the parent drug, other biomarkers of ethanol ingestion
+like ethyl glucuronide are recommended especially for urine samples.
+
+
+
+
+                                                    Page 16 of 55
+6.5       Use of Non-Instrument Rapid Tests
+With few exceptions "rapid tests" for drug screening in urine, oral fluid and sweat are non-instrument
+immunoassays that permit fast (within 5-10 min) yes/no decisions outside the testing laboratory (“on
+site”). Saliva and sweat tests have been used for some time, chiefly in forensic cases. Non-
+instrument immunoassays should only be used as screening tests.
+
+6.5.1     General Remarks
+    As with instrument immunoassays, non-instrument immunoassays are merely indicative and not
+     evidential in nature. All manufacturers’ instructions for use point out this fact, but many users fail
+     to or barely pay attention to it.
+    Despite their simplicity and lack of reliance on an instrument, these non-instrument
+     immunoassays as well as the instrumental onsite tests should only be conducted by trained
+     personnel who is skilled in the interpretation of the results and any irregularities.
+    In the case of a positive result, do not discard the sample. It must be retained for any confirmation
+     analysis that may be required.
+    Most of these analytical systems have a test quadrant that displays any irregularity in the reaction
+     sequence. Nevertheless, irregularities that are not indicated through internal checks still may
+     occur (for example, certain methods of tampering, interference with any one of the test
+     quadrants, or irregularities caused by medication).
+    Quality control samples generally used for testing the quality of screening tests are artificial.
+     Therefore, discrepancies may be found when comparing the results of individual test quadrants
+     of different manufacturers (e.g., varying cross-reactions with optical isomers, mainly
+     amphetamines). False negative results may also occur due to an antigen excess (High-Dose
+     Hook Effect).
+
+
+7.        Confirmation and Screening Analyses
+
+7.1       General Remarks
+Immunochemical analyses can only provide preliminary results. Because of the risk of false-positive
+results, confirmation of positive results must be done where sanctions may be imposed on the person
+involved due to the results obtained, and is strongly recommended in all other situations.
+Immunochemical analyses may also give false-negative results, e.g., because of poor cross-
+reactivity of the substance in the sample with the used detection antibody. If the clinical situation is
+not in accordance with the negative result, samples with negative results should also undergo a
+confirmation analysis.
+The confirmation analytical platform must be a chromatographic analytical platform with a substance-
+specific detection. Any other immunoassay must not be used for that purpose.
+Immunochemical testing includes only few substances or substance classes. Many other substance
+classes might be of interest for drug screening. E.g., new psychoactive substances (psychoactive
+compounds that are sold over the internet in many cases) are in most cases not detectable using
+the “classical” immunochemical testing. Applying a chromatographic screening analysis allows the
+detection of a much broader spectrum of drugs and drugs of abuse. In contrast to a confirmation
+analytical platform that only confirms the result of an immunochemical assay by detecting the same
+substances as the immunochemical test, a chromatographic screening analysis is designed to
+enable the detection of more substances and substance classes which might not be detectable by
+immunochemical assays.
+It is of utmost importance to store samples subjected to confirmatory or chromatographic screening
+analysis for an extended period of time to allow possible re-testing e.g. by a forensic testing
+laboratory. We recommend storage for at least 6 months below -18°C.
+
+
+
+
+                                               Page 17 of 55
+7.2      Analytical Platforms
+The following analytical platforms are recommended for confirmation testing:
+   Liquid chromatography coupled to mass spectrometry (LC-MS)
+   Gas chromatography coupled to mass spectrometry (GC-MS)
+
+Both analytical platforms are well established in clinical routine and provide reliable results when a
+careful method validation process has been performed. We recommend the use of either a multiple
+reaction monitoring analytical platform or a library-based analytical platform for confirmation or
+chromatographic screening. Multiple reaction monitoring analytical platforms should include at least
+two transitions per compound. In order to identify a compound in a sample, library-based analytical
+platforms search for the best match between the mass spectrum of this compound - acquired after
+one fragmentation step (“molecular fingerprint”) - and the spectra of reference substances stored in
+the library. We recommend the inclusion of more identification metrics, e.g. retention time. The more
+identification metrics are used, the higher the specificity of the identification.
+GC-MS as well as LC-MS are technically demanding and should be used by well-trained staff only.
+Analytical platforms must be validated and testing laboratory should be accredited according to ISO
+17025 or ISO 15189. Appropriate internal and external quality control measures are mandatory to
+monitor the performance of the analytical platforms. When interpreting the results obtained with
+chromatographic confirmation or screening analytical platforms, various pitfalls must be taken into
+account. Competent staff must do interpretation of the results.
+
+These chromatographic confirmation and screening analytical platforms also have limitations:
+    Only substances that are included in the analytical platform can be identified. The rapidly
+      evolving designer drugs of abuse market therefore forces the analytical platform and the
+      reference libraries to be actualized continuously.
+    Confirmation and chromatographic screening analytical platforms also have detection gaps.
+      Contact with the testing laboratory in charge of running the analysis is strongly recommended
+      if the clinical situation is not in agreement with a negative result.
+    Structurally similar molecules or metabolites might generate similar/identical mass spectra
+      and fragmentation patterns. Careful confirmation and interpretation must be warranted.
+    The higher turn-around time compared to immunochemical analytical platforms (usually
+      several hours) must be taken into account. Except at tertiary care centers, the availability is
+      usually not granted for 7d a week.
+    Pharmaco- and toxicokinetic aspects still apply: if a substance or its metabolite is completely
+      eliminated out of the body, confirmation and chromatographic screening analytical platforms
+      will not detect the compound in blood or urine. E.g., GHB is eliminated very rapidly from the
+      body.
+
+A list with laboratories performing confirmation and chromatographic screening analyses can be
+found on the website of the Swiss Society of Clinical Chemistry.
+
+The results of confirmation and chromatographic screening analyses are usually qualitative.
+Recommendations for detection limits for several analytes are published by different scientific
+societies.
+
+
+
+
+                                            Page 18 of 55
+Table 6:       Recommended detection limits [µg/L] for confirmation analysis in urine.
+ Analyte                      SCDAT (2020)      GTFCH         CSC      SAMSHA           EWDTS
+                                                (2011)       (2019)     (2012)           (2015)
+ THC-COOH                          10             101          101         15               15
+ Amphetamine                      200             200          250        250              200
+ Methamphetamine                  200             200          250        250              200
+ MDMA                             200             200          250        250              200
+ MDA                              200             200          250        250              200
+ MDEA                             200             200                                      200
+ Benzoylecgonine                   30              30         100         100              100
+ Buprenorphine or                 2.0                                                      2.0
+ metabolite
+ Methadone                        200             200         100                         250
+ EDDP                              75             200                                      75
+ 6-Acetylmorphine                  10              10          10          10              10
+ Morphine                         251             251         300        2000             300
+ Codeine                          251             251         300        2000             300
+ Oxycodone                        100                          10         100             100
+ Alprazolam                       501                          50                         100
+ Bromazepam                       501                          50                         100
+ Clonazepam                       501                          50                         100
+ Diazepam                         501                          50                         100
+ Flunitrazepam                    501                                                     100
+ Flurazepam                       501                         50                          100
+ Lorazepam                        501                         50                          100
+ Midazolam                        501                                                     100
+ Nitrazepam                       501                         50                          100
+ Nordiazepam                      501                         50                          100
+ Oxazepam                         501                         50                          100
+ Temazepam                        501                         50                          100
+ LSD                              0.1                         0.1                           1
+ Ethyl glucuronide (EtG)          100
+
+1 after hydrolysis
+
+
+
+
+7.3.       Remarks on Urine Analyses
+Concentrations for many substances are higher in urine than in blood, which is – together with the
+storage function of the bladder – advantageous for longer detection windows. However, as only
+substances in blood are thought to be pharmacologically active, urine does not necessarily reflect
+the current state of the patient. Taken together, urine is the preferable matrix for e.g. abstinence
+monitoring, but not for the assessment of an acute intoxication, where a substance might already be
+eliminated from blood and still be present in urine. Moreover, analytical procedures for urine must
+be able to detect drug metabolites, as most substances are excreted in urine as metabolites. For
+some substance classes, interpretation of the metabolite pattern needs special attention, as several
+parent compounds share the same or similar metabolites.
+
+7.4        Remarks on Other Matrices
+For other matrices (e.g. blood) a chromatographic screening platform based on GC-MS or LC-MS
+is the preferred analytical platform.
+
+
+
+
+                                             Page 19 of 55
+8.        Interpretation of Results
+
+The results of the analyses call for interpretation in terms of analytical, toxicological, and medical
+considerations. In doing so, pharmacokinetic factors, such as significance and consequences of the
+findings, must be taken into account.
+
+8.1       Stages of Interpretation
+
+8.1.1     Analytical Interpretation (Laboratory Experts)
+    Verification and interpretation of the results considering any pre-analytical events, quality
+     assurance data, outliers and, analytical platform specifications (sensitivity, specificity, cut-off,
+     cross-reactivity, etc.).
+
+8.1.2     Toxicological Interpretation (Laboratory Experts)
+    Dose, frequency of consumption, route of application, interactions, inter-individual variability,
+     tolerance, pharmacokinetics, pharmacogenetics, and plausibility are taken into account.
+
+8.1.3     Medical Interpretation (Client, Medical Practitioner, Laboratory Experts)
+    Consideration given to the patient’s medical history, e.g., any pre-existing conditions (organ
+     function, enzyme deficiency, metabolic disorders, age).
+    Evidence of drug influence at the time of the urine sample collection.
+    Doctor’s prescription? Self-medication? Food?
+    Plausibility check.
+
+8.2   Factors Interfering with Pharmacokinetics and the Result of the
+Analysis
+Figure 2 shows the exogenous and endogenous factors influencing pharmacokinetics, metabolism,
+and the analytical procedure and, ultimately, the result of the analysis.
+
+
+Figure 2: Factors Influencing Pharmacokinetics and the Result of the Analysis
+
+                                                 Age, gender,     Blood circulation,
+                              Organ functions    weight, race     urine flow, pH
+
+                                                                                 Biorythm
+              Hormonal and immune
+              status
+                                                                                       Physical activity
+                     Dosage
+
+                                                                                        Genetic variability,
+          Mode and route of                          Result                             metabolism
+          application
+
+        Frequency and duration                                                         Food, diet
+        of use
+                                                                                Time of urine sampling
+                              Tolerance
+
+                                 Medication,                         Urine sample
+                                 drug interactions   Analytical      manipulation
+                                                     method
+
+
+
+                                                 Page 20 of 55
+8.3     Significance of a Result
+
+8.3.1   Questions to Ask When Interpreting a Result
+Negative finding:
+ Hasn’t there been any consumption to date?
+ Hasn’t there been any new consumption, or is there only occasional consumption?
+ No consumption due to announced testing?
+ Tampering with urine sample?
+
+Positive finding:
+ Necessity for confirmation using chromatographic methods?
+ Chronic or occasional consumption?
+ Passive inhalation (cannabis, cocaine)?
+ Cross-reactions with medication or food?
+
+8.3.2   Answers
+The immunochemical test is negative, meaning that the selected drugs of abuse and/or their
+metabolites are not detectable with the applied method:
+ The individual is not consuming drugs of abuse detectable with the method used.
+ The individual may possibly be consuming drugs of abuse that are not detectable.
+   Potential explanations:
+    Concentrations of the drug of abuse and/or its metabolites are too low:
+           o Frequency of consumption too low
+           o Wrong time instant for sampling
+    Manipulation of the urine sample or drinking of excessive amounts of liquid (e.g. dilution of
+      the urine)
+ The analytical procedure has not been performed correctly:
+    Sample mix up
+    Method not sensitive enough
+    Wrong reagent
+    Faulty analytical method
+    Wrong test requested
+
+The immunochemical test is positive, meaning that the selected drugs of abuse and/or their
+metabolites are detectable with the applied methods:
+ The individual may possibly be consuming drugs of abuse detectable with the method used.
+ The individual may possibly be consuming another substance cross-reacting with the method
+   used.
+   Next steps:
+    Confirmation of the positive results with a chromatographic method
+ The analytical procedure has not been performed correctly:
+    Sample mix up
+
+Positive immunochemical test - Positive confirmation analysis:
+ Proof of a minimum of one-time drug consumption.
+ Proof of chronic drug of abuse consumption possible only in the case of long-term monitoring
+   (multiple sampling and repeat positive results).
+
+Positive immunochemical test - Negative confirmation analysis:
+ The result of the immunochemical test is due to other sample constituents and is therefore a false
+   positive.
+ Concentration of each single compound below the limit of identification of the confirmatory
+   method but the sum of all metabolites generates a positive result in the immunoassay
+
+
+
+                                           Page 21 of 55
+Negative immunochemical test – Positive confirmation analysis:
+ The concentration of the drug of abuse established by confirmation analysis is below the cut-off
+   level of the corresponding immunochemical test.
+ The result of the immunochemical test is biased by other sample constituents and is therefore a
+   false negative.
+ The confirmation analysis was not performed correctly; the analysis has to be repeated.
+
+8.4       Implications of the Finding
+The findings obtained from analyses for drugs of abuse may have legal, financial, social, and medical
+implications. Each individual has the right to be properly tested:
+    The quality of the analysis and the reliability of the result are essential not only in forensic testing
+     but also in the clinical and socio-medical fields.
+    Critical interpretation of the result by the testing laboratory and quality assurance must be
+     included.
+
+
+9.        Quality Assurance in Testing for Drugs of Abuse
+
+Every lab testing for drugs of abuse either using simple tests or as well implementing more complex
+ones (such as chromatographic analytical platforms) should follow minimal quality standards.
+Although formal accreditation is not mandatory, it is highly recommended for labs performing non-
+simple tests. The corresponding applicable standards are ISO 15189 and ISO 17025. Applying
+appropriate quality assurance rules ensures that analytical methods are robustly validated or verified,
+that quality metrics and criteria are defined and followed, and that the whole process between sample
+collection and results delivery is under control.
+Typically, a number of specifications should be documented in order to describe the performance of
+a test. These include a lower limit of detection or quantitation, a linearity range, the coefficient of
+variation of the method at a given concentration. Accuracy and precision can be assessed and
+followed using internal quality controls for each measurement series and by submitting the analytical
+method to external quality controls as provided by dedicated external quality control scheme
+providers (Table 7 and 8). For a number of tests, specific criteria are defined by the QUALAB
+guidelines [http://www.qualab.swiss/Aktuelle-Richtlinien.htm and http://www.qualab.swiss/Aktuelle-
+Externe-Qualitaetskontrolle.htm]. Those must be followed for the corresponding tests, so that they
+can be reimbursed by health insurances.
+
+9.1       Metrology Terms for Verification and Validation of Testing
+          Procedures
+In the process of implementing a test, a number of measurements have to be performed and
+qualified. Criteria for acceptance of a test have to be documented and applied.
+Guidelines exist that help in that process. Recommended ones include the guidelines of GTFCh,
+CLSI and FDA. All of them use specific metrology terms that need to be understood. Appendix 1
+assembles a list of such terms, which relies on the International Vocabulary of Basic and General
+Terms in Metrology [JCGM 200:2012], the Guidelines for the Validation of Physicochemical Testing
+Procedures and for the Determination of Measurement Uncertainty [JCGM 100:2008], and the
+Guidelines and Recommendations of the GTFCh [www.gtfch.ch; Peters 2007].
+
+9.2       Quality Control
+Each testing laboratory must guarantee the quality of the analyses performed in its responsibility.
+Therefore, special action needs to be taken to fulfil the requirements.
+
+
+
+
+                                                Page 22 of 55
+Generally speaking, instruments used for laboratory analyses must undergo maintenance on a
+routine basis and be kept in good working order at all times. The manufacturers’ operating
+instructions have to be respected. In addition, laboratories must guarantee that their analyses are
+performed according to the current, recognized state of the art in analytical techniques.
+
+In terms of quality controls, the testing laboratory needs to establish procedures to verify expected
+results with internal quality controls and to compare its results with other laboratories via external
+quality controls.
+
+9.2.1      Internal Quality Controls
+According to the QUALAB guidelines, an internal quality control must be performed regularly for all
+medical testing laboratory analyses that are included in the Federal List of Analyses or that can be
+charged as part of a case-based lump compensation in accordance with the KVG.
+Control samples must be analyzed as part of the internal quality control. They must be analyzed
+using the same reagents and instruments as those used to analyze patient samples.
+
+9.2.2      External Quality Control
+According to the QUALAB guidelines, all laboratories being reimbursed by the health assurances
+must participate at an external quality control scheme. As the drugs of abuse immunoassays are
+part of the list of compulsory external quality control, testing laboratories have to participate in a
+scheme of a Swiss provider for external quality controls. For the confirmation and chromatographic
+screening analyses a participation in a scheme of an international provider for external quality
+controls is highly recommended.
+We also recommend that testing laboratories not being reimbursed by the health assurances
+participate at an external quality control scheme.
+
+Table 7:     SCDAT recommends the following cut-off values in urine for the compulsory
+             external quality controls
+ Cannabis                  50 µg/L          with respect to THC-carboxylic acid
+ Cocaine (metabolite)      300 µg/L         with respect to benzoylecgonine
+ Barbiturates              300 µg/L         with respect to secobarbital
+ Benzodiazepines           100 µg/L         with respect to nordiazepam
+ Amphetamines              1000 µg/L        with respect to amphetamine or methamphetamine
+ Opiates                   300 µg/L         with respect to morphine
+ Methadone                 300 µg/L         with respect to methadone
+ EDDP                      300 µg/L         with respect to EDDP
+
+9.2.3      Providers of External Quality Control Programs relevant for Drugs of abuse
+Table 8 contains a non-exhaustive list of national and international institutions providing external
+quality control programs.
+
+
+
+
+                                            Page 23 of 55
+Table 8:    Providers of External Quality Control Programs for Drugs of Abuse
+
+
+    Country                 Address                           Web Link            QUALAB recognition for
+                                                                                   drugs of abuse testing
+  Switzerland   CSCQ Centre Suisse de               http://www.cscq.ch         Swiss center for external quality
+                Contrôle de Qualité                                            control
+                Chemin du Petit-Bel-Air 2
+                CH - 1225 Chêne-Bourg
+  Switzerland   MQ Verein für medizinische          http://www.mqzh.ch         Swiss center for external quality
+                Qualitätskontrolle                                             control
+                c/o Institut für klinische Chemie
+                Universitätsspital Zürich
+                CH - 8091 Zürich
+  United        UK NEQAS                            https://ukneqas.org.uk/    Not applicable for compulsory
+  Kingdom       UK NEQAS Central Office                                        controls
+                Northern General Hospital
+                Herries Road
+                Sheffield, S5 7AU
+                UK
+  Germany       Arvecon GmbH                        http://www.pts-gtfch.de    Not applicable for compulsory
+                Kiefernweg 4                                                   controls
+                D-69190 Walldorf
+  Germany       INSTAND Gesellschaft zur            https://www.instand-       Not applicable for compulsory
+                Förderung der Qualitäts-            ev.de                      controls
+                sicherung in medizinischen
+                Laboratorien e.V.
+                Ubierstrasse 20
+                D-40223 Düsseldorf
+  Germany       Referenzinstitut für                https://www.rfb.bio        Not applicable for compulsory
+                Bioanalytik (RfB)                                              controls
+                Friesdorfer Straße 153
+                53175 Bonn
+  France        Centre Lyonnais pour la             http://www.probioqual.co   Not applicable for compulsory
+                Promotion de la Biologie et du      m                          controls
+                contrôle de Qualité
+                (ProBioqual)
+                9 rue Professeur Florence
+                F-69003 Lyon
+  The           Stichting Kwaliteitsbewaking        http://skml.nl             Not applicable for compulsory
+  Netherlands   Klinische Geneesmiddel-                                        controls
+                analyse en Toxicologie
+                (KKGT)
+                P.O. Bos 43100,
+                NL - 2504 AC Den Haag
+  United        American College of                 http://www.cap.org         Not applicable for compulsory
+  States        Pathologists (CAP) Laboratory                                  controls
+                Accreditation program
+                325 Waukegan Road,
+                Northfield,
+                IL 60093-2750 / USA
+  Germany       LGC Standards GmbH                  https://www.lgcstandard    Not applicable for compulsory
+                Mercatorstrasse 51                  s.com                      controls
+                46485 Wesel
+                Germany
+
+
+
+                                              Page 24 of 55
+10.       Documentation of Order, Results and Reports, Archiving
+The documentation serves as information and traceability while maintaining safety and confidentiality
+in the chain of custody. Electronic data storage media are equivalent to written material for the
+purposes of information and archiving.
+
+10.1      Order for an Analysis
+The testing laboratory must provide a catalog that lists the analyses, specifies the preanalytical
+conditions (ordering media, specimen, sample collection, sample conservation, shipping
+information), information on the analytics (methodology) and provides information on the post-
+analytics (reporting, pricing).
+
+
+The order for an analysis is issued using the form provided by the testing laboratory. The form should
+clearly document the analyses to be conducted. The form can be a paper format or an electronic
+format. The sample(s) must be identifiable and unambiguously associated with the form. The order
+must include the following data:
+
+10.1.1    Precise Identification of an Order
+   Name and coordinates of the client (Client is the institution/institution giving the order)
+   Date of the order1 or date when received
+   Designation of the testing laboratory (if the order is not made using the testing laboratory form)1
+
+10.1.2    Reason and/or Clinical Details2
+The following list is not exhaustive and provides examples of reasons and/or clinical details that
+can be useful for analytical and/or postanalytical treatment of a sample.
+ Poisoning
+ Substitution program or withdrawal treatment
+ Physiological factors (e.g., pregnancy, liver or kidney ailment)
+ Biological individuality (e.g., N-acetyltransferase)
+ Prescribed and/or consumed drugs of abuse, therapeutic drugs, or other relevant substances
+ Other clinical data (e.g. clinical status, dialysis, allergies).
+
+10.1.3    Sample Data1
+   Date and time of sample collection
+   Sample source
+   Type of sample
+   Special measures (emergency).
+
+10.1.4    Personal Data
+   Precise identification (last name, first name, date of birth or code1)
+   Address2
+   Sample identification by the client2
+   Gender2
+   Height and Weight2.
+
+10.1.5    Tests Requested
+   Correct designation of substance or substance group to be analyzed1
+   Additional information, e.g., confirmation analysis2.
+1   Compulsory information
+2   Optional information
+
+
+
+                                             Page 25 of 55
+The testing laboratory verifies the content of the order, which includes the form and the associated
+sample(s). In case the order contains a noncompliance, the testing laboratory must have a
+procedure to deal with it (i.e. collect and document the missing or non-compliant information,
+contact the client to complete or correct the observed non-compliance, decide to proceed or not
+with the analysis).
+
+10.2     Report and Results
+The testing laboratory must ensure that the report includes sufficient relevant information to
+communicate and accompany results. This includes:
+      Comments on sample conditions that could alter results quality.
+      Comments related to sample and / or order form conditions that can be subject to sample
+       rejection.
+    Critical results.
+    Interpretation comments, if applicable. These can be a verification/repetition status, a
+       comment on a recently changed method, etc.
+The report must include the following set of data and meta-data:
+
+10.2.1   Material1
+   Type of sample source1
+   Description of the sample prior to and subsequent to analysis2.
+
+10.2.2   Result
+In all cases, for all requested analytes:
+ Name of the requested single substance(s) or substance group1
+ Identification of all analyses performed by a sub-contractant1
+ Analytical method (in the report or reference to an external source, such as a vademecum or
+    an analysis catalog)1
+ Quantitative values with units; qualitative results with unambiguous interpretation1
+ Reference intervals or cut-off values (decision limits) 2
+ Interpretation comment, if applicable 2
+ Information on sample adequacy and of potential caution to consider for all samples with
+    alteration of the condition that can influence a reading (alternative specimen to the
+    preferred/specified, inadequate volume, sample conservation status, interfering lipidemia,
+    hemolysis, icteric, …)1
+
+In addition, in case of detection by immunochemical methods:
+ Interpretation: unambiguous description whether test was positive or negative 1
+ Name of the reference substance2
+ Cut-off for the reference substance2
+ Details about substances screened for but not found, in case of non-explicit list of substances
+    to screen1
+ Details about substances detected but not listed on the order form2 (or on an external resource
+    that lists all the screened analytes in the case of a substance group).
+
+In addition, in case of confirmation analyses (chromatographic methods):
+ Limits of detection2, details of any measurement inaccuracies2
+
+10.2.3   Administrative Data
+   Identification of the patient
+   Identification of the client
+   Date of sample collection and/or receipt of order1
+   Date of report (date when transmitted)1
+   Date of analysis2
+
+
+                                            Page 26 of 55
+   Signature of the person responsible for the release of the report (may be in electronic form as
+    well) 1
+   Mode of report transmission (e.g., by phone, fax, email, electronic patient record system)2
+   Reference to any copies1
+   Reference to invoicing2
+   Identification and address of the testing laboratory (address for queries)1.
+   Information if the report is intermediate or partial1
+1   Compulsory information
+2   Optional information
+
+
+10.3      Archiving
+The testing laboratory must have a documented procedure to identify, collect, index, access
+conserve, update, modify and eliminate all documents referring to an order, to the preparative,
+analytical and post-analytical phases of the sample process, as well as to the reporting phase.
+In particular, all data listed under sections. 11.1 and 11.2 must be archived by the testing laboratory.
+The data (order forms, extracts from the quality manual, measurement protocols, raw data, quality
+controls, calibrations, reports) must be archived in such a way that it is possible to obtain a copy of
+the analysis report at all times during the retention period defined by the KBMAL.
+
+10.3.1    Data Retention Period
+The laboratory data of an exclusively clinical nature must be kept for a minimum of 5 years (unless
+otherwise specified). Data protection criteria and the instructions issued by QUALAB shall also apply.
+
+
+11.       Legal Aspects, Data Privacy
+General prerequisites are:
+ The client requesting the drugs of abuse testing must be clearly identifiable.
+ The legitimacy of said client to order the drugs of abuse analysis must be known.
+ The testing laboratory conducting the drugs of abuse analysis must have the relevant
+   qualifications and licenses if necessary.
+ Traceability of the results must be guaranteed.
+ The quality of the results must be provable.
+ Results must only be made known to the person having requested the analysis
+
+11.1      Data Privacy
+Data privacy (raw data and results, patient data) must be guaranteed based on the Data Privacy Act
+(“Datenschutzgesetz”, DSG) as well as the Federal Law about Health Insurance
+(“Krankenversicherungsgesetz”, KVG).
+Overall, the following laws and standards have to be taken into account:
+ Doctors’ professional secrecy in accordance with the KVG
+ Data Privacy Act in accordance with the DSG
+
+11.2      Confidentiality of Unsolicited Positive Results
+In accordance with Article 10 of the “Convention for the Protection of Human Rights and Dignity of
+the Human Being with Regard to the Application of Biology and Medicine: Convention on Human
+Rights and Biomedicine 4 April 1997 [European Council 1997]”, every human being has the right to
+information concerning all details gathered about his or her health. All requested results must be
+transmitted to the person, or as the case may be, agency, person, or office designated by the legal
+system. In so doing, please note that the interest and welfare of the living human being have
+priority over the mere interest of society or science. Even results that have not been requested
+must be treated confidentially.
+
+                                             Page 27 of 55
+12.        Pharmacokinetics, Detectability
+The detectability of drugs of abuse (DOAs) depends on numerous factors, including substance
+intake, administration route, co-ingestion of other drugs, individual genotypic and phenotypic
+characteristics, and consumption habits. Detectability is also influenced by the sensitivity of the
+detection method and by the defined concentration threshold for positivity. Detection windows
+mentioned here for DOAs should therefore be considered as estimates.
+
+Table 9:    Compounds discussed in this chapter
+ Substances                               Compounds with information on detectability
+ Ethanol                                  ethanol
+                                          ethyl glucuronide (EtG)
+                                          phosphatidyl ethanol (PEth)
+ Cannabis                                 9-tetrahydrocannabinol (THC)
+                                          11-hydroxy-9-tetrahydro-cannabinol (11-OH-THC)
+                                          11-nor-9-carboxy- 9-tetrahydro-cannabinol (THC-
+                                          COOH)
+ Cocaine                                  cocaine
+                                          benzoylecgonine
+                                          ecgonine methyl ester
+ Opiates                                  heroin
+                                          6-acetylmorphine (6-MAM)
+                                          morphine
+                                          codeine
+ Methadone                                methadone
+                                          EDDP
+ Oxycodone                                oxycodone
+                                          noroxycodone
+                                          oxymorphone
+                                          noroxymorphone
+ Fentanyl                                 fentanyl
+                                          norfentanyl
+ Benzodiazepines
+ Gamma-Hydroxybutyrate (GHB)      GHB
+ Pregabalin                       pregabalin
+ Ketamine                         ketamine
+                                  norketamine
+ Lysergic Acid Diethylamide (LSD) LSD
+                                  2-oxo-3-hydroxy-LSD
+ Psilocybin                       psilocin
+ Amphetamine                      amphetamine
+ Methamphetamine                  methamphetamine
+                                  amphetamine
+ Methylenedioxymethamphetamine MDMA
+ (MDMA)                           methylenedioxyamphetamine (MDA)
+                                  4-hydroxy-3-methoxy-methamphetamine (HMMA)
+ Methylphenidate                  methylphenidate
+ Synthetic cathinones             mephedrone
+ Synthetic cannabinoids           JWH-018
+ Piperazines                      N-Benzylpiperazine (BZP)
+                                  3’-hydroxy-BZP
+                                  4’-hydroxy-BZP
+                                   1-(3-trifluoromethyl-phenyl)-piperazine (TFMPP)
+                                  4-hydroxy-TFMPP
+
+
+
+                                             Page 28 of 55
+12.1     Ethanol (alcohol)
+Pharmacokinetics: Absorption via the gastrointestinal tract is rapid with peak blood concentration
+                   reached between 30 and 90 minutes after ingestion when stomach is empty. In
+                   the presence of food, both the efficiency and the rate of absorption are reduced
+                   and the peak blood ethanol concentration may be decreased by up to 70%.
+                   Ethanol is mainly metabolized into acetaldehyde and acetic acid via the alcohol
+                   dehydrogenase pathway. Minor non-oxidative metabolic pathways lead to the
+                   production of various conjugates: ethyl glucuronide (EtG), ethyl sulfate, free
+                   fatty acids ethyl esters (FAAEs), phosphatidyl ethanol (PEth).
+                   T½*: ethanol: 2-14 h.
+                   Elimination rate varies between individuals by a roughly factor 3 (0.1-0.3 g/L/h)
+                   depending on factors such as genetic and consumption habits [Winek 1984;
+                   Jones 2011].
+* Subsequently always defined as elimination half-life.
+
+Detectability:      Ethanol in blood: a few hours. Blood ethanol concentration, measured by
+                    automated enzymatic assays or gas chromatography, is the primary marker of
+                    acute alcohol intoxication in a clinical setting. Breath analysis methods are
+                    mainly used for roadside controls.
+                    EtG, FAAEs, PEth are direct markers of alcohol consumption that are used to
+                    detect alcohol misuse or to control abstinence in addiction and forensic
+                    medicine. EtG: up to 1 day in blood, up to 4 days in urine, up to 6 months in
+                    hair; PEth: 2 to 4 weeks in blood [Angulo Aguilar A 2019].
+
+12.2     Cannabis
+Pharmacokinetics: 9-tetrahydrocannabinol (THC) is the main active substance. Oxidation of C-11
+                  results in the formation of 11-hydroxy-9-tetrahydro-cannabinol (11-OH-THC;
+                  active) and 11-nor-9-carboxy-9-tetrahydro-cannabinol (THC-COOH; inactive)
+                  metabolites, which are mainly excreted as glucuronides. In addition, fatty acid
+                  conjugates have been identified as remaining in the body for an extended period
+                  of time. About one-third of the absorbed THC dose is excreted in urine and two-
+                  thirds via the feces [Huestis 1999; Iversen 2000; McGilveray 2005; Musshoff
+                  2006].
+                  T½ of THC and its metabolites are difficult to establish since values provided in
+                  the literature are not consistent [Verstraete 2004; Musshoff 2006; Baselt 2017].
+                  Values indicated here are therefore estimates: THC: 20-36 h, 11-OH-THC: 12-
+                  36 h, THC-COOH: 25-55 h. For regular users, T½ up to 13 days have been
+                  reported for both THC and THC-COOH.
+
+Detectability:      THC-COOH is the primary urinary marker for the detection of cannabis
+                    consumption. This is the target analyte of urine screening immunoassays.
+                    Detectability is highly variable:
+                       - single administration (smoking): 30 h on average, up to 4 days;
+                       - single administration (oral intake): up to 6 days;
+                       - occasional use (once or twice a week): up to 30 days;
+                       - regular consumption: up to 3 months.
+                    In blood, THC-COOH is detectable 12 to 48 h for occasional users and up to 1
+                    month for chronic users. The long detection window of THC-COOH can
+                    primarily be attributed to multi-compartment kinetics, multi-phase distribution,
+                    and multi-phase elimination, as well as the high affinity of THC compounds for
+                    adipose tissue.
+                    THC and 11-OH-THC should be used as target analytes, instead of THC-
+                    COOH, to detect recent cannabis consumption [Manno 2001; Brenneisen
+                    2010]. The detection window of 11-OH-THC is shorter than that of THC, except
+                    in case of oral intake.
+
+
+                                           Page 29 of 55
+                   Detectability of THC for casual consumption [Niedbala 2001]:
+                            - in blood: 3 to 12 h;
+                            - in oral fluid: 8 to 16 h.
+                   Chronic users exhibit longer detection windows [Karschner 2009]: in blood, THC
+                   up to 12 days and 11-OH-THC up to 3 days.
+
+12.3     Cocaine
+Pharmacokinetics: The main metabolites of cocaine are benzoylecgonine and ecgonine methyl
+                  ester (methylecgonine). They are formed by enzymatic (pseudo-cholinesterase)
+                  or spontaneous hydrolysis. Anhydroecgonine methylester is a specific marker
+                  for “crack” consumption, while cocaethylene is detectable after the
+                  simultaneous consumption of alcohol.
+                  T½: cocaine: 0.5-1.5 h (up to 4h in chronic users); benzoylecgonine: 3.5-8 h;
+                  ecgoninemethylester: 3.5-6 h.
+
+Detectability:    In urine:
+                       - cocaine: up to 12 h (single administration);
+                       - benzoylecgonine: 1 to 3 days (single administration), up to 3 weeks (chronic
+                         user);
+                       - ecgonine methyl ester: 24 to 48 h (single administration).
+                    In blood:
+                       - cocaine: 4 to 12 h (single administration);
+                       - benzoylecgonine: 1 to 2 days (single administration), up to 8 days (chronic
+                         user).
+                    In oral fluid:
+                       - cocaine: 5 to 12 h (single administration);
+                       - benzoylecgonine: 12 to 24 h (single administration), up to 10 days (chronic
+                       user).
+                       [Verstraete 2004; Baselt 2017]
+
+12.4     Opiates
+Pharmacokinetics: Diacetylmorphine (heroin) is metabolized by esterases into 6-acetylmorphine
+                  (6-MAM) then into morphine. Morphine is primarily excreted as 3-O- and 6-O-
+                  glucuronide. A minor pathway leads to the production of normorphine and
+                  hydromorphone.
+                  Codeine is metabolized into morphine via the CYP2D6 pathway. The rate of
+                  morphine production from codeine is therefore influenced by the CYP2D6
+                  genotype. Two other important metabolic pathways are the formation of
+                  norcodeine (CYP3A4) and glucuronoconjugation to form codeine-6-
+                  glucuronide. A minor pathway leads to the production of hydrocodone, which,
+                  in turn is transformed in norhydrocodone, hydromorphone, and dihydrocodeine
+                  [Cervinski 2019].
+                  T½: heroin: 2-7 min; 6-acetylmorphine: 6-25 min; morphine: 2-3 h; codeine: 1.5-
+                  3.5 h.
+
+Detectability:     In urine:
+                      - 6-acetylmorphine: 2 to 4.5 h (single administration), up to 35 h (chronic
+                        user);
+                      - Morphine: 10 to 55 h (single administration), up to 11 days (chronic user);
+                      - codeine: up to 30h (single codeine administration).
+                   In blood:
+                      - heroin: < 10 min (single administration);
+                      - 6-acetylmorphine: 1 to 2 h (single administration);
+                      - morphine: 12 to 24 h (single administration), up to 5 days (chronic user);
+                      - codeine: 6 to 16h (single administration).
+
+
+
+                                           Page 30 of 55
+                         In oral fluid:
+                             - 6-acetylmorphine: < 1 hour (single administration)
+                             - Morphine: 12 to 24 h (single administration)
+                                     [Verstraete 2004; Baselt 2017)]
+                         Differentiation of opiates use: determining whether a subject has taken heroin
+                         or a prescription drug containing codeine is difficult since both compounds are
+                         metabolized to morphine. In addition, illicit heroin preparations contain as
+                         impurities codeine and acetylcodeine, which is deacetylated to produce
+                         codeine. Evidence of heroin use is thus only possible via the determination of
+                         the specific metabolite 6-acetylmorphine. However, since 6-acetylmorphine has
+                         a short half-life, its detection window in blood is narrow. In case of 6-
+                         acetylmorphine negative samples, authors have proposed to use the
+                         morphine/codeine ratio: a ratio M/C > 1 in plasma, serum or whole blood being
+                         indicative of heroin use [Ceder 2001]. Nevertheless, the metabolism of codeine
+                         into morphine is subject to a high inter-individual variability and
+                         morphine/codeine ratios must be interpreted with caution.
+                         Heroin-assisted treatment: the parallel consumption of street heroin can only
+                         reliably be confirmed by the detection of the specific marker 6-acetylcodeine,
+                         formed during preparation of heroin from raw opium [Staub 2001; Brenneisen
+                         2002]. The presence of alkaloids from Papaver somniferum, such as thebaine,
+                         noscapine, and papaverine, suggests the use of illicit heroin but cannot be
+                         considered as a conclusive proof [Trafkowski 2006].
+
+    Figure 3: Metabolism of diacetylmorphine (heroin)
+
+
+
+
+       3,6-Diacetylmorphine (Heroin)                  6-Acetylmorphine                 Codeine
+
+                                                                                          X
+                                                                         X
+
+
+                                       Glucuronide
+                                        Glucuronid
+
+
+
+
+ Glucuronid
+Glucuronide
+
+
+      Morphine-6-O-Glucuronide                Morphine-3-O-Glucuronide                 Morphine
+
+
+
+
+                                                     Page 31 of 55
+12.5     Methadone
+Pharmacokinetics: Methadone is metabolized by mono-, di-N-demethylation and subsequent
+                  spontaneous cyclization into 2-ethylidene-1,5-dimethyl-3,3-diphenylpyrrolidine
+                  (EDDP), and 2-ethyl-5-methyl-3,3-diphenylpyrroline (EMDP) followed by
+                  glucuronidation. The main metabolite is EDDP [Baselt 2017].
+                  T½: methadone: 15-55 h.
+
+Detectability:      In urine:
+                       - Methadone: 1.5 to 3 days,
+                       - EDDP: 3 to 4 days.
+                    The additional determination of EDDP is recommended for compliance testing
+                    as the metabolism of methadone may be strongly accelerated by interaction
+                    with co-medications as well as in case of fast metabolizers. This also enables
+                    to detect urine adulteration by addition of methadone:
+                       - methadone and EDDP negative: no methadone consumption,
+                       - methadone and EDDP positive: methadone consumption,
+                       - methadone negative, EDDP positive: methadone consumption (fast
+                         metabolizer, interaction with co-medication),
+                       - methadone positive, EDDP negative: spiked urine.
+
+12.6     Oxycodone
+Pharmacokinetics: The main metabolization pathway of oxycodone is N-demethylation to form
+                  noroxycodone. There is also, to a lesser extent, formation of oxymorphone via
+                  O-demethylation. Both metabolites are then transformed into noroxymorphone.
+                  Only 10% of the dose is excreted unchanged in urine
+                  T½: oxycodone: 3.2-5.6 h (immediate-release formulations), 4.5-8 h (controlled-
+                  release formulations); noroxycodone: 5.8 h; oxymorphone: 8.8 h;
+                  noroxymorphone: 9 h [Cone 2015].
+
+Detectability:      In urine (single administration) [Cone 2013]:
+                        - oxycodone: 24 to 36 h,
+                        - noroxycodone: 32 to 52 h,
+                        - oxymorphone: up to 28 h,
+                      - noroxymorphone: up 36 h.
+                    In blood (single administration):
+                        - oxycodone: 12 to 14 h,
+                        - noroxycodone: 10 to 32 h.
+                    In oral fluid (single administration) [Cone 2015]:
+                        - oxycodone: 14 to 36 h,
+                        - noroxycodone: 8 to 24 h.
+
+12.7     Fentanyl, fentanyl analogs, and other synthetic opioids
+Pharmacokinetics: The main route of metabolism of fentanyl is N-dealkylation into norfentanyl, an
+                  inactive metabolite. Other minor pathways account for less than 1% of the
+                  metabolic process. Less than 10% of the dose is excreted unchanged in urine
+                  or feces.
+                  There are more than 30 fentanyl analogs. Sufentanyl (Sufenta®), alfentanyl
+                  (Rapifen®), and remifentanil (Ultiva®) are used clinically. The others are illicit
+                  drugs. All these substances are characterized by their high potency
+                  (carfentanyl: 10’000 times the potency of morphine). Sufentanyl main
+                  metabolites are N-desalkylsufentanyl and O-desmethylfentanyl. About 80% of
+                  a dose is excreted in urine in 24h with only 2% as unchanged drug. Carfentanyl
+                  is primarily metabolized by N-dealkylation and monohydroxylation of the
+                  piperidine ring.
+
+
+
+                                           Page 32 of 55
+                    U-47700 is a non-fentanyl-based synthetic opioid. It is mainly metabolized into
+                    N-desmethyl-U-47700 and N,N-didesmethyl-U-47700.
+                    T½: fentanyl (highly variable depending on the administration route): IV: 2-4 h;
+                    transdermal: 13-22 h; nasal spray: 15-25 h, oral: 3-36 h (single dose), 11-45 h
+                    (multiple dose); sufentanyl: IV: 2.7 h, sublingual 7-12 h; carfentanyl: 5.7 h,
+                    norcarfentanyl: 11.8 h.
+                    [Baselt 2017; Krotulski 2018; Jannetto 2019]
+
+Detectability:      In urine (single administration) [Silverstein 1993]:
+                       - fentanyl: 12 to 48 h;
+                       - norfentanyl: 2 to 4 days.
+
+12.8     Benzodiazepines
+Note:               Beside established prescribed benzodiazepines, a number of new
+                    benzodiazepines have appeared in Europe in the recent years. They are sold
+                    on the internet or on the illicit drug market as replacements for prescribed drugs
+                    or as fake versions of licit drugs. The most frequently seized molecules in
+                    Europe in 2017 were etizolam, clonazolam, norfludiazepam, diclazepam,
+                    phenazepam [EMCDDA - EU Drug Markets Report 2019].
+
+Pharmacokinetics: Metabolic pathways of benzodiazepines vary depending on the molecule
+                  structure. Chlordiazepoxide (Librax®, Limbitrol®, Libricol®), clorazepate
+                  (Tranxilium®), diazepam (Valium®), ketazolam (Solatran®), prazepam
+                  (Demetrin®), temazepam (Normisom®) are metabolized to nordiazepam and/or
+                  oxazepam (Anxiolit®, Seresta®) by desalkylation, oxydation, and hydroxylation.
+                  Metabolites are eliminated via the kidneys, mainly as glucuronides.
+                  Clonazepam (Rivotril®), flunitrazepam (Rohypnol®), nitrazepam (Mogadon®)
+                  are metabolized by reduction to 7-amino derivatives, N-acetylation, N-
+                  demethylation, 3-hydroxylation and glucuronidation.
+                  Bromazepam (Lexotanil®) is metabolized by 3-hydroxylation and cleavage of
+                  the 7-membered ring followed by hydroxylation. Both hydroxylated metabolites
+                  are conjugated to glucuronic acid.
+                  Clobazam (Urbanyl®) is primarily metabolized to desmethylclobazam by N-
+                  demethylation.
+                  Alprazolam (Xanax®) and triazolam (Halcion®) are metabolized by 1- and 4-
+                  hydroxylation and conjugation. Alprazolam also leads to the formation of benzo-
+                  phenones by ring cleavage.
+                  Flurazepam (Dalmadorm®) is metabolized by oxidation, N-deethylation, and
+                  conjugation. The main urinary metabolite is conjugated N-1-
+                  hydroxyethylflurazepam.
+                  Midazolam (Dormicum®, Buccocalm®) is mainly metabolized by CYP450 to 1-
+                  hydroxymidazolam.
+                  Lorazepam (Temesta®, Sedazin®, Somnium®) and lormetazepam
+                  (Noctamid®, Loramet®) are primarily metabolized by glucurono-conjugation.
+                  Etizolam is extensively metabolized by hydroxylation at the α- and 1’- positions.
+                  α-OH and 1’-OH metabolites are then conjugated.
+                  T½: 1-30 h (triazolam), 8-20 h (bromazepam), 10-30 h (flunitrazepam), 20-40 h
+                  (diazepam), 40-100 h (nordiazepam).
+
+Detectability:      Days to months (after long-term consumption).
+
+
+
+
+                                            Page 33 of 55
+Figure 4:   Metabolism of 1,4-Benzodiazepines
+
+
+
+
+    Medazepam                 Diazepam                 Temazepam
+
+
+
+
+                                                                        Glucuronide
+
+
+
+
+   Demoxazepam                Nordiazepam               Oxazepam
+
+
+
+
+                                                                        Glucuronide
+
+
+
+
+  Chlordiazepoxide             Prazepam             3-Hydroxyprazepam
+
+
+
+
+                                    Page 34 of 55
+Figure 5:      Metabolism of 7-Nitrobenzodiazepines
+
+
+                   R1
+
+
+
+
+   O2N                                       O2N
+
+                           R2
+
+
+
+
+   Flunitrazepam        R1 = CH3 R2 = F      N-Demethylflunitrazepam
+   Nitrazepam                H        H
+   Clonazepam                H        Cl
+
+                   R1                                      R1
+
+
+
+                                                                                     Glucuronides
+            
+
+
+
+
+                                                    
+                           R2                                         R2
+
+
+
+   N-Acetyl-                                 N-Acetyl-3-hydroxy-  
+            
+
+
+
+
+   7-Amino-                                  7-Amino-3-hydroxy-
+
+
+
+
+   Nitrazepam                                                                         Glucuronide
+                         O2N                                    O2N
+
+
+
+
+                    2-Amino-5- nitrobenzophenone      3-Hydroxy-2-amino-5-nitrobenzophenone
+
+
+
+
+                                           Page 35 of 55
+  Figure 6:        Metabolism of Triazolobenzodiazepines
+
+
+              R1                                        R1
+                         R3                                      R3
+
+                              Hydroxylierung
+
+
+
+                        R2                                       R2
+
+
+
+
+        Alprazolam            R1 : CH3      R2 :   H         R3 : N
+        Brotizolam                : CH3        :   Cl           : N
+        Midazolam                 : CH3        :   F            : CH
+        Triazolam                 : CH3        :   Cl           : N
+
+
+
+
+12.9     Gamma-Hydroxybutyrate (GHB)
+Pharmacokinetics: GHB is almost completely metabolized to succinate by the alcohol
+                  dehydrogenase pathway. Less than 2% of a GHB dose is excreted unchanged
+                  in urine [Baselt 2017].
+                  Gamma-butyrolactone (GBL) and 1,4-butanediol (BD) are substances rapidly
+                  metabolized to GHB after oral ingestion. The psychoactive effects of GBL and
+                  BD are based on their transformation into GHB. Gamma-valerolactone (GVL) is
+                  metabolized into gamma-hydroxy-valeric acid (GHV, 4-methyl-GHB).
+                  T½: GHB 20-60 min.
+
+Detectability:          In urine:
+                            - 6 to 12h
+                            note: endogenous GHB concentrations found in urine from healthy subjects
+                            ranged from 0.1 to 6.6 mg/l.
+                          In blood:
+                            - up to 6 h
+                          In oral fluid:
+                            - up to 6 h
+                          [Brenneisen 2004; Haller 2006; Baselt 2017]
+
+12.10 Pregabalin
+Pharmacokinetics: Pregabalin is predominantly excreted unchanged in urine (90% of the dose).
+                  The main metabolite, N-methylpregabalin account for less than 1 % of the dose
+                  [Baselt 2017].
+                  T½: pregabalin 4.6-6.8 h [Bockbrader 2010].
+
+Detectability:          In urine (single administration) [Spigset 2013]:
+                           - pregabalin: 2.5-4 days;
+                        In blood (single administration) [Bockbrader 2010]:
+                           - pregabalin: 36-48 h;
+
+
+
+
+                                               Page 36 of 55
+12.11 Ketamine
+Pharmacokinetics: Ketamine is metabolized in the liver into norketamine via N-demethylation,
+                  followed by subsequent hydroxylation to dehydronorketamine and conjugation.
+                  Norketamine is an active metabolite with one third of the anesthetic potency of
+                  ketamine.
+                  T½: ketamine 2-4 h (IV) [Dinis-Oliveira 2017].
+
+Detectability: In urine (single administration) [Adamowicz 2005]:
+                          - ketamine: 1 to 4 days;
+                          - norketamine: 1 to 5 days.
+
+12.12 Lysergic Acid Diethylamide (LSD)
+Pharmacokinetics: N-dealkylation, hydroxylation and glucuronidation are the main LSD metabolic
+                  pathways. The predominant metabolite in urine is 2-oxo-3-hydroxy-LSD.
+                  Additional metabolites are nor-LSD, lysergic acid ethylamide, trioxylated-LSD,
+                  lysergic acid ethyl-2-hydroxyethylamide, and 13-/14-hydroxy-LSD as well as
+                  their glucuronides [Canezin 2001].
+                  T½ LSD: 2.2-3.4 h [Dolder 2017].
+
+Detectability:         In urine (single administration) [Verstraete 2004]:
+                          - LSD: 24 to 36 h;
+                          - 2-oxo-3-hydroxy-LSD: up to 96 h.
+                       In blood (single administration) [Passie 2008; Dolder 2016]:
+                          - LSD: 6 to 16 h.
+
+ Figure 7:       Metabolism of Lysergic Acid Diethylamide (LSD)
+
+
+
+
+           N-Desmethyl-LSD               Lysergic acid diethylamide             Hydroxy-LSD
+                                                    LSD
+
+
+
+
+                                                                                Glucuronides
+
+
+
+
+        2-Oxo-3-hydroxy-LSD                   2-Oxo-LSD
+
+                                             Page 37 of 55
+12.13 Psilocybin
+Metabolism:        Psilocybin is an alkaloid occurring in many Psilocybe species, such as P.
+                   mexicana, P. cubensis, and P. semilanceata (“Magic Mushrooms”). It is a
+                   phosphate derivative of N,N-dimethyltryptamine (DMT) [Hofmann 1959].
+                   Psilocybin acts as a prodrug and is rapidly converted by intestinal esterases to
+                   psilocin, which is the pharmacologically active substance. Psilocin is then
+                   metabolized into an inactive metabolite, 4-hydroxyindol-3-yl-acetic acid (HIAA).
+                   HIAA is the dominant urinary metabolite. Psilocin also undergoes glucurono-
+                   conjugation. Within 24 h, only 3% of the dose is excreted as free psilocin.
+                   T½: psilocin: 1.8- 4.5 h, HIAA: 1-4 h [Hasler 1997]
+
+Detectability:     In urine (single administration) [Hasler 2002]:
+                      - psilocin: 24 h
+                   In blood (single administration) [Hasler 1997]:
+                      - psilocin: 7 h.
+
+12.14 Amphetamine
+Pharmacokinetics: Amphetamine is metabolized by several oxidative pathways leading to various
+                  metabolites (phenylacetone, benzoic acid, hippuric acid, norephedrine, p-
+                  hydroxynorephedrine, p-hydroxyamphetamine) followed by conjugation.
+                  Metabolites are primarily excreted in urine. Rates of metabolism and excretion
+                  depends on urine pH: 30-40% of the ingested amphetamine is excreted
+                  unchanged at normal urine pH, but an acidic pH increases excretion (up to 78%
+                  / 24 h, 68% unchanged) while an alkaline pH lowers excretion (45% /24 h, 2%
+                  unchanged).
+                  T½: 7-14 h [Baselt 2017].
+
+Detectability:     In urine:
+                       - amphetamine: 1 to 3 days (single administration); up to 9 days (chronic
+                         users).
+                   In blood:
+                       - amphetamine: 48 h.
+                   In oral Fluid:
+                       - amphetamine: 20 to 50 h (single administration); up to 6 days (chronic
+                         users)
+                     [Verstraete 2004; Andås 2016]
+
+                   Several prescription drugs, most of which are now prohibited in Europe, are
+                   metabolized to amphetamine and may positive detection assays [Cody 2002]:
+                   amphetaminil (brand name Aponeuron), benzphetamine (brand name Didrex),
+                   clobenzorex (brand names Asenlix, Dinintel, Finedal), dimethylamphetamine
+                   (brand name Metrotonin), Lisprodexamphetamine, d-amphetamine (brand
+                   name Elvanse), ethylamphetamine (brand names Apetinil, Adiparthrol),
+                   famprofazone (brand names Gewodin, Gewolen), fenethylline (brand names
+                   Captagon, Biocapton, Fitton), Fenproporex (brand name Perphoxene),
+                   Furfenorex (brand name Frugalan), mefenorex (brand names Pondinil,
+                   Rondimen), prenylamine (brand name Segontin), selegiline (brand names
+                   Selegiline Mylan, Deprenyl).
+
+
+
+
+                                          Page 38 of 55
+ Figure 8:       Metabolism of Amphetamine
+
+             OH
+                                                               H
+                     NH 2                                      N
+                                                                   OH            Glucuronides,
+                                                                                    sulfates
+                  CH 3                                    CH 3
+
+     Norephedrine                             N-Hydroxyamphetamine
+
+
+
+
+                     NH 2                                      NH 2
+                                                                                 Glucuronides,
+                  CH 3                                    CH 3                      sulfates
+                                        HO
+     Amphetamine                             4-Hydroxyamphetamine
+
+
+
+
+                                                      O                           O
+                     O                                                                              O
+                                                          OH                          N
+                                                                                      H
+                  CH 3                                                                         OH
+
+    Phenyl-2-propanone                          Benzoic acid                   Hippuric acid
+
+
+
+
+12.15 Methamphetamine
+Pharmacokinetics: Methamphetamine is N-demethylated into amphetamine, the major active
+                  metabolite. Under normal urine pH conditions, up to 43% of methamphetamine
+                  is excreted unchanged within 24 h and 4-7% as amphetamine. In acidic urine,
+                  up to 76% are excreted unchanged within 24 h and 7% as amphetamine. In
+                  basic urine, 2% of methamphetamine is excreted unchanged within 24 h and <
+                  0.1% as amphetamine. Other metabolites are p-hydroxymethamphetamine
+                  (free or conjugated), accounting for about 15%, and metabolites of
+                  amphetamine in minor amounts [Baselt 2017].
+                  T½ methamphetamine: 10-33 h [Baselt 2017].
+
+Detectability:           In urine:
+                            - methamphetamine ± amphetamine: 1 to 4 days (single administration), up
+                              to 5 days (chronic users);
+                         In blood:
+                            - methamphetamine: 48 h (single administration);
+                         In oral Fluid:
+                            - methamphetamine: 24 h (single administration), 36 to 72 h (repeated
+                              administration), up to 8 days (chronic users).
+                            [Verstraete 2004; Andås 2016]
+
+                         Several prescription drugs, most of which are now prohibited in Europe, are
+                         metabolized to methamphetamine and may positive detection assays [Cody
+                         2002]: benzphetamine (brand name Didrex), dimethylamphetamine (brand
+                         name Metrotonin), famprofazone (brand names Gewodin, Gewolen), fencamine
+                         (brand names Altimina, Sicoclor) Furfenorex (brand name Frugalan), selegiline
+                         (commercialized in France, brand name Selegiline Mylan, Deprenyl).
+
+
+                                               Page 39 of 55
+12.16 Methylenedioxymethamphetamine (Ecstasy)
+Pharmacokinetics: Metabolization of 3,4-methylenedioxymethamphetamine (MDMA) involves N-
+                  demethylation to form 3,4-methylenedioxyamphetamine (MDA) and oxidative
+                  ring cleavage to form hydroxylated metabolites, 4-hydroxy-3-methoxy-
+                  methamphetamine (HMMA), 4-hydroxy-3-methoxy-amphetamine (HMA), 3,4-
+                  dihydroxymethamphetamine, and 3,4-dihydroxyamphetamine, which are then
+                  conjugated with glucuronic acid [Baselt 2017]. MDA is pharmacology active.
+                  3,4-Methylenedioxyethylamphetamine (MDEA, “Eve”) is metabolized by ring
+                  cleavage, conjugation, N-deethylation and deamination.
+                  T½: MDMA: 7-8 h, MDA: 11-16 h, HMMA: 10-12 h
+
+Detectability:      In urine (single administration) [Schwaninger 2011]:
+                       - MDMA: 1 to 5 days,
+                       - MDA: 1 to 3 days
+                       - HMMA: 1 to 4 days
+                      In blood (single administration):
+                       - MDMA: 48 h
+                       - MDA: 24 h
+                      In oral fluid (single administration) [Barnes 2011]:
+                       - MDMA: 1 to 3 days
+                       - MDA: 1 to 2 days
+
+Figure 9: Metabolism of 3,4 Methylenedioxymethamphetamine
+
+
+
+
+  3,4-Methylendioxymethylamphetamine     4-Hydroxy-3-methoxymethamphetamine 3,4-Dihydroxymethamphetamin
+                 MDMA                                   HMMA                            HHMA
+
+
+
+                                                                  Glucuronides, Sulfates
+
+
+
+
+     3,4-Methylendioxyamphetamine       4-Hydroxy-3-methoxyamphetamine            3,4-Dihydroxyamphetamine
+                 MDA                                 HMA                                     HHA
+
+
+
+12.17 Methylphenidate and ethylphenidate
+Pharmacokinetics: Methylphenidate (Ritalin) is rapidly metabolized to ritalinic acid, an inactive
+                  metabolite. Other metabolites are formed by hydroxylation, methylation,
+                  oxidation, and conjugation. Ethylphenidate can be detected in small amounts
+                  after co-consumption of ethanol. 80% of a methylphenidate dose is excreted
+                  within 24 h, 60-81% as ritalinic acid and 5-12% as 6-oxo-ritalinic acid. Less than
+                  1% is excreted unchanged; however, the percentage can be higher at acidic
+                  urine pH [Baselt 2017].
+
+
+
+
+                                           Page 40 of 55
+                    Ethylphenidate is a close analog of methylphenidate sold on the recreational
+                    drug market for its stimulant effects. Ritalinic acid and methylphenidate were
+                    identified in vitro as the main metabolites of ethylphenidate [Negreira 2016].
+                    T½: methylphenidate 2.1-3.5 h (normal release), 3.8-5.7 h (extended release),
+                    3-5 h (transdermal system); ritalinic acid: 4 h (normal release).
+
+Detectability:      In urine, methylphenidate and ritalinic acid: at least 24 h (20 mg oral therapeutic
+                    dose) [Solans 1994].
+
+
+12.18 New Psychoactive substances
+New psychoactive substances represent a vast group of chemical compounds, which appeared in
+recent years on the recreational drug market as legal replacements of traditional controlled drugs.
+Since 2008, the NPS market has been characterized by an unprecedented rate of appearance of
+new substances with several dozens of new molecules identified each year [EMCDDA - EU Drug
+Markets Report 2019]. The NPS market is characterized by its high dynamic and constant changes
+with a rapid turnover of substances. Accordingly, only a few compounds remain on the market for
+several years. The first consequence is that, for most NPS, no or very limited data are available on
+pharmacokinetic properties and detectability. The second consequence is that detection of these
+substances and/or their metabolites represent an analytical challenge for clinical laboratories. The
+main categories of NPS are presented below with examples of typical substances, keeping in mind
+the impossibility of providing an accurate and comprehensive picture of the actual market in a given
+place. It should be noted that examples of some NPS categories (synthetic opioids, benzodiazepines
+and ethylphenidate) have been presented in specific sections above.
+
+12.18.1 Synthetic cathinones
+Note:               Synthetic cathinones are structural analogs of cathinone, one of the main
+                    psychoactive substances of khat (Catha edulis). More than 130 different
+                    molecules have been described and new ones are regularly appearing on the
+                    market. Substances most commonly seized in Europe in 2017 were N-
+                    ethylhexedrone, 4-CMC/clephedrone, 4-CEC, 3-CMC, 3-CEC, ephylone,
+                    dibutylone/bk-MMBDB [EMCDDA - EU Drug Markets Report 2019]. Only some
+                    examples of synthetic cathinones are presented below.
+
+Pharmacokinetics: Mephedrone (4-methylmethcathinone) is metabolized by demethylation,
+                  reduction, hydroxylation, and conjugation of the hydroxylated metabolites. The
+                  parent drug, as well as normephedrone, hydroxynormephedrone, 4-
+                  hydroxymethylmephedrone and 4-hydroxymethylnormephedrone are detected
+                  in urine [Baselt 2017].
+                  3-MMC (3-methylmethcathinone) is structurally related to mephedrone. Its
+                  metabolism is not fully elucidated but 3-methylephedrine and 3-
+                  methylnorephedrine have been identified as probable metabolites [Ferreira
+                  2019].
+                  Methcathinone is metabolized into ephedrine and pseudoephedrine [Paul
+                  2001].
+                  Methylone (3,4-methylenedioxy-N-methylcathinone) is metabolized into 3,4-
+                  methylenedioxycathinone, 4-hydroxy-3-methoxymethcathinone, and 3-
+                  hydroxy-4-methoxymethcathinone. The parent drug and the metabolites are
+                  found in urine as free compounds and conjugates [Baselt 2017].
+                  4-MEC (4-methylethcathinone) is metabolized by N-deethylation, reduction,
+                  hydroxylation, and conjugation. The parent drug and various metabolites,
+                  including nor-4-MEC, are detected in urine [Helfer 2015].
+                  α-PVP (α-pyrrolidinovalerophenone) has a complex metabolism, which involves
+                  several oxidation pathways. Main urinary excretion products include α-PVP, 2’-
+                  oxo-PVP (α-PVP lactam), 1-hydroxy-N,N-bis-dealkyl-α-PVP, and 1-hydroxy-
+                  PVP [Nóbrega 2018].
+
+
+                                           Page 41 of 55
+                       MDPV (3,4-methylenedioxypyrovalerone) is metabolized by demethylenation,
+                       oxidation of the pyrrolidine ring, and aromatic and side-chain hydroxylation.
+                       Metabolites are sulfated or glucuronated and subsequently excreted in urine. 4-
+                       hydroxy-3-methoxypyrovalerone is the major metabolite found in urine
+                       [Baumann 2017].
+                       T½: mephedrone: 2.2 h; α-PVP: 4.3 h
+
+Detectability:         In urine (single administration) [Olesti 2017]:
+                          - mephedrone: 12 - 48 h
+                       In blood (single administration):
+                          - mephedrone: 8 -18 h
+
+Figure 10: Metabolism of cathinone, methcathinone and mephedrone
+
+
+
+
+             S-(-)-Cathinone                R,S-(-)-Norephedrine         R,R-(-)-Norpseudoephedrine
+
+
+
+
+                 Methcathinone                     Ephedrine                   Norephedrine
+
+
+
+
+                 Mephedrone                   Normephedrone              b-Hydroxynormephedrone
+
+
+
+
+                                                                               Conjugates
+
+
+    4 -Hydroxymethylmephedrone 4 -Hydroxymethylnormephedrone
+
+
+
+12.18.2 Synthetic cannabinoids
+Note:                  Synthetic cannabinoids are cannabinoid receptor agonists mimicking the effect
+                       of natural cannabis. They are usually sprayed or mixed with herbal products to
+                       be smoked as a joint but may also be available as a powder. More than 190
+                       different molecules have currently been described and new ones are regularly
+                       appearing on the market. Substances most commonly found on the European
+                       market in 2017 were 5F-MDMB-PINACA/5F-ADB, MDMB-CHMICA, AMB-
+                       FUBINACA, AB-CHMINACA, ADB-FUBINACA, CUMYL-PeGACLONE,
+                       CUMYL-4CN-BINACA, and JWH-018 [EMCDDA - EU Drug Markets Report
+                       2019].
+
+
+                                               Page 42 of 55
+Pharmacokinetics: Synthetic cannabinoids often undergo extensive biotransformation processes
+                  producing numerous metabolites (≥ 13 metabolites for JWH-018, ≥ 15 for AB-
+                  CHMINACA or MDMB-CHMICA).
+                  T½: A wide range of elimination half-lives has been observed for these
+                  compounds ranging from a few hours to several weeks in chronic users [Baselt
+                  2017].
+
+Detectability:      With a few exceptions, data on detectability of synthetic cannabinoids in human
+                    body fluids are scarce. It is noteworthy that very long detection windows over
+                    several months have been described for some synthetic cannabinoids
+                    metabolites in case of extensive consumption [Franz 2020].
+                    In urine:
+                       - JWH-018 pentanoic acid: up to 4 weeks (single administration) [Toennes
+                         2018],
+                       - JWH-018-COOH: up to 6 weeks [Hegstad 2015]
+                    In blood:
+                       - JWH-018: up to 4 weeks (single administration) [Toennes 2017]
+                    In oral fluid:
+                       - JWH-018: < 12h (single administration) [Toennes 2018]
+
+12.18.3 Piperazines
+Pharmacokinetics: N-Benzylpiperazine (BZP) is mainly metabolized by hydroxylation, N-
+                  desalkylation, O-methylation, and conjugation [Baselt 2017]. In 24h urines,
+                  unchanged BZP accounts for about 6% of the dose while two metabolites, 3’-
+                  hydroxy-BZP and 4’-hydroxy-BZP, are detected as free compounds (0.1%) and
+                  O-sulfate and N-sulfate conjugates (about 10%) [Antia 2009]. A number of other
+                  piperazine derivatives have been synthetized such as 1-(3-trifluoromethyl-
+                  phenyl)-piperazine (TFMPP), 1-(3-chlorophenyl)-piperazine (mCPP), para-
+                  methoxyphenylpiperazine (MeOPP), and 1-(3,4-methylenedioxybenzyl)-
+                  piperazine (MDBZP). TFMPP is metabolized by hydroxylation, cleavage of the
+                  piperazine ring and conjugation. The main urinary metabolite is 4-hydroxy-
+                  TFMPP [Staack 2003; Antia 2010]. mCPP is the metabolite of the
+                  antidepressant drug trazodone (Trittico®).
+                  T½: BZP: 4.3-5.5 h; TFMPP: 2-6 h, 4-hydroxy-TFMPP: 6.6 h; mCPP: 4.3 h
+
+Detectability:      In blood (single administration):
+                       - BZP, 3’-hydroxy-BZP, and 4’-hydroxy-BZP: 24 h [Antia 2009].
+                       - TFMPP: 24h, 4-hydroxy-TFMPP: 8 h [Antia 2010].
+
+12.18.4 Other NPS
+Phenylethylamines:
+                 Phenylethylamines family encompasses a range of substances that share a
+                 common basic structure corresponding to an amino-group being attached to a
+                 benzene ring through a two-carbon, or ethyl group. Depending on chemical
+                 substitutions, phenylethylamines have stimulant, entactogen or psychedelic
+                 effects [King 2014, Tyrkkö 2016]. In addition, even small changes in the
+                 chemical structure may lead to great variations in potency. Examples of
+                 hallucinogenic phenylethylamines are compounds from the 2-Cx series (2C-B,
+                 2C-E, 2C-I, etc.), the Dox series (DOB, DOC, DOI, etc.), the 25x-NBOMe series
+                 (25B-NBOMe, 25C-NBOMe, 25I-NBOMe, etc.), and Bromo-DragonFLY. 4-
+                 fluoromethamphetamine (4-FA), para-methoxymethamphetamine (PMMA), 4-
+                 methylthioamphetamine (4-MTA) are structural analogs of amphetamine and
+                 methamphetamine with stimulant properties. Substances such as 6-(2-
+                 aminopropyl)benzofuran (6-APB, benzofury) and 5-(2-Aminopropyl)indole (5-
+                 API, 5-IT) are phenylethylamines with empathogenic effects.
+
+
+
+                                          Page 43 of 55
+Arylcyclohexylamines:
+                 These compounds are structural analogs of phencyclidine (PCP) and ketamine
+                 [Morris 2014]. They exert dissociative effects by, at least in part, antagonism of
+                 the NMDA receptor. Examples of this category of NPS are 3-MeO-PCP, 3-MeO-
+                 PCPr, and Methoxetamine (MXE).
+Tryptamines:
+                 Substituted tryptamines are psychedelic substances structurally related to
+                 psilocybin. This group of NPS contains compounds such as dimethyltryptamine
+                 (DMT), alpha-methyltryptamine (AMT), 5-MeO-DMT, and 5-MeO-DALT
+Aminoindanes:
+                 Aminoindanes have entactogenic and empathogenic effects similar to MDMA.
+                 This group contains substances such as 5,6-methylenedioxy-2-aminoindane
+                 (MDAI) and 2-aminoindane (2-AI).
+Plant extracts:
+                 Extracts or parts of tropical plants have recently gained popularity thanks to their
+                 psychoactive properties and have hence been classified as NPS. Kratom
+                 (Mitragyna speciosa) is a tropical tree whose leaves (and sometimes other parts
+                 of the plant) are used for their narcotic effects. Various alcaloids including
+                 mitragynine, mitraphylline and 7-hydroxymitragynine are responsible for the
+                 pharmacologic properties. Seeds of the climbing vine Argyreia nervosa
+                 (hawaiian baby woodrose) contain ergoline alkaloids, such as ergine
+                 ergometrine, lysergic acid, that produce psychedelic effects. The beans of the
+                 tree Anadenanthera peregrine (yopo) are used for their hallucinogenic
+                 properties due to the presence of tryptamine-related compounds, particularly
+                 bufotenin, dimethyltryptamine and 5-MeO-DMT.
+
+
+
+
+                                           Page 44 of 55
+13.     Literature
+
+13.1    Originals
+Adamowicz P., Kala M. Urinary excretion rates of ketamine and norketamine following therapeutic
+ketamine administration: method and detection window considerations. J Anal Toxicol. 2005; 29:
+376-382.
+
+Andås H.T., Enger A., Øiestad Å.M., Vindenes V., Christophersen A.S., Huestis M.A., Øiestad E.L.
+Extended Detection of Amphetamine and Methamphetamine in Oral Fluid. Ther Drug Monit. 2016;
+38: 114-119.
+
+Angulo Aguilar A., Bamert L., Sporkert F., Bertholet N. New biomarkers of alcohol use. Rev Med
+Suisse. 2019; 15: 1173-1176.
+
+Antia U., Lee H.S., Kydd R.R., Tingle M.D., Russell B.R. Pharmacokinetics of 'party pill' drug N-
+benzylpiperazine (BZP) in healthy human participants. Forensic Sci. Int. 2009; 186: 63-67.
+
+Antia U., Tingle M.D., Russell .BR. Validation of an LC-MS method for the detection and
+quantification of BZP and TFMPP and their hydroxylated metabolites in human plasma and its
+application to the pharmacokinetic study of TFMPP in humans. J Forensic Sci. 2010; 55: 1311-1318
+
+Barnes A.J., Scheidweiler K.B., Kolbrich-Spargo E.A., Gorelick D.A. Goodwin R.S., Huestis M.A.
+MDMA and metabolite disposition in expectorated oral fluid after controlled oral MDMA
+administration. Ther Drug Monit. 2011; 33: 602-608.
+
+Baumann M.H., Bukhari M.O., Lehner K.R., Anizan S., Rice K.C., Concheiro M., Huestis M.A.
+Neuropharmacology of 3,4-Methylenedioxypyrovalerone (MDPV), Its Metabolites, and Related
+Analogs. Curr Top Behav Neurosci. 2017; 32: 93-117.
+
+Brenneisen R., Hasler F., Würsch D. Acetylcodeine as a urinary marker to differentiate the use of
+street heroin and pharmaceutical heroin. J. Anal. Toxicol. 2002; 26: 561-6.
+
+Brenneisen R., Elsohly M.A., Murphy T.P., Passarelli J., Russmann S., Salamone S.J., Watson D.E.
+Pharmacokinetics and excretion of gamma-hydroxybutyrate (GHB) in healthy subjects J. Anal.
+Toxicol. 2004; 28: 625-630.
+
+Brenneisen R., Meyer P., Chtioui H., Saugy M., Kamber M. Plasma and urine profiles of delta-9-
+tetrahydrocannabinol (THC) and its metabolites 11-hydroxy-THC and 11-nor-9-carboxy-THC after
+cannabis smoking by healthy volunteers to estimate recent consumption of athletes. Anal. Bioanal.
+Chem. 2010; 396: 2493-2502.
+
+Bockbrader H.N., Radulovic L.L., Posvar E.L., Strand J.C., Alvey C.W., Busch J.A., Randinitis E.J.,
+Corrigan B.W., Haig G.M., Boyd R.A., Wesche D.L. Clinical pharmacokinetics of pregabalin in
+healthy volunteers. J Clin Pharmacol. 2010; 50 :941-50.
+
+Canezin J., Cailleux A., Turcant A., Le Bouil A., Harry P., Allain P. Determination of LSD and its
+metabolites in human biological fluids by high-performance liquid chromatography with electrospray
+tandem mass spectrometry. J. Chromatogr. B Biomed. Sci. Appl. 2001; 765: 15-27.
+
+Ceder G., Jones A.W. Concentration ratios of morphine to codeine in blood of impaired drivers as
+evidence of heroin use and not medication with codeine. Clin. Chem. 2001; 47: 1980-1984.
+
+Cervinski M.A., Jannetto P.J. A Question of Opioid Diversion or Compliance. Clin. Chem. 2019; 65:
+236–241.
+
+
+
+                                           Page 45 of 55
+Cody J.T. Precursor medications as a source of methamphetamine and/or amphetamine positive
+drug testing results. J Occup Environ Med. 2002; 44: 435-450.
+
+Cone E.J., Heltsley R., Black D.L., Mitchell J.M., Lodico C.P., Flegel R.R. Prescription opioids. I.
+Metabolism and excretion patterns of oxycodone in urine following controlled single dose
+administration. J Anal Toxicol. 2013; 37: 255-264.
+
+Cone E.J., DePriest A.Z., Heltsley R., Black D.L., Mitchell J.M., LoDico C., Flegel R. Prescription
+opioids. III. Disposition of oxycodone in oral fluid and blood following controlled single-dose
+administration. J Anal Toxicol. 2015; 39: 192-202.
+
+Dinis-Oliveira R.J. Metabolism and metabolomics of ketamine: a toxicological approach. Forensic
+Sci Res. 2017; 2: 2-10.
+
+Dolder P.C., Schmid Y., Haschke M., Rentsch K.M., Liechti M.E. Pharmacokinetics and
+Concentration-Effect Relationship of Oral LSD in Humans. Int J Neuropsychopharmacol. 2016; 1: 1-
+7.
+
+Dolder P.C., Schmid Y., Steuer A.E., Kraemer T., Rentsch K.M., Hammann F., Liechti M.E.
+Pharmacokinetics and Pharmacodynamics of Lysergic Acid Diethylamide in Healthy Subjects. Clin
+Pharmacokinet. 2017; 56: 1219-1230.
+
+Ferreira B, Dias da Silva D, Carvalho F, de Lourdes Bastos M, Carmo H. The novel psychoactive
+substance 3-methylmethcathinone (3-MMC or metaphedrone): A review. Forensic Sci Int. 2019; 295:
+54-63.
+
+Franz F, Haschimi B, King LA, Auwärter V. Extraordinary long detection window of a synthetic
+cannabinoid metabolite in human urine - Potential impact on therapeutic decisions. Drug Test Anal.
+2020, 12: 391-396.
+
+Gonzales E., Ng G., Pesce A., West C., West R., Mel Ch. Latyshev S., Almazan P., Stability of pain-
+related medications, metabolites, and illicit substances in urine. Clinica Chimica Acta 416 (2013) 80–
+85.
+
+Haller C., Thai D., Jacob P. 3rd, Dyer J.E. GHB urine concentrations after single-dose administration
+in humans. J Anal Toxicol. 2006; 30: 360-364.
+
+Hasler F., Bourquin D., Brenneisen R., Bär T., Vollenweider F.X. Determination of psilocin and 4-
+hydroxyindole-3-acetic acid in plasma by HPLC-ECD and pharmacokinetic profiles of oral and
+intravenous psilocybin in man. Pharm. Acta Helv. 1997; 72: 175-84.
+
+Hasler F., Bourquin D., Brenneisen R., Vollenweider F.X.. Renal excretion profiles of psilocin
+following oral administration of psilocybin: a controlled study in man. J. Pharm. Biomed. Anal. 2002;
+30: 331-39.
+
+Hegstad S., Westin A.A., Spigset O. Detection Times of Carboxylic Acid Metabolites of the Synthetic
+Cannabinoids JWH-018 and JWH-073 in Human Urine. J. Anal. Toxicol. 2015; 39: 280-286.
+
+Helfer A.G., Turcant A., Boels D., Ferec S., Lelièvre B., Welter J., Meyer M.R., Maurer H.H.
+Elucidation of the metabolites of the novel psychoactive substance 4-methyl-N-ethyl-cathinone (4-
+MEC) in human urine and pooled liver microsomes by GC-MS and LC-HR-MS/MS techniques and
+of its detectability by GC-MS or LC-MS(n) standard screening approaches. Drug Test Anal. 2015; 7:
+368-375.
+
+Hofmann A., Heim R., Brack A., Kobel H., Frey A., Ott H., Petrzilka T., Troxler F. Psilocybin und
+Psilocin, zwei psychotrope Wirkstoffe aus mexikanischen Rauschpilzen. Helv. Chim. Acta 1959; 42:
+1557-70.
+
+
+                                            Page 46 of 55
+Huestis M. Pharmacokinetics of THC in inhaled and oral preparations. In: Nahas G.G., Sutin K.,
+Harvey D., Agurell S. (eds.). Marihuana and Medicine. Humana Press, Totowa, NJ, 1999: 105-116.
+
+Iversen L.L. The Science of Marijuana. Oxford: Oxford University; 2000: 51.
+
+Jannetto P.J., Helander A., Garg U., Janis G.C., Goldberger B., Ketha H. The Fentanyl Epidemic
+and Evolution of Fentanyl Analogs in the United States and the European Union. Clin Chem. 2019;
+65: 242-253.
+
+Jones A.W. Pharmacokinetics of Ethanol - Issues of Forensic Importance. Forensic. Sci. Rev. 2011;
+23: 91-136.
+
+Karschner E.L., Schwilke E.W., Lowe R.H., Darwin W.D., Herning R.I., Cadet J.L., Huestis M.A.
+Implications of plasma delta-9-tetrahydrocannabinol, 11-hydroxy-THC, and 11-nor-9-carboxy-THC
+concentrations in chronic cannabis smokers. J. Anal. Toxicol. 2009; 33: 469-477.
+
+King L.A. New phenethylamines in Europe. Drug Test Anal. 2014; 6: 808-818
+
+Krotulski A.J., Mohr A.L.A., Papsun D.M., Logan B.K. Metabolism of novel opioid agonists U-47700
+and U-49900 using human liver microsomes with confirmation in authentic urine specimens from
+drug users. Drug Test Anal. 2018; 10: 127-136.
+
+Manno J.E., Manno B.R., Kemp P.M., Alford D.D., Abukhalaf I.K., McWilliams M.E., Hagaman F.N.,
+Fitzgerald M.J. Temporal indication of marijuana use can be estimated from plasma and urine
+concentrations of delta9-tetrahydrocannabinol, 11-hydroxy-delta9-tetrahydrocannabinol, and 11-
+nor-delta9-tetrahydrocannabinol-9-carboxylic acid. J. Anal. Toxicol. 2001; 25: 538-49.
+
+McGilveray I.J. Pharmacokinetics of cannabinoids. Pain Res. Manag. 2005; 10: 15A-22A.
+
+Morris H., Wallach J. From PCP to MXE: a comprehensive review of the non-medical use of
+dissociative drugs. Drug Test Anal. 2014; 6: 614-632.
+
+Musshoff F., Madea B. Review of biologic matrices (urine, blood, hair) as indicators of recent or
+ongoing cannabis use. Ther. Drug Monit. 2006; 28:155-63.
+
+Negreira N., Erratico C, van Nuijs A.L., Covaci A. Identification of in vitro metabolites of
+ethylphenidate by liquid chromatography coupled to quadrupole time-of-flight mass spectrometry. J.
+Pharm. Biomed. Anal. 2016; 117: 474-84.
+
+Niedbala R.S., Kardos K.W., Fritch D.F., Kardos S., Fries T., Waga J., Robb J., Cone E.J. Detection
+of marijuana use by oral fluid and urine analysis following single-dose administration of smoked and
+oral marijuana. J. Anal. Toxicol. 2001; 25: 289-303.
+
+Nóbrega L., Dinis-Oliveira R.J. The synthetic cathinone α-pyrrolidinovalerophenone (α-PVP):
+pharmacokinetic and pharmacodynamic clinical and forensic aspects. Drug Metab Rev. 2018; 50:
+125-139.
+
+Olesti E., Pujadas M., Papaseit E., Pérez-Mañá C., Pozo Ó.J., Farré M., de la Torre R. GC-MS
+Quantification Method for Mephedrone in Plasma and Urine: Application to Human
+Pharmacokinetics. J Anal Toxicol. 2017; 41: 100-106.
+
+Passie T., Halpern J.H., Stichtenoth D.O., Emrich H.M., Hintzen A. The pharmacology of lysergic
+acid diethylamide: a review. CNS Neurosci Ther. 2008; 14: 295-314.
+
+Paul B.D., Cole K.A. Cathinone (Khat) and methcathinone (CAT) in urine specimens: A gas
+chromatographic-mass spectrometric detection procedure. J. Anal. Toxicol. 2001; 25: 525-530.
+
+Peters F.T., Drummer O.H., Musshoff F. Validation of new methods. J. For. Sci. Int. 2007; 165: 216-
+224.
+                                           Page 47 of 55
+Schwaninger A.E., Meyer M.R., Barnes A.J., Kolbrich-Spargo E.A,. Gorelick D.A., Goodwin R.S.,
+Huestis M.A., Maurer H.H. Urinary excretion kinetics of 3,4-methylenedioxymethamphetamine
+(MDMA, ecstasy) and its phase I and phase II metabolites in humans following controlled MDMA
+administration. Clin Chem. 2011; 57: 1748-1756
+
+Silverstein J.H., Rieders M.F., McMullin M., Schulman S., Zahl K. An analysis of the duration of
+fentanyl and its metabolites in urine and saliva. Anesth Analg. 1993; 76: 618-621.
+
+Solans A., Carnicero M., De La Torre R., Segura J. Simultaneous detection of methylphenidate and
+its main metabolite, ritalinic acid, in doping control. J. Chromatogr. B Biomed. Appl. 1994; 658: 380-
+384.
+
+Spigset O., Westin A.A. Detection times of pregabalin in urine after illicit use: when should a positive
+specimen be considered a new intake? Ther Drug Monit. 2013; 35 :137-140.
+
+Staack R., Fritschi G., Maurer H. New designer drug 1-(3- trifluoromethylphenyl) piperazine
+(TFMPP): gas chromatography/mass spectrometry and liquid chromatography/mass spectrometry
+studies on its phase I and II metabolism and on its toxicological detection in rat urine. J. Mass
+Spectrom. 2003; 38: 971-981.
+
+Staub C., Marset M., Mino A., Mangin P. Detection of acetylcodeine in urine as an indicator of illicit
+heroin use: method validation and results of a pilot study. Clin. Chem. 2001; 47: 301-307.
+
+Toennes S.W., Geraths A., Pogoda W., Paulke A., Wunder C., Theunissen E.L., Ramaekers J.G.
+Pharmacokinetic properties of the synthetic cannabinoid JWH-018 and of its metabolites in serum
+after inhalation. J. Pharm. Biomed. Anal. 2017; 140: 215-222.
+
+Toennes S.W., Geraths A., Pogoda W., Paulke A., Wunder C., Theunissen E.L, Ramaekers J.G.
+Excretion of metabolites of the synthetic cannabinoid JWH-018 in urine after controlled inhalation. J.
+Pharm. Biomed. Anal. 2018; 150: 162-168.
+
+Toennes S.W., Geraths A., Pogoda W., Paulke A., Wunder C., Theunissen E.L., Ramaekers J.G.
+Pharmacokinetic properties of the synthetic cannabinoid JWH-018 in oral fluid after inhalation. Drug
+Test. Anal. 2018; 10: 644-650.
+
+Trafkowski J., Madea B., Musshoff F. The significance of putative urinary markers of illicit heroin use
+after consumption of poppy seed products. Ther. Drug Monit. 2006; 28: 552-558.
+
+Tyrkkö E., Andersson M., Kronstrand R. The Toxicology of New Psychoactive Substances: Synthetic
+Cathinones and Phenylethylamines. Ther Drug Monit. 2016; 38(2): 190-216.
+
+Verstraete A.G. Detection times of drugs of abuse in blood, urine, and oral fluid. Ther Drug Monit.
+2004; 26: 200-205.
+
+Winek C.L., Murphy K.L. The rate and kinetic order of ethanol elimination. Forensic. Sci. Int. 1984;
+25: 159-166.
+
+13.2     Manuals, Monographs, Guidelines
+Baselt R.C. Disposition of Toxic Drugs and Chemicals in Man, 11th ed., Chemical Toxicology
+Institute, Foster City, CA, 2017.
+
+CLSI. Toxicology and Drug Testing in the Medical Laboratory. 3rd ed. CLSI guideline C52. Wayne,
+PA: Clinical and Laboratory Standards Institute; 2017
+
+Dasgupta A., Critical Issues in Alcohol and Drugs of Abuse Testing, 2nd Edition, Academic Press,
+Elsevier 2019.
+
+                                             Page 48 of 55
+Evaluation of Measurement Data - Guide to the Expression of Uncertainty in Measurement (GUM).
+JCGM 100:2008; http://www.bipm.org/en/publications/guides/gum.html
+
+International Vocabulary of Metrology (VIM). German-English version. ISO/IEC-Guideline 99:2007.
+3rd ed. 2010, DIN Deutsches Institut für Normung e.V. Beuth, Berlin Vienna Zurich.
+ISBN 978-3-410-20070-3. English-French version:
+http://www.bipm.org/fr/publications/guides/vim.html
+
+Substance Abuse and Mental Health Services Administration. Clinical Drug Testing in Primary Care.
+Technical Assistance Publication (TAP) 32. HHS Publication No. (SMA) 12-4668. Rockville, MD:
+Substance      Abuse      and      Mental    Health     Services       Administration,      2012:
+www.samhsa.gov
+
+13.3     Websites
+
+13.3.1   Guidelines of Other Institutions:
+Substance Abuse and Mental Health Services Administration (SAMHSA), www.samhsa.gov
+
+Forensic Toxicology Laboratory Guidelines, Society of Forensic Toxicologists (SOFT):
+http://www.soft-tox.org
+
+Gesellschaft für Toxikologische und Forensische Chemie (GTFCh): http://www.gtfch.org
+
+Mandatory Guidelines for Federal Workplace Drug Testing Programs, Substance Abuse and Mental
+Health Services Administration (SAMHSA): https://www.samhsa.gov/workplace/resources
+
+Substance Abuse and Mental Health Services Administration (SAMHSA): https://www.samhsa.gov/
+
+Kriterien zum Betreiben von med.-analyt. Labors: https://www.sulm.ch/d/qualitaetssicherung/kbmal-
+3-0
+
+Schweizerische Kommission für Qualitätssicherung             im medizinischen Labor    (QUALAB):
+http://www.qualab.ch
+
+Correctional Service of Canada (CSC): https://www.csc-scc.gc.ca/index-en.shtml
+
+Correctional Service of Canada (CSC), Urinalysis Testing: https://www.csc-scc.gc.ca/politiques-et-
+lois/566-10-cd-eng.shtml
+
+European Guidelines for Workplace Drug Testing in Urine (EWDTS):
+http://www.ewdts.org/13.3.2General Information About Drugs of Abuse and Drugs of Abuse
+Testing
+
+Infos Drugs and Drug Screening: http://www.drogenscreening.info
+
+European Monitoring Centre for Drugs and Drug Addiction (EMCDDA). .
+http://www.emcdda.europa.eu/
+
+Obervatoire Français des Drogues et des Toxicomanies: https://www.ofdt.fr
+
+Party Project: http://www.party-project.de
+
+Drugs: http://www.drogen-wissen.de/
+
+Erowid: http://www.erowid.org
+
+Streetwork: https://www.saferparty.ch/allgemein.html
+                                             Page 49 of 55
+14.     Members of the Working Group
+Table 10    SCDAT Members
+
+Name                        Address
+Binz, Pierre-Alain          CHUV – centre hospitalier universitaire vaudois
+                            Service de chimie clinique
+                            BH /18 /711
+                            Rue du Bugnon 46
+                            CH-1011 Lausanne
+                            Tel.: +41 21 314 16 46
+                            E-Mail: pierre-alain.binz@chuv.ch
+                            Website: www.chuv.ch
+Fuhrer, Cyril               Medics Labor AG
+                            Südbahnhofstrasse 14c
+                            3001 Bern
+                            E-Mail: mailto:cyril.fuhrer@medics.ch
+                            Website: www.medics.ch
+Lescuyer, Pierre            Service de Médecine de Laboratoire
+                            Hôpitaux Universitaires de Genève
+                            Rue Gabrielle-Perret-Gentil 4
+                            1211 Genève 14
+                            Tel.: +41 22 372 73 85
+                            E-Mail: pierre.lescuyer@hcuge.ch
+                            Website: www.hug.ch/medecine-laboratoire
+Müller, Daniel              Labormedizin
+                            Klinische Chemie
+                            Universitätsspital Basel
+                            Petersgraben 4
+                            4031 Basel
+                            Tel.: +41 61 328 51 55
+                            E-Mail: daniel.mueller@usb.ch
+                            Website: www.usb.ch/labormedizin
+Seger, Christoph            Labordiagnostic St. Gallen West AG
+                            Zürcher Strasse 505
+                            9015 St. Gallen
+                            Tel: +41 71 343 83 83
+                            Email: christoph.seger@labordiagnostic.ch
+                            Website: www.labordiagnostic.ch
+Rentsch, Katharina M.       Labormedizin
+                            Klinische Chemie
+                            Universitätsspital Basel
+                            Petersgraben 4
+                            4031 Basel
+                            Tel.: +41 61 265 42 36
+                            E-Mail: katharina.rentsch@usb.ch
+                            Website: www.usb.ch/labormedizin
+
+
+
+
+                                      Page 50 of 55
+Annex 1 : Metrology terms for verification, validation and
+    qualification of testing procedures
+The following terms are to be understood as quality metrics for the methods and tests implemented
+and, as such, serve to document the suitability of analysis procedures for their intended purpose.
+References to the International Vocabulary of Basic and General Terms in Metrology (JCGM
+200:2012) are mentioned in parentheses.
+
+Trueness (VIM 2.14)
+Trueness describes the closeness of agreement between the average of a infinite number of
+replicate measured value and a reference value. The trueness of the results of the immunochemical
+methods covered in these guidelines is influenced by various factors:
+ Biological matrix
+ Interference (documented as “selectivity” )
+ Cross-reactivity (documented as “specificity” )
+ Differing reactivity responses as a function of antibody concentration and affinity in the case of
+    substance-group testing.
+
+Precision (VIM 2.15)
+Precision describes closeness of agreement between indications or measured quantity values
+obtained by replicate measurements on the same or similar objects under specified conditions. It
+quantifies the random deviation of the values that are near the mean. Precision is usually
+expressed in terms of “imprecision” and is calculated as a standard deviation, or as a coefficient of
+variation of the readings obtained. High imprecision is expressed as a large standard deviation. A
+distinction is made between repeatability, laboratory precision, and comparative precision
+
+Repeatability (in a series) describes the extent of agreement of repeated measurements of one and
+the same quantity, performed under the same experimental conditions. It is a measure of the random
+error component in a quantitative experiment.
+Laboratory precision is obtained from a determination of one and the same sample within a
+laboratory, with the intentional change of one parameter (for instance, a person, an instrument, time
+of analysis, internal quality control on a day- to-day basis to the next).
+Comparative precision describes precision under conditions such that readings are obtained by
+different individuals using different instruments, the same method, and identical sample sources in
+different laboratories (external quality control).
+
+Accuracy (VIM 2.13)
+Accuracy (measurement accuracy) describes
+closeness of agreement between a measured quantity value and a true quantity value of a
+measurand. It is qualified by a systematic (trueness) and a random (precision) error.
+(See also diagnostic accuracy)
+
+
+
+
+                                            Page 51 of 55
+Measurement error (VIM 2.16)
+Measurement error describes the difference between the measured quantity value and a reference
+value. It can be used to express the difference between a measured quantity and an expected
+value, for instance in the case of a measurement of a calibrator for which one suppose a negligible
+measurement uncertainty. In this case, the error is known.
+
+Systematic measurement error (VIM 2.17)
+Component of measurement error that in replicate measurements remains constant or varies in a
+predictable manner. In this case, the reference value can be a true (and known) quantity value, a
+measure quantity value of a measurement standard or a conventional value.
+
+Bias
+Estimate of a systematic measurement error:
+
+A Bias can be highlighted and characterized using a Bland-Altman plot (or difference plot).
+This type of graph displays a scatter diagram of the differences plotted against the averages of the
+two measurements.
+
+The mean difference and limits of agreement (LoA) are represented as horizontal lines.
+
+The limits of agreement (LoA) are commonly calculated as the mean difference ± 1.96 (or two)
+Standard deviations (SD, see also Precision) of differences. They represent the borders of the 95%
+confidence interval of the agreement between the measurements.
+
+
+
+
+Measurement Uncertainty (VIM 2.26)
+Measurement uncertainty is a parameter of a result and signifies the dispersion of the values
+attributed to a measured quantity.
+It can comprise the uncertainties in the different steps of an analysis:
+ Sample collection
+ Condition of the sample
+ Sample preparation
+ Size of an aliquot of the sample
+ Calibration
+ Reference materials
+ Equipment and instruments
+ Environmental conditions and tampering.
+Estimation of measurement uncertainty can be specified, e.g., by way of inter-laboratory tests or with
+the aid of the laboratory precision computed from control samples. A standard measurement
+
+
+                                            Page 52 of 55
+uncertainty results from the standard deviation for the measurement of quality control material across
+measurement days.
+Measurement uncertainty constitutes an important parameter for all analyses. The narrower the
+range of values for a correct measurement happens to be, the more powerful is the analysis
+procedure [DIN 13005, Eurachem Guidelines, International Vocabulary of Metrology].
+
+Selectivity (VIM 4.123) (Interference)
+Selectivity or specificity is the capability of a measuring system to discriminate and unequivocally
+identify different analytes without interfering with each other or without interference due to other
+endogenous or exogenous substances (metabolites, contamination, degradation products, matrix).
+
+Limit of Detection (VIM 4.18)
+The limit of detection (LOD) is defined as the lowest concentration of an analyte in a sample for
+which the defined probability criteria are met. Neither qualitative nor quantitative results that are
+below this concentration are to be reported.
+The limit of detection depends on:
+ the analyte being sought
+ the analysis method used
+ the extraction that has been performed
+ any possible matrix effects
+ the noise level of the instrument.
+
+Lower Limit of Quantification
+The lower limit of quantification (LLOQ) is the lowest concentration of an analyte in a sample matrix
+that can be determined with an acceptable measurement uncertainty (bias and imprecision), with a
+predefined performance uncertainty Values below the lower limit of quantification can only be
+interpreted on a qualitative basis.
+
+Sensitivity (VIM 4.12)
+
+Sensitivity is defined as the quotient of the change in the signal of a measuring system and the
+change in the concentration of the substance measured. In a linear relationship, this corresponds to
+the sensitivity of the slope of the calibration curve. Sensitivity can be a function of the concentration
+of the measured substance.
+
+The “Cut-off”
+So-called cut-off values (defined decision limits with respect to a measured quantity) are established
+in order to distinguish a positive result from a negative one. In group tests, a cut-off value applies to
+the substance used to calibrate the test procedure. The cut-off is usually set several times higher
+than the detection or measuring limit in order to prevent “false positive” results.
+
+
+
+
+                                             Page 53 of 55
+Classification in a binary diagnostic test
+
+Figure 11: Distribution of population descriptives in a diagnostic test. TP are true positives,
+           TN are true negatives, FP are false positives and FN are false negatives
+
+
+
+
+Figure 11 describes the distribution of TP, TN, FP, FN in a diagnostic test based on a quantitative
+measured value, as function of a given threshold value. The blue distribution represents the
+measured value for the positive test (affected patients for instance) and the orange distribution
+represents the measured values for the negative test (healthy or non-affected individuals for
+instance).
+
+The performance characteristics of the test (diagnostic sensitivity, diagnostic specificity, diagnostic
+accuracy, etc.) can be measured from these four populations.
+
+Diagnostic Sensitivity
+Diagnostic sensitivity is a statistical quantity that describes the probability according to which a true
+positive fact will be recognized as being positive. It is also called recall or true positive rate.
+
+                                  Diagnostic Sensitivity =TP / (TP + FN)
+
+
+Where TP and FN are the number of true positives and false negatives, respectively.
+
+Diagnostic Specificity
+Diagnostic specificity is a statistical quantity (hit rate) describing the probability with which a truly
+negative factor will be recognized as being negative in a test.
+
+                                  Diagnostic specificity =TN / (TN + FP)
+
+
+Where FP and TN are the number of false positives and true negatives, respectively
+
+Diagnostic Accuracy
+
+                         Diagnostic accuracy = (TP + TN) / (TP + TN + FP + FN)
+
+
+Where TP, FN, FP and TN are the number of true positives, false negatives, false positives and true
+negatives, respectively.
+
+
+
+                                             Page 54 of 55
+Stability
+The chemical stability of an analyte in a given matrix under specific conditions should be ensured
+from the time instant of sample collection until the conclusion of the analysis.
+Stability during storage and during possible refreezing and repeated thawing phases is independent
+of the method. Therefore, corresponding stability data can be carried over from the literature. The
+data must be collected in conjunction with method validation, should this information be unavailable.
+
+
+
+
+                                           Page 55 of 55
+

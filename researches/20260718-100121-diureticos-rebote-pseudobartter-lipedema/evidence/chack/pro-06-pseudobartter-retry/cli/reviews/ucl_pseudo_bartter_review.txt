@@ -1,0 +1,246 @@
+The Hypokalemia Mystery: Distinguishing Gitelman
+and         Bartter         Syndromes             from        ‘Pseudo-Bartter
+Syndrome’
+
+Sara S. Jdiaa 1, Stephen B. Walsh 2, Detlef Bockenhauer 2, Sara W. Fakhredine 1, Sahar H.
+Koubar 1
+
+
+1
+    Division of Nephrology and Hypertension, Department of Internal Medicine, American
+University of Beirut, Beirut, Lebanon.
+2
+    Division of Nephrology and Hypertension, University College London, London, United
+Kingdom.
+
+
+
+
+Corresponding author:
+Sahar H. Koubar M.D.
+Division of Nephrology and Hypertension, Department of Internal Medicine
+American University of Beirut Medical Center
+Riad El-Solh 1107 2020, Beirut, Lebanon.
+Telephone number: +961 81 607 088
+E-mail: sk62@aub.edu.lb
+
+
+
+Keywords: Gitelman syndrome, Bartter syndrome, Pseudo-Bartter syndrome; Bartter-like
+syndrome; hypokalemia, diuretic abuse, laxative abuse, self-induced vomiting
+
+
+Words count: 948
+
+
+
+                                                                                       1
+Introduction:
+     The Gitelman and Bartter Syndromes (GS and BS, respectively) are characterized by
+the constellation of hypokalemia, hypochloremia, metabolic alkalosis, hyper-reninemic
+hyperaldosteronism, low to normal blood pressure and juxtaglomerular apparatus
+hypertrophy. These are due to pathogenic variants in the genes that encode the thiazide-
+sensitive sodium-chloride cotransporter NCC (SLC12A3) in the distal convoluted tubule or
+transporters involved in sodium chloride reabsorption in the loop of Henle. ‘Pseudo-Bartter
+syndrome’ (PBS) is caused by extra-renal or acquired renal salt losses and shares the same
+plasma electrolyte profile and acid-base disturbances, making the distinction from the
+genetic forms very challenging. PBS has various etiologies including diuretic and laxative
+abuse, self-induced vomiting and the side effects of some antimicrobials. Additionally,
+congenital chloride diarrhea, cystic fibrosis, Pendred syndrome and chloride deficient diet
+can manifest as PBS (1).
+     In this review, we focus on factitious PBS secondary to diuretic abuse, laxative abuse
+or self-induced vomiting, whereby we point out some clinical and laboratory clues to help
+clinicians make the correct diagnosis.
+
+
+Patient’s characteristics and clinical features of factitious PBS
+     Concealed diuretic abuse, laxative abuse and self-induced vomiting are the most
+common causes of PBS in adults. They are typically seen in women preoccupied with their
+body image and in patients with psychiatric eating disorders that include purging (2).
+Reported motives include slimming, edema, bloating, premenstrual symptoms and
+persistent constipation (3).
+
+     The ability of some patients to obscure their abuse or self-induced vomiting can make
+the diagnosis of factitious PBS challenging. There are reports of patients who misled their
+physicians and agreed to undergo invasive diagnostic procedures like kidney biopsy, renal
+arteriography and renal vein catheterization for assessment of differential renin secretion
+before a diagnosis of diuretics or laxative abuse was made (4). Interestingly, the severe
+
+
+
+                                                                                         2
+and even life-threating symptoms associated with hypokalemia and volume contraction
+sometimes may not stop these patients from continuing their dangerous purging behavior.
+Some of them tend to continue purgative habits despite having weakness, cramps,
+dizziness, polyuria and paralysis (5). Therefore, it is important to raise the differential of
+factitious PBS in patients with mysterious hypokalemia even if they deny any of the
+aforementioned behaviors.
+
+
+Laboratory data of PBS secondary to diuretic abuse:
+      Urine sodium, potassium and chloride are usually high under the effect of recent
+diuretic intake and low after remote use. Indeed, the variability in urine sodium, potassium
+and chloride values should raise suspicion of PBS. A positive diuretic screen is diagnostic;
+however, a negative diuretic screen does not always rule out its abuse as the diuretic intake
+may be intermittent. Therefore, repeating the urinary screen is warranted when the
+diagnosis of factitious PBS is suspected. A concomitant measurement of the urinary
+fractional excretion of chloride (FECl) can help interpret results of a diuretics screen: a
+negative screen in a sample with low urine chloride can be due to the absence of recent
+diuretic ingestion, while a negative screen associated with a high urine chloride (FECl >
+0.5%) favors a diagnosis of BS (3).
+      Nephrocalcinosis,    secondary     to   hypercalciuria    and    hypokalemia-induced
+hypocitraturia, can be seen in both BS and loop diuretic abuse. However, one
+differentiating feature between the two is the variable urinary calcium excretion which
+points towards intermittent loop diuretic ingestion rather than BS. The development of
+nephrocalcinosis in PBS patients is a sign of long-term intake of large doses of loop
+diuretics (6).
+
+
+Laboratory data of PBS secondary to laxative abuse:
+      Patients abusing laxatives develop hypokalemia because of the high content of
+potassium in the lower gastrointestinal tract. Urinary potassium is high in these patients as
+
+
+
+                                                                                            3
+a result of secondary hyperaldosteronism. Urinary sodium and chloride are typically low.
+Similar to diuretics, the intermittent intake of laxatives may lead to a negative screen result.
+Another diagnostic limitation is the unavailability of screening tests for all types of
+laxatives. Hypermagnesemia, when present, may be a clue to the abuse of magnesium-
+containing laxatives (7).
+
+
+Laboratory data of PBS secondary to self-induced vomiting:
+     The pathophysiology of hypokalemia in vomiting is considered to be secondary to
+renal losses rather than direct gastrointestinal losses. The low potassium content in the
+gastric fluid (5 to 10 mEq/L) only contributes to a small proportion of potassium wasting
+in vomiting. Increased gastric acid secretion causes high bicarbonate generation with
+subsequent increase in the glomerular filtration of the bicarbonate load and its distal tubular
+delivery with an obligatory sodium load. This, coupled with hypovolemia-induced
+secondary hyperaldosteronism, causes urinary potassium wasting and thus explains the
+high urinary potassium in vomiting (8). The metabolic alkalosis in vomiting can be very
+severe with serum bicarbonate values exceeding 45 mmol/L.
+       While urinary chloride is typically low in self-induced vomiting, urinary sodium
+can be low if the event is remote or high if recent. The high urinary sodium seen with recent
+vomiting likely reflects metabolic alkalosis and increased NaHCO3 urinary losses. Table 1
+summarizes the serum and urine electrolyte differences between the three entities.
+
+
+Kidney disease risk in PBS:
+       PBS secondary to diuretics, laxative abuse and self-induced vomiting is a risk factor
+for the development of chronic kidney disease. Deterioration of kidney function was
+initially thought to be secondary to chronic hypokalemia and thus is known as hypokalemic
+nephropathy. However, recent studies suggest that it may rather be a consequence of
+hyperaldosteronism.     Histologically,   this   entity   manifests    as   proximal    tubular
+intracytoplasmic vacuolization with chronic interstitial nephritis and fibrosis (9).
+
+
+
+                                                                                              4
+Conclusion:
+       Unexplained hypokalemia should always raise suspicion for aof factitious PBS
+even when the patient denies any diuretic or laxative misuse. Paying careful attention to
+the clinical and laboratory pieces of evidence when solving the puzzle of mysterious
+hypokalemia is crucial for making the correct diagnosis of factitious PBS and instigating
+appropriate treatment. Psychiatric evaluation and management are essential for treatment
+success and long-term purging cessation.
+
+
+
+
+Disclosures: The authors declared no relevant conflicts of interest.
+
+
+Acknowledgments: The authors received no financial support.
+
+
+
+
+                                                                                            5
+References:
+1.      Najafi M, Kordi-Tamandani DM, Behjati F, Sadeghi-Bojd S, Bakey Z, Karimiani EG, et
+al. Mimicry and well known genetic friends: molecular diagnosis in an Iranian cohort of
+suspected Bartter syndrome and proposition of an algorithm for clinical differential diagnosis.
+Orphanet journal of rare diseases. 2019;14(1):41.
+2.      Mira M, Stewart PM, Vizzard J, Abraham S. Biochemical abnormalities in anorexia
+nervosa and bulimia. Annals of clinical biochemistry. 1987;24 ( Pt 1):29-35.
+3.      Reimann D, Gross P. Chronic, diagnosis-resistant hypokalaemia. Nephrology, dialysis,
+transplantation : official publication of the European Dialysis and Transplant Association -
+European Renal Association. 1999;14(12):2957-61.
+4.      Katz FH, Eckert RC, Gebott MD. Hypokalemia caused by surreptitious self-
+administration of diuretics. Annals of internal medicine. 1972;76(1):85-90.
+5.      Cawley DT, Curtin PT, McCabe JP. Hypokalaemic paralysis secondary to thiazide
+diuretic abuse: an unexpected outcome for cauda equina syndrome. Evidence-based spine-care
+journal. 2011;2(4):51-3.
+6.      Kim YG, Kim B, Kim MK, Chung SJ, Han HJ, Ryu JA, et al. Medullary
+nephrocalcinosis associated with long-term furosemide abuse in adults. Nephrology, dialysis,
+transplantation : official publication of the European Dialysis and Transplant Association -
+European Renal Association. 2001;16(12):2303-9.
+7.      Castelbaum AR, Donofrio PD, Walker FO, Troost BT. Laxative abuse causing
+hypermagnesemia, quadriparesis, and neuromuscular junction defect. Neurology.
+1989;39(5):746-7.
+8.      Alexandridis G, Elisaf M. Renal potassium handling in a patient with surreptitious
+vomiting. Nephrology Dialysis Transplantation. 2001;16(11):2275-.
+9.      Walsh SB, Unwin E, Vargas-Poussou R, Houillier P, Unwin R. Does hypokalaemia cause
+nephropathy? An observational study of renal function in patients with Bartter or Gitelman
+syndrome. QJM : monthly journal of the Association of Physicians. 2011;104(11):939-44.
+10.     Oster JR, Materson BJ, Rogers AI. Laxative abuse syndrome. The American journal of
+gastroenterology. 1980;74(5):451-8.
+
+
+
+
+                                                                                             6
+           Table 1: Serum and urine laboratory values in Bartter Syndrome and Pseudo-Bartter
+           Syndrome secondary to diuretic abuse, laxative abuse and self-induced vomiting *.
+
+
+                     Serum K            Serum Co2          Urine Na            Urine K            Urine Cl
+
+
+
+Bartter              Low                High†              High                High               High
+Syndrome
+
+                                                           High under the High under the High under the
+                                                           effect      of effect      of effect      of
+                                                           diuretics      diuretics      diuretics
+Diuretic abuse       Low                High†
+                                                           Low       when Low         when Low         when
+                                                           diuretic  effect diuretic  effect diuretic  effect
+                                                           weans off        weans off        weans off
+
+
+
+Laxative abuse       Low                High†             Low                 High               Low
+
+                                                           High in recent
+                                                           vomiting
+Self-induced         Low                High†              Low in remote High                     Low
+Vomiting                                                   vomiting
+
+
+
+           *
+               The electrolyte and acid-base disturbances are more complex when a combination of these
+           entities is present.
+           †
+               Hypokalemia contributes to metabolic alkalosis through increasing intracellular shift of
+           hydrogen ions, enhancing tubular generation and excretion of ammonium and stimulating
+           the distal tubule H+-K+-ATPase pump which excretes hydrogen ions in exchange for
+           potassium.
+
+
+
+
+                                                                                                          7
+
+    In laxative abuse, hypokalemia may further contribute to metabolic alkalosis by
+interfering with intestinal chloride reabsorption and impairing bicarbonate secretion
+through the intestinal chloride-bicarbonate exchanger (10).
+
+
+
+
+                                                                                   8
+
