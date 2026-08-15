@@ -1,0 +1,140 @@
+31424503
+2020
+10
+27
+1522-9645
+40
+44
+2019
+Nov
+21
+European heart journal
+Eur Heart J
+Short-term diuretic withdrawal in stable outpatients with mild heart failure and no fluid retention receiving optimal therapy: a double-blind, multicentre, randomized trial.
+3605
+3612
+3605-3612
+10.1093/eurheartj/ehz554
+Although loop diuretics are widely used to treat heart failure (HF), there is scarce contemporary data to guide diuretic adjustments in the outpatient setting.
+In a prospective, randomized and double-blind protocol, we tested the safety and tolerability of withdrawing low-dose furosemide in stable HF outpatients at 11 HF clinics in Brazil. The trial had two blindly adjudicated co-primary outcomes: (i) symptoms assessment quantified as the area under the curve (AUC) of a dyspnoea score on a visual-analogue scale evaluated at 4 time-points (baseline, Day 15, Day 45, and Day 90) and (ii) the proportion of patients maintained without diuretic reuse during follow-up. We enrolled 188 patients (25% females; 59 ± 13 years old; left ventricular ejection fraction = 32 ± 8%) that were randomized to furosemide withdrawal (n = 95) or maintenance (n = 93). For the first co-primary endpoint, no significant difference in patients' assessment of dyspnoea was observed in the comparison of furosemide withdrawal with continuous administration [median AUC 1875 (interquartile range, IQR 383-3360) and 1541 (IQR 474-3124), respectively; P = 0.94]. For the second co-primary endpoint, 70 patients (75.3%) in the withdrawal group and 77 patients (83.7%) in the maintenance group were free of furosemide reuse during follow-up (odds ratio for additional furosemide use with withdrawal 1.69, 95% confidence interval 0.82-3.49; P = 0.16). Heart failure-related events (hospitalizations, emergency room visits, and deaths) were infrequent and similar between groups (P = 1.0).
+Diuretic withdrawal did not result in neither increased self-perception of dyspnoea nor increased need of furosemide reuse. Diuretic discontinuation may deserve consideration in stable outpatients with no signs of fluid retention receiving optimal medical therapy.
+NCT02689180.
+Published on behalf of the European Society of Cardiology. All rights reserved. © The Author(s) 2019. For permissions, please email: journals.permissions@oup.com.
+Rohde
+Luis E
+LE
+Hospital de Clínicas de Porto Alegre and Faculdade de Medicina da Universidade Federal do Rio Grande do Sul, Rua Ramiro Barcelos 2350, CEP, Porto Alegre, RS, Brazil.
+Hospital Moinhos de Vento, Rua Ramiro Barcelos 910, CEP, Porto Alegre, RS, Brazil.
+Rover
+Marciane M
+MM
+Instituto de Cardiologia, Fundação Universitária de Cardiologia, Porto Alegre, RS, Brazil.
+Figueiredo Neto
+Jose A
+JA
+Hospital Universitário da Universidade Federal do Maranhão, São Luis, MA, Brazil.
+Danzmann
+Luiz C
+LC
+Hospital Universitário da Universidade Luterana do Brasil, Canoas, RS, Brazil.
+Hospital São Lucas da Pontifícia Universidade Católica, Porto Alegre, RS, Brazil.
+Bertoldi
+Eduardo G
+EG
+Hospital Escola da Universidade Federal de Pelotas, Pelotas, RS, Brazil.
+Simões
+Marcus V
+MV
+Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo, Ribeirão Preto, SP, Brazil.
+Silvestre
+Odilson M
+OM
+Universidade Federal do Acre, Rio Branco, AC, Brazil.
+Ribeiro
+Antonio L P
+ALP
+Hospital da Clinicas e Faculdade de Medicina da Universidade Federal de Minas Gerais, Belo Horizonte, MG, Brazil.
+Moura
+Lidia Zytynski
+LZ
+Hospital Universitário Cajuru da Pontifícia Universidade Católica, Curitiba, PR, Brazil.
+Beck-da-Silva
+Luis
+L
+Prado
+Debora
+D
+Sant'Anna
+Roberto T
+RT
+Bridi
+Leonardo H
+LH
+Zimerman
+André
+A
+Raupp da Rosa
+Priscila
+P
+Biolo
+Andréia
+eng
+ClinicalTrials.gov
+NCT02689180
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+England
+8006263
+0195-668X
+0
+Sodium Potassium Chloride Symporter Inhibitors
+7LXU5N7ZO5
+Furosemide
+IM
+Eur Heart J. 2019 Nov 21;40(44):3613-3615. doi: 10.1093/eurheartj/ehz679.
+31562512
+Aged
+Body Fluids
+physiology
+Brazil
+epidemiology
+Case-Control Studies
+Double-Blind Method
+Dyspnea
+diagnosis
+psychology
+Female
+Follow-Up Studies
+administration & dosage
+therapeutic use
+Heart Failure
+drug therapy
+physiopathology
+Humans
+Male
+Middle Aged
+Prospective Studies
+Safety
+Self Concept
+Time Factors
+Treatment Outcome
+Ventricular Function, Left
+drug effects
+Visual Analog Scale
+Withholding Treatment
+statistics & numerical data
+Dyspnoea
+Heart failure
+4
+30
+5
+13
+7
+20
+8
+6
+28
+ppublish
+5551388

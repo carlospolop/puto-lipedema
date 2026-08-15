@@ -1,0 +1,725 @@
+21073363
+2011
+01
+12
+2026
+05
+18
+1533-4406
+364
+1
+Jan
+06
+The New England journal of medicine
+N Engl J Med
+Eplerenone in patients with systolic heart failure and mild symptoms.
+11
+21
+11-21
+10.1056/NEJMoa1009492
+Mineralocorticoid antagonists improve survival among patients with chronic, severe systolic heart failure and heart failure after myocardial infarction. We evaluated the effects of eplerenone in patients with chronic systolic heart failure and mild symptoms.
+In this randomized, double-blind trial, we randomly assigned 2737 patients with New York Heart Association class II heart failure and an ejection fraction of no more than 35% to receive eplerenone (up to 50 mg daily) or placebo, in addition to recommended therapy. The primary outcome was a composite of death from cardiovascular causes or hospitalization for heart failure.
+The trial was stopped prematurely, according to prespecified rules, after a median follow-up period of 21 months. The primary outcome occurred in 18.3% of patients in the eplerenone group as compared with 25.9% in the placebo group (hazard ratio, 0.63; 95% confidence interval [CI], 0.54 to 0.74; P<0.001). A total of 12.5% of patients receiving eplerenone and 15.5% of those receiving placebo died (hazard ratio, 0.76; 95% CI, 0.62 to 0.93; P=0.008); 10.8% and 13.5%, respectively, died of cardiovascular causes (hazard ratio, 0.76; 95% CI, 0.61 to 0.94; P=0.01). Hospitalizations for heart failure and for any cause were also reduced with eplerenone. A serum potassium level exceeding 5.5 mmol per liter occurred in 11.8% of patients in the eplerenone group and 7.2% of those in the placebo group (P<0.001).
+Eplerenone, as compared with placebo, reduced both the risk of death and the risk of hospitalization among patients with systolic heart failure and mild symptoms. (Funded by Pfizer; ClinicalTrials.gov number, NCT00232180.).
+Zannad
+Faiez
+F
+INSERM, Centre d'Investigation Clinique 9501 and Unité 961, and the Department of Cardiology, Nancy University, Nancy, France. f.zannad@chu-nancy.fr
+McMurray
+John J V
+JJ
+Krum
+Henry
+H
+van Veldhuisen
+Dirk J
+DJ
+Swedberg
+Karl
+K
+Shi
+Harry
+Vincent
+John
+J
+Pocock
+Stuart J
+SJ
+Pitt
+Bertram
+B
+EMPHASIS-HF Study Group
+eng
+ClinicalTrials.gov
+NCT00232180
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+2010
+14
+United States
+0255562
+0028-4793
+0
+Cardiovascular Agents
+Mineralocorticoid Receptor Antagonists
+27O7W4T232
+Spironolactone
+6995V82D0B
+Eplerenone
+IM
+N Engl J Med. 2011 Jan 6;364(1):79-80. doi: 10.1056/NEJMe1012547.
+21073364
+Nat Rev Cardiol. 2011 Jan;8(1):1. doi: 10.1038/nrcardio.2010.188.
+21218551
+Curr Cardiol Rep. 2011 Jun;13(3):167-9. doi: 10.1007/s11886-011-0170-9.
+21318341
+Curr Heart Fail Rep. 2011 Jun;8(2):87-90. doi: 10.1007/s11897-011-0055-7.
+21424676
+N Engl J Med. 2011 Apr 7;364(14):1371-2; author reply 1372. doi: 10.1056/NEJMc1101287.
+21470017
+N Engl J Med. 2011 Apr 7;364(14):1371; author reply 1372. doi: 10.1056/NEJMc1101287.
+21470018
+N Engl J Med. 2011 Apr 7;364(14):1370-1; author reply 1372. doi: 10.1056/NEJMc1101287.
+21470019
+N Engl J Med. 2011 Apr 7;364(14):1370; author reply 1372. doi: 10.1056/NEJMc1101287.
+21470020
+Praxis (Bern 1994). 2011 Apr 13;100(8):491-2. doi: 10.1024/1661-8157/a000507.
+21484715
+Evid Based Med. 2011 Aug;16(4):121-2. doi: 10.1136/ebm1307.
+21558564
+Kardiol Pol. 2011;69(6):631-2.
+21678313
+Rev Clin Esp. 2011 May;211(5):259. doi: 10.1016/j.rce.2011.01.005.
+21714151
+J Fam Pract. 2011 Aug;60(8):482-4.
+21814643
+Aged
+therapeutic use
+Cardiovascular Diseases
+mortality
+Combined Modality Therapy
+Defibrillators, Implantable
+Double-Blind Method
+Female
+Follow-Up Studies
+Heart Failure
+classification
+drug therapy
+Hospitalization
+statistics & numerical data
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+adverse effects
+Proportional Hazards Models
+analogs & derivatives
+Drexler
+Helmut
+Remme
+Willem J
+WJ
+Cornel
+Jan Hein
+JH
+Hildebrandt
+Per
+P
+Hradec
+Jaromir
+Mareev
+Vlacheslav
+V
+Reddy
+K Srinath
+KS
+Sindone
+Andrew
+A
+Martinez
+Felipe
+Alonso Garcia
+Angeles
+Wilhelmsen
+Lars
+L
+Dargie
+Henry J
+HJ
+Tavazzi
+Luigi
+Stuart
+S
+Leizorovic
+Alain
+Collier
+Tim
+T
+Nul
+D R
+DR
+Serra
+J L
+JL
+Thierer
+J M
+JM
+Cross
+D B
+DB
+A P
+AP
+Singh
+B B
+BB
+Boreux
+Charlier
+F P P
+FP
+Dendale
+De Keulenaer
+G
+Marchandise
+Marechal
+Marenne
+Mieghem
+W V
+WV
+Van Dorpe
+A C
+AC
+Vanhaecke
+Arnold
+Dion
+D
+Huynh
+Kouz
+S M
+SM
+Lepage
+McKelvie
+R S
+RS
+O'Meara
+E
+Proulx
+Sauve
+C
+Aschermann
+M
+Brecka
+Filipovsky
+Groch
+Jerabek
+O
+Jokl
+I
+Linkova
+Motovska
+Z
+Munz
+Penicka
+Rucka
+Mid
+J S
+JS
+Spacek
+R
+Spinar
+Stipal
+Vojacek
+Attali
+Bonneau
+Bousser
+J P
+JP
+Dutoit
+Funck
+Galinier
+M P
+MP
+Gibelin
+Hautefeuille
+B D
+BD
+Hittinger
+Jobic
+Y
+Jourdain
+Komajda
+Maupas
+Olive
+Philias
+Roul
+Rouleau
+Trochu
+J N
+JN
+Boehm
+Bruch
+Engelhardt
+Erbs
+Foerster
+Franz
+N
+Hambrecht
+Heuer
+Krueger
+U
+Landmesser
+Leischik
+Mitrovic
+Moehlenkamp
+Monti
+Mueller-Ehmsen
+Oezcelik
+Philipp
+Pieske
+Roehnisch
+J U
+JU
+Schunkert
+Schwinger
+Wachter
+Willenbrock
+Winkelmann
+B R
+BR
+Winkler
+Wollert
+K C
+KC
+Adamopoulos
+Kalikazaros
+Karavidas
+Karvounis
+Kremastinos
+Manolis
+A J
+AJ
+Nanas
+Sotirellos
+Vasiliadis
+Zaboulis
+Lee
+Yu
+C M
+CM
+Czibok
+Édes
+Forster
+Preda
+Simon
+Takacs
+Zámolyi
+Bhagavatula
+K S S
+Chockalingam
+Desai
+Iyengar
+S S
+SS
+Jayadev
+Mullasari
+A S
+AS
+Sathe
+S P
+SP
+Sinha
+Vadagenalli
+P S
+PS
+Wander
+G S
+GS
+McDonald
+K M
+KM
+Nash
+Vaughan
+C J
+CJ
+Agostoni
+Ambrosio
+G B
+GB
+Bittolo Bon
+Boffa
+Cacciavillani
+Capucci
+Chiariello
+Cirrincione
+Gensini
+G F
+GF
+Masini
+Modena
+M G
+MG
+Monte
+Perrone Filardi
+Rosano
+G M C
+GM
+Senni
+Sinagra
+Tamburino
+Terrosu
+Villani
+G Q
+GQ
+Volterrani
+Chae
+S C
+SC
+Ha
+C W
+CW
+J W
+JW
+Shin
+J H
+Bayram-Llamas
+Calvillo
+J C
+JC
+Cruz-Diaz
+Delgado-Leal
+Estrada-Gomez
+M M
+MM
+Kosturakis
+Petersen-Aranguren
+Velasco-Sanchez
+R G
+RG
+Daniëls
+M C G
+MC
+Dirkali
+Dunselman
+P H J M
+PH
+de Kluiver
+E P
+EP
+Kragten
+J A
+JA
+Lok
+D J A
+Maas
+A H E M
+AH
+Michels
+H R
+HR
+Nicastia
+D M
+DM
+Stoel
+de Swart
+J B R M
+JB
+Thijssen
+H J M
+Van Kempen
+L H J
+LH
+Voors
+A A
+AA
+Willems
+F F
+FF
+Dluzniewski
+Gaciong
+Kawecka-Jaszcz
+Jozwa
+Korewicki
+Krzeminska-Pakula
+Kurowski
+Ogorek
+Pempera
+Rynkiewicz
+Ujda
+Wierzchowiecki
+Abreu
+Á
+Andrade
+Carrageta
+Fonseca
+Franco
+Gil
+V M
+VM
+Lousada
+Mendonca
+Moreira
+Padua
+F P
+Providência
+Cardoso
+J C Silva
+Trabulo
+Aroutyunov
+G P
+GP
+Gindin
+Karpov
+Y B
+YB
+Kostenko
+V A
+VA
+Nikitin
+Y P
+YP
+Obraztsova
+G Igorevna
+GI
+Shilkina
+N P
+NP
+Shlyakhto
+E V
+EV
+Skvortsov
+Ding
+Z P
+ZP
+Yeo
+D P S
+DP
+Ambrovicova
+Gaspar
+Goncalvesova
+Kycina
+Litvinova
+Mikes
+Murin
+Poliacik
+Uhliar
+Lloyd
+E A
+EA
+Marx
+Naidoo
+D P
+Prozesky
+H W
+HW
+Sliwa-Hahnle
+Theron
+Anguita
+De Teresa
+Galve
+Juanatey
+J R G
+JR
+Orbe
+P M M
+PM
+Vida
+Ahremark
+Andersson
+Axelsson
+Berglund
+Boman
+Dahlstrom
+Fu
+Holm Orndahl
+Johansson
+Lindgren
+Nemeczek
+Prantare
+Roussine
+Stehn
+Stenberg
+Vasko
+Bazylevych
+Dyadyk
+O I
+OI
+Dzyak
+G V
+GV
+Girina
+O M
+OM
+Ignatenko
+G A
+GA
+Kononenko
+L G
+LG
+Kubyshkin
+V F
+VF
+Kuryata
+O V
+OV
+Parkhomenko
+A N
+AN
+Perepelytsya
+M V
+MV
+Pertseva
+T O
+TO
+Popik
+Rishko
+Sakharchuk
+I I
+II
+Tseluyko
+V I
+VI
+Tykhonova
+S A
+SA
+Vizir
+Voronkov
+Al Khaja
+Almahmeed
+W A
+WA
+Bazargani
+Adgey
+A A J
+Al-Mohammad
+Banerjee
+Barlow
+Bridges
+A B
+AB
+Brooks
+Connolly
+E C
+EC
+Denvir
+M A
+MA
+Egdell
+R M
+RM
+Kardos
+Keeling
+P J
+PJ
+Khokhar
+J J
+Senior
+Williams
+S G
+SG
+Anand
+I S
+IS
+Anderson
+Berk
+M R
+MR
+Bertolet
+Bisognano
+J D
+JD
+Blonder
+R D
+RD
+Breburda
+C S
+CS
+Canaday
+Capodilupo
+R C
+RC
+Choiunard
+M D
+MD
+Colucci
+W S
+WS
+Dahiya
+R J
+RJ
+Dunlap
+S H
+SH
+Essandoh
+L K
+LK
+Flores
+A R
+AR
+Henderson
+D A
+DA
+Herzog
+W R
+WR
+Jr
+Katz
+Kosinski
+E J
+EJ
+Labin
+I N
+IN
+Lally
+F L
+FL
+Lash
+McGrew
+F A
+FA
+3rd
+Mohiuddin
+Moraes
+Murali
+Nallasivan
+Philbin
+Prabhu
+Primack
+D S
+Ramani
+Rawitscher
+Sangrigoli
+Schamalfuss
+Stoletniy
+Strong
+M H
+MH
+Thadani
+Treasure
+C B
+CB
+2nd
+Vicari
+Vogel
+C D
+CD
+Wlsh
+M N
+MN
+Wencker
+Wilson
+Winkel
+Wiseman
+A H
+Zoiopoulos
+L Y
+LY
+Mancebo
+Mendoza
+Waich
+S T
+ST
+16
+6
+13
+ppublish

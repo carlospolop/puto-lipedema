@@ -1,0 +1,102 @@
+10471456
+1999
+09
+02
+2025
+19
+0028-4793
+341
+10
+Sep
+The New England journal of medicine
+N Engl J Med
+The effect of spironolactone on morbidity and mortality in patients with severe heart failure. Randomized Aldactone Evaluation Study Investigators.
+709
+717
+709-17
+Aldosterone is important in the pathophysiology of heart failure. In a doubleblind study, we enrolled 1663 patients who had severe heart failure and a left ventricular ejection fraction of no more than 35 percent and who were being treated with an angiotensin-converting-enzyme inhibitor, a loop diuretic, and in most cases digoxin. A total of 822 patients were randomly assigned to receive 25 mg of spironolactone daily, and 841 to receive placebo. The primary end point was death from all causes.
+The trial was discontinued early, after a mean follow-up period of 24 months, because an interim analysis determined that spironolactone was efficacious. There were 386 deaths in the placebo group (46 percent) and 284 in the spironolactone group (35 percent; relative risk of death, 0.70; 95 percent confidence interval, 0.60 to 0.82; P<0.001). This 30 percent reduction in the risk of death among patients in the spironolactone group was attributed to a lower risk of both death from progressive heart failure and sudden death from cardiac causes. The frequency of hospitalization for worsening heart failure was 35 percent lower in the spironolactone group than in the placebo group (relative risk of hospitalization, 0.65; 95 percent confidence interval, 0.54 to 0.77; P<0.001). In addition, patients who received spironolactone had a significant improvement in the symptoms of heart failure, as assessed on the basis of the New York Heart Association functional class (P<0.001). Gynecomastia or breast pain was reported in 10 percent of men who were treated with spironolactone, as compared with 1 percent of men in the placebo group (P<0.001). The incidence of serious hyperkalemia was minimal in both groups of patients.
+Blockade of aldosterone receptors by spironolactone, in addition to standard therapy, substantially reduces the risk of both morbidity and death among patients with severe heart failure.
+Pitt
+B
+Department of Internal Medicine, Division of Cardiology, University of Michigan, Ann Arbor, USA.
+Zannad
+F
+Remme
+W J
+WJ
+Cody
+R
+Castaigne
+A
+Perez
+Palensky
+J
+Wittes
+eng
+Clinical Trial
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+United States
+0255562
+0
+Angiotensin-Converting Enzyme Inhibitors
+Diuretics
+Mineralocorticoid Receptor Antagonists
+27O7W4T232
+Spironolactone
+IM
+ACP J Club. 2000 Jan-Feb;132(1):2
+N Engl J Med. 1999 Sep 2;341(10):753-5. doi: 10.1056/NEJM199909023411009.
+10471464
+N Engl J Med. 2000 Jan 13;342(2):132; author reply 133-4. doi: 10.1056/NEJM200001133420213.
+10636750
+N Engl J Med. 2000 Jan 13;342(2):132-3; author reply 133-4.
+10636751
+N Engl J Med. 2000 Jan 13;342(2):133; author reply 133-4.
+10636752
+10636753
+N Engl J Med. 2001 Sep 20;345(12):925-6. doi: 10.1056/NEJM200109203451215.
+11565535
+N Engl J Med. 2001 Sep 27;345(13):998; author reply 998-9.
+11575300
+Nephrol Dial Transplant. 2002 Nov;17(11):2035-6. doi: 10.1093/ndt/17.11.2035.
+12401873
+N Engl J Med. 2003 Jul 3;349(1):88-9; author reply 88-9. doi: 10.1056/NEJMc031076.
+12840098
+N Engl J Med. 2003 Jul 3;349(1):88-9; author reply 88-9.
+12846223
+N Engl J Med. 2003 Jul 3;349(1):88-9; author reply 88-9..
+12846224
+N Engl J Med. 2004 Aug 5;351(6):526-8. doi: 10.1056/NEJMp048144.
+15295043
+Aged
+therapeutic use
+Cause of Death
+Double-Blind Method
+Drug Therapy, Combination
+Female
+Gynecomastia
+chemically induced
+Heart Diseases
+mortality
+Heart Failure
+drug therapy
+Hospitalization
+statistics & numerical data
+Humans
+Hyperkalemia
+Male
+Middle Aged
+adverse effects
+Risk
+Survival Analysis
+9
+2
+2000
+5
+20
+ppublish
+10.1056/NEJM199909023411001

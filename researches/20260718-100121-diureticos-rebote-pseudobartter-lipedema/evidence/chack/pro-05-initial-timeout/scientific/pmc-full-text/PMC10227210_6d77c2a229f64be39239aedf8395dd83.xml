@@ -1,0 +1,589 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="jah38387" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="pmc-domain-id">1888</journal-id><journal-id journal-id-type="pmc-domain">jaha</journal-id><journal-id journal-id-type="nlm-id">101580524</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC10227210</article-id><article-id pub-id-type="pmcid-ver">PMC10227210.1</article-id><article-id pub-id-type="pmcaid">10227210</article-id><article-id pub-id-type="pmcaiid">10227210</article-id><article-id pub-id-type="pmid">37119064</article-id><article-id pub-id-type="doi">10.1161/JAHA.122.028739</article-id><article-id pub-id-type="publisher-id">JAH38387</article-id><article-id pub-id-type="other">JAHA/2022/028739</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Kidney in Cardiovascular Disease</subject></subj-group></subj-group></article-categories><title-group><article-title>Effects of Dapagliflozin in Chronic Kidney Disease, With and Without Other Cardiovascular Medications: <styled-content style="fixed-case" toggle="no">DAPA‐CKD</styled-content> Trial</article-title><alt-title alt-title-type="right-running-head">Cardiovascular Medications in <styled-content style="fixed-case" toggle="no">DAPA‐CKD</styled-content>
+</alt-title><alt-title alt-title-type="left-running-head">Chertow et al</alt-title></title-group><contrib-group><contrib id="jah38387-cr-0001" contrib-type="author"><name name-style="western"><surname>Chertow</surname><given-names initials="GM">Glenn M.</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7599-0534</contrib-id><xref rid="jah38387-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="jah38387-cr-0002" contrib-type="author"><name name-style="western"><surname>Correa‐Rotter</surname><given-names initials="R">Ricardo</given-names></name><degrees>MD</degrees><xref rid="jah38387-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="jah38387-cr-0003" contrib-type="author"><name name-style="western"><surname>Vart</surname><given-names initials="P">Priya</given-names></name><degrees>PhD</degrees><xref rid="jah38387-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jah38387-cr-0004" contrib-type="author"><name name-style="western"><surname>Jongs</surname><given-names initials="N">Niels</given-names></name><degrees>PhD</degrees><xref rid="jah38387-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="jah38387-cr-0005" contrib-type="author"><name name-style="western"><surname>McMurray</surname><given-names initials="JJV">John J. V.</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6317-3975</contrib-id><xref rid="jah38387-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="jah38387-cr-0006" contrib-type="author"><name name-style="western"><surname>Rossing</surname><given-names initials="P">Peter</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1531-4294</contrib-id><xref rid="jah38387-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="jah38387-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="jah38387-cr-0007" contrib-type="author"><name name-style="western"><surname>Langkilde</surname><given-names initials="AM">Anna Maria</given-names></name><degrees>MD</degrees><xref rid="jah38387-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="jah38387-cr-0008" contrib-type="author"><name name-style="western"><surname>Sjöström</surname><given-names initials="CD">C. David</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8380-9766</contrib-id><xref rid="jah38387-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="jah38387-cr-0009" contrib-type="author"><name name-style="western"><surname>Toto</surname><given-names initials="RD">Robert D.</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9531-1749</contrib-id><xref rid="jah38387-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref></contrib><contrib id="jah38387-cr-0010" contrib-type="author"><name name-style="western"><surname>Wheeler</surname><given-names initials="DC">David C.</given-names></name><degrees>MD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0745-3478</contrib-id><xref rid="jah38387-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref></contrib><contrib id="jah38387-cr-0011" contrib-type="author" corresp="yes"><name name-style="western"><surname>Heerspink</surname><given-names initials="HJL">Hiddo J. L.</given-names></name><degrees>PhD</degrees><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3126-3730</contrib-id><xref rid="jah38387-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="jah38387-aff-0010" ref-type="aff">
+<sup>10</sup>
+</xref><address><email>h.j.lambers.heerspink@umcg.nl</email></address></contrib><contrib id="jah38387-cr-0012" contrib-type="author"><collab collab-type="authors">for the DAPA‐CKD Trial Committees and Investigators</collab><xref rid="jah38387-note-0002" ref-type="author-notes">
+<sup>†</sup>
+</xref></contrib></contrib-group><aff id="jah38387-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Departments of Medicine, Epidemiology and Population Health, and Health Policy</named-content>
+<institution>Stanford University School of Medicine</institution>
+<city>Stanford</city>
+<named-content content-type="country-part">CA</named-content>
+</aff><aff id="jah38387-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán</institution>
+<city>Mexico City</city>
+<country country="MX">Mexico</country>
+</aff><aff id="jah38387-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Pharmacy and Pharmacology</named-content>
+<institution>University of Groningen, University Medical Centre Groningen</institution>
+<city>Groningen</city>
+<country country="NL">The Netherlands</country>
+</aff><aff id="jah38387-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Institute of Cardiovascular and Medical Sciences</named-content>
+<institution>University of Glasgow</institution>
+<city>Glasgow</city>
+<country country="GB">UK</country>
+</aff><aff id="jah38387-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Steno Diabetes Center Copenhagen</institution>
+<city>Herlev</city>
+<country country="DK">Denmark</country>
+</aff><aff id="jah38387-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Medicine</named-content>
+<institution>University of Copenhagen</institution>
+<city>Copenhagen</city>
+<country country="DK">Denmark</country>
+</aff><aff id="jah38387-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Late‐Stage Development, Cardiovascular, Renal and Metabolism, BioPharmaceuticals R&amp;D</named-content>
+<institution>AstraZeneca</institution>
+<city>Gothenburg</city>
+<country country="SE">Sweden</country>
+</aff><aff id="jah38387-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<named-content content-type="organisation-division">Department of Internal Medicine</named-content>
+<institution>UT Southwestern Medical Center</institution>
+<city>Dallas</city>
+<named-content content-type="country-part">TX</named-content>
+</aff><aff id="jah38387-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<named-content content-type="organisation-division">Department of Renal Medicine</named-content>
+<institution>University College London</institution>
+<city>London</city>
+<country country="GB">UK</country>
+</aff><aff id="jah38387-aff-0010">
+<label>
+<sup>10</sup>
+</label>
+<institution>The George Institute for Global Health</institution>
+<city>Sydney</city>
+<country country="AU">Australia</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>Correspondence to: Hiddo J. L. Heerspink, PhD, Department of Clinical Pharmacy and Pharmacology, De Brug 50D‐1‐015; EB70, University Medical Centre Groningen, PO Box 30001, 9700 AD Groningen, The Netherlands. Email: <email>h.j.lambers.heerspink@umcg.nl</email>
+</corresp><fn id="jah38387-note-0002"><label>†</label><p>A complete list of the DAPA‐CKD Trial Committees and Investigators can be found in the Supplemental Material.</p></fn></author-notes><pub-date pub-type="epub"><day>29</day><month>4</month><year>2023</year></pub-date><pub-date pub-type="collection"><day>02</day><month>5</month><year>2023</year></pub-date><volume>12</volume><issue seq="180">9</issue><issue-id pub-id-type="pmc-issue-id">436888</issue-id><issue-id pub-id-type="doi">10.1002/jah3.v12.9</issue-id><elocation-id>e028739</elocation-id><history><date date-type="received"><day>04</day><month>11</month><year>2022</year></date><date date-type="accepted"><day>03</day><month>3</month><year>2023</year></date></history><pub-history><event event-type="pmc-release"><date><day>02</day><month>05</month><year>2023</year></date></event><event event-type="pmc-live"><date><day>31</day><month>05</month><year>2023</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2023-09-11 07:25:21.627"><day>11</day><month>09</month><year>2023</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2023 The Authors and AstraZeneca. Published on behalf of the American Heart Association, Inc., by Wiley.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JAH3-12-e028739.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JAH3-12-e028739.pdf"/><abstract><sec id="jah38387-sec-0001"><title>Background</title><p>The DAPA‐CKD (Dapagliflozin and Prevention of Adverse Outcomes in Chronic Kidney Disease) trial (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03036150">NCT03036150</ext-link>) demonstrated that dapagliflozin reduced the risk of kidney and cardiovascular events in patients with chronic kidney disease and albuminuria with and without type 2 diabetes. We aimed to determine whether baseline cardiovascular medication use modified the dapagliflozin treatment effect.</p></sec><sec id="jah38387-sec-0002"><title>Methods and Results</title><p>We randomized 4304 adults with baseline estimated glomerular filtration rate 25 to 75 mL/min per 1.73 m<sup>2</sup> and urinary albumin:creatinine ratio 200 to 5000 mg/g to dapagliflozin 10 mg or placebo once daily. The primary end point was a composite of ≥50% estimated glomerular filtration rate decline, end‐stage kidney disease, and kidney or cardiovascular death. Secondary end points included a kidney composite end point (primary composite end point without cardiovascular death), a cardiovascular composite end point (hospitalized heart failure or cardiovascular death), and all‐cause mortality. We categorized patients according to baseline cardiovascular medication use/nonuse. Patients were required by protocol to receive a stable (and maximally tolerated) dose of a renin‐angiotensin‐aldosterone system inhibitor. We observed consistent benefits of dapagliflozin relative to placebo, irrespective of baseline use/nonuse of renin‐angiotensin‐aldosterone system inhibitors (98.1%), calcium channel blockers (50.7%), β‐adrenergic antagonists (39.0%), diuretics (43.7%), and antithrombotic (47.4%), and lipid‐lowering (15.0%) agents. Use of these drugs in combination with dapagliflozin did not increase the number of serious adverse events.</p></sec><sec id="jah38387-sec-0003"><title>Conclusions</title><p>The safety profile and efficacy of dapagliflozin on kidney and cardiovascular end points in patients with chronic kidney disease were consistent among patients treated and not treated at baseline with a range of cardiovascular medications.</p></sec><sec id="jah38387-sec-0004"><title>Registration Information</title><p>
+<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://clinicaltrials.gov" ext-link-type="uri">clinicaltrials.gov</ext-link>. Identifier: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03036150">NCT03036150</ext-link>.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah38387-kwd-0001">cardiovascular medications</kwd><kwd id="jah38387-kwd-0002">chronic kidney disease</kwd><kwd id="jah38387-kwd-0003">dapagliflozin</kwd><kwd id="jah38387-kwd-0004">SGLT2 inhibitors</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Treatment</kwd><kwd>Clinical Studies</kwd><kwd>ACE/Angiotension Receptors/Renin Angiotensin System</kwd></kwd-group><counts><fig-count count="3"/><table-count count="2"/><page-count count="10"/><word-count count="5192"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>02 May 2023</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.3.3 mode:remove_FC converted:21.08.2023</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="jah38387-ntgp-0001"><fn id="jah38387-note-0001"><label>*</label><p>GM Chertow and R Correa‐Rotter contributed equally.</p></fn><fn id="jah38387-note-0003"><p>This manuscript was sent to Joseph I. Shapiro, MD, Guest Editor, for review by expert referees, editorial decision, and final disposition.</p></fn><fn id="jah38387-note-0004"><p>Supplemental Material is available at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ahajournals.org/doi/suppl/10.1161/JAHA.122.028739" ext-link-type="uri">https://www.ahajournals.org/doi/suppl/10.1161/JAHA.122.028739</ext-link>
+</p></fn><fn id="jah38387-note-0005"><p>For Sources of Funding and Disclosures, see page 9.</p></fn></fn-group></notes></front><body id="jah38387-body-0001"><def-list list-content="abbreviations" id="jah38387-lp-0001"><title>Nonstandard Abbreviations and Acronyms</title><def-item><term id="jah38387-li-0004">AE</term><def id="jah38387-li-0005"><p>adverse event</p></def></def-item><def-item><term id="jah38387-li-0006">CANVAS</term><def id="jah38387-li-0007"><p>Canagliflozin Cardiovascular Assessment Study</p></def></def-item><def-item><term id="jah38387-li-0008">CKD‐EPI</term><def id="jah38387-li-0009"><p>Chronic Kidney Disease Epidemiology Collaboration</p></def></def-item><def-item><term id="jah38387-li-0010">CREDENCE</term><def id="jah38387-li-0011"><p>Canagliflozin and Renal Events in Diabetes with Established Nephropathy Clinical Evaluation</p></def></def-item><def-item><term id="jah38387-li-0012">CRT</term><def id="jah38387-li-0013"><p>cardiac resynchronization therapy</p></def></def-item><def-item><term id="jah38387-li-0014">DAPA‐CKD</term><def id="jah38387-li-0015"><p>Dapagliflozin and Prevention of Adverse Outcomes in Chronic Kidney Disease</p></def></def-item><def-item><term id="jah38387-li-0016">DECLARE‐TIMI 58</term><def id="jah38387-li-0017"><p>Dapagliflozin Effect on Cardiovascular Events–Thrombolysis in Myocardial Infarction 58</p></def></def-item><def-item><term id="jah38387-li-0018">EMPA‐REG</term><def id="jah38387-li-0019"><p>(Empagliflozin) Cardiovascular Outcome</p></def></def-item><def-item><term id="jah38387-li-0020">EMPEROR‐Reduced</term><def id="jah38387-li-0021"><p>Empagliflozin Outcome Trial in Patients With Chronic Heart Failure With Reduced Ejection Fraction</p></def></def-item><def-item><term id="jah38387-li-0022">FIDELIO‐DKD</term><def id="jah38387-li-0023"><p>Finerenone in Reducing Kidney Failure and Disease Progression in Diabetic Kidney Disease</p></def></def-item><def-item><term id="jah38387-li-0030">NC</term><def id="jah38387-li-0031"><p>non calculable</p></def></def-item><def-item><term id="jah38387-li-0024">RAAS</term><def id="jah38387-li-0025"><p>renin‐angiotensin‐aldosterone system</p></def></def-item><def-item><term id="jah38387-li-0026">SGLT2</term><def id="jah38387-li-0027"><p>sodium‐glucose cotransporter‐2</p></def></def-item></def-list><p>
+<boxed-text position="anchor" content-type="box" id="jah38387-blkfxd-0001" orientation="portrait"><caption><title>Clinical Perspective</title></caption><sec id="jah38387-sec-0007"><title>What Is New?</title><p>
+<list list-type="bullet" id="jah38387-list-0001"><list-item id="jah38387-li-0001"><p>The DAPA‐CKD (Dapagliflozin and Prevention of Adverse Outcomes in Chronic Kidney Disease) trial demonstrated that compared with placebo, dapagliflozin reduced adverse kidney and cardiovascular outcomes and all‐cause mortality in patients with chronic kidney disease, irrespective of the presence of diabetes; however, it is unknown whether the use of cardiovascular medications modifies these effects of dapagliflozin in this patient population.</p></list-item><list-item id="jah38387-li-0002"><p>We investigated the benefits of dapagliflozin in participants treated and not treated with a range of cardiovascular medications—diuretics, calcium channel blockers, β‐adrenergic antagonists, antithrombotic agents, and lipid‐lowering agents—used as standard of care in the aforementioned patient population; results showed that the efficacy of dapagliflozin on kidney and cardiovascular end points was consistent, with no change in associated safety, irrespective of treatment with a range of cardiovascular medications.</p></list-item></list>
+</p></sec><sec id="jah38387-sec-0008"><title>What Are the Clinical Implications?</title><p>
+<list list-type="bullet" id="jah38387-list-0002"><list-item id="jah38387-li-0003"><p>These results document the safety and efficacy of dapagliflozin with use/nonuse of a wide range of cardiovascular medications, demonstrating benefits on kidney and cardiovascular outcomes in patients with mild, moderate, and advanced chronic kidney disease, with and without diabetes, which are populations at higher risk of adverse drug effects relative to persons with normal or near normal kidney function. Furthermore, the demonstrated safety of coadministration of dapagliflozin with a range of antithrombotic and lipid‐lowering agents may allow patients to enjoy the benefits of dapagliflozin on reducing risks of heart failure and progressive kidney disease, while safely gaining treatment benefits with other agents aimed to reduce cardiovascular complications, thus expanding the treatment repertoire for this patient population.</p></list-item></list>
+</p></sec></boxed-text>
+</p><p>In the DAPA‐CKD (Dapagliflozin and Prevention of Adverse outcomes in Chronic Kidney Disease)) trial, the sodium‐glucose cotransporter‐2 (SGLT2) inhibitor dapagliflozin reduced the risk of major kidney and cardiovascular events and prolonged survival in patients with chronic kidney disease (CKD), with and without type 2 diabetes.<xref rid="jah38387-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> Similar results had been observed in patients with type 2 diabetes in the CREDENCE (Canagliflozin and Renal Events in Diabetes with Established Nephropathy Clinical Evaluation) trial, in which canagliflozin significantly reduced the risks of progressive kidney disease and major cardiovascular events but not cardiovascular mortality.<xref rid="jah38387-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Previous studies with these and other SGLT2 inhibitors in patients with type 2 diabetes demonstrated significant cardiovascular benefits (EMPA‐REG (Empagliflozin) Cardiovascular Outcome), DECLARE‐TIMI 58 (Dapagliflozin Effect on Cardiovascular Events–Thrombolysis in Myocardial Infarction 58), and CANVAS (Canagliflozin Cardiovascular Assessment Study).<xref rid="jah38387-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="jah38387-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="jah38387-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+</p><p>Patients included in these and other cardiovascular trials are typically treated with a variety of concomitant medications, many of which are indicated either for control of hypertension or for prevention or treatment of other cardiovascular conditions (eg, hypercholesterolemia, coronary, cerebrovascular or peripheral arterial disease, heart failure, and atrial fibrillation). In DAPA‐CKD and other trials, maximally tolerated doses of renin‐angiotensin‐aldosterone system (RAAS) inhibitors were required by protocol.</p><p>The DAPA‐CKD trial required that all patients be treated with standard of care (regional guideline–concordant) therapies for kidney, cardiovascular, and other conditions unless contraindicated.<xref rid="jah38387-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> The protocol itself did not mandate specific drugs or doses, with the exception of the RAAS inhibitors, as previously described.</p><p>In this prespecified analysis of the DAPA‐CKD trial, we aimed to examine whether baseline use of cardiovascular medications modified the effects of dapagliflozin on kidney and cardiovascular end points and on safety in patients with CKD and albuminuria.</p><sec sec-type="methods" id="jah38387-sec-0009"><title>Methods</title><sec id="jah38387-sec-0010"><title>Data Sharing Statement</title><p>Data underlying the findings described in this article may be obtained in accordance with AstraZeneca's data sharing policy described at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure" ext-link-type="uri">https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure</ext-link>.</p><p>Data for studies directly listed on Vivli can be requested through Vivli at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.vivli.org" ext-link-type="uri">www.vivli.org</ext-link>. Data for studies not listed on Vivli can be requested through Vivli at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://vivli.org/members/enquiries-about-studies-not-listed-on-the-vivli-platform/" ext-link-type="uri">https://vivli.org/members/enquiries‐about‐studies‐not‐listed‐on‐the‐vivli‐platform/</ext-link>. AstraZeneca Vivli member page is also available outlining further details: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://vivli.org/ourmember/astrazeneca/" ext-link-type="uri">https://vivli.org/ourmember/astrazeneca/</ext-link>.</p><p>DAPA‐CKD was a randomized, double‐blind, placebo‐controlled, multicenter clinical trial; articles describing trial design, baseline characteristics, primary results, and results stratified by diabetes status, history of cardiovascular disease, and several other baseline clinical characteristics have been previously published.<xref rid="jah38387-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="jah38387-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> The trial was sponsored by AstraZeneca and conducted at 386 sites in 21 countries from February 2017 through June 2020 and registered at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://clinicaltrials.gov" ext-link-type="uri">clinicaltrials.gov</ext-link> (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03036150">NCT03036150</ext-link>). The safety of participants in the trial was overseen by an independent Data and Safety Monitoring Committee. The DAPA‐CKD trial was conducted according to the principles of the Declaration of Helsinki. Ethics committees at all participating centers approved the protocol, and all participants provided written informed consent before any study‐specific procedure commenced.</p><sec id="jah38387-sec-0011"><title>Participants</title><p>Adults with or without type 2 diabetes, estimated glomerular filtration rate (eGFR) 25 to 75 mL/min per 1.73 m<sup>2</sup>, and urinary albumin:creatinine ratio 200 to 5000 mg/g were eligible for participation. We required patients to be treated with a stable maximally tolerated dose of RAAS inhibitor (angiotensin‐converting enzyme [ACE] inhibitor or angiotensin receptor blocker [ARB]) for ≥4 weeks, unless medically contraindicated. Key exclusion criteria included documented diagnosis of type 1 diabetes, polycystic kidney disease, lupus nephritis, or antineutrophil cytoplasmic antibody‐associated vasculitis. A complete list of inclusion and exclusion criteria and the trial protocol have been previously published.<xref rid="jah38387-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>
+</p></sec><sec id="jah38387-sec-0012"><title>Procedures</title><p>Participants were randomly assigned to dapagliflozin 10 mg once daily or matching placebo, in accordance with the sequestered, fixed‐randomization schedule, with the use of balanced blocks to ensure an approximate 1:1 ratio of the 2 regimens. Randomization was stratified by diabetes status and urinary albumin:creatinine ratio (≤or &gt;1000 mg/g). We calculated eGFR using the Chronic Kidney Disease Epidemiology Collaboration and incorporated results from the equation as originally defined, including a term for self‐reported race (Black versus non‐Black race). Recruitment of patients with eGFR 60 to 75 mL/min per 1.73 m<sup>2</sup> was limited to no more than 10% of trial participants. Participants and all study personnel (except the Independent Data Monitoring Committee) were masked to treatment allocation.</p><p>After randomization, in‐person study visits were performed after 2 weeks, 2, 4, and 8 months, and at 4‐month intervals thereafter. At each follow‐up visit, study personnel recorded vital signs, obtained blood and urine samples, and recorded information on potential study end points, adverse events, concomitant therapies, and study drug adherence.</p></sec><sec id="jah38387-sec-0013"><title>End Points</title><p>The primary composite end point was time to ≥50% decline in eGFR (confirmed by a second serum creatinine measurement after at least 28 days), onset of kidney failure (defined as maintenance dialysis for at least 28 days, kidney transplantation, or eGFR &lt;15 mL/min per 1.73 m<sup>2</sup> confirmed by a second measurement after at least 28 days), or death from a kidney or cardiovascular cause. Secondary end points were time to (1) a composite kidney end point of ≥50% sustained decline in eGFR, kidney failure, or death from kidney disease; (2) a composite cardiovascular end point defined as hospitalization for heart failure or cardiovascular death; and (3) death from any cause. We also prespecified change in eGFR slope as an exploratory efficacy end point. All efficacy end points were adjudicated by a masked, independent Clinical Events Committee, except for the quantitative assessments of eGFR, which were obtained from our central laboratory.</p></sec><sec id="jah38387-sec-0014"><title>Cardiovascular Medication Use</title><p>Participants were required to receive the highest tolerated dose of RAAS inhibitors; all other agents were prescribed at the discretion of the treating physician in accordance with regional standards of care for associated conditions. We categorized cardiovascular medications as follows: diuretics (loop diuretic, thiazide diuretic, or mineralocorticoid receptor antagonist), calcium channel blockers, β‐adrenergic antagonists, antithrombotic agents (antiplatelet drugs or anticoagulants), and lipid‐lowering agents (statins or other). We further categorized patients according to baseline RAAS inhibitor dose, defined as 100% (or more), 50 to &lt;100%, and &lt;50% of the maximum labeled antihypertensive dose, and those not treated with RAAS inhibitors.</p></sec><sec id="jah38387-sec-0015"><title>Statistical Analysis</title><p>The overall analytic approach, power calculation, and prespecified statistical analysis plan have been previously published.<xref rid="jah38387-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> All analyses presented here followed the intention‐to‐treat principle. Briefly, we conducted time‐to‐event analyses using a proportional hazards (Cox) regression stratified by randomization factors (diabetes status and urinary albumin:creatinine ratio), adjusting for baseline eGFR, yielding hazard ratios and 95% CI from model parameter coefficients and SEs. For the purpose of the current analysis, we evaluated the primary and secondary efficacy end points in participants stratified by baseline use/nonuse of cardiovascular medication class. We tested for heterogeneity of the dapagliflozin treatment effect by including a multiplicative interaction term between randomized treatment group and use/nonuse of cardiovascular medications. For time‐to‐event analyses, we assessed for nonuniformity of hazard ratios with the Akaike's information criterion. We considered 2‐tailed <italic toggle="yes">P</italic> values &lt;0.05 to be statistically significant.</p></sec></sec></sec><sec sec-type="results" id="jah38387-sec-0016"><title>Results</title><p>As previously described,<xref rid="jah38387-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> 4304 adults with and without type 2 diabetes with baseline eGFR 25 to 75 mL/min per 1.73 m<sup>2</sup> and urinary albumin:creatinine ratio of 200 to 5000 mg/g were randomized to either dapagliflozin 10 mg or placebo once daily with a median follow‐up of 2.4 years. Table <xref rid="jah38387-tbl-0001" ref-type="table">1</xref> shows selected demographic and clinical characteristics of participants in each of the randomized groups (dapagliflozin versus placebo) stratified by diabetes status, including baseline use/nonuse of cardiovascular medications.</p><table-wrap position="float" id="jah38387-tbl-0001" content-type="Table" orientation="portrait"><label>Table 1</label><caption><p>Baseline Characteristics of Participants Stratified by Diabetes Status at Baseline (All Randomized Participants)</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" style="border-bottom:solid 1px #000000" colspan="1">Characteristic</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" rowspan="1">With type 2 diabetes</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" rowspan="1">Without type 2 diabetes</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" style="border-bottom:solid 1px #000000" rowspan="1" colspan="1">Dapagliflozin (n=1455)</th><th align="left" rowspan="1" colspan="1">Placebo (n=1451)</th><th align="left" rowspan="1" colspan="1">Dapagliflozin (n=697)</th><th align="left" rowspan="1" colspan="1">Placebo (n=701)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age,y, mean (SD)</td><td align="center" rowspan="1" colspan="1">64.1 (9.8)</td><td align="center" rowspan="1" colspan="1">64.7 (9.5)</td><td align="center" rowspan="1" colspan="1">56.9 (14.6)</td><td align="center" rowspan="1" colspan="1">56.0 (14.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Female sex, n (%)</td><td align="center" rowspan="1" colspan="1">494 (34.0)</td><td align="center" rowspan="1" colspan="1">471 (32.5)</td><td align="center" rowspan="1" colspan="1">215 (30.8)</td><td align="center" rowspan="1" colspan="1">245 (35.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Weight,kg, mean (SD)</td><td align="center" rowspan="1" colspan="1">83.2 (20.9)</td><td align="center" rowspan="1" colspan="1">83.8 (21.2)</td><td align="center" rowspan="1" colspan="1">77.9 (17.8)</td><td align="center" rowspan="1" colspan="1">78.3 (19.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">BMI,kg/m<sup>2</sup>, mean (SD)</td><td align="center" rowspan="1" colspan="1">30.2 (6.2)</td><td align="center" rowspan="1" colspan="1">30.4 (6.3)</td><td align="center" rowspan="1" colspan="1">27.7 (5.2)</td><td align="center" rowspan="1" colspan="1">28.1 (5.9)</td></tr><tr><td align="left" colspan="5" rowspan="1">Blood pressure,mm Hg, mean (SD)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Systolic</td><td align="center" rowspan="1" colspan="1">138.8 (17.6)</td><td align="center" rowspan="1" colspan="1">139.6 (17.1)</td><td align="center" rowspan="1" colspan="1">132.3 (16.4)</td><td align="center" rowspan="1" colspan="1">132.9 (16.9)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Diastolic</td><td align="center" rowspan="1" colspan="1">76.5 (10.4)</td><td align="center" rowspan="1" colspan="1">76.5 (9.9)</td><td align="center" rowspan="1" colspan="1">79.6 (10.9)</td><td align="center" rowspan="1" colspan="1">79.6 (10.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">eGFR,mL/min/1.73 m<sup>2</sup>
+</td><td align="center" rowspan="1" colspan="1">44.0 (12.6)</td><td align="center" rowspan="1" colspan="1">43.6 (12.6)</td><td align="center" rowspan="1" colspan="1">41.7 (11.5)</td><td align="center" rowspan="1" colspan="1">41.8 (11.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">UACR,mg/g, median (IQR)</td><td align="center" rowspan="1" colspan="1">1024.5 (472.5–2111.0)</td><td align="center" rowspan="1" colspan="1">1004.5 (493.2–2017.0)</td><td align="center" rowspan="1" colspan="1">870.5 (472.0–1533.5)</td><td align="center" rowspan="1" colspan="1">841.5 (458.5–1554.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">HbA1c,%, mean (SD)</td><td align="center" rowspan="1" colspan="1">7.8 (1.7)</td><td align="center" rowspan="1" colspan="1">7.8 (1.6)</td><td align="center" rowspan="1" colspan="1">5.6 (0.4)</td><td align="center" rowspan="1" colspan="1">5.6 (0.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">History of cardiovascular disease, n (%)<xref rid="jah38387-note-0007" ref-type="table-fn">*</xref>
+</td><td align="center" rowspan="1" colspan="1">640 (44.0)</td><td align="center" rowspan="1" colspan="1">641 (44.2)</td><td align="center" rowspan="1" colspan="1">173 (24.8)</td><td align="center" rowspan="1" colspan="1">156 (22.2)</td></tr><tr><td align="left" colspan="5" rowspan="1">Prior cardiovascular medication, n (%)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">ACE inhibitors</td><td align="center" rowspan="1" colspan="1">451 (31.0)</td><td align="center" rowspan="1" colspan="1">443 (30.5)</td><td align="center" rowspan="1" colspan="1">222 (31.9)</td><td align="center" rowspan="1" colspan="1">238 (34.0)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">ARB</td><td align="center" rowspan="1" colspan="1">984 (67.6)</td><td align="center" rowspan="1" colspan="1">974 (67.1)</td><td align="center" rowspan="1" colspan="1">460 (66.0)</td><td align="center" rowspan="1" colspan="1">452 (64.5)</td></tr><tr style="border-bottom:solid 1px #000000"><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Calcium channel blockers</td><td align="center" rowspan="1" colspan="1">767 (52.7)</td><td align="center" rowspan="1" colspan="1">782 (53.9)</td><td align="center" rowspan="1" colspan="1">307 (44.0)</td><td align="center" rowspan="1" colspan="1">327 (46.6)</td></tr><tr style="border-bottom:solid 1px #000000"><td style="padding-left:15%" align="left" rowspan="1" colspan="1">Dihydropyridine<xref rid="jah38387-note-0008" ref-type="table-fn">†</xref>
+</td><td align="center" rowspan="1" colspan="1">738 (96.2)</td><td align="center" rowspan="1" colspan="1">759 (97.1)</td><td align="center" rowspan="1" colspan="1">293 (95.4)</td><td align="center" rowspan="1" colspan="1">313 (95.7)</td></tr><tr><td style="padding-left:15%" align="left" rowspan="1" colspan="1">Nondihydropyridine<xref rid="jah38387-note-0009" ref-type="table-fn">‡</xref>
+</td><td align="center" rowspan="1" colspan="1">29 (3.8)</td><td align="center" rowspan="1" colspan="1">23 (2.9)</td><td align="center" rowspan="1" colspan="1">14 (4.6)</td><td align="center" rowspan="1" colspan="1">14 (4.3)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">β‐blockers</td><td align="center" rowspan="1" colspan="1">627 (43.1)</td><td align="center" rowspan="1" colspan="1">640 (44.1)</td><td align="center" rowspan="1" colspan="1">219 (31.4)</td><td align="center" rowspan="1" colspan="1">194 (27.7)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Diuretics</td><td align="center" rowspan="1" colspan="1">718 (49.3)</td><td align="center" rowspan="1" colspan="1">747 (51.5)</td><td align="center" rowspan="1" colspan="1">210 (30.1)</td><td align="center" rowspan="1" colspan="1">207 (29.5)</td></tr><tr><td style="padding-left:15%" align="left" rowspan="1" colspan="1">MRA</td><td align="center" rowspan="1" colspan="1">82 (5.6)</td><td align="center" rowspan="1" colspan="1">89 (6.1)</td><td align="center" rowspan="1" colspan="1">27 (3.9)</td><td align="center" rowspan="1" colspan="1">31 (4.4)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Antithrombotic agents<xref rid="jah38387-note-0010" ref-type="table-fn">§</xref>
+</td><td align="center" rowspan="1" colspan="1">820 (56.4)</td><td align="center" rowspan="1" colspan="1">829 (57.1)</td><td align="center" rowspan="1" colspan="1">202 (29.0)</td><td align="center" rowspan="1" colspan="1">191 (27.2)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Lipid‐lowering agents</td><td align="center" rowspan="1" colspan="1">209 (14.4)</td><td align="center" rowspan="1" colspan="1">243 (16.7)</td><td align="center" rowspan="1" colspan="1">111 (15.9)</td><td align="center" rowspan="1" colspan="1">82 (11.7)</td></tr></tbody></table><table-wrap-foot id="jah38387-ntgp-0002"><fn id="jah38387-note-0006"><p>ACE indicates angiotensin‐converting enzyme; ARB, angiotensin receptor blocker; BMI, body mass index; eGFR, estimated glomerular filtration rate; HbA1c, hemoglobin A1c; IQR, interquartile range; MRA, mineralocorticoid receptor antagonist; and UACR, urine albumin:creatinine ratio.</p></fn><fn id="jah38387-note-0007"><label>*</label><p>Coronary heart disease, cerebrovascular disease, peripheral artery disease, heart failure, valvular heart disease, atrial fibrillation or atrial flutter, ventricular arrhythmia, pulmonary embolism, and cardiac devices other than those used for cardiac resynchronization therapy.</p></fn><fn id="jah38387-note-0008"><label>
+<sup>†</sup>
+</label><p>Includes amlodipine, nifedipine, isradipine, felodipine, nicardipine, and nisoldipine.</p></fn><fn id="jah38387-note-0009"><label>
+<sup>‡</sup>
+</label><p>Includes diltiazem and verapamil.</p></fn><fn id="jah38387-note-0010"><label>
+<sup>§</sup>
+</label><p>Antiplatelet agents and anticoagulants.</p></fn></table-wrap-foot></table-wrap><p>Cardiovascular medications were generally used more frequently in patients with diabetes, but there were no material differences in the proportion of patients using cardiovascular medications by randomized group. Of the 4304 randomized participants, 4224 (98.1%) were receiving a RAAS inhibitor at baseline, with roughly twice as many patients treated with ARBs as compared with ACE inhibitors. Among the 4296 (99.9%) participants with available data on baseline RAAS inhibitor dose, 1231 (28.6%), 1867 (43.5%), and 1068 (24.8%) were prescribed 100% (or more), 50 to &lt;100%, and &lt;50% of the maximum labeled antihypertensive dose, respectively, and 130 (3.0%) were not prescribed RAAS inhibitors.</p><sec id="jah38387-sec-0017"><title>Efficacy of Dapagliflozin by Baseline Use/Nonuse of Cardiovascular Medications</title><p>Figure <xref rid="jah38387-fig-0001" ref-type="fig">1</xref> shows the effects of dapagliflozin on the primary composite end point in randomized participants by use/nonuse of cardiovascular medications. Figure <xref rid="jah38387-fig-0002" ref-type="fig">2A</xref> through <xref rid="jah38387-fig-0002" ref-type="fig">2C</xref> show corresponding effects of dapagliflozin on the secondary efficacy end points. While there were slight differences in the point estimates for the relative and absolute risk reductions across use/nonuse of specific cardiovascular medications, there was no clear evidence of heterogeneity. In other words, there was no evidence that the beneficial effects of dapagliflozin were enhanced or diminished by any of the cardiovascular medications examined.</p><fig position="float" fig-type="Figure" id="jah38387-fig-0001" orientation="portrait"><label>Figure 1</label><caption><title>Primary composite end point by cardiovascular medication use/nonuse at baseline.</title><p>Primary composite end point: ≥50% decline in eGFR, end‐stage kidney disease, or death from a kidney or cardiovascular cause. ACE indicates angiotensin‐converting enzyme; ARB, angiotensin receptor blocker; and eGFR, estimated glomerular filtration rate.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="JAH3-12-e028739-g003.jpg"/></fig><fig position="float" fig-type="Figure" id="jah38387-fig-0002" orientation="portrait"><label>Figure 2</label><caption><title>Secondary end points (A, kidney‐specific composite; B, composite of HHF or cardiovascular death; and C, all‐cause death) by cardiovascular medication use/nonuse at baseline.</title><p>Kidney‐specific composite end point: ≥50% decline in eGFR, end‐stage kidney disease, or death from a kidney cause. ACE indicates angiotensin‐converting enzyme; ARB, angiotensin receptor blocker; eGFR, estimated glomerular filtration rate; and HHF, hospitalization for heart failure; NC, not calculable.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="JAH3-12-e028739-g001.jpg"/></fig></sec><sec id="jah38387-sec-0018"><title>Relative Efficacy of Dapagliflozin by Baseline Dose of <styled-content style="fixed-case" toggle="no">RAAS</styled-content> Inhibitors</title><p>Among patients randomized to placebo, event rates for the primary composite end point were highest among the 3.0% of participants untreated with RAAS inhibitors (13.2 events per 100 patient‐years); event rates were similar among the 3 other RAAS inhibitor dose groups (7.1, 8.1, and 6.0 events per 100 patient‐years for 100% [or more], 50 to &lt;100%, and &lt;50% of the maximum labeled antihypertensive dose, respectively). Dapagliflozin compared with placebo consistently reduced the risk of the primary and secondary end points irrespective of the RAAS inhibitor dose group (Figure <xref rid="jah38387-fig-0003" ref-type="fig">3</xref>).</p><fig position="float" fig-type="Figure" id="jah38387-fig-0003" orientation="portrait"><label>Figure 3</label><caption><title>Primary and secondary end points by baseline ARB or ACEi dose.</title><p>ACEi indicates angiotensin‐converting enzyme inhibitor; ARB, angiotensin receptor blocker; CV, cardiovascular; eGFR, estimated glomerular filtration rate; ESKD, end‐stage kidney disease; and NC, not calculable.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="JAH3-12-e028739-g002.jpg"/></fig><p>The effects of dapagliflozin (versus placebo) on attenuating the decline in eGFR was evident irrespective of the dose of the prescribed RAAS inhibitor dose (Figure <xref rid="jah38387-supitem-0001" ref-type="supplementary-material">S1</xref>, interaction <italic toggle="yes">P</italic>=0.88).</p></sec><sec id="jah38387-sec-0019"><title>Safety of Dapagliflozin by Baseline Use/Nonuse of Cardiovascular Medications</title><p>Table <xref rid="jah38387-tbl-0002" ref-type="table">2</xref> shows a summary of serious adverse events and adverse events leading to discontinuation in patients stratified by baseline use/nonuse of cardiovascular medications, with safety outcomes by RAAS inhibitor dose in Table <xref rid="jah38387-supitem-0001" ref-type="supplementary-material">S1</xref>. We were particularly interested in whether concomitant use of dapagliflozin and diuretic agents (used in the treatment of heart failure or hypertension) would increase the risk of hypotension, acute kidney injury, falls, or other complications, owing to the natriuretic effects of dapagliflozin. At baseline, 1056 (24.6%) patients were treated with loop diuretics, and 906 (21.1%) were treated with thiazide diuretics. We did not observe an increased risk of serious adverse events with concomitant dapagliflozin and diuretic use. While the proportion of patients treated with diuretics at baseline who experienced an adverse event leading to discontinuation of study drug was numerically higher among patients randomized to dapagliflozin compared with those randomized to placebo, the favorable effects of dapagliflozin on the primary composite end point were similar among patients treated and not treated with loop diuretics (interaction <italic toggle="yes">P</italic>=0.86) and those treated and not treated with thiazide diuretics (interaction <italic toggle="yes">P</italic>=0.46).</p><table-wrap position="float" id="jah38387-tbl-0002" content-type="Table" orientation="portrait"><label>Table 2</label><caption><p>SAEs and AEsLeading to Discontinuation in Patients Stratified by Baseline Use/Nonuse of Cardiovascular Medications</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" style="border-bottom:solid 1px #000000" colspan="1">AE, n/N (%)</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" rowspan="1">With use of cardiovascular medication</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" rowspan="1">Without use of cardiovascular medication</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="1" colspan="1">Dapagliflozin</th><th align="left" rowspan="1" colspan="1">Placebo</th><th align="left" rowspan="1" colspan="1">Dapagliflozin</th><th align="left" rowspan="1" colspan="1">Placebo</th></tr></thead><tbody><tr><td align="left" colspan="5" rowspan="1">ACEi use</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Any AE leading to discontinuation of the study drug</td><td align="left" rowspan="1" colspan="1">39/673 (5.8)</td><td align="left" rowspan="1" colspan="1">30/678 (4.4)</td><td align="left" rowspan="1" colspan="1">79/1476 (5.4)</td><td align="left" rowspan="1" colspan="1">93/1471 (6.3)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Any SAE<xref rid="jah38387-note-0012" ref-type="table-fn">*</xref>
+</td><td align="left" rowspan="1" colspan="1">211/673 (31.4)</td><td align="left" rowspan="1" colspan="1">229/678 (33.8)</td><td align="left" rowspan="1" colspan="1">422/1476 (28.6)</td><td align="left" rowspan="1" colspan="1">500/1471 (34.0)</td></tr><tr><td align="left" colspan="5" rowspan="1">ARB use</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Any AE leading to discontinuation of the study drug</td><td align="left" rowspan="1" colspan="1">76/1441 (5.3)</td><td align="left" rowspan="1" colspan="1">86/1426 (6.0)</td><td align="left" rowspan="1" colspan="1">42/708 (5.9)</td><td align="left" rowspan="1" colspan="1">37/723 (5.1)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Any SAE<xref rid="jah38387-note-0012" ref-type="table-fn">*</xref>
+</td><td align="left" rowspan="1" colspan="1">406/1441 (28.2)</td><td align="left" rowspan="1" colspan="1">482/1426 (33.8)</td><td align="left" rowspan="1" colspan="1">227/708 (32.1)</td><td align="left" rowspan="1" colspan="1">247/723 (34.2)</td></tr><tr><td align="left" colspan="5" rowspan="1">Calcium channel blocker use</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Any AE leading to discontinuation of the study drug</td><td align="left" rowspan="1" colspan="1">56/1073 (5.2)</td><td align="left" rowspan="1" colspan="1">67/1108 (6.0)</td><td align="left" rowspan="1" colspan="1">62/1076 (5.8)</td><td align="left" rowspan="1" colspan="1">56/1041 (5.4)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Any SAE<xref rid="jah38387-note-0012" ref-type="table-fn">*</xref>
+</td><td align="left" rowspan="1" colspan="1">311/1073 (29.0)</td><td align="left" rowspan="1" colspan="1">412/1108 (37.2)</td><td align="left" rowspan="1" colspan="1">322/1076 (29.9)</td><td align="left" rowspan="1" colspan="1">317/1041 (30.5)</td></tr><tr><td align="left" colspan="5" rowspan="1">β‐blocker use</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Any AE leading to discontinuation of the study drug</td><td align="left" rowspan="1" colspan="1">44/843 (5.2)</td><td align="left" rowspan="1" colspan="1">46/833 (5.5)</td><td align="left" rowspan="1" colspan="1">74/1306 (5.7)</td><td align="left" rowspan="1" colspan="1">77/1316 (5.9)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Any SAE<xref rid="jah38387-note-0012" ref-type="table-fn">*</xref>
+</td><td align="left" rowspan="1" colspan="1">292/843 (34.6)</td><td align="left" rowspan="1" colspan="1">345/833 (41.4)</td><td align="left" rowspan="1" colspan="1">341/1306 (26.1)</td><td align="left" rowspan="1" colspan="1">384/1316 (29.2)</td></tr><tr><td align="left" colspan="5" rowspan="1">Diuretic use</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Any AE leading to discontinuation of the study drug</td><td align="left" rowspan="1" colspan="1">56/927 (6.0)</td><td align="left" rowspan="1" colspan="1">57/953 (6.0)</td><td align="left" rowspan="1" colspan="1">62/1222 (5.1)</td><td align="left" rowspan="1" colspan="1">66/1196 (5.5)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Any SAE<xref rid="jah38387-note-0012" ref-type="table-fn">*</xref>
+</td><td align="left" rowspan="1" colspan="1">330/927 (35.6)</td><td align="left" rowspan="1" colspan="1">391/953 (41.0)</td><td align="left" rowspan="1" colspan="1">303/1222 (24.8)</td><td align="left" rowspan="1" colspan="1">338/1196 (28.3)</td></tr><tr><td align="left" colspan="5" rowspan="1">Antithrombotic agent use</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Any AE leading to discontinuation of the study drug</td><td align="left" rowspan="1" colspan="1">52/1022 (5.1)</td><td align="left" rowspan="1" colspan="1">62/1018 (6.1)</td><td align="left" rowspan="1" colspan="1">66/1127 (5.9)</td><td align="left" rowspan="1" colspan="1">61/1131 (5.4)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Any SAE<xref rid="jah38387-note-0012" ref-type="table-fn">*</xref>
+</td><td align="left" rowspan="1" colspan="1">368/1022 (36.0)</td><td align="left" rowspan="1" colspan="1">414/1018 (40.7)</td><td align="left" rowspan="1" colspan="1">265/1127 (23.5)</td><td align="left" rowspan="1" colspan="1">315/1131 (27.9)</td></tr><tr><td align="left" colspan="5" rowspan="1">Lipid‐lowering agent use</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Any AE leading to discontinuation of the study drug</td><td align="left" rowspan="1" colspan="1">18/320 (5.6)</td><td align="left" rowspan="1" colspan="1">25/325 (7.7)</td><td align="left" rowspan="1" colspan="1">100/1829 (5.5)</td><td align="left" rowspan="1" colspan="1">98/1824 (5.4)</td></tr><tr><td style="padding-left:10%" align="left" rowspan="1" colspan="1">Any SAE<xref rid="jah38387-note-0012" ref-type="table-fn">*</xref>
+</td><td align="left" rowspan="1" colspan="1">99/320 (30.9)</td><td align="left" rowspan="1" colspan="1">120/325 (36.9)</td><td align="left" rowspan="1" colspan="1">534/1829 (29.2)</td><td align="left" rowspan="1" colspan="1">609/1824 (33.4)</td></tr></tbody></table><table-wrap-foot id="jah38387-ntgp-0003"><fn id="jah38387-note-0011"><p>ACEi indicates angiotensin‐converting enzyme inhibitor; AE, adverse event; ARB, angiotensin receptor blockers; and SAE, serious adverse event.</p></fn><fn id="jah38387-note-0012"><label>*</label><p>Includes death.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec sec-type="discussion" id="jah38387-sec-0020"><title>Discussion</title><p>We conducted this prespecified analysis to determine whether a variety of commonly prescribed cardiovascular medications modified the safety and efficacy of dapagliflozin in patients with CKD, with and without type 2 diabetes, a sizeable fraction of whom have underlying cardiovascular disease, including coronary, cerebral and peripheral arterial disease, heart failure, atrial fibrillation, and hypercholesterolemia. We found consistent benefits of dapagliflozin on the primary composite end point, as well as on the secondary end points, among patients treated and not treated with diuretics (loop diuretic, thiazide diuretic, or mineralocorticoid receptor antagonists), calcium channel blockers, β‐adrenergic antagonists, antithrombotic agents (antiplatelet agents or anticoagulants), and lipid‐lowering medications. Moreover, we found no evidence that use of any of these medication classes modified the safety profile of dapagliflozin.</p><p>In addition to examining whether cardiovascular medications modified the effects of dapagliflozin in this population, we took the opportunity to examine the effects of dapagliflozin in patients based on baseline dosing of ACE inhibitors or ARBs. While higher doses of ACE inhibitors or ARBs are generally thought to afford patients a greater benefit than lower doses,<xref rid="jah38387-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> dosing in practice is frequently limited by hypotension or hyperkalemia, and some patients are intolerant of troublesome side effects (eg, cough) or serious allergic reactions (eg, angioedema) seen more frequently with ACE inhibitors. We found consistent relative and absolute benefits of dapagliflozin across the range of RAAS inhibitor doses.</p><p>Our results generally confirm findings observed in other populations treated with dapagliflozin and in patients with diabetic kidney disease treated with dapagliflozin and other SGLT2 inhibitors. In the DAPA‐HF trial, in which the primary composite end point was cardiovascular death or worsening heart failure, Docherty et al found consistent benefits of dapagliflozin by use/nonuse or dose of a variety of background heart failure treatments, including diuretics, RAAS inhibitors, and β‐adrenergic antagonists in patients with heart failure with reduced ejection fraction.<xref rid="jah38387-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Verma et al found similar results in the EMPEROR‐Reduced trial in which patients were randomized to empagliflozin or placebo<xref rid="jah38387-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>; both studies also examined effects of SGLT2 inhibitors with and without background use of guideline‐concordant therapies in combination. These analyses did not examine effects of background heart failure therapies on incidence or progression of kidney disease. In an analysis of data from the EMPA‐REG OUTCOME trial, Mayer et al showed that the effects of empagliflozin on a classic kidney composite end point (ie, doubling of serum creatinine, initiation of dialysis, or death due to kidney disease) were consistent among patients irrespective of baseline use/nonuse of diuretics, calcium channel blockers, and RAAS inhibitors.<xref rid="jah38387-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> The analyses we present here confirm and extend previously published findings by documenting the safety and efficacy of dapagliflozin with use/nonuse of a wide range of cardiovascular medications, demonstrating benefits on kidney end points among patients with and without type 2 diabetes, and among patients with mild, moderate, and advanced CKD, populations at higher risk of adverse drug effects relative to persons with normal or near normal kidney function.</p><p>While the effects of antithrombotic and lipid‐lowering agents on kidney function are not as profound as those of other cardiovascular drugs that alter renal hemodynamics, including diuretics, RAAS inhibitors, β‐adrenergic antagonists, and calcium channel blockers, antiplatelet agents, anticoagulants, statins, and other lipid‐lowering agents are commonly prescribed in patients with CKD, particularly those with type 2 diabetes, a history of cardiovascular events, and atrial fibrillation. The demonstrated safety of coadministration of dapagliflozin with a range of antithrombotic and lipid‐lowering agents should allow patients to enjoy the benefits of dapagliflozin on reducing risks of heart failure and progressive kidney disease, while safely deriving the benefits of treatment with other agents aimed to reduce complications of atherosclerotic vascular disease and to prevent ischemic and cardioembolic stroke.</p><p>RAAS inhibitors were initially shown to slow the progression of CKD more than 2 decades before publication of the CREDENCE and DAPA‐CKD trial results.<xref rid="jah38387-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="jah38387-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="jah38387-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="jah38387-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> It is essential that we understand how best to deliver RAAS inhibitors and SGLT2 inhibitors in combination, particularly among patients with moderate‐to‐advanced CKD who experience relatively high rates of hyperkalemia. Dapagliflozin was efficacious irrespective of the level of the participants' maximally tolerated RAAS inhibitor dose, when the latter was described as the proportion of the maximal daily antihypertensive dose as outlined in the respective product label. Nearly three‐quarters of participants were treated with an ACE inhibitor or ARB at doses 50% or more of the maximal daily antihypertensive dose, ensuring that placebo‐treated patients were receiving guideline‐concordant care for CKD with albuminuria. A similar distribution of dosing of background ACE inhibitor or ARB therapy was recently reported from the FIDELIO‐DKD trial.<xref rid="jah38387-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+</p><p>While the bulk of the analyses presented here address efficacy end points, the safety findings are equally if not more meaningful. Despite theoretical risks associated with coadministration of SGLT2 inhibitors and diuretics, RAAS inhibitors, β‐adrenergic antagonists, and calcium channel blockers, we saw no increase in serious adverse events or adverse events of special interest when these agents were used in combination with dapagliflozin, or when several of these agents were used in combination. Indeed, serious adverse events were less frequent among patients treated with dapagliflozin compared with placebo.</p><p>There are several limitations to these analyses. First, while we can definitively state that there was no evidence of heterogeneity of the dapagliflozin effect depending on use/nonuse of cardiovascular medications or in the case of RAAS inhibitors, the proportion of maximum labeled antihypertensive dose at baseline, the power to detect interactions was limited, and we may have missed subtle but clinically meaningful accentuation or attenuation of effects that might be evident in larger patient samples. It may be informative to repeat these analyses using population‐based (“real world”) samples in future years. Second, given differences in practice patterns among and within geographic regions, we were unable to examine effect modification by individual agents, as the modest sample size of the trial required us to explore these interactions by drug class. Finally, although the broad inclusion criteria for the DAPA‐CKD trial resulted in inclusion of participants with many underlying causes of CKD, we had insufficient power to determine whether any cardiovascular drug class or individual agent exerted unique modifying effects in patients with immunoglobulin A nephropathy, focal segmental glomerulosclerosis, membranous nephropathy, or other specific causes of CKD.</p></sec><sec sec-type="conclusions" id="jah38387-sec-0028"><title>Conclusions</title><p>In summary, the safety profile and efficacy of dapagliflozin on kidney and cardiovascular end points in patients with CKD were consistent among patients treated and not treated with a range of cardiovascular medications.</p></sec><sec id="jah38387-sec-0022"><title>Sources of Funding</title><p>This study was funded by AstraZeneca. The funder of the study was involved in the study design, data analysis, data interpretation, writing of the report, and the decision to submit the paper for publication.</p></sec><sec id="jah38387-sec-0023"><title>Disclosures</title><p>Dr Chertow has received fees from AstraZeneca for service on the DAPA‐CKD trial steering committee. He serves on the Board of Directors for Satellite Healthcare. He has served on other trial steering committees for Akebia, AstraZeneca, Gilead, Sanifit, and Vertex, and on data safety monitoring boards for Bayer, Mineralys, and ReCor. He has served as an advisor and received fees and/or stock options from Ardelyx, CloudCath, Durect, Miromatrix, Outset, and Unicycive. He has received research grants from the National Institute of Diabetes and Digestive and Kidney Diseases, National Heart, Lung, and Blood Institute, and National Institute of Allergy and Infectious Diseases. Dr Correa‐Rotter has received fees from AbbVie, AstraZeneca, GlaxoSmithKline, Medtronic, and Boehringer Ingelheim, and has lectured for Amgen, Janssen, Takeda, AstraZeneca, and Boehringer Ingelheim and has received research support from GlaxoSmithKline, Novo Nordisk, and AstraZeneca. P. Vart reports receiving a travel grant from AstraZeneca. Dr McMurray has received payments to his employer, Glasgow University, for his work on clinical trials, consulting, and other activities from AstraZeneca, Cytokinetics, KBP Biosciences, Amgen, Bayer, Theracos, Ionis Pharmaceuticals, Dalcor Pharmaceuticals, Novartis, GlaxoSmithKline, Bristol Myers Squibb, Boehringer Ingelheim, Cardurion, and Alnylam, and has received personal lecture fees from Abbott, Alkem Metabolics, Eris Life Sciences, Hickma, Lupin, Sun Pharmaceuticals, Medscape/<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://heart.org" ext-link-type="uri">Heart.org</ext-link>, ProAdWise Communications, Radcliffe Cardiology, Servier, and the Corpus. Dr Rossing has received fees to Steno Diabetes Center Copenhagen for: steering group membership and/or lectures and advice from AstraZeneca, Novo Nordisk, Bayer, and Eli Lilly; advisory board participation from Sanofi Aventis and Boehringer Ingelheim; and steering group participation from Gilead. Dr Langkilde and Dr Sjöström are employees and stockholders of AstraZeneca. Dr Toto is a member of the Executive Committee of the DAPA‐CKD study, has received consulting fees from Boehringer Ingelheim, Reata Pharma, and Chinook, and payment from Medscape and Medical Education Resources, participated in advisory boards for Bayer and Vioforand on data monitoring committees for Akebia and Otsuka.</p><p>Dr Wheeler has received consultancy fees from AstraZeneca and personal fees from Amgen, Astellas, Bayer, Boehringer Ingelheim, Gilead, GlaxoSmithKline, Janssen, Napp, Mundipharma, Reata, Tricida, Vifor Fresenius, Merck Sharp and Dohme, ProKidney, Galderma, and Zydus. H.J.L. Heerspink has received honoraria (paid to his institution [University Medical Center Groningen]) for participation in steering committees from AstraZeneca, Janssen, Gilead, Bayer, Chinook, and CSL Pharma; honoraria for participation in advisory boards from Merck, Mitsubishi Tanabe, Janssen, and Mundipharma; fees for consultancy from AstraZeneca, AbbVie, Retrophin, Boehringer Ingelheim, and Novo Nordisk; and research grant support from AstraZeneca, AbbVie, Janssen, and Boehringer Ingelheim. The remaining authors have no disclosures to report.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="jah38387-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+Data S1:
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JAH3-12-e028739-s001.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jah38387-sec-0021"><title>Acknowledgments</title><p>The authors thank all patients, investigators, and research teams for their time spent on the DAPA‐CKD trial. Editorial support was provided by Lise Magnollay and Nicola Truss, inScience Communications, Springer Healthcare Ltd, London, UK, and funded by AstraZeneca.</p></ack><ref-list content-type="cited-references" id="jah38387-bibl-0001"><title>References</title><ref id="jah38387-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah38387-cit-0001">
+<string-name name-style="western">
+<surname>Wheeler</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stefansson</surname>
+<given-names>BV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Batiushin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bilchenko</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cherney</surname>
+<given-names>DZI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chertow</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Douthat</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dwyer</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Escudero</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pecoits‐Filho</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>The dapagliflozin and prevention of adverse outcomes in chronic kidney disease (DAPA‐CKD) trial: baseline characteristics</article-title>. <source>Nephrol Dial Transplant</source>. <year>2020</year>;<volume>35</volume>:<fpage>1700</fpage>–<lpage>1711</lpage>. doi: <pub-id pub-id-type="doi">10.1093/ndt/gfaa234</pub-id>
+<pub-id pub-id-type="pmid">32862232</pub-id><pub-id pub-id-type="pmcid">PMC7538235</pub-id></mixed-citation></ref><ref id="jah38387-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah38387-cit-0002">
+<string-name name-style="western">
+<surname>Perkovic</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jardine</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Neal</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bompoint</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Heerspink</surname>
+<given-names>HJL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Charytan</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Edwards</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Agarwal</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bakris</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bull</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Canagliflozin and renal outcomes in type 2 diabetes and nephropathy</article-title>. <source>N Engl J Med</source>. <year>2019</year>;<volume>380</volume>:<fpage>2295</fpage>–<lpage>2306</lpage>. doi: <pub-id pub-id-type="doi">10.1056/NEJMoa1811744</pub-id>
+<pub-id pub-id-type="pmid">30990260</pub-id></mixed-citation></ref><ref id="jah38387-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah38387-cit-0003">
+<string-name name-style="western">
+<surname>Zinman</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wanner</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lachin</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fitchett</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bluhmki</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hantel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mattheus</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Devins</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johansen</surname>
+<given-names>OE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Woerle</surname>
+<given-names>HJ</given-names>
+</string-name>, et al. <article-title>Empagliflozin, cardiovascular outcomes, and mortality in type 2 diabetes</article-title>. <source>N Engl J Med</source>. <year>2015</year>;<volume>373</volume>:<fpage>2117</fpage>–<lpage>2128</lpage>. doi: <pub-id pub-id-type="doi">10.1056/NEJMoa1504720</pub-id>
+<pub-id pub-id-type="pmid">26378978</pub-id></mixed-citation></ref><ref id="jah38387-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah38387-cit-0004">
+<string-name name-style="western">
+<surname>Wiviott</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raz</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bonaca</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mosenzon</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kato</surname>
+<given-names>ET</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cahn</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Silverman</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zelniker</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kuder</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murphy</surname>
+<given-names>SA</given-names>
+</string-name>, et al. <article-title>Dapagliflozin and cardiovascular outcomes in type 2 diabetes</article-title>. <source>N Engl J Med</source>. <year>2018</year>;<volume>380</volume>:<fpage>347</fpage>–<lpage>357</lpage>. doi: <pub-id pub-id-type="doi">10.1056/NEJMoa1812389</pub-id>
+<pub-id pub-id-type="pmid">30415602</pub-id></mixed-citation></ref><ref id="jah38387-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah38387-cit-0005">
+<string-name name-style="western">
+<surname>McMurray</surname>
+<given-names>JJV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wheeler</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stefánsson</surname>
+<given-names>BV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jongs</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Postmus</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Correa‐Rotter</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chertow</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Greene</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Held</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hou</surname>
+<given-names>FF</given-names>
+</string-name>, et al. <article-title>Effect of dapagliflozin on clinical outcomes in patients with chronic kidney disease, with and without cardiovascular disease</article-title>. <source>Circulation</source>. <year>2021</year>;<volume>143</volume>:<fpage>438</fpage>–<lpage>448</lpage>. doi: <pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.120.051675</pub-id>
+<pub-id pub-id-type="pmid">33186054</pub-id></mixed-citation></ref><ref id="jah38387-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah38387-cit-0006">
+<string-name name-style="western">
+<surname>Hou</surname>
+<given-names>FF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xie</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chen</surname>
+<given-names>PY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>WR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>ZJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiang</surname>
+<given-names>JP</given-names>
+</string-name>. <article-title>Renoprotection of optimal antiproteinuric doses (ROAD) study: a randomized controlled study of benazepril and losartan in chronic renal insufficiency</article-title>. <source>J Am Soc Nephrol</source>. <year>2007</year>;<volume>18</volume>:<fpage>1889</fpage>–<lpage>1898</lpage>. doi: <pub-id pub-id-type="doi">10.1681/ASN.2006121372</pub-id>
+<pub-id pub-id-type="pmid">17494885</pub-id></mixed-citation></ref><ref id="jah38387-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah38387-cit-0007">
+<string-name name-style="western">
+<surname>Docherty</surname>
+<given-names>KF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jhund</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Inzucchi</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Køber</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kosiborod</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martinez</surname>
+<given-names>FA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ponikowski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>DeMets</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sabatine</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bengtsson</surname>
+<given-names>O</given-names>
+</string-name>, et al. <article-title>Effects of dapagliflozin in DAPA‐HF according to background heart failure therapy</article-title>. <source>Eur Heart J</source>. <year>2020</year>;<volume>41</volume>:<fpage>2379</fpage>–<lpage>2392</lpage>. doi: <pub-id pub-id-type="doi">10.1093/eurheartj/ehaa183</pub-id>
+<pub-id pub-id-type="pmid">32221582</pub-id><pub-id pub-id-type="pmcid">PMC7327533</pub-id></mixed-citation></ref><ref id="jah38387-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah38387-cit-0008">
+<string-name name-style="western">
+<surname>Verma</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dhingra</surname>
+<given-names>NK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Butler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferreira</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Filippatos</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Januzzi</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lam</surname>
+<given-names>CSP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sattar</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Peil</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Empagliflozin in the treatment of heart failure with reduced ejection fraction in addition to background therapies and therapeutic combinations (EMPEROR‐reduced): a post‐hoc analysis of a randomised, double‐blind trial</article-title>. <source>Lancet Diabetes Endocrinol</source>. <year>2022</year>;<volume>10</volume>:<fpage>35</fpage>–<lpage>45</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S2213-8587(21)00292-8</pub-id>
+<pub-id pub-id-type="pmid">34861154</pub-id></mixed-citation></ref><ref id="jah38387-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah38387-cit-0009">
+<string-name name-style="western">
+<surname>Mayer</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wanner</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weir</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Inzucchi</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koitka‐Weber</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hantel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>von Eynatten</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zinman</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cherney</surname>
+<given-names>DZI</given-names>
+</string-name>. <article-title>Analysis from the EMPA‐REG OUTCOME(®) trial indicates empagliflozin may assist in preventing the progression of chronic kidney disease in patients with type 2 diabetes irrespective of medications that alter intrarenal hemodynamics</article-title>. <source>Kidney Int.</source>
+<year>2019</year>;<volume>96</volume>:<fpage>489</fpage>–<lpage>504</lpage>. doi: <pub-id pub-id-type="doi">10.1016/j.kint.2019.02.033</pub-id>
+<pub-id pub-id-type="pmid">31142441</pub-id></mixed-citation></ref><ref id="jah38387-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah38387-cit-0010">
+<string-name name-style="western">
+<surname>Brenner</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cooper</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Zeeuw</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Keane</surname>
+<given-names>WF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mitch</surname>
+<given-names>WE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parving</surname>
+<given-names>H‐H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Remuzzi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Snapinn</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shahinfar</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Effects of losartan on renal and cardiovascular outcomes in patients with type 2 diabetes and nephropathy</article-title>. <source>N Engl J Med.</source>
+<year>2001</year>;<volume>345</volume>:<fpage>861</fpage>–<lpage>869</lpage>. doi: <pub-id pub-id-type="doi">10.1056/NEJMoa011161</pub-id>
+<pub-id pub-id-type="pmid">11565518</pub-id></mixed-citation></ref><ref id="jah38387-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah38387-cit-0011">
+<string-name name-style="western">
+<surname>Lewis</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hunsicker</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clarke</surname>
+<given-names>WR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berl</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pohl</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lewis</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ritz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Atkins</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rohde</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raz</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Renoprotective effect of the angiotensin‐receptor antagonist irbesartan in patients with nephropathy due to type 2 diabetes</article-title>. <source>N Engl J Med</source>. <year>2001</year>;<volume>345</volume>:<fpage>851</fpage>–<lpage>860</lpage>. doi: <pub-id pub-id-type="doi">10.1056/NEJMoa011303</pub-id>
+<pub-id pub-id-type="pmid">11565517</pub-id></mixed-citation></ref><ref id="jah38387-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah38387-cit-0012">
+<collab collab-type="authors">The GISEN Group (Gruppo Italiano di Studi Epidemiologici in Nefrologia)</collab>
+. <article-title>Randomised placebo‐controlled trial of effect of ramipril on decline in glomerular filtration rate and risk of terminal renal failure in proteinuric, non‐diabetic nephropathy</article-title>. <source>The Lancet</source>. <year>1997</year>;<volume>349</volume>:<fpage>1857</fpage>–<lpage>1863</lpage>. doi: <pub-id pub-id-type="doi">10.1016/S0140-6736(96)11445-8</pub-id>
+<pub-id pub-id-type="pmid">9217756</pub-id></mixed-citation></ref><ref id="jah38387-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah38387-cit-0013">
+<string-name name-style="western">
+<surname>Maschio</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alberti</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janin</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Locatelli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mann</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Motolese</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ponticelli</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ritz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zucchelli</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Effect of the angiotensin‐converting‐enzyme inhibitor benazepril on the progression of chronic renal insufficiency. The angiotensin‐converting‐enzyme inhibition in progressive renal insufficiency study group</article-title>. <source>N Engl J Med</source>. <year>1996</year>;<volume>334</volume>:<fpage>939</fpage>–<lpage>945</lpage>. doi: <pub-id pub-id-type="doi">10.1056/NEJM199604113341502</pub-id>
+<pub-id pub-id-type="pmid">8596594</pub-id></mixed-citation></ref><ref id="jah38387-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah38387-cit-0014">
+<string-name name-style="western">
+<surname>Bakris</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Agarwal</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pitt</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruilope</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rossing</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kolkhof</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nowack</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schloemer</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Joseph</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Effect of finerenone on chronic kidney disease outcomes in type 2 diabetes</article-title>. <source>N Engl J Med</source>. <year>2020</year>;<volume>383</volume>:<fpage>2219</fpage>–<lpage>2229</lpage>. doi: <pub-id pub-id-type="doi">10.1056/NEJMoa2025845</pub-id>
+<pub-id pub-id-type="pmid">33264825</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

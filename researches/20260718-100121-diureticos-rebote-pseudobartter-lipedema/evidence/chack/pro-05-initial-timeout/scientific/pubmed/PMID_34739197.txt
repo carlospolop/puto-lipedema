@@ -1,0 +1,164 @@
+34739197
+2022
+01
+12
+2023
+09
+16
+1533-4406
+385
+27
+2021
+Dec
+30
+The New England journal of medicine
+N Engl J Med
+Chlorthalidone for Hypertension in Advanced Chronic Kidney Disease.
+2507
+2519
+2507-2519
+10.1056/NEJMoa2110730
+Little evidence has been available to support the use of thiazide diuretics to treat hypertension in patients with advanced chronic kidney disease.
+We randomly assigned patients with stage 4 chronic kidney disease and poorly controlled hypertension, as confirmed by 24-hour ambulatory blood-pressure monitoring, in a 1:1 ratio to receive chlorthalidone at an initial dose of 12.5 mg per day, with increases every 4 weeks if needed to a maximum dose of 50 mg per day, or placebo; randomization was stratified according to previous use of loop diuretics. The primary outcome was the change in 24-hour ambulatory systolic blood pressure from baseline to 12 weeks. Secondary outcomes were the change from baseline to 12 weeks in the urinary albumin-to-creatinine ratio, N-terminal pro-B-type natriuretic peptide level, plasma renin and aldosterone levels, and total body volume. Safety was also assessed.
+A total of 160 patients underwent randomization, of whom 121 (76%) had diabetes mellitus and 96 (60%) were receiving loop diuretics. At baseline, the mean (±SD) estimated glomerular filtration rate was 23.2±4.2 ml per minute per 1.73 m
+2
+Among patients with advanced chronic kidney disease and poorly controlled hypertension, chlorthalidone therapy improved blood-pressure control at 12 weeks as compared with placebo. (Funded by the National Heart, Lung, and Blood Institute and the Indiana Institute of Medical Research; CLICK ClinicalTrials.gov number, NCT02841280.).
+Copyright © 2021 Massachusetts Medical Society.
+Agarwal
+Rajiv
+R
+0000-0001-8355-7100
+From the Division of Nephrology, Department of Medicine (R.A., A.D.S., A.E.C., M.B.-F., J.H.D.), and the Department of Biostatistics and Health Data Science, Richard M. Fairbanks School of Public Health (F.O., W.T.), Indiana University School of Medicine, Richard L. Roudebush Veterans Affairs Medical Center (R.A., A.D.S., A.E.C., M.B.-F., J.H.D.), and Indiana University Center for Aging Research, Regenstrief Institute (W.T.) - all in Indianapolis.
+Sinha
+Arjun D
+AD
+Cramer
+Andrew E
+AE
+Balmes-Fenwick
+Mary
+M
+Dickinson
+Jazmyn H
+JH
+Ouyang
+Fangqian
+F
+Tu
+Wanzhu
+W
+eng
+ClinicalTrials.gov
+NCT02841280
+R01 HL126903
+HL
+NHLBI NIH HHS
+United States
+R01HL126903
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, N.I.H., Extramural
+11
+05
+0255562
+0028-4793
+0
+Diuretics
+Peptide Fragments
+Sodium Chloride Symporter Inhibitors
+pro-brain natriuretic peptide (1-76)
+114471-18-0
+Natriuretic Peptide, Brain
+AYI8EX34EU
+Creatinine
+Q0MQD1073Q
+Chlorthalidone
+IM
+Nat Rev Nephrol. 2022 Jan;18(1):3. doi: 10.1038/s41581-021-00514-3.
+34819632
+N Engl J Med. 2021 Dec 30;385(27):2574-2575. doi: 10.1056/NEJMe2118149.
+34965342
+Ann Intern Med. 2022 Mar;175(3):JC29. doi: 10.7326/J22-0007.
+35226524
+N Engl J Med. 2022 Apr 7;386(14):1382. doi: 10.1056/NEJMc2201160.
+35388678
+N Engl J Med. 2022 Apr 7;386(14):1382-1383. doi: 10.1056/NEJMc2201160.
+35388679
+N Engl J Med. 2022 Apr 7;386(14):1383-1384. doi: 10.1056/NEJMc2201160.
+35388680
+Aged
+Albuminuria
+Blood Pressure
+drug effects
+administration & dosage
+adverse effects
+therapeutic use
+urine
+Double-Blind Method
+Female
+Glomerular Filtration Rate
+Humans
+Hypertension
+complications
+drug therapy
+Male
+Middle Aged
+blood
+Renal Insufficiency, Chronic
+Severity of Illness Index
+6
+1
+13
+5
+21
+ppublish
+NIHMS1802095
+PMC9119310
+Alencar de Pinho N, Levin A, Fukagawa M, et al. Considerable international variation exists in blood pressure control and antihypertensive prescription patterns in chronic kidney disease. Kidney Int 2019; 96:983–94.
+31358344
+Whelton PK, Carey RM, Aronow WS, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/ AGS/APhA/ASH/ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. Hypertension 2018;71(6): e13–e115.
+29133356
+ALLHAT Officers and Coordinators for the ALLHAT Collaborative Research Group. Major outcomes in high-risk hypertensive patients randomized to angiotensin-converting enzyme inhibitor or calcium channel blocker vs diuretic: the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT). JAMA 2002;288:2981–97.
+12479763
+Curb JD, Pressel SL, Cutler JA, et al. Effect of diuretic-based antihypertensive treatment on cardiovascular disease risk in older diabetic patients with isolated systolic hypertension. JAMA 1996;276: 1886–92.
+8968014
+SHEP Cooperative Research Group. Prevention of stroke by antihypertensive drug treatment in older persons with isolated systolic hypertension: final results of the Systolic Hypertension in the Elderly Program (SHEP). JAMA 1991;265:3255–64.
+2046107
+Sinha AD, Agarwal R. Thiazide diuretics in chronic kidney disease. Curr Hypertens Rep 2015;17:13.
+25749608
+Sinha AD, Agarwal R. Thiazides in advanced chronic kidney disease: time for a randomized controlled trial. Curr Opin Cardiol 2015;30:366–72.
+26049383
+Cirillo M, Marcarelli F, Mele AA, Romano M, Lombardi C, Bilancio G. Parallel-group 8-week study on chlorthalidone effects in hypertensives with low kidney function. Hypertension 2014;63:692–7.
+24396024
+Agarwal R, Sinha AD, Pappas MK, Ammous F. Chlorthalidone for poorly controlled hypertension in chronic kidney disease: an interventional pilot study. Am J Nephrol 2014;39:171–82.
+24526255
+Agarwal R, Cramer AE, Balmes-Fenwick M, Sinha AD, Ouyang F, Tu W. Design and baseline characteristics of the Chlorthalidone in Chronic Kidney Disease (CLICK) Trial. Am J Nephrol 2020;51:542–52.
+PMC7409874
+32663820
+Ernst ME, Carter BL, Goerdt CJ, et al. Comparative antihypertensive effects of hydrochlorothiazide and chlorthalidone on ambulatory and office blood pressure. Hypertension 2006;47:352–8.
+16432050
+Carter BL, Ernst ME, Cohen JD. Hydrochlorothiazide versus chlorthalidone: evidence supporting their interchangeability. Hypertension 2004;43:4–9.
+14638621
+Peterzan MA, Hardy R, Chaturvedi N, Hughes AD. Meta-analysis of dose-response relationships for hydrochlorothiazide, chlorthalidone, and bendroflumethiazide on blood pressure, serum potassium, and urate. Hypertension 2012; 59:1104–9.
+PMC4930655
+22547443
+Bakris GL, Agarwal R. Creatinine bump following antihypertensive therapy. Hypertension 2018;72:1274–6.
+30571245
+Vallon V Tubuloglomerular feedback and the control of glomerular filtration rate. News Physiol Sci 2003;18:169–74.
+12869618
+Rahman M, Pressel S, Davis BR, et al. Renal outcomes in high-risk hypertensive patients treated with an angiotensin-converting enzyme inhibitor or a calcium channel blocker vs a diuretic: a report from the Antihypertensive and Lipid-Lowering Treatment to Prevent Heart Attack Trial (ALLHAT). Arch Intern Med 2005; 165:936–46.
+15851647
+Savage PJ, Pressel SL, Curb JD, et al. Influence of long-term, low-dose, diuretic-based, antihypertensive therapy on glucose, lipid, uric acid, and potassium levels in older men and women with isolated systolic hypertension: the Systolic Hypertension in the Elderly Program. Arch Intern Med 1998;158:741–51.
+9554680
+Franse LV, Pahor M, Di Bari M, Somes GW, Cushman WC, Applegate WB. Hypokalemia associated with diuretic use and cardiovascular events in the Systolic Hypertension in the Elderly Program. Hypertension 2000;35:1025–30.
+10818057
+Morales E, Caro J, Gutierrez E, et al. Diverse diuretics regimens differentially enhance the antialbuminuric effect of renin-angiotensin blockers in patients with chronic kidney disease. Kidney Int 2015; 88:1434–41.
+26308670
+Heerspink HJL, Greene T, Tighiouart H, et al. Change in albuminuria as a surrogate endpoint for progression of kidney disease: a meta-analysis of treatment effects in randomised clinical trials. Lancet Diabetes Endocrinol 2019;7:128–39.
+30635226
+Ernst ME, Neaton JD, Grimm RH Jr, et al. Long-term effects of chlorthalidone versus hydrochlorothiazide on electrocardiographic left ventricular hypertrophy in the multiple risk factor intervention trial. Hypertension 2011;58:1001–7.
+PMC3245686
+22025372
+Dorsch MP, Gillespie BW, Erickson SR, Bleske BE, Weder AB. Chlorthalidone reduces cardiovascular events compared with hydrochlorothiazide: a retrospective cohort analysis. Hypertension 2011;57:689–94.
+21383313

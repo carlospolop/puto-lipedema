@@ -1,0 +1,777 @@
+These highlights do not include all the information needed to use DAPAGLIFLOZIN TABLETS safely and effectively. See full prescribing information for DAPAGLIFLOZIN TABLETS.
+Sandoz Inc
+Dapagliflozin
+DAPAGLIFLOZIN
+MICROCRYSTALLINE CELLULOSE
+MAGNESIUM STEARATE
+HYPROMELLOSE 2208 (3 MPA.S)
+LACTOSE MONOHYDRATE
+CROSCARMELLOSE SODIUM
+TRIETHYL CITRATE
+FERRIC OXIDE YELLOW
+HYDROXYPROPYL CELLULOSE (1600000 WAMW)
+TITANIUM DIOXIDE
+HYPROMELLOSE 2910 (6 MPA.S)
+Light
+biconvex
+DN5
+light
+biconvenx
+DN10
+Dosage and Administration (
+2.5
+Warnings and Precautions (
+5.3
+1 INDICATIONS AND USAGE
+Dapagliflozin tablets are indicated:
+•
+Limitations of Use
+[see Warnings and Precautions (
+5.1
+2
+Pediatric use information is approved for AstraZeneca AB’s Farxiga
+®
+Dapagliflozin tablets are a sodium-glucose cotransporter 2 (SGLT2) inhibitor indicated:
+1
+Limitations of use
+2 DOSAGE AND ADMINISTRATION
+2.1
+2.2
+2.3
+2.4
+2.1 Testing Prior to Initiation of Dapagliflozin Tablets
+5.2
+)].
+8.5
+8.6
+2.2 Recommended Dosage for Glycemic Control in Adults with Type 2 Diabetes Mellitus
+In adults with type 2 diabetes mellitus, the recommended starting dosage of dapagliflozin tablets is 5 mg orally once daily to improve glycemic control. For additional glycemic control, the dosage can be increased to 10 mg orally once daily.
+For Adult Patients with Type 2 Diabetes Mellitus and Renal Impairment:
+However, due to AstraZeneca AB’s marketing exclusivity rights, this drug product is not labeled with that information.
+2.3 Recommended Dosage for Other Indications in Adults
+The recommended dosage of dapagliflozin tablets is 10 mg orally once daily in adults for the following indications:
+For Adults with Renal Impairment Receiving Dapagliflozin Tablets for Indications Other than Glycemic Control:
+2.4 Temporary Interruption for Surgery
+Withhold dapagliflozin tablets for at least 3 days, if possible, prior to major surgery or procedures associated with prolonged fasting. Resume dapagliflozin tablets when the patient is clinically stable and has resumed oral intake
+12.2
+Recommendations Regarding Missed Dose
+If a dose is missed, instruct patients to take the dose as soon as possible.
+Advise patients not to double up the next dose.
+3 DOSAGE FORMS AND STRENGTHS
+3
+4 CONTRAINDICATIONS
+[see Adverse Reactions (
+6.1
+4
+5 WARNINGS AND PRECAUTIONS
+Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis:
+Volume depletion:
+Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene), and Genital Mycotic Infections:
+Hypoglycemia:
+5.4
+5.1 Diabet
+ic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis
+In patients with type 1 diabetes mellitus, dapagliflozin significantly increases the risk of diabetic ketoacidosis, a life-threatening event, beyond the background rate. In placebo-controlled trials of patients with type 1 diabetes mellitus, the risk of ketoacidosis was markedly increased in patients who received sodium-glucose cotransporter 2 (SGLT2) inhibitors compared to patients who received placebo. Dapagliflozin is not indicated for glycemic control in patients with type 1 diabetes mellitus.
+Type 2 diabetes mellitus and pancreatic disorders (e.g., history of pancreatitis or pancreatic surgery) are also risk factors for ketoacidosis. There have been postmarketing reports of fatal events of ketoacidosis in patients with type 2 diabetes mellitus using SGLT2 inhibitors, including dapagliflozin.
+Precipitating conditions for diabetic ketoacidosis or other ketoacidosis include under-insulinization due to insulin dose reduction or missed insulin doses, acute febrile illness, reduced caloric intake, ketogenic diet, surgery, volume depletion, and alcohol abuse.
+Signs and symptoms are consistent with dehydration and severe metabolic acidosis and include nausea, vomiting, abdominal pain, generalized malaise, and shortness of breath. Blood glucose levels at presentation may be below those typically expected for diabetic ketoacidosis (e.g., less than 250 mg/dL). Ketoacidosis and glucosuria may persist longer than typically expected. Urinary glucose excretion persists for 3 days after discontinuing dapagliflozin
+[see Clinical Pharmacology (
+Consider ketone monitoring in patients with type 1 diabetes mellitus and consider ketone monitoring in others at risk for ketoacidosis if indicated by the clinical situation. Assess for ketoacidosis regardless of presenting blood glucose levels in patients who present with signs and symptoms consistent with severe metabolic acidosis. If ketoacidosis is suspected, discontinue dapagliflozin, promptly evaluate, and treat ketoacidosis, if confirmed. Monitor patients for resolution of ketoacidosis before restarting dapagliflozin.
+Withhold dapagliflozin, if possible, in temporary clinical situations that could predispose patients to ketoacidosis. Resume dapagliflozin when the patient is clinically stable and has resumed oral intake
+[see Dosage and Administration (
+)]
+Educate all patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue dapagliflozin and seek medical attention immediately if signs and symptoms occur.
+5.2 Volume Depletion
+Dapagliflozin can cause intravascular volume depletion which may sometimes manifest as symptomatic hypotension or acute transient changes in creatinine. There have been post-marketing reports of acute kidney injury, some requiring hospitalization and dialysis, in patients with type 2 diabetes mellitus receiving SGLT2 inhibitors, including dapagliflozin. Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2), elderly patients, or patients on loop diuretics may be at increased risk for volume depletion or hypotension. Before initiating dapagliflozin in patients with one or more of these characteristics, assess volume status and renal function. Monitor for signs and symptoms of hypotension, and renal function after initiating therapy.
+5.3 Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene), and Genital Mycotic Infections
+Dapagliflozin increases urinary glucose excretion
+Serious genitourinary infections, including urosepsis, pyelonephritis, and necrotizing fasciitis of the perineum (Fournier’s gangrene, a rare life-threatening infection requiring urgent surgical intervention), have occurred in patients receiving SGLT2 inhibitors, including dapagliflozin
+6.2
+Patients with a history of genitourinary infections are more likely to develop genitourinary infections when using dapagliflozin.
+Monitor patients for signs and symptoms of genitourinary infections and treat promptly, if indicated.
+Immediately evaluate patients presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, for necrotizing fasciitis. If suspected, discontinue dapagliflozin and promptly institute appropriate medical and/or surgical intervention.
+5.4 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
+Insulin and insulin secretagogues (e.g., sulfonylureas) are known to cause hypoglycemia. Dapagliflozin may increase the risk of hypoglycemia when combined with insulin or an insulin secretagogue
+[see Drug Interactions (
+7
+6 ADVERSE REACTIONS
+The following important adverse reactions are described below and elsewhere in the labeling:
+5.
+To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc., at 1-800-525-8747 or FDA at 1-800-FDA-1088 or
+www.fda.gov/medwatch.
+6.1 Clinical Trials Experience
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+Dapagliflozin has been evaluated in clinical trials in adult patients with type 2 diabetes mellitus, in adult patients with heart failure. The overall safety profile of dapagliflozin was consistent across the studied indications. No new adverse reactions were identified in the trial. Severe hypoglycemia and diabetic ketoacidosis (DKA) were observed only in patients with diabetes mellitus.
+Clinical Trials for Glycemic Control in Adult Patients with Type 2 Diabetes Mellitus
+Pool of 12 Placebo-Controlled Adult Trials for Dapagliflozin 5 and 10 mg for Glycemic Control
+The data in
+Table 1
+[see Clinical Studies (
+14.1
+These data reflect exposure of 2338 adult patients to dapagliflozin with a mean exposure duration of 21 weeks. Patients received placebo (N=1393), dapagliflozin 5 mg (N=1145), or dapagliflozin 10 mg (N=1193) once daily. The mean age of the population was 55 years and 2% were older than 75 years of age. Fifty percent (50%) of the population were male; 81% were White, 14% were Asian, and 3% were Black or African American. At baseline, the population had diabetes for an average of 6 years, had a mean hemoglobin A1c (HbA1c) of 8.3%, and 21% had established microvascular complications of diabetes. Baseline renal function was normal or mildly impaired in 92% of patients and moderately impaired in 8% of patients (mean eGFR 86 mL/min/1.73 m
+Table 1. Adverse Reactions in Placebo-Controlled Trials of Glycemic Control Reported in ≥2% of Adults Treated with Dapagliflozin
+Adverse Reaction
+% of Patients
+Pool of 12 Placebo-Controlled Trials
+Placebo N=1393
+Dapagliflozin 5 mg N=1145
+Dapagliflozin 10 mg N=1193
+Female genital mycotic infections
+*
+1.5
+8.4
+6.9
+Nasopharyngitis
+6.6
+6.3
+Urinary tract infections
+†
+3.7
+5.7
+4.3
+Back pain
+3.2
+3.1
+4.2
+Increased urination
+‡
+1.7
+2.9
+3.8
+Male genital mycotic infections
+§
+0.3
+2.8
+2.7
+Nausea
+Influenza
+Dyslipidemia
+Constipation
+1.9
+Discomfort with urination
+0.7
+1.6
+Pain in extremity
+1.4
+2.0
+infection, vaginal infection, vulvovaginal candidiasis, vulvovaginitis, genital infection, genital candidiasis, fungal genital infection, vulvitis,
+genitourinary tract infection, vulval abscess, and vaginitis bacterial. (N for females: Placebo=677, Dapagliflozin 5 mg=581, Dapagliflozin 10
+mg=598).
+Escherichia
+urinary tract infection, genitourinary tract infection, pyelonephritis, trigonitis, urethritis, kidney infection, and prostatitis.
+infection, balanitis candida, genital candidiasis, genital infection male, penile infection, balanoposthitis, balanoposthitis infective, genital infection,
+and posthitis. (N for males: Placebo=716, Dapagliflozin 5 mg=564, Dapagliflozin 10 mg=595).
+Pool of 13 Placebo-Controlled Adult Trials for Dapagliflozin 10 mg for Glycemic Control
+Dapagliflozin 10 mg was also evaluated in a larger glycemic control placebo-controlled trial pool in adult patients with type 2 diabetes mellitus. This pool combined 13 placebo-controlled trials, including 3 monotherapy trials, 9 add-on to background antidiabetic therapy trials, and an initial combination with metformin trial. Across these 13 trials, 2360 patients were treated once daily with dapagliflozin 10 mg for a mean duration of exposure of 22 weeks. The mean age of the population was 59 years and 4% were older than 75 years. Fifty-eight percent (58%) of the population were male; 84% were White, 9% were Asian, and 3% were Black or African American. At baseline, the population had diabetes for an average of 9 years, had a mean HbA1c of 8.2%, and 30% had established microvascular disease. Baseline renal function was normal or mildly impaired in 88% of patients and moderately impaired in 11% of patients (mean eGFR 82 mL/min/1.73 m
+Other Adverse Reactions in Adult Patients with Type 2 Diabetes Mellitus
+Volume Depletion
+Dapagliflozin causes an osmotic diuresis, which may lead to a reduction in intravascular volume. Adverse reactions related to volume depletion (including reports of dehydration, hypovolemia, orthostatic hypotension, or hypotension) in adult patients with type 2 diabetes mellitus for the 12-trial and 13-trial, short-term, placebo-controlled pools and for the DECLARE trial are shown in
+Table 2
+Table 2. Adverse Reactions Related to Volume Depletion
+Pool of 13 Placebo-Controlled Trials
+DECLARE Trial
+Placebo
+Dapagliflozin 5 mg
+Dapagliflozin 10 mg
+Overall population N (%)
+N=1393
+5
+(0.4%)
+N=1145
+(0.6%)
+N=1193
+9
+(0.8%)
+N=2295 17 (0.7%)
+N=2360
+27
+(1.1%)
+N=8569 207 (2.4%)
+N=8574
+213
+(2.5%)
+Patient Subgroup n (%)
+Patients on loop diuretics
+n=55
+(1.8%)
+n=40
+0
+n=31
+(9.7%)
+n=267
+4 (1.5%)
+n=236
+6
+n=934 57 (6.1%)
+n=866
+57
+(6.6%)
+Patients with moderate renal impairment with eGFR ≥30 and <60 mL/min/1.73 m
+n=107
+(1.9%)
+(0.9%)
+n=89
+n=268
+n=265
+n=658 30 (4.6%)
+n=604
+35
+(5.8%)
+Patients ≥65 years of age
+n=276
+n=216
+(0.5%)
+n=204
+(1.5%)
+n=711
+6 (0.8%)
+n=665
+11
+(1.7%)
+n=3950 121 (3.1%)
+n=3948
+117
+(3.0%)
+Hypoglycemia
+The frequency of hypoglycemia by trial in adult patients with type 2 diabetes mellitus
+Table 3
+Table 3. Incidence of Severe Hypoglycemia
+Placebo/
+Active Control
+5 mg
+10 mg
+Monotherapy (24 weeks)
+N=75
+N=64
+N=70
+Severe [n (%)]
+Glucose <54 mg/dL [n (%)]
+Add-on to Metformin (24 weeks)
+N=137
+N=135
+Add-on to Glimepiride (24 weeks)
+N=146
+N=145
+N=151
+1 (0.7)
+3 (2.1)
+5 (3.3)
+Add-on to Metformin and a Sulfonylurea (24 Weeks)
+N=109
+-
+3 (2.8)
+7 (6.4)
+Add-on to Pioglitazone (24 weeks)
+N=139
+N=141
+N=140
+Add-on to DPP4 inhibitor (24 weeks)
+N=226
+–
+N=225
+1 (0.4)
+Add-on to Insulin with or without other OADs‡ (24 weeks)
+N=197
+N=212
+N=196
+1 (0.5)
+2 (0.9)
+2 (1.0)
+43 (21.8)
+55 (25.9)
+45 (23.0)
+assistance, and with prompt recovery after intervention regardless of glucose level.
+that did not also qualify as a severe episode.
+‡ OAD = oral antidiabetic therapy.
+In the DECLARE trial
+14.3
+Genital Mycotic Infections
+In the glycemic control trials in adults, genital mycotic infections were more frequent with dapagliflozin treatment. Genital mycotic infections were reported in 0.9% of patients on placebo, 5.7% on dapagliflozin 5 mg, and 4.8% on dapagliflozin 10 mg, in the 12-trial placebo-controlled pool. Discontinuation from trial due to genital infection occurred in 0% of placebo-treated patients and 0.2% of patients treated with dapagliflozin 10 mg. Infections were more frequently reported in females than in males (see
+Hypersensitivity Reactions
+Hypersensitivity reactions (e.g., angioedema, urticaria, hypersensitivity) were reported with dapagliflozin treatment. In glycemic control trials in adults, serious anaphylactic reactions and severe cutaneous adverse reactions and angioedema were reported in 0.2% of comparator-treated patients and 0.3% of dapagliflozin-treated patients. If hypersensitivity reactions occur, discontinue use of dapagliflozin; treat per standard of care and monitor until signs and symptoms resolve.
+Ketoacidosis in Patients with Diabetes Mellitus
+Laboratory Tests in Adult Patients with Type 2 Diabetes Mellitus
+Increases in Serum Creatinine and Decreases in eGFR
+Initiation of SGLT2 inhibitors, including dapagliflozin causes a small increase in serum creatinine and decrease in eGFR. These changes in serum creatinine and eGFR generally occur within two weeks of starting therapy and then stabilize regardless of baseline kidney function. Changes that do not fit this pattern should prompt further evaluation to exclude the possibility of acute kidney injury
+Increase in Hematocrit
+In the pool of 13 placebo-controlled trials of glycemic control, increases from baseline in mean hematocrit values were observed in dapagliflozin-treated adult patients starting at Week 1 and continuing up to Week 16, when the maximum mean difference from baseline was observed. At Week 24, the mean changes from baseline in hematocrit were −0.33% in the placebo group and 2.30% in the dapagliflozin 10 mg group. By Week 24, hematocrit values >55% were reported in 0.4% of placebo-treated patients and 1.3% of dapagliflozin 10 mg-treated patients.
+Increase in Low-Density Lipoprotein Cholesterol
+In the pool of 13 placebo-controlled trials of glycemic control, changes from baseline in mean lipid values were reported in dapagliflozin-treated adult patients compared to placebo-treated patients. Mean percent changes from baseline at Week 24 were 0.0% versus 2.5% for total cholesterol, and -1.0% versus 2.9% for LDL cholesterol in the placebo and dapagliflozin 10 mg groups, respectively. In the DECLARE trial
+Decrease in Serum Bicarbonate
+In a trial of concomitant therapy of dapagliflozin 10 mg with exenatide extended-release (on a background of metformin) in adults, four patients (1.7%) on concomitant therapy had a serum bicarbonate value of less than or equal to 13 mEq/L compared to one each (0.4%) in the dapagliflozin and exenatide-extended release treatment groups
+6.2 Postmarketing Experience
+Additional adverse reactions have been identified during post-approval use of dapagliflozin. Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Infections:
+Metabolism and Nutrition Disorders:
+Renal and Urinary Disorders:
+Skin and Subcutaneous Tissue Disorders:
+7 DRUG INTERACTIONS
+Table 4: Clinically Relevant Interactions with Dapagliflozin
+Insulin or Insulin Secretagogues
+Clinical Impact
+The risk of hypoglycemia may be increased when dapagliflozin is used concomitantly with insulin or insulin secretagogues (e.g., sulfonylurea)
+Intervention
+Concomitant use may require lower doses of insulin or the insulin secretagogue to reduce the risk of hypoglycemia.
+Lithium
+Concomitant use of an SGLT2 inhibitor with lithium may decrease serum lithium concentrations.
+Monitor serum lithium concentration more frequently during dapagliflozin initiation and dosage changes.
+Positive Urine Glucose Test
+SGLT2 inhibitors increase urinary glucose excretion and will lead to positive urine glucose tests.
+Monitoring glycemic control with urine glucose tests is not recommended in patients taking SGLT2 inhibitors. Use alternative methods to monitor glycemic control.
+Interference with 1,5-anhydroglucitol (1,5-AG) Assay
+Measurements of 1,5-AG are unreliable in assessing glycemic control in patients taking SGLT2 inhibitors.
+Monitoring glycemic control with 1,5-AG assay is not recommended. Use alternative methods to monitor glycemic control.
+8 USE IN SPECIFIC POPULATIONS
+Pregnancy:
+8.1
+Lactation:
+.
+8.2
+Geriatrics:
+Renal Impairment:
+8.1 Pregnancy
+Risk Summary
+Based on animal data showing adverse renal effects, dapagliflozin is not recommended during the second and third trimesters of pregnancy.
+Limited data with dapagliflozin in pregnant women are not sufficient to determine drug-associated risk for major birth defects or miscarriage. There are risks to the mother and fetus associated with poorly controlled diabetes and untreated heart failure in pregnancy
+(see Clinical Considerations)
+In animal studies, adverse renal pelvic and tubule dilatations, that were not fully reversible, were observed in rats when dapagliflozin was administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy, at all doses tested; the lowest of which provided an exposure 15-times the 10 mg clinical dose
+(see Data).
+The estimated background risk of major birth defects is 6 to 10% in women with pre-gestational diabetes with a HbA1c greater than 7% and has been reported to be as high as 20 to 25% in women with HbA1c greater than 10%. The estimated background risk of miscarriage for the indicated population is unknown. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+Clinical Considerations
+Disease-Associated Maternal and/or Embryofetal Risk
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, preeclampsia, spontaneous abortions, preterm delivery and delivery complications. Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
+Data
+Animal Data
+Dapagliflozin dosed directly to juvenile rats from postnatal day (PND) 21 until PND 90 at doses of 1, 15, or 75 mg/kg/day, increased kidney weights and increased the incidence of renal pelvic and tubular dilatations at all dose levels. Exposure at the lowest dose tested was 15-times the 10 mg clinical dose (based on AUC). The renal pelvic and tubular dilatations observed in juvenile animals did not fully reverse within a 1-month recovery period.
+In a prenatal and postnatal development study, dapagliflozin was administered to maternal rats from gestation day 6 through lactation day 21 at doses of 1, 15, or 75 mg/kg/day, and pups were indirectly exposed
+in utero
+In embryofetal development studies in rats and rabbits, dapagliflozin was administered throughout organogenesis, corresponding to the first trimester of human pregnancy. In rats, dapagliflozin was neither embryolethal nor teratogenic at doses up to 75 mg/kg/day (1441-times the 10 mg clinical dose, based on AUC). Dose-related effects on the rat fetus (structural abnormalities and reduced body weight) occurred only at higher dosages, equal to or greater than 150 mg/kg (more than 2344-times the 10 mg clinical dose, based on AUC), which were associated with maternal toxicity. No developmental toxicities were observed in rabbits at doses up to 180 mg/kg/day (1191-times the 10 mg clinical dose, based on AUC).
+8.2 Lactation
+There is no information regarding the presence of dapagliflozin in human milk, the effects on the breastfed infant, or the effects on milk production. Dapagliflozin is present in the milk of lactating rats
+(see Data)
+Because of the potential for serious adverse reactions in breastfed infants, advise women that use of dapagliflozin is not recommended while breastfeeding.
+Dapagliflozin was present in rat milk at a milk/plasma ratio of 0.49, indicating that dapagliflozin and its metabolites are transferred into milk at a concentration that is approximately 50% of that in maternal plasma. Juvenile rats directly exposed to dapagliflozin showed risk to the developing kidney (renal pelvic and tubular dilatations) during maturation.
+8.4 Pediatric Use
+The safety and effectiveness of dapagliflozin for glycemic control in type 2 diabetes mellitus have not been established in pediatric patients less than 10 years of age.
+The safety and effectiveness of dapagliflozin have not been established in pediatric patients to reduce the risk of
+[see Indications and Usage (
+8.5 Geriatric Use
+No dapagliflozin dosage change is recommended based on age.
+A total of 1424 (24%) of the 5936 dapagliflozin-treated patients were 65 years and older and 207 (3.5%) patients were 75 years and older in a pool of 21 double-blind, controlled, clinical trials assessing the efficacy of dapagliflozin in improving glycemic control in type 2 diabetes mellitus. After controlling for level of renal function (eGFR), efficacy was similar for patients under age 65 years and those 65 years and older. In patients ≥65 years of age, a higher proportion of patients treated with dapagliflozin for glycemic control had adverse reactions of hypotension
+In the DAPA trials, safety and efficacy were similar for patients aged 65 years and younger and those older than 65.
+8.6 Renal Impairment
+The safety profile of dapagliflozin across eGFR subgroups in this study was consistent with the known safety profile
+Dapagliflozin was evaluated in two glycemic control adult trials that included patients with type 2 diabetes mellitus with moderate renal impairment (an eGFR of 45 to less than 60 mL/min/1.73 m
+Efficacy and safety trials with dapagliflozin did not enroll patients with an eGFR less than 25 mL/min/1.73 m
+8.7 Hepatic Impairment
+No dose adjustment is recommended for patients with mild, moderate, or severe hepatic impairment. However, the benefit-risk for the use of dapagliflozin in patients with severe hepatic impairment should be individually assessed since the safety and efficacy of dapagliflozin have not been specifically studied in this population
+12.3
+10 OVERDOSAGE
+There were no reports of overdose during the clinical development program for dapagliflozin.
+In the event of an overdose, consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations. It is also reasonable to employ supportive measures as dictated by the patient’s clinical status. The removal of dapagliflozin by hemodialysis has not been studied.
+11 DESCRIPTION
+Dapagliflozin, an inhibitor of SGLT2, is described chemically as (lS)-1,5-Anhydro-1-
+C
+21
+25
+Dapagliflozin tablets are available for oral administration containing 5 mg dapagliflozin or 10 mg dapagliflozin, and the following inactive ingredients: croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate and microcrystalline cellulose. In addition, the film coating contains the following inactive ingredients: ferric oxide yellow, hydroxypropyl cellulose, hypromellose, titanium dioxide and triethyl citrate.
+ChemicalStructure
+12 CLINICAL PHARMACOLOGY
+12.1 Mechanism of Action
+Sodium-glucose cotransporter 2 (SGLT2), expressed in the proximal renal tubules, is responsible for the majority of the reabsorption of filtered glucose from the tubular lumen. Dapagliflozin is an inhibitor of SGLT2. By inhibiting SGLT2, dapagliflozin reduces reabsorption of filtered glucose and thereby promotes urinary glucose excretion.
+Dapagliflozin also reduces sodium reabsorption and increases the delivery of sodium to the distal tubule. This may influence several physiological functions including, but not restricted to, lowering both pre- and afterload of the heart and downregulation of sympathetic activity, and decreased intraglomerular pressure which is believed to be mediated by increased tubuloglomerular feedback.
+12.2 Pharmacodynamics
+General
+Increases in the amount of glucose excreted in the urine were observed in healthy subjects and in patients with type 2 diabetes mellitus following the administration of dapagliflozin (see
+Figure 1
+Figure 1: Scatter Plot and Fitted Line of Change from Baseline in 24-Hour Urinary Glucose Amount versus Dapagliflozin Dose in Healthy Subjects and Subjects with Type 2 Diabetes Mellitus (T2DM) (Semi-Log Plot)
+Figure-dapagliflozin-01
+Cardiac Electrophysiology
+Dapagliflozin was not associated with clinically meaningful prolongation of QTc interval at daily doses up to 150 mg (15-times the recommended maximum dose) in a study of healthy subjects. In addition, no clinically meaningful effect on QTc interval was observed following single doses of up to 500 mg (50-times the recommended maximum dose) of dapagliflozin in healthy subjects.
+12.3 Pharmacokinetics
+Absorption
+Following oral administration of dapagliflozin, the maximum plasma concentration (C
+max
+Distribution
+Dapagliflozin is approximately 91% protein bound. Protein binding is not altered in patients with renal or hepatic impairment.
+Metabolism
+The metabolism of dapagliflozin is primarily mediated by UGT1A9; CYP-mediated metabolism is a minor clearance pathway in humans. Dapagliflozin is extensively metabolized, primarily to yield dapagliflozin 3-O-glucuronide, which is an inactive metabolite. Dapagliflozin 3-O-glucuronide accounted for 61% of a 50 mg [
+14
+Elimination
+Dapagliflozin and related metabolites are primarily eliminated via the renal pathway. Following a single 50 mg dose of [
+½
+Specific Populations
+Effects of Age, Gender, Race, and Body Weight on Pharmacokinetics
+Based on a population pharmacokinetic analysis, age, gender, race, and body weight do not have a clinically meaningful effect on the pharmacokinetics of dapagliflozin and thus, no dose adjustment is recommended.
+Patients with Renal Impairment
+At steady-state (20 mg once daily dapagliflozin for 7 days), adult patients with type 2 diabetes with mild, moderate, or severe renal impairment (as determined by eGFR) had geometric mean systemic exposures of dapagliflozin that were 45%, 100%, and 200% higher, respectively, as compared to patients with type 2 diabetes mellitus with normal renal function. Higher systemic exposure of dapagliflozin in patients with type 2 diabetes mellitus with renal impairment did not result in a correspondingly higher 24-hour urinary glucose excretion. The steady-state 24-hour urinary glucose excretion in patients with type 2 diabetes mellitus and mild, moderate, and severe renal impairment was 42%, 80%, and 90% lower, respectively, than in patients with type 2 diabetes mellitus with normal renal function.
+The impact of hemodialysis on dapagliflozin exposure is not known
+Patients with
+Hepatic Impairment
+In adult subjects with mild and moderate hepatic impairment (Child-Pugh classes A and B), mean C
+[see Use in Specific Populations (
+8.7
+Drug Interactions
+In Vitro Assessment of Drug Interactions
+In
+in vitro
+Effects of Other Drugs on Dapagliflozin
+Table 5
+Table 5. Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
+Coadministered Drug
+(Dose Regimen)
+Effect on Dapagliflozin Exposure
+[% Change (90% CI)]
+AUC
+No dosing adjustments required for the following:
+Oral Antidiabetic Agents
+Metformin (1000 mg)
+20 mg
+↔
+Pioglitazone (45 mg)
+50 mg
+Sitagliptin (100 mg)
+Glimepiride (4 mg)
+Voglibose (0.2 mg three times daily)
+Other Medications
+Hydrochlorothiazide (25 mg)
+Bumetanide (1 mg)
+10 mg once daily
+Valsartan (320 mg)
+↓12%
+Simvastatin (40 mg)
+Anti-infective Agent
+Rifampin (600 mg once daily for 6 days)
+↓7%
+↓22%
+Nonsteroidal Anti-inflammatory Agent
+Mefenamic Acid (loading dose of 500 mg followed by 14 doses
+of 250 mg every 6 hours)
+↑13%
+↑51%
+Effects of Dapagliflozin on Other Drugs
+Table 6
+Table 6. Effects of Dapagliflozin on the Systemic Exposures of Coadministered Drugs
+Effect on Coadministered Drug Exposure
+↓7% [↓25%, ↑15%]
+↓6%
+↑5%
+↑19%
+Digoxin (0.25 mg)
+20 mg loading dose
+Warfarin (25 mg)
+13 NONCLINICAL TOXICOLOGY
+13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+Dapagliflozin did not induce tumors in either mice or rats at any of the doses evaluated in 2-year carcinogenicity studies. Oral doses in mice consisted of 5, 15, and 40 mg/kg/day in males and 2, 10, and 20 mg/kg/day in females, and oral doses in rats were 0.5, 2, and 10 mg/kg/day for both males and females. The highest doses evaluated in mice were approximately 72-times (males) and 105-times (females) the clinical dose of 10 mg per day, based on AUC exposure. In rats, the highest dose was approximately 131-times (males) and 186-times (females) the clinical dose of 10 mg per day, based on AUC exposure.
+Dapagliflozin was negative in the Ames mutagenicity assay and was positive in a series of
+in vivo
+There was no carcinogenicity or mutagenicity signal in animal studies, suggesting that dapagliflozin does not represent a genotoxic risk to humans.
+Dapagliflozin had no effects on mating, fertility, or early embryonic development in treated male or female rats at exposure multiples less than or equal to 1708-times and 998-times the maximum recommended human dose in males and females, respectively.
+14 CLINICAL STUDIES
+14.1 Glycemic Control in Adults with Type 2 Diabetes Mellitus
+Overview of Clinical Trials of Dapagliflozin in Adults with Type 2 Diabetes Mellitus
+Dapagliflozin has been studied in adult patients as monotherapy, in combination with metformin, pioglitazone, sulfonylurea (glimepiride), sitagliptin (with or without metformin), metformin plus a sulfonylurea, or insulin (with or without other oral antidiabetic therapy), compared to a sulfonylurea (glipizide), and in combination with a GLP-1 receptor agonist (exenatide extended-release) added-on to metformin. Dapagliflozin has also been studied in adult patients with type 2 diabetes mellitus and moderate renal impairment.
+Treatment with dapagliflozin as monotherapy and in combination with metformin, glimepiride, pioglitazone, sitagliptin, or insulin produced statistically significant improvements in mean change from baseline at Week 24 in HbA1c compared to control. Reductions in HbA1c were seen across subgroups including gender, age, race, duration of disease, and baseline body mass index (BMI).
+Monotherapy
+A total of 840 treatment-naive adult patients with inadequately controlled type 2 diabetes mellitus participated in 2 placebo-controlled trials to evaluate the safety and efficacy of monotherapy with dapagliflozin.
+In one monotherapy trial, a total of 558 treatment-naive patients with inadequately controlled diabetes participated in a 24-week trial (NCT00528372). Following a 2-week diet and exercise placebo lead-in period, 485 patients with HbA1c ≥7% and ≤10% were randomized to dapagliflozin 5 mg or dapagliflozin 10 mg once daily in either the morning (QAM, main cohort) or evening (QPM), or placebo.
+At Week 24, treatment with dapagliflozin 10 mg QAM provided significant improvements in HbA1c and the fasting plasma glucose (FPG) compared with placebo (see
+Table 7
+Table 7. Results at Week 24 (LOCF
+Efficacy Parameter
+Dapagliflozin 10 mg N=70
+HbA1c (%)
+Baseline (mean)
+8.0
+7.8
+Change from baseline (adjusted mean
+−0.9
+−0.8
+−0.2
+Difference from placebo (adjusted mean
+(95% CI)
+−0.7
+(−1.0, −0.4)
+−0.5
+(−0.8, −0.2)
+Percent of patients achieving HbA1c <7% adjusted for baseline
+50.8%
+¶
+44.2%
+31.6%
+FPG (mg/dL)
+166.6
+157.2
+159.9
+−28.8
+−24.1
+−4.1
+−24.7
+(−35.7, −13.6)
+−19.9
+(−31.3, −8.5)
+Initial Combination Therapy with Metformin XR
+A total of 1236 treatment-naive adult patients with inadequately controlled type 2 diabetes mellitus (HbA1c ≥7.5% and ≤12%) participated in 2 active-controlled trials of 24-week duration to evaluate initial therapy with dapagliflozin 5 mg or 10 mg in combination with metformin extended-release (XR) formulation.
+In one trial (NCT00859898), 638 patients randomized to 1 of 3 treatment arms following a 1-week lead-in period received: dapagliflozin 10 mg plus metformin XR (up to 2,000 mg per day), dapagliflozin 10 mg plus placebo, or metformin XR (up to 2,000 mg per day) plus placebo. Metformin XR dose was up-titrated weekly in 500 mg increments, as tolerated, with a median dose achieved of 2,000 mg.
+The combination treatment of dapagliflozin 10 mg plus metformin XR provided statistically significant improvements in HbA1c and FPG compared with either of the monotherapy treatments and statistically significant reduction in body weight compared with metformin XR alone (see
+Table 8
+Figure 2
+Table 8: Results at Week 24 (LOCF
++ Metformin XR
+N=211
+N=219
+Metformin XR
+N=208
+#
+Body Weight (kg)
+* LOCF: last observation (prior to rescue for rescued patients) carried forward.
+† All randomized patients who took at least one dose of double-blind trial medication during the short-term double-blind period.
+‡ Least squares mean adjusted for baseline value.
+§ p-value <0.0001.
+¶ Non-inferior versus metformin XR.
+# p-value <0.05.
+Figure 2: Adjusted Mean Change from Baseline Over Time in HbA1c (%) in a 24-Week Active- Controlled Trial of Dapagliflozin Initial Combination Therapy with Metformin XR
+In a second trial (NCT00643851), 603 patients were randomized to 1 of 3 treatment arms following a 1- week lead-in period: Dapagliflozin 5 mg plus metformin XR (up to 2,000 mg per day), dapagliflozin 5 mg plus placebo, or metformin XR (up to 2,000 mg per day) plus placebo. Metformin XR dose was up- titrated weekly in 500 mg increments, as tolerated, with a median dose achieved of 2,000 mg.
+The combination treatment of dapagliflozin 5 mg plus metformin XR provided statistically significant improvements in HbA1c and FPG compared with either of the monotherapy treatments and statistically significant reduction in body weight compared with metformin XR alone (see
+Table 9
+Table 9: Results at Week 24 (LOCF
+N=194
+N=203
+N=201
+Add-On to Metformin
+A total of 546 adult patients with type 2 diabetes mellitus with inadequate glycemic control (HbA1c ≥7% and ≤10%) participated in a 24-week, placebo-controlled trial to evaluate dapagliflozin in combination with metformin (NCT00528879). Patients on metformin at a dose of at least 1,500 mg per day were randomized after completing a 2-week, single-blind, placebo lead-in period. Following the lead-in period, eligible patients were randomized to dapagliflozin 5 mg, dapagliflozin 10 mg, or placebo in addition to their current dose of metformin.
+As add-on treatment to metformin, dapagliflozin 10 mg provided statistically significant improvements in HbA1c and FPG, and statistically significant reduction in body weight compared with placebo at Week 24 (see
+Table 10
+Figure 3
+Table 10: Results of a 24-Week (LOCF
++ Metformin N=135
++ Metformin N=137
+§ p-value <0.0001 versus placebo + metformin.
+¶ p-value <0.05 versus placebo + metformin.
+Figure 3: Adjusted Mean Change from Baseline Over Time in HbA1c (%) in a 24-Week Placebo- Controlled Trial of Dapagliflozin in Combination with Metformin
+Active Glipizide-Controlled Trial Add-On to Metformin
+A total of 816 adult patients with type 2 diabetes mellitus with inadequate glycemic control (HbA1c >6.5% and ≤10%) were randomized in a 52-week, glipizide-controlled, non-inferiority trial to evaluate dapagliflozin as add-on therapy to metformin (NCT00660907). Patients on metformin at a dose of at least 1,500 mg per day were randomized following a 2-week placebo lead-in period to glipizide or dapagliflozin (5 mg or 2.5 mg, respectively) and were up-titrated over 18 weeks to optimal glycemic effect (FPG <110 mg/dL, <6.1 mmol/L) or to the highest dose level (up to glipizide 20 mg and dapagliflozin 10 mg) as tolerated by patients. Thereafter, doses were kept constant, except for down- titration to prevent hypoglycemia.
+At the end of the titration period, 87% of patients treated with dapagliflozin had been titrated to the maximum trial dose (10 mg) versus 73% treated with glipizide (20 mg). Dapagliflozin led to a similar mean reduction in HbA1c from baseline at Week 52 (LOCF), compared with glipizide, thus demonstrating non-inferiority (see
+Table 11
+Table 11: Results at Week 52 (LOCF
+Dapagliflozin + Metformin N=400
+Glipizide
++ Metformin N=401
+Add-On Combination Therapy with Other Antidiabetic Agents
+Add-On Combination Therapy with a Sulfonylurea
+A total of 597 adult patients with type 2 diabetes mellitus and inadequate glycemic control (HbA1c ≥7% and ≤10%) were randomized in this 24-week, placebo-controlled trial to evaluate dapagliflozin in combination with glimepiride (a sulfonylurea) (NCT00680745).
+Patients on at least half the maximum recommended dose of glimepiride as monotherapy (4 mg) for at least 8 weeks lead-in were randomized to dapagliflozin 5 mg, dapagliflozin 10 mg, or placebo in addition to glimepiride 4 mg per day. Down-titration of glimepiride to 2 mg or 0 mg was allowed for hypoglycemia during the treatment period; no up-titration of glimepiride was allowed.
+In combination with glimepiride, dapagliflozin 10 mg provided statistically significant improvement in HbA1c, FPG, and 2-hour PPG, and statistically significant reduction in body weight compared with placebo plus glimepiride at Week 24 (see
+Table 12
+Add-On Combination Therapy with Metformin and a Sulfonylurea
+A total of 218 adult patients with type 2 diabetes mellitus and inadequate glycemic control (HbA1c ≥7% and ≤10.5%) participated in a 24-week, placebo-controlled trial to evaluate dapagliflozin in combination with metformin and a sulfonylurea (NCT01392677). Patients on a stable dose of metformin (immediate- or extended-release formulations) ≥1,500 mg/day plus maximum tolerated dose, which must be at least half the maximum dose, of a sulfonylurea for at least 8 weeks prior to enrollment were randomized after an 8-week placebo lead-in period to dapagliflozin 10 mg or placebo. Dose-titration of dapagliflozin or metformin was not permitted during the 24–week treatment period. Down-titration of the sulfonylurea was permitted to prevent hypoglycemia, but no up-titration was permitted. As add-on treatment to combined metformin and a sulfonylurea, treatment with dapagliflozin 10 mg provided statistically significant improvements in HbA1c and FPG and statistically significant reduction in body weight compared with placebo at Week 24 (
+Add-On Combination Therapy with a Thiazolidinedione
+A total of 420 adult patients with type 2 diabetes mellitus with inadequate glycemic control (HbA1c ≥7% and ≤10.5%) participated in a 24-week, placebo-controlled trial to evaluate dapagliflozin in combination with pioglitazone [a thiazolidinedione (TZD)] alone (NCT00683878). Patients on a stable dose of pioglitazone of 45 mg per day (or 30 mg per day, if 45 mg per day was not tolerated) for 12 weeks were randomized after a 2-week lead-in period to 5 or 10 mg of dapagliflozin or placebo in addition to their current dose of pioglitazone. Dose titration of dapagliflozin or pioglitazone was not permitted during the trial.
+In combination with pioglitazone, treatment with dapagliflozin 10 mg provided statistically significant improvements in HbA1c, 2-hour PPG, FPG, the proportion of patients achieving HbA1c <7%, and a statistically significant reduction in body weight compared with the placebo plus pioglitazone treatment groups (see
+Add-On Combination Therapy with a DPP4 Inhibitor
+A total of 452 adult patients with type 2 diabetes mellitus who were drug naive, or who were treated at entry with metformin or a DPP4 inhibitor alone or in combination, and had inadequate glycemic control (HbA1c ≥7.0% and ≤10.0% at randomization), participated in a 24-week, placebo-controlled trial to evaluate dapagliflozin in combination with sitagliptin (a DPP4 inhibitor) with or without metformin (NCT00984867).
+Eligible patients were stratified based on the presence or absence of background metformin (≥1,500 mg per day), and within each stratum were randomized to either dapagliflozin 10 mg plus sitagliptin 100 mg once daily, or placebo plus sitagliptin 100 mg once daily. Endpoints were tested for dapagliflozin 10 mg versus placebo for the total trial group (sitagliptin with and without metformin) and for each stratum (sitagliptin alone or sitagliptin with metformin). Thirty-seven percent (37%) of patients were drug naive, 32% were on metformin alone, 13% were on a DPP4 inhibitor alone, and 18% were on a DPP4 inhibitor plus metformin. Dose titration of dapagliflozin, sitagliptin, or metformin was not permitted during the trial.
+In combination with sitagliptin (with or without metformin),
+dapagliflozin
+Add-On Combination Therapy with Insulin
+A total of 808 adult patients with type 2 diabetes mellitus who had inadequate glycemic control (HbA1c
+≥7.5% and ≤10.5%) were randomized in a 24-week, placebo-controlled trial to evaluate dapagliflozin as add-on therapy to insulin (NCT00673231). Patients on a stable insulin regimen, with a mean dose of at least 30 IU of injectable insulin per day, for a period of at least 8 weeks prior to enrollment and on a maximum of 2 oral antidiabetic medications (OADs), including metformin, were randomized after completing a 2-week enrollment period to receive either dapagliflozin 5 mg, dapagliflozin 10 mg, or placebo in addition to their current dose of insulin and other OADs, if applicable. Patients were stratified according to the presence or absence of background OADs. Up- or down-titration of insulin was only permitted during the treatment phase in patients who failed to meet specific glycemic goals. Dose modifications of blinded trial medication or OAD(s) were not allowed during the treatment phase, with the exception of decreasing OAD(s) where there were concerns over hypoglycemia after cessation of insulin therapy.
+In this trial, 50% of patients were on insulin monotherapy at baseline, while 50% were on 1 or 2 OADs in addition to insulin. At Week 24, dapagliflozin 10 mg dose provided statistically significant improvement in HbA1c and reduction in mean insulin dose, and a statistically significant reduction in body weight compared with placebo in combination with insulin, with or without up to 2 OADs (see
+At Week 24, dapagliflozin 5 mg (−5.7 IU, difference from placebo) and 10 mg (−6.2 IU, difference from placebo) once daily resulted in a statistically significant reduction in mean daily insulin dose (p<0.0001 for both doses) compared to placebo in combination with insulin, and a statistically significantly higher proportion of patients on dapagliflozin 10 mg (19.6%) reduced their insulin dose by at least 10% compared to placebo (11.0%).
+Table 12: Results of 24-Week (LOCF
+) Placebo-Controlled Trials of
+Dapagliflozin in Combination with Antidiabetic Agents
+In Combination with Sulfonylurea (Glimepiride)
+Intent-to-Treat Population
+N=142
+2-hour PPG
+(mg/dL)
+In Combination with Metformin and a Sulfonylurea
+N=108
+‡#
+In Combination with Thiazolidinedione (Pioglitazone)
+Þ
+ß
+In Combination with DPP4 Inhibitor (Sitagliptin) with or without Metformin
+N=223
+N=224
+In Combination with Insulin with or without up to 2 Oral Antidiabetic Therapies
+N=193
+à
+Combination Therapy with Exenatide-Extended Release as Add-On to Metformin
+A total of 694 adult patients with type 2 diabetes mellitus and inadequate glycemic control (HbA1c ≥8.0 and ≤12.0%) on metformin, were evaluated in a 28-week double-blind, active-controlled trial to compare dapagliflozin in combination with exenatide extended-release (a GLP-1 receptor agonist) to dapagliflozin alone and exenatide extended-release alone, as add-on to metformin (NCT02229396). Patients on metformin at a dose of at least 1,500 mg per day were randomized following a 1-week placebo lead-in period to receive either dapagliflozin 10 mg once daily (QD) in combination with exenatide extended-release 2 mg once weekly (QW), dapagliflozin 10 mg QD, or exenatide extended–release 2 mg QW.
+At Week 28, dapagliflozin in combination with exenatide extended-release provided statistically significantly greater reductions in HbA1c (-1.77%) compared to dapagliflozin alone (-1.32%, p=0.001) and exenatide extended-release alone (-1.42%, p=0.012). Dapagliflozin in combination with exenatide extended- release provided statistically significantly greater reductions in FPG (-57.35 mg/dL) compared to dapagliflozin alone (-44.72 mg/dL, p=0.006) and exenatide extended-release alone (-40.53, p <0.001).
+Use in Adults with Type 2 Diabetes Mellitus and Moderate Renal Impairment
+Dapagliflozin was assessed in two placebo-controlled trials of adult patients with type 2 diabetes mellitus and moderate renal impairment.
+Patients with type 2 diabetes mellitus and an eGFR between 45 to less than 60 mL/min/1.73 m
+Table 13
+Table 13. Results at Week 24 of Placebo-Controlled Trial for Dapagliflozin in Adults With Type 2 Diabetes Mellitus and Renal Impairment (eGFR 45 to Less Than 60 mL/min/1.73 m
+Number of patients:
+N=160
+N=161
+8.3
+-0.4
+-0.1
+-0.3
+(-0.5, -0.1)
+placebo, respectively. Retrieved dropouts, i.e., observed HbA1c at Week 24 from subjects who discontinued treatment, were used to impute missing values in HbA1c.
+Figure-dapagliflozin-02
+Figure-dapagliflozin-03
+14.3 Cardiovascular Outcomes in Adults with Type 2 Diabetes Mellitus
+Dapagliflozin Effect on Cardiovascular Events (DECLARE, NCT01730534) was an international, multicenter, randomized, double-blind, placebo-controlled, clinical trial conducted to determine the effect of dapagliflozin relative to placebo on CV outcomes when added to current background therapy. All patients had type 2 diabetes mellitus and either established CV disease or two or more additional CV risk factors (age ≥55 years in men or ≥60 years in women and one or more of dyslipidemia, hypertension, or current tobacco use). Concomitant antidiabetic and atherosclerotic therapies could be adjusted, at the discretion of investigators, to ensure participants were treated according to the standard care for these diseases.
+Of 17160 randomized patients, 6974 (40.6%) had established CV disease and 10186 (59.4%) did not have established CV disease. A total of 8582 patients were randomized to dapagliflozin 10 mg, 8578 to placebo, and patients were followed for a median of 4.2 years.
+Approximately 80% of the trial population was White, 4% Black or African American, and 13% Asian. The mean age was 64 years, and approximately 63% were male.
+Mean duration of diabetes was 11.9 years and 22.4% of patients had diabetes for less than 5 years. Mean eGFR was 85.2 mL/min/1.73 m
+Most patients (98.1%) used one or more antihyperglycemic medications at baseline. 82.0% of the patients were being treated with metformin, 40.9% with insulin, 42.7% with a sulfonylurea, 16.8% with a DPP4 inhibitor, and 4.4% with a GLP-1 receptor agonist.
+Approximately 81.3% of patients were treated with angiotensin converting enzyme inhibitors or angiotensin receptor blockers, 75.0% with statins, 61.1% with antiplatelet therapy, 55.5% with acetylsalicylic acid, 52.6% with beta-blockers, 34.9% with calcium channel blockers, 22.0% with thiazide diuretics, and 10.5% with loop diuretics.
+A Cox proportional hazards model was used to test for non-inferiority against the pre-specified risk margin of 1.3 for the hazard ratio (HR) of the composite of CV death, myocardial infarction (MI), or ischemic stroke (MACE) and if non-inferiority was demonstrated, to test for superiority on the two primary endpoints: 1) the composite of hospitalization for heart failure or CV death, and 2) MACE.
+The incidence rate of MACE was similar in both treatment arms: 2.3 MACE events per 100 patient-years on dapagliflozin vs 2.46 MACE events per 100 patient-years on placebo. The estimated hazard ratio of MACE associated with dapagliflozin relative to placebo was 0.93 with a 95% CI of (0.84, 1.03). The upper bound of this confidence interval, 1.03, excluded the pre-specified non-inferiority margin of 1.3.
+Dapagliflozin was superior to placebo in reducing the incidence of the primary composite endpoint of hospitalization for heart failure or CV death [HR 0.83 (95% CI 0.73, 0.95)].
+The treatment effect was due to a significant reduction in the risk of hospitalization for heart failure in subjects randomized to dapagliflozin [HR 0.73 (95% CI 0.61, 0.88)], with no change in the risk of CV death (
+Table 15
+Figures 4
+Table 15. Treatment Effects for the Primary Endpoints
+Patients with events n(%)
+Efficacy Variable (time to first occurrence)
+N=8582
+N=8578
+Hazard ratio
+Primary Endpoints
+Composite of Hospitalization for Heart Failure, CV Death
+417 (4.9)
+496 (5.8)
+0.83 (0.73, 0.95)
+Composite Endpoint of CV Death, MI, Ischemic Stroke
+756 (8.8)
+803 (9.4)
+0.93 (0.84, 1.03)
+Components of the composite endpoints
+Hospitalization for Heart Failure
+212 (2.5)
+286 (3.3)
+0.73 (0.61, 0.88)
+CV Death
+245 (2.9)
+249 (2.9)
+0.98 (0.82, 1.17)
+Myocardial Infarction
+393 (4.6)
+441 (5.1)
+0.89 (0.77, 1.01)
+Ischemic Stroke
+235 (2.7)
+231 (2.7)
+1.01 (0.84, 1.21)
+N=Number of patients, CI=Confidence interval, CV=Cardiovascular, MI=Myocardial infarction.
+Figure 4: Time to First Occurrence of Hospitalization for Heart Failure or CV Death in the DECLARE Trial
+Figure 5: Time to First Occurrence of Hospitalization for Heart Failure in the DECLARE Trial
+Figure-dapagliflozin-04
+Figure-dapagliflozin-05
+16 HOW SUPPLIED/STORAGE AND HANDLING
+How Supplied
+Dapagliflozin tablets have a marking on one side and are available in the strengths and packages listed in
+Table 18
+Table 18. Pack Presentation of Dapagliflozin Tablet
+Tablet Strength
+Film-Coated Tablet
+Color/Shape
+Tablet
+Markings
+Package Size
+NDC Code
+Light yellow,
+“DN5” debossed on one side
+30 tablets in one bottle with child-resistant cap
+0781-5985-31
+100 tablets in one bottle with child-resistant cap
+0781-5985-01
+500 tablets in one bottle with child-resistant cap
+0781-5985-05
+1000 tablets in one bottle with child-resistant cap
+0781-5985-10
+“DN10” debossed on one side
+0781-5990-31
+0781-5990-01
+0781-5990-05
+0781-5990-10
+Storage and Handling
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
+17 PATIENT COUNSELING INFORMATION
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis
+In patients with type 1 diabetes mellitus, inform them that using dapagliflozin tablets can increase their risk of life-threatening diabetic ketoacidosis. For all other patients, inform them that dapagliflozin tablets can cause potentially fatal ketoacidosis and that type 2 diabetes mellitus and pancreatic disorders (e.g., history of pancreatitis or pancreatic surgery) are risk factors.
+Educate all patients on precipitating factors (such as insulin dose reduction or missed insulin doses, infection, reduced caloric intake, ketogenic diet, surgery, dehydration, and alcohol abuse) and symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing). Inform patients that blood glucose may be normal even in the presence of ketoacidosis.
+Advise patients that they may be asked to monitor ketones. If symptoms of ketoacidosis occur, instruct patients to discontinue dapagliflozin tablets and seek medical attention immediately
+Inform patients that symptomatic hypotension may occur with dapagliflozin tablets and advise them to contact their healthcare provider if they experience such symptoms
+Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier’s Gangrene), and Genital Mycotic Infections
+Counsel patients that genitourinary infections may occur when taking dapagliflozin tablets and may become serious. Educate patients on the symptoms and advise them to seek medical advice if symptoms occur. Specifically, advise patients to promptly seek medical attention if they develop pain or tenderness, redness, or swelling of the genitals or the area from the genitals back to the rectum, along with a fever above 100.4°F or malaise
+Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
+Inform patients that the incidence of hypoglycemia may increase when dapagliflozin tablets are added to an insulin secretagogue (e.g., sulfonylurea) and/or insulin. Educate patients on the signs and symptoms of hypoglycemia
+Inform patients that serious hypersensitivity reactions (e.g., urticaria, anaphylactic reactions, and angioedema) have been reported with dapagliflozin tablets. Advise patients to immediately report any signs or symptoms suggesting allergic reaction or angioedema, and to take no more of the drug until they have consulted prescribing physicians.
+Pregnancy
+Advise pregnant patients of the potential risk to a fetus with treatment with dapagliflozin tablets. Instruct patients to immediately inform their healthcare provider if pregnant or planning to become pregnant
+Lactation
+Advise patients that use of dapagliflozin tablets are not recommended while breastfeeding
+Laboratory Tests
+Due to its mechanism of action, patients taking dapagliflozin tablets will test positive for glucose in their urine.
+Missed Dose
+Instruct patients to take dapagliflozin tablets only as prescribed. If a dose is missed, it should be taken as soon as possible. Advise patients not to double their next dose
+Manufactured by
+Sandoz Inc., Plainsboro, NJ 08536
+MEDICATION GUIDE
+DAPAGLIFLOZIN (DAP-a-gli-FLOE-zin) TABLETS, for oral use
+What is the most important information I should know about dapagliflozin tablets?
+Dapagliflozin tablets can cause serious side effects, including:
+Diabetic ketoacidosis (increased ketones in your blood or urine) in people with type 1 diabetes and other ketoacidosis.
+Stop taking dapagliflozin tablets and call your healthcare provider or get medical help right away if you get any of the following. If possible, check for ketones in your urine or blood, even if your blood sugar is less than 250 mg/dL.
+○
+Dehydration.
+Dapagliflozin tablets can cause some people to become dehydrated (the loss of body water and salt). Dehydration may cause you to feel dizzy, faint, lightheaded, or weak, especially when you stand up (orthostatic hypotension). There have been reports of sudden kidney injury in people with Type 2 diabetes who are taking dapagliflozin tablets.
+Genital and urinary tract infections.
+A rare but serious bacterial infection called necrotizing fasciitis can cause damage to the tissue under the skin in the area between and around the anus and genitals (perineum).
+Seek medical attention immediately if you have a fever or you are feeling very weak, tired or uncomfortable (malaise), and you develop any of the following symptoms in the area between and around your anus and genitals:
+Urinary tract infection:
+Vaginal yeast infection:
+Yeast infection of the skin around the penis (balanitis
+or balanoposthitis).
+What are dapagliflozin tablets?
+o
+Who should not take dapagliflozin tablets?
+Do not take dapagliflozin tablets if you:
+serious
+What should I tell my healthcare provider before taking dapagliflozin tablets?
+Before you take dapagliflozin tablets, tell your healthcare provider if you:
+Tell your healthcare provider about all the medicines you take,
+Dapagliflozin may affect the way other medicines work, and other medicines may affect how dapagliflozin works. Know the medicines you take. Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
+How should I take dapagliflozin tablets?
+“What are the possible side effects of dapagliflozin tablets?”
+What are the possible side effects of dapagliflozin tablets?
+Dapagliflozin tablets may cause serious side effects, including:
+See “What is the most important information I should know about dapagliflozin tablets?”.
+Low blood sugar (hypoglycemia) in patients with diabetes mellitus.
+Serious allergic reaction.
+“Who should not take dapagliflozin tablets?”.
+The most common side effects of dapagliflozin tablets include:
+These are not all the possible side effects of dapagliflozin tablets. For more information, ask your healthcare provider or pharmacist.
+Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.
+How should I store dapagliflozin tablets?
+Store dapagliflozin tablets at room temperature between 68°F and 77°F (20°C and 25°C).
+General information about the safe and effective use of dapagliflozin tablets
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use dapagliflozin tablets for a condition for which they were not prescribed. Do not give dapagliflozin tablets to other people, even if they have the same symptoms you have. They may harm them.
+This Medication Guide summarizes the most important information about dapagliflozin tablets. If you would like more information, talk to your healthcare provider. You can ask your pharmacist or healthcare provider for information about dapagliflozin tablets that is written for healthcare professionals.
+For more information about dapagliflozin tablets, call 1-800-525-8747.
+What are the ingredients in dapagliflozin tablets?
+Active ingredient:
+Inactive ingredients:
+This Medication Guide has been approved by the U.S. Food and Drug Administration. Revised: 07/2026
+Package/Label Display Panel
+NDC
+Rx Only
+Dapagliflozin Tablets
+Pharmacist: Dispense the
+accompanying Medication
+Guide to each patient.
+30 Tablets
+Sandoz
+5mgx30Tablets
+10mgx30Tablets

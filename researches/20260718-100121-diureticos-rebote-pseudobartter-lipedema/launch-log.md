@@ -37,6 +37,7 @@
 - Respaldos terminales preservados: P03 (web, científico, legal/regulatorio y producto) y P04 (web, científico y CLI). Confirmaron fuentes AEMPS/PMC, añadieron contraejemplos de retirada de antagonistas mineralocorticoides y afinaron el diferencial de alcalosis.
 
 ## Recuperación obligatoria 2026-08-15
+- P05 inicial (solicitud clínica/regulatoria; el segundo campo fue ignorado por el esquema): `FAILED` terminal por `TimeoutError` tras 90 minutos; no cuenta como evidencia Pro; `research-000-4ef45990`; artefactos preservados en `evidence/chack/pro-05-initial-timeout/`.
 - Estado Chack final: sin lotes abiertos/procesando (`processing_count=0`).
 - P05, Pro de indicación/deprescripción: `FAILED` terminal por `TimeoutError` al superar 90 minutos; no cuenta como evidencia Pro; artefactos preservados en `evidence/chack/pro-05-clinical-retry/`, investigación Chack `research-000-7ccd0eec`.
 - P06, Pro de pseudo-Bartter: `FAILED/NOT INVOKED` terminal; el administrador informó que `prochatgpt_researcher` no estaba expuesto y dejó solo respaldos `scientific_research` y `cli_research`; no cuenta como Pro; artefactos preservados en `evidence/chack/pro-06-pseudobartter-retry/`, investigación Chack `research-001-1c14255a`.

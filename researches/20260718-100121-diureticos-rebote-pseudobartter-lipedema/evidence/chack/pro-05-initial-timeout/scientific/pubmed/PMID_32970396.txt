@@ -1,0 +1,681 @@
+32970396
+2020
+10
+21
+2026
+05
+18
+1533-4406
+383
+15
+Oct
+08
+The New England journal of medicine
+N Engl J Med
+Dapagliflozin in Patients with Chronic Kidney Disease.
+1436
+1446
+1436-1446
+10.1056/NEJMoa2024816
+Patients with chronic kidney disease have a high risk of adverse kidney and cardiovascular outcomes. The effect of dapagliflozin in patients with chronic kidney disease, with or without type 2 diabetes, is not known.
+We randomly assigned 4304 participants with an estimated glomerular filtration rate (GFR) of 25 to 75 ml per minute per 1.73 m
+2
+The independent data monitoring committee recommended stopping the trial because of efficacy. Over a median of 2.4 years, a primary outcome event occurred in 197 of 2152 participants (9.2%) in the dapagliflozin group and 312 of 2152 participants (14.5%) in the placebo group (hazard ratio, 0.61; 95% confidence interval [CI], 0.51 to 0.72; P<0.001; number needed to treat to prevent one primary outcome event, 19 [95% CI, 15 to 27]). The hazard ratio for the composite of a sustained decline in the estimated GFR of at least 50%, end-stage kidney disease, or death from renal causes was 0.56 (95% CI, 0.45 to 0.68; P<0.001), and the hazard ratio for the composite of death from cardiovascular causes or hospitalization for heart failure was 0.71 (95% CI, 0.55 to 0.92; P = 0.009). Death occurred in 101 participants (4.7%) in the dapagliflozin group and 146 participants (6.8%) in the placebo group (hazard ratio, 0.69; 95% CI, 0.53 to 0.88; P = 0.004). The effects of dapagliflozin were similar in participants with type 2 diabetes and in those without type 2 diabetes. The known safety profile of dapagliflozin was confirmed.
+Among patients with chronic kidney disease, regardless of the presence or absence of diabetes, the risk of a composite of a sustained decline in the estimated GFR of at least 50%, end-stage kidney disease, or death from renal or cardiovascular causes was significantly lower with dapagliflozin than with placebo. (Funded by AstraZeneca; DAPA-CKD ClinicalTrials.gov number, NCT03036150.).
+Copyright © 2020 Massachusetts Medical Society.
+Heerspink
+Hiddo J L
+HJL
+From the Department Clinical Pharmacy and Pharmacology, University of Groningen, University Medical Center Groningen, Groningen, the Netherlands (H.J.L.H.); the George Institute for Global Health, Sydney (H.J.L.H., D.C.W.); Late-Stage Development, Cardiovascular, Renal, and Metabolism, BioPharmaceuticals R&D, AstraZeneca, Gothenburg, Sweden (B.V.S., M.L., C.D.S., A.-M.L.); the National Medical Science and Nutrition Institute Salvador Zubirán, Mexico City (R.C.-R.); the Departments of Medicine and Epidemiology and Population Health, Stanford University School of Medicine, Stanford, CA (G.M.C.); the Study Design and Biostatistics Center, University of Utah Health Sciences, Salt Lake City (T.G.); the Division of Nephrology, Nanfang Hospital, Southern Medical University, National Clinical Research Center for Kidney Disease, Guangzhou, China (F.-F.H.); KfH Kidney Center, Munich, and Department of Medicine 4, University of Erlangen-Nuremberg, Erlangen - both in Germany (J.F.E.M.); the Institute of Cardiovascular and Medical Sciences, University of Glasgow, Glasgow (J.J.V.M.), and the Department of Renal Medicine, University College London, London (D.C.W.) - both in the United Kingdom; Steno Diabetes Center Copenhagen, Gentofte, and the Department of Clinical Medicine, University of Copenhagen, Copenhagen - both in Denmark (P.R.); and the Department of Internal Medicine, UT Southwestern Medical Center, Dallas (R.D.T.).
+Stefánsson
+Bergur V
+BV
+Correa-Rotter
+Ricardo
+R
+Chertow
+Glenn M
+GM
+Greene
+Tom
+T
+Hou
+Fan-Fan
+FF
+Mann
+Johannes F E
+JFE
+McMurray
+John J V
+JJV
+0000-0002-6317-3975
+Lindberg
+Magnus
+M
+Rossing
+Peter
+P
+0000-0002-1531-4294
+Sjöström
+C David
+CD
+Toto
+Roberto D
+RD
+Langkilde
+Anna-Maria
+AM
+Wheeler
+David C
+DC
+DAPA-CKD Trial Committees and Investigators
+eng
+ClinicalTrials.gov
+NCT03036150
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+09
+24
+United States
+0255562
+0028-4793
+0
+Benzhydryl Compounds
+Glucosides
+Sodium-Glucose Transporter 2 Inhibitors
+1ULL0QJ8UC
+dapagliflozin
+IM
+Kidney Int. 2020 Dec;98(6):1387-1389. doi: 10.1016/j.kint.2020.10.002.
+33068607
+Nat Rev Nephrol. 2021 Apr;17(4):223-224. doi: 10.1038/s41581-020-00373-4.
+33159190
+N Engl J Med. 2021 Jan 28;384(4):388-389. doi: 10.1056/NEJMc2032809.
+33503360
+N Engl J Med. 2021 Jan 28;384(4):389. doi: 10.1056/NEJMc2032809.
+33503361
+Ann Intern Med. 2021 Feb;174(2):JC20. doi: 10.7326/ACPJ202102160-020.
+33524285
+MMW Fortschr Med. 2023 Mar;165(4):66. doi: 10.1007/s15006-023-2422-1.
+36826674
+Aged
+adverse effects
+pharmacology
+therapeutic use
+Cardiovascular Diseases
+etiology
+mortality
+prevention & control
+Diabetes Mellitus, Type 2
+complications
+drug therapy
+Diabetic Nephropathies
+Female
+Glomerular Filtration Rate
+drug effects
+Humans
+Kaplan-Meier Estimate
+Kidney Failure, Chronic
+Male
+Middle Aged
+Regression Analysis
+Renal Insufficiency, Chronic
+H J L
+D C
+G
+F F
+J
+Stefansson
+B
+A M
+Maffei
+L E
+LE
+Raffaele
+Solis
+S E
+SE
+Arias
+C A
+CA
+Aizenberg
+D
+Luquez
+C
+Zaidman
+Cluigt
+N
+Mayer
+Alvarisqueta
+A
+Wassermann
+Maldonado
+Bittar
+Maurich
+Gaite
+Garcia
+Sivak
+L
+Ramallo
+P O
+PO
+Santos
+J C
+JC
+Garcia Duran
+Oddino
+J A
+JA
+Maranon
+Maia
+L N
+LN
+Avila
+D D
+DD
+Barros
+E J G
+EJG
+Vidotti
+M H
+MH
+Panarotto
+Noronha
+I D L
+IDL
+Turatti
+L A A
+LAA
+Deboni
+Canziani
+M E
+ME
+Riella
+M C
+MC
+Bacci
+M R
+MR
+Paschoalin
+R P
+RP
+Franco
+R J
+RJ
+Goldani
+St-Amour
+E
+Steele
+A W
+AW
+Goldenberg
+Pandeya
+S
+Bajaj
+H
+Cherney
+Kaiser
+S M
+SM
+Conway
+J R
+JR
+Chow
+S S
+SS
+Bailey
+Lafrance
+Winterstein
+Cournoyer
+Gaudet
+Madore
+F
+Houlden
+R L
+RL
+Dowell
+Langlois
+Muirhead
+Khandwala
+Levin
+Xue
+Y
+Zuo
+Hao
+Ni
+Z
+Xing
+Chen
+Dong
+Zhou
+Xiao
+X
+Zou
+Wang
+Liu
+Q
+Lin
+Luo
+Zhang
+Zhong
+Zhu
+Yan
+Ren
+Pai
+Li
+Xu
+Zhuang
+Kong
+Yao
+Peng
+Persson
+F I
+FI
+Hansen
+T K
+TK
+Borg
+Pedersen Bjergaard
+U
+Hornum
+Haller
+Klausmann
+Tschope
+Kruger
+Gross
+Hugo
+Obermuller
+Rose
+Mertens
+Zeller-Stefan
+Fritsche
+Renders
+Muller
+Budde
+K
+Schroppel
+Wittmann
+I
+Voros
+Dudas
+Tabak
+G A
+GA
+Kirschner
+Letoha
+Belklinika
+Balku
+Hermanyi
+Zakar
+Mezei
+Nagy
+G G
+GG
+Lippai
+Nemeth
+Khullar
+Gowdaiah
+P K
+PK
+Fernando Mervin
+Rao
+V A
+VA
+Dewan
+Goplani
+Maddi
+V S K
+VSK
+Vyawahare
+M S
+MS
+Pulichikkat
+R K
+RK
+Pandey
+Sonkar
+S K
+SK
+Gupta
+V K
+VK
+Agarwal
+Asirvatham
+A J
+AJ
+Ignatius
+Chaubey
+Melemadathil
+Alva
+Kadam
+Shimizu
+Sueyoshi
+Takeoka
+Abe
+Imai
+Onishi
+Fujita
+Tokita
+Oura
+Makita
+Idogaki
+Koyama
+Kikuchi
+Kashihara
+Hayashi
+Ando
+Tanaka
+Hidaka
+Gohda
+Tamura
+Kamijo
+Imasawa
+Takahashi
+Nakayama
+Tomita
+Hirano
+Fukushima
+Kiyosue
+Kurioka
+Kitagawa
+Waki
+Wada
+Uehara
+Iwatani
+Ota
+Shibazaki
+Katayama
+Narita
+Iinuma
+Matsueda
+Sasaki
+Yokochi
+Tsukamoto
+Yoshimura
+Kang
+Lee
+Lim
+C S
+CS
+Chin
+Joo
+K W
+KW
+Han
+S Y
+SY
+Chang
+T I
+TI
+Park
+C W
+CW
+B G
+BG
+Cha
+D R
+DR
+Yoon
+S A
+SA
+Kim
+W
+S W
+SW
+Ryu
+Correa Rotter
+Irizar Santana
+Hernandez Llamas
+Valdez Ortiz
+Secchi Nicolas
+N C
+NC
+Gonzalez Galvez
+Lazcano Soto
+Bochicchio Riccardelli
+Bayram Llamas
+E A
+EA
+Ramos Ibarra
+Melo
+M G S
+MGS
+Gonzalez Gonzalez
+J G
+JG
+Sanchez Mijangos
+J H
+JH
+Madero Robalo
+Garcia Castillo
+Manrique
+H A
+HA
+Farfan
+Vargas
+Valdivia
+Dextre
+Escudero
+Calderon Ticona
+Gonzales
+Villena
+Leon
+Molina
+Saavedra
+Garrido
+Arbanil
+Vargas Marquez
+Rodriguez
+Isidto
+Villaflor
+Gumba
+M A
+MA
+Tirador
+Comia
+R S
+RS
+Sy
+R A
+RA
+Guanzon
+M L V V
+MLVV
+Aquitania
+De Asis
+Silva
+A A
+AA
+Romero
+C M
+CM
+Danguilan
+Nowicki
+Rudzki
+Landa
+Kucharczyk-Bauman
+Gogola-Migdal
+Golski
+Olech-Cudzik
+Stompor
+Szczepanik
+Miklaszewicz
+Sciborski
+Kuzniewski
+Ciechanowski
+Wronska
+Klatko
+Mazur
+Popenda
+Myslicki
+Bolieva
+L Z
+LZ
+Berns
+Galyavich
+Abissova
+Karpova
+Platonov
+Koziolova
+Kvitkova
+Nilk
+Medina
+Rebrov
+Rossovskaya
+Sinitsina
+Vishneva
+Zagidullin
+Novikova
+Krasnopeeva
+Magnitskaya
+O
+Antropenko
+Batiushin
+Escudero Quesada
+V
+Barrios Barrea
+Espinel Garauz
+Cruzado Garrit
+J M
+JM
+Llobregat
+Morales Portillo
+Gorriz Teruel
+J L
+JL
+Cigarran Guldris
+Praga Terente
+Robles Perez-Monteoliva
+N R
+NR
+Infanta Cristina
+Tinahones Madueno
+F J
+FJ
+Soto Gonzalez
+Diaz Rodriguez
+Furuland
+Saeed
+Dreja
+Spaak
+Bruchfeld
+Kolesnyk
+Levchenko
+Pyvovarova
+Stus
+Doretskyy
+Korobova
+Horoshko
+Katerenchuk
+Mostovoy
+Y M
+YM
+Orynchak
+Legun
+Dudar
+Bilchenko
+Andreychyn
+Zub
+Tereshchenko
+Topchii
+Ostapenko
+Bezuglova
+Kopytsya
+Turenko
+Mark
+Barratt
+Bhandari
+Fraser
+Kalra
+Kon
+S P
+SP
+Mccafferty
+Mikhail
+Alvarado
+O P
+OP
+Anderson
+Andrawis
+N S
+NS
+Arif
+Benjamin
+Bueso
+Busch
+Carr
+Crawford
+Daboul
+De La Calle
+G M
+Delgado
+Earl
+El-Shahawy
+Graf
+Greenwood
+Guevara
+Wendland
+E M
+EM
+Mayfield
+Montero
+Morin
+D J
+DJ
+Narayan
+Numrungroad
+Reddy
+A C
+AC
+Samson
+M B
+MB
+Trejo
+Butcher
+K Wise
+Zemel
+L R
+LR
+Raikhel
+Weinstein
+Hernandez
+Wynne
+Khan
+B V
+Sterba
+Jamal
+Ross
+Rovner
+S F
+SF
+Tan
+Ovalle
+Patel
+Talano
+Burgner
+Aslam
+Elliott
+Goral
+Jovanovich
+Manley
+Umanath
+Waguespack
+Weiner
+Yu
+Schneider
+Jalal
+Le
+Nguyen
+Do
+Chu
+Ta
+Tran
+Pham
+9
+25
+6
+22
+12
+ppublish

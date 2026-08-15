@@ -1,0 +1,1058 @@
+34449189
+2021
+10
+28
+2026
+05
+18
+1533-4406
+385
+16
+Oct
+14
+The New England journal of medicine
+N Engl J Med
+Empagliflozin in Heart Failure with a Preserved Ejection Fraction.
+1451
+1461
+1451-1461
+10.1056/NEJMoa2107038
+Sodium-glucose cotransporter 2 inhibitors reduce the risk of hospitalization for heart failure in patients with heart failure and a reduced ejection fraction, but their effects in patients with heart failure and a preserved ejection fraction are uncertain.
+In this double-blind trial, we randomly assigned 5988 patients with class II-IV heart failure and an ejection fraction of more than 40% to receive empagliflozin (10 mg once daily) or placebo, in addition to usual therapy. The primary outcome was a composite of cardiovascular death or hospitalization for heart failure.
+Over a median of 26.2 months, a primary outcome event occurred in 415 of 2997 patients (13.8%) in the empagliflozin group and in 511 of 2991 patients (17.1%) in the placebo group (hazard ratio, 0.79; 95% confidence interval [CI], 0.69 to 0.90; P<0.001). This effect was mainly related to a lower risk of hospitalization for heart failure in the empagliflozin group. The effects of empagliflozin appeared consistent in patients with or without diabetes. The total number of hospitalizations for heart failure was lower in the empagliflozin group than in the placebo group (407 with empagliflozin and 541 with placebo; hazard ratio, 0.73; 95% CI, 0.61 to 0.88; P<0.001). Uncomplicated genital and urinary tract infections and hypotension were reported more frequently with empagliflozin.
+Empagliflozin reduced the combined risk of cardiovascular death or hospitalization for heart failure in patients with heart failure and a preserved ejection fraction, regardless of the presence or absence of diabetes. (Funded by Boehringer Ingelheim and Eli Lilly; EMPEROR-Preserved ClinicalTrials.gov number, NCT03057951).
+Copyright © 2021 Massachusetts Medical Society.
+Anker
+Stefan D
+SD
+From the Department of Cardiology (CVK) and the Berlin Institute of Health Center for Regenerative Therapies (BCRT), German Center for Cardiovascular Research (DZHK) partner site Berlin, Charité Universitätsmedizin Berlin, Berlin (S.D.A.), Universitätsklinikum des Saarlandes, Homberg (M. Böhm), RWTH Aachen University, Aachen (N.M.), Boehringer Ingelheim Pharma, Biberach (C.Z., S.S.), Boehringer Ingelheim International, Ingelheim (W.J., M. Brueckmann), and the Faculty of Medicine Mannheim, University of Heidelberg, Mannheim (M. Brueckmann) - all in Germany; the University of Mississippi Medical Center, Jackson (J.B.); National and Kapodistrian University of Athens School of Medicine, Athens (G.F.); Université de Lorraine, INSERM, Centre d'Investigations Cliniques Plurithématique 1433, and INSERM Unité 1116, CHRU, F-CRIN INI-CRCT (Cardiovascular and Renal Clinical Trialists) (J.P.F.), and Université de Lorraine, INSERM INI-CRCT, CHRU (F.Z.) - both in Nancy, France; the Cardiovascular Research and Development Center, Department of Surgery and Physiology, Faculty of Medicine of the University of Porto, Porto, Portugal (J.P.F.); Unidade de Insuficiência Cardíaca, Instituto do Coracao, Hospital das Clinicas HCFMUSP, Faculdade de Medicina, Universidade de São Paulo, São Paulo (E.B.); Maastricht University Medical Center and the School for Cardiovascular Disease CARIM - both in Maastricht, the Netherlands (H.-P.B.-L.R.); the Department of Medicine, Seoul National University Bundang Hospital, Seoul, South Korea (D.-J.C.); Max Superspeciality Hospital, Saket, New Delhi, India (V.C.); the National Institute of Cardiology, Mexico City (E.C.-V.); McGill University Health Centre, Montreal (N.G.), and St. Michael's Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiology Service, Fundación Valle del Lili, Universidad Icesi, Cali, Colombia (J.E.G.-M.); the Department of Cardiovascular Diseases, University Hospitals Leuven, Leuven, Belgium (S.J.); Massachusetts General Hospital and Baim Institute for Clinical Research, Boston (J.L.J.); University Hospital, Santiago de Compostela, Spain (J.R.G.-J.); Heart and Vascular Center, Semmelweiss University, Budapest, Hungary (B.M.); Victorian Heart Institute, Monash University, Melbourne, VIC, Australia (S.J.N.); Argentine Catholic University, and Medical Advisor in Heart Failure, Pulmonary Hypertension and Intrathoracic Transplant at FLENI and IADT Institute - both in Buenos Aires (S.V.P.); Central Michigan University, Mount Pleasant (I.L.P.); Wroclaw Medical University, Wroclaw, Poland (P.P.); the Cardiovascular Department, Cardiology Division, Papa Giovanni XXIII Hospital, Bergamo (M.S.), and Università di Pisa, Pisa (S.T.) - both in Italy; National Heart Centre Singapore, Singapore (D.S.); the Internal Cardiology Department, St. Ann University Hospital and Masaryk University, Brno, Czech Republic (J.S.); the University of Leicester, Glenfield General Hospital, Leicester (I.S.), the University of Glasgow, Glasgow (N.S.), the London School of Hygiene and Tropical Medicine (S.J.P.), and Imperial College, London (M.P.) - all in the United Kingdom; Kyushu University, Fukuoka, Japan (H.T.); the University of Medicine and Pharmacy, Carol Davila University and Emergency Hospital, Bucharest, Romania (D.V.); the Heart Failure Center, Fuwai Hospital, Chinese Academy of Medical Science and Peking Union Medical College, Beijing (J.Z.); the Veterans Affairs Medical Center, Washington, DC (P.C.); National Heart Centre Singapore, Duke-National University of Singapore, Singapore (C.S.P.L.); Boehringer Ingelheim Pharmaceuticals, Ridgefield, CT (J.M.S.); and Baylor Heart and Vascular Institute, Dallas (M.P.).
+Butler
+Javed
+J
+Filippatos
+Gerasimos
+G
+Ferreira
+João P
+JP
+Bocchi
+Edimar
+E
+Böhm
+Michael
+M
+Brunner-La Rocca
+Hans-Peter
+HP
+Choi
+Dong-Ju
+DJ
+Chopra
+Vijay
+V
+Chuquiure-Valenzuela
+Eduardo
+Giannetti
+Nadia
+N
+Gomez-Mesa
+Juan Esteban
+JE
+Janssens
+Stefan
+S
+Januzzi
+James L
+JL
+Gonzalez-Juanatey
+Jose R
+JR
+Merkely
+Bela
+B
+Nicholls
+Stephen J
+SJ
+Perrone
+Sergio V
+SV
+Piña
+Ileana L
+IL
+Ponikowski
+Piotr
+P
+Senni
+Michele
+Sim
+David
+D
+Spinar
+Jindrich
+Squire
+Iain
+I
+Taddei
+Stefano
+Tsutsui
+Hiroyuki
+H
+Verma
+Subodh
+Vinereanu
+Dragos
+Zhang
+Jian
+Carson
+Peter
+Lam
+Carolyn Su Ping
+CSP
+Marx
+Nikolaus
+Zeller
+Cordula
+C
+Sattar
+Naveed
+Jamal
+Waheed
+W
+Schnaidt
+Sven
+Schnee
+Janet M
+JM
+Brueckmann
+Martina
+Pocock
+Stuart J
+Zannad
+Faiez
+F
+Packer
+Milton
+0000-0003-1828-2387
+EMPEROR-Preserved Trial Investigators
+eng
+ClinicalTrials.gov
+NCT03057951
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+08
+27
+United States
+0255562
+0028-4793
+0
+Benzhydryl Compounds
+Glucosides
+Sodium-Glucose Transporter 2 Inhibitors
+HDC1R2M35U
+empagliflozin
+IM
+Nat Rev Cardiol. 2021 Nov;18(11):737. doi: 10.1038/s41569-021-00627-z.
+34526679
+Cell Metab. 2021 Nov 2;33(11):2099-2103. doi: 10.1016/j.cmet.2021.10.011.
+34731652
+Eur Heart J. 2021 Dec 1;42(45):4621-4623. doi: 10.1093/eurheartj/ehab715.
+34864931
+Ann Intern Med. 2022 Jan;175(1):JC4. doi: 10.7326/J21-0006.
+34978853
+Clin Med (Lond). 2022 Jan;22(1):75-76. doi: 10.7861/clinmed.rib.22.1.1.
+35078797
+N Engl J Med. 2022 May 26;386(21):e57. doi: 10.1056/NEJMc2118470.
+35613030
+35613031
+35613032
+35613033
+Natl Med J India. 2021 Nov-Dec;34(6):347-350. doi: 10.25259/NMJI_922_21.
+35818099
+Herz. 2022 Aug;47(4):291-292. doi: 10.1007/s00059-022-05125-7.
+35930025
+Adult
+administration & dosage
+adverse effects
+Cardiovascular Diseases
+mortality
+prevention & control
+Chronic Disease
+Double-Blind Method
+Female
+Heart Failure
+drug therapy
+physiopathology
+Hospitalization
+statistics & numerical data
+Humans
+Male
+Stroke Volume
+Aizenberg
+Cartasegna
+L
+Colombo
+Fernandez Mouti
+Koretzky
+Archibaldo Glenny
+Alvarez Iorio
+C A
+CA
+Anauch
+D J
+Henquin
+R
+Cavenago
+V E
+VE
+Campos
+R C
+RC
+Facta
+A
+Fernandez
+Ahuad Guerrero
+R A
+RA
+Lobo Márquez
+Leon de la Fuente
+Mansilla
+M V
+MV
+Hominal
+M A
+MA
+Hasbani
+Najenson
+Luquez
+H A
+HA
+Guzman
+L A
+LA
+Sessa
+Salomone
+O A
+OA
+Perna
+Piskorz
+Sicer
+Perez de Arenaza
+Zaidman
+C J
+CJ
+Nani
+Resk
+Villarreal
+Majul
+C R
+CR
+Colombo Berra
+Smith Casabella
+T
+Sassone
+S A
+SA
+Carnero
+Caccavo
+Berli
+Budassi
+Bono
+Alvarisqueta
+Colquhoun
+Amerena
+Beltrame
+Sverdlov
+Vaddadi
+Hamilton
+Stokes
+Dhawan
+Oldfield
+Howes
+Lehman
+De Pasquale
+Judkins
+Szto
+van den Brink
+O
+Leone
+Verwerft
+Troisfontaines
+Sarens
+Chenot
+De Sutter
+Godefroid
+De Vuyst
+de Charleroi
+C H U
+CHU
+Dupont
+Pereira Dutra
+Canani
+L H S
+LHS
+da Consolação Vieira Moreira
+de Souza
+W K S B
+WKSB
+Backes
+L M
+LM
+Maia
+L N
+LN
+De Souza Paolino
+Manenti
+E R
+ER
+Saporito
+W F
+WF
+Villaça Guimarães Filho
+Lariucci
+Saliba
+Franco Hirakawa
+Neuenschwander
+F C
+FC
+de Freitas Zerbini
+Gonçalves Mello
+Y
+Ascenção de Souza
+da Silva Neto
+E A
+EA
+Da Silveira
+Hernandes
+M E
+ME
+Finimundi
+H C
+HC
+Vasconcellos
+E F
+EF
+Sampaio
+Neves Mancuso
+F J
+FJ
+Bacci
+M R
+MR
+Vidotti
+M H
+MH
+Rossi Dos Santos
+Simões
+Gomes
+F L T
+FLT
+Nascimento
+C V
+CV
+de Moura Xavier Moraes Jr
+J-B
+JB
+Jr
+Precoma
+D B
+DB
+Ribas Fortes
+J A
+JA
+Leães
+P E
+PE
+Saraiva
+J F K
+JFK
+Rassi
+Alves da Costa
+F A
+FA
+Reis
+Zieroth
+Chehayeb
+St-Maurice
+Bourgeois
+Constance
+Anderson
+K
+Leblanc
+Racine
+Virani
+Yung
+Swiggum
+Pliamm
+Tyrrell
+Huynh
+Lavoie
+J-P
+Heffernan
+M L
+ML
+Vizel
+Hartleib
+M C
+MC
+Costa-Vitali
+Hill
+L L
+LL
+Khaykin
+Ricci
+Zhai
+Pandey
+A S
+AS
+Yao
+McKelvie
+Babapulle
+Curnew
+Gupta
+Vyselaar
+Berlingieri
+J C
+JC
+Lonn
+E M
+EM
+Dion
+Zheng
+Fan
+Z
+Han
+X
+Xu
+Shen
+Yu
+Guo
+Ye
+Liu
+Yan
+Ma
+Li
+Lu
+Kong
+Yang
+Pan
+Sun
+Dong
+Peng
+Yuan
+Lin
+Trujillo Dada
+Echeverria
+L E
+LE
+Lievano Triana
+M J F
+MJF
+Rizcala Muvdi
+A A
+AA
+Vanegas Eljach
+J E
+Manzur Jattin
+Coronel Arroyo
+Florez
+Hernandez Triana
+Sotomayor Herazo
+Beltran Lopez
+N E
+NE
+Arana Londoño
+Echeverri
+Burianova
+Cifkova
+Durdil
+Vesely
+Vaclavik
+Fiala
+Vodnansky
+Cech
+Monhart
+Kettner
+Miklik
+Brabec
+Pisova
+Zeman
+Zidkova
+E C
+EC
+Busak
+Linhart
+Radvan
+Vomacka
+Prosecky
+Hubac
+Foldyna
+Hlinomaz
+Vymetal
+Ludka
+Peterka
+Smid
+Spac Dr
+Ferkl
+Machova
+Schulze-Waltrup
+Bourhaial
+Olbrich
+H-G
+HG
+Genth-Zotz
+Kemala
+Lemke
+Schellong
+Rieker
+Faghih
+von Haehling
+Ince
+Wistorf
+Dorsel
+Bauersachs
+Prull
+Darius
+Wilke
+Sauter
+Rauch-Kroehnert
+U
+Al-Zoebi
+Lutz
+Frey
+Schulze
+C P
+CP
+König
+Maier
+Menzel
+Ebert
+Sarnighausen
+H E
+HE
+Düngen
+H D
+HD
+Salbach
+Sänger
+Birkenfeld
+A L
+AL
+Jeserich
+Licka
+Stellbrink
+Winkelmann
+Menck
+Zilahi
+Lakatos
+Tomcsanyi
+Szakal
+Nagy
+Szolnoki
+Andrassy
+Sydo
+Vorobcsuk
+Barany
+Koenyves
+Simon
+Matoltsy
+Noori
+Zolyomi
+Horvath
+Kiss
+R G
+RG
+Paragh
+Mittal
+V K
+VK
+Rastogi
+Shah
+Mullasari
+Krishnamoorthy
+J S
+JS
+Mehta
+Boro
+Oomman
+Kaul
+Komarlu
+S V
+Kahali
+Bhagwat
+Vijan
+V M
+VM
+Ghaisas
+N K
+NK
+Kothari
+Scherillo
+Vicenzi
+Reimers
+Panico
+Ambrosio
+Genovese
+Salvioni
+Fucili
+Fedele
+D'Orazio
+Cosmi
+Volpe
+Mazzone
+Esposito
+Doi
+Yoshida
+Nanasato
+Sakagami
+Maeno
+Shibata
+Yamamoto
+Oishi
+Yasaka
+Watanabe
+Tsuboi
+Wada
+Matsuoka
+Fujino
+Himi
+Fukui
+Ide
+Ichikawa
+Kijima
+Koga
+Yuda
+Kubota
+Manita
+Fujinaga
+Matsumura
+Fukumoto
+Inoko
+Kawai
+Hiasa
+Kazatani
+Mori
+Ogimoto
+Oguri
+Kinoshita
+Okuhara
+Ono
+Sato
+Fukue
+Takahashi
+Takaishi
+Miyagi
+Uehara
+Urata
+Imamaki
+Yoshitama
+Saito
+Kakinoki
+Sekino
+Furutani
+Koda
+Shinozaki
+Hirabayashi
+Arikawa
+Koizumi
+Nakayama
+Taguchi
+Nakamura
+Kadokami
+Matsumoto
+Kawamitsu
+Tsunodaese
+Oku
+Shimizu
+Maruyama
+Matsunaga
+Hashizume
+Momiyama
+Fujita
+Sugiyama
+Suwa
+Nakata
+Tobaru
+Ito
+Fukunaga
+Matsuda
+Llamas Esperon
+G A
+GA
+Illescas Díaz
+J J
+JJ
+Fajardo Campos
+Almeida Alvarado
+Bazzoni Ruiz
+Lopez Alcocer
+Valle Molina
+Herrera
+Calvo Vargas
+C G
+CG
+Padilla Padilla
+F G
+FG
+Rodriguez Briones
+Aguilera Real
+Alpizar Salazar
+Cervantes Escárcega
+J L
+Velasco Sanchez
+Al-Windy
+van Heerebeek
+Bellersen
+H-P
+Post
+Linssen
+van de Wetering
+Peters
+van Stralen
+Groutars
+Kok
+van der Meer
+Dijkmans
+Nierop
+Handoko
+Westendorp
+Rensing
+B J W M
+BJWM
+Hoogslag
+P A M
+PAM
+Kietselaer
+Kragten
+Alings
+Danilowicz-Szymanowicz
+Raczak
+Piesiewicz
+Zmuda
+Kus
+Podolec
+Musial
+Kania
+Miekus
+Mazur
+Janik
+Spyra
+Peruga
+Balsam
+Krakowiak
+Szachniewicz
+Ginel
+Chrustowski
+Wojewoda
+Zurakowski
+Koc
+Debinski
+Fil
+Kujawiak
+Forys
+Kasprzak
+Krol
+Michalski
+Mirek-Bryniarska
+Radwan
+Skonieczny
+Stania
+Skoczylas
+Madej
+Jurowiecki
+Firek
+Wozakowska-Kaplon
+Cymerman
+Cho
+H J
+HJ
+Na
+J O
+JO
+Yoo
+B S
+BS
+Kim
+K H
+KH
+S H
+SH
+Jeong
+Kang
+D H
+DH
+S M
+SM
+D S
+DS
+Copaci
+Barbulescu
+Dan
+Gheorghe
+G S
+GS
+Popescu
+Cristea
+M I
+MI
+Badea
+G R
+GR
+Ciobotaru
+G V
+GV
+Matei
+Militaru
+Avram
+R I
+RI
+Stamate
+S C
+SC
+Tudoran
+K L D
+KLD
+Wong
+Loh
+S Y
+SY
+Ling
+L F
+LF
+Corbett
+Fourie
+Kapp
+Makotoko
+Siebert
+Carrim-Ganey
+Chohan
+Pillay-Ramaya
+Arnold
+Engelbrecht
+Prozesky
+van Zyl
+Baben
+Hatchuel
+Basson
+M M D V
+MMDV
+Pretorius
+Nunkoo
+Cereto Castro
+Masip Utset
+Antorrrena Miranda
+López-Sendón
+Garcia-Moll Marimon
+Pascual Figal
+Hidalgo Urbano
+González Juanatey
+J R
+Cosín Sales
+Jiménez Navarro
+Sanmartín Fernández
+Ridocci Soriano
+García Pavía
+Martínez Sellés
+Saxena
+Yousef
+Clifford
+Arden
+Bakhai
+Jenkins
+Price
+Neutel
+Dauber
+Schmedtje
+Rama
+Peberdy
+Schneider
+Trichon
+Adlakha
+Thibodeau
+Scott-Tillery
+Skopicki
+Stevens
+Tahirkheli
+Tallaj
+Serota
+Chandra
+Yousuf
+Welker
+Velasquez
+Vest
+Weiss
+S O
+SO
+Wang
+Ariani
+M K
+MK
+Bernard
+Cohen
+Malik
+Patel
+Ali
+Barettella
+M B
+MB
+Alhaddad
+M T
+MT
+Khosla
+Suh
+D D-O
+DD
+Carr
+Akinboboye
+Kotha
+Logemann
+T N
+TN
+Zaha
+V G
+VG
+Greene
+Smith
+Marques
+Smart
+Contreras
+J P
+Abadier
+Lewis
+Ibrahim
+Djamson
+Feldman
+Hong
+Ashfaq
+Woodhouse
+Gazmuri
+R J
+RJ
+Nallasivan
+Saint-Jacques
+Nguyen
+V Q
+VQ
+Duncan
+McGinty
+Mirza
+Broome-Webster
+C L
+CL
+Adams
+K F
+KF
+Vora
+Costanzo
+West
+Rider
+Cox
+J M
+Jani
+Karim
+A H
+AH
+Akhtar
+Covalesky
+Sabatino
+Eaves
+W B
+WB
+Torres Consuegra
+Baum
+Salacata
+Bhatti
+Budoff
+M J
+MJ
+Potler
+A W
+AW
+Bush
+Cauthen
+Chu
+Rohr
+Claxton
+Deedwania
+Ellis
+Dy
+Free
+Fialkow
+East
+Straubing
+Falkowski
+Donahoe
+Ebrahimi
+Goldberg
+Harris
+B D
+BD
+Sangrigoli
+Fung
+Cheung
+Grover-McKay
+Mikhalkova
+Hauptman
+P J
+PJ
+Kline
+Kazemi
+Nassif
+Kosiborod
+Kastelic
+R M
+RM
+Khouzam
+Jarmukli
+Koren
+Kandath
+Jonsson
+Kassiotis
+Khalife
+Hays
+Kosmicki
+Littlefield
+Lupovitch
+S D
+Rao
+V U
+VU
+Labin
+Lombardo
+D M
+DM
+Bradley
+P S
+PS
+MacNevin
+Mahal
+McGrew
+V A
+VA
+McCullough
+McKenzie
+Miller
+G P
+GP
+Miranda
+McMillan
+Moghbelli
+Mumma
+Ong
+Banerjee
+Paraschos
+Nanna
+Napoli
+Narula
+Nelson
+O'Brien
+T X
+TX
+Onwuanyi
+8
+6
+29
+12
+41
+ppublish

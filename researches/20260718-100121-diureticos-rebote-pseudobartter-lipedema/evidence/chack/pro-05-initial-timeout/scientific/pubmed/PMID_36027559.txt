@@ -1,0 +1,210 @@
+36027559
+2022
+09
+30
+2026
+05
+18
+1533-4406
+387
+13
+Sep
+29
+The New England journal of medicine
+N Engl J Med
+Acetazolamide in Acute Decompensated Heart Failure with Volume Overload.
+1185
+1195
+1185-1195
+10.1056/NEJMoa2203094
+Whether acetazolamide, a carbonic anhydrase inhibitor that reduces proximal tubular sodium reabsorption, can improve the efficiency of loop diuretics, potentially leading to more and faster decongestion in patients with acute decompensated heart failure with volume overload, is unclear.
+In this multicenter, parallel-group, double-blind, randomized, placebo-controlled trial, we assigned patients with acute decompensated heart failure, clinical signs of volume overload (i.e., edema, pleural effusion, or ascites), and an N-terminal pro-B-type natriuretic peptide level of more than 1000 pg per milliliter or a B-type natriuretic peptide level of more than 250 pg per milliliter to receive either intravenous acetazolamide (500 mg once daily) or placebo added to standardized intravenous loop diuretics (at a dose equivalent to twice the oral maintenance dose). Randomization was stratified according to the left ventricular ejection fraction (≤40% or >40%). The primary end point was successful decongestion, defined as the absence of signs of volume overload, within 3 days after randomization and without an indication for escalation of decongestive therapy. Secondary end points included a composite of death from any cause or rehospitalization for heart failure during 3 months of follow-up. Safety was also assessed.
+A total of 519 patients underwent randomization. Successful decongestion occurred in 108 of 256 patients (42.2%) in the acetazolamide group and in 79 of 259 (30.5%) in the placebo group (risk ratio, 1.46; 95% confidence interval [CI], 1.17 to 1.82; P<0.001). Death from any cause or rehospitalization for heart failure occurred in 76 of 256 patients (29.7%) in the acetazolamide group and in 72 of 259 patients (27.8%) in the placebo group (hazard ratio, 1.07; 95% CI, 0.78 to 1.48). Acetazolamide treatment was associated with higher cumulative urine output and natriuresis, findings consistent with better diuretic efficiency. The incidence of worsening kidney function, hypokalemia, hypotension, and adverse events was similar in the two groups.
+The addition of acetazolamide to loop diuretic therapy in patients with acute decompensated heart failure resulted in a greater incidence of successful decongestion. (Funded by the Belgian Health Care Knowledge Center; ADVOR ClinicalTrials.gov number, NCT03505788.).
+Copyright © 2022 Massachusetts Medical Society.
+Mullens
+Wilfried
+W
+From Ziekenhuis Oost-Limburg, Genk (W.M., J.D., P.M., P.N., E.M., K.T., M.D.), Hasselt University, Hasselt (W.M., J.D., E.M., L.B.), Universitair Ziekenhuis Brussel and Vrije Universiteit Brussel, Jette (F.H.V.), Grand Hôpital de Charleroi (F.C.) and Centre Hospitalier Universitaire Charleroi (S.M.), Charleroi, OLV Hospital, Aalst (R.D.), Clinique Saint-Luc, Bouge (P.B.), Centre Hospitalier Régional Citadelle Hospital, Liege (P.T.), AZ Groeninge, Kortrijk (D.D.), AZ Klina, Brasschaat (W.S.), and University Hospitals Leuven, Leuven (W.D.) - all in Belgium; the Department of Cardiology, University Medical Center Groningen, University of Groningen, Groningen, the Netherlands (J.M.T.M., K.D.); the Heart and Lung Center, Department of Cardiology, Helsinki University Hospital, and Helsinki University, Helsinki (J.L.); Université Paris Cité, INSERM MASCOT (Cardiovascular Markers in Stressed Conditions), Assistance Publique-Hôpitaux de Paris, Paris (A.M.); the National and Kapodistrian University of Athens and Athens University Hospital Attikon, Athens (G.F.); and Universitäts Spital Zürich, Zurich (F.R.).
+Dauw
+Jeroen
+J
+Martens
+Pieter
+P
+Verbrugge
+Frederik H
+FH
+0000-0003-0599-9290
+Nijst
+Petra
+Meekers
+Evelyne
+E
+Tartaglia
+Katrien
+K
+Chenot
+Fabien
+F
+Moubayed
+Samer
+S
+Dierckx
+Riet
+R
+Blouard
+Philippe
+Troisfontaines
+Pierre
+Derthoo
+David
+D
+Smolders
+Walter
+Bruckers
+Liesbeth
+L
+Droogne
+Ter Maaten
+Jozine M
+JM
+Damman
+Kevin
+Lassus
+Johan
+Mebazaa
+Alexandre
+A
+Filippatos
+Gerasimos
+G
+Ruschitzka
+Frank
+Dupont
+Matthias
+M
+ADVOR Study Group
+eng
+ClinicalTrials.gov
+NCT03505788
+KCE-17001
+Belgian Health Care Knowledge Centre
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+08
+27
+United States
+0255562
+0028-4793
+0
+Carbonic Anhydrase Inhibitors
+Diuretics
+Sodium Potassium Chloride Symporter Inhibitors
+114471-18-0
+Natriuretic Peptide, Brain
+9NEZ333N27
+Sodium
+O3FX965V0I
+Acetazolamide
+IM
+N Engl J Med. 2022 Sep 29;387(13):1231-1233. doi: 10.1056/NEJMe2209997.
+36027571
+Nat Rev Cardiol. 2022 Nov;19(11):720. doi: 10.1038/s41569-022-00784-9.
+36127459
+Eur Heart J. 2022 Dec 14;43(47):4870-4871. doi: 10.1093/eurheartj/ehac581.
+36285890
+Ann Intern Med. 2022 Dec;175(12):JC136. doi: 10.7326/J22-0095.
+36469916
+N Engl J Med. 2022 Dec 29;387(26):2485-2486. doi: 10.1056/NEJMc2214165.
+36577113
+N Engl J Med. 2022 Dec 29;387(26):2486. doi: 10.1056/NEJMc2214165.
+36577114
+N Engl J Med. 2022 Dec 29;387(26):2486-2487. doi: 10.1056/NEJMc2214165.
+36577115
+N Engl J Med. 2022 Dec 29;387(26):2487. doi: 10.1056/NEJMc2214165.
+36577116
+Kidney Int. 2023 Jun;103(6):1012-1014. doi: 10.1016/j.kint.2023.03.005.
+37210191
+adverse effects
+therapeutic use
+Acute Disease
+Double-Blind Method
+Heart Failure
+drug therapy
+Humans
+analysis
+Stroke Volume
+Symptom Flare Up
+Treatment Outcome
+Ventricular Function, Left
+Water-Electrolyte Imbalance
+etiology
+therapy
+Vandervelpen
+Griet
+Theunissen
+Evi
+Harrison
+Jilly
+Bemelmans
+Rudy
+Ameloot
+Koen
+Deferm
+Sébastien
+Missault
+Luc
+De Ceuninck
+Michel
+Viaene
+Els
+Vervloet
+Delphine
+Pauw
+Michel De
+Van Craenenbroeck
+Emeline
+Prihadi
+Edgard
+Raes
+Hofkens
+Pieter-Jan
+PJ
+Ector
+Bavo
+B
+Lochy
+Stijn
+Vachiery
+Jean-Luc
+JL
+Pouleur
+Anne-Catherine
+AC
+Gabriel
+Laurence
+Timmermans
+Hulselmans
+Michaël
+Vervoort
+Geert
+Goossens
+Kathleen
+Van Durme
+Frederik
+Vandekerckhove
+Hans
+H
+Striekwold
+Harry
+8
+6
+10
+1
+26
+16
+12
+ppublish

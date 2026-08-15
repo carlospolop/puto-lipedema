@@ -1,0 +1,593 @@
+31535829
+2019
+11
+27
+2026
+05
+18
+1533-4406
+381
+21
+Nov
+The New England journal of medicine
+N Engl J Med
+Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction.
+1995
+2008
+1995-2008
+10.1056/NEJMoa1911303
+In patients with type 2 diabetes, inhibitors of sodium-glucose cotransporter 2 (SGLT2) reduce the risk of a first hospitalization for heart failure, possibly through glucose-independent mechanisms. More data are needed regarding the effects of SGLT2 inhibitors in patients with established heart failure and a reduced ejection fraction, regardless of the presence or absence of type 2 diabetes.
+In this phase 3, placebo-controlled trial, we randomly assigned 4744 patients with New York Heart Association class II, III, or IV heart failure and an ejection fraction of 40% or less to receive either dapagliflozin (at a dose of 10 mg once daily) or placebo, in addition to recommended therapy. The primary outcome was a composite of worsening heart failure (hospitalization or an urgent visit resulting in intravenous therapy for heart failure) or cardiovascular death.
+Over a median of 18.2 months, the primary outcome occurred in 386 of 2373 patients (16.3%) in the dapagliflozin group and in 502 of 2371 patients (21.2%) in the placebo group (hazard ratio, 0.74; 95% confidence interval [CI], 0.65 to 0.85; P<0.001). A first worsening heart failure event occurred in 237 patients (10.0%) in the dapagliflozin group and in 326 patients (13.7%) in the placebo group (hazard ratio, 0.70; 95% CI, 0.59 to 0.83). Death from cardiovascular causes occurred in 227 patients (9.6%) in the dapagliflozin group and in 273 patients (11.5%) in the placebo group (hazard ratio, 0.82; 95% CI, 0.69 to 0.98); 276 patients (11.6%) and 329 patients (13.9%), respectively, died from any cause (hazard ratio, 0.83; 95% CI, 0.71 to 0.97). Findings in patients with diabetes were similar to those in patients without diabetes. The frequency of adverse events related to volume depletion, renal dysfunction, and hypoglycemia did not differ between treatment groups.
+Among patients with heart failure and a reduced ejection fraction, the risk of worsening heart failure or death from cardiovascular causes was lower among those who received dapagliflozin than among those who received placebo, regardless of the presence or absence of diabetes. (Funded by AstraZeneca; DAPA-HF ClinicalTrials.gov number, NCT03036124.).
+Copyright © 2019 Massachusetts Medical Society.
+McMurray
+John J V
+JJV
+From the BHF Cardiovascular Research Centre, University of Glasgow, Glasgow, United Kingdom (J.J.V.M., M.C.P., K.F.D., P.S.J.); the Cardiovascular Division (S.D.S., A.S.D.) and the TIMI Study Group, Brigham and Women's Hospital and Harvard Medical School (M.S.S.) - all in Boston; Section of Endocrinology, Yale University School of Medicine, New Haven, CT (S.E.I.); Rigshospitalet Copenhagen University Hospital (L.K.) and the Department of Cardiology, Gentofte University Hospital (M. Schou), Copenhagen; the Department of Medicine, Saarland University Hospital, Homburg-Saar, Germany (M.B.); Saint Luke's Mid America Heart Institute, University of Missouri, Kansas City (M.N.K.); National University of Cordoba, Cordoba (F.A.M.), and the Division of Cardiology, Instituto Cardiovascular de Buenos Aires, Buenos Aires (M.D.) - both in Argentina; Wroclaw Medical University, Wroclaw (P.P.), and the Department of Cardiology, Medical University of Lodz, Lodz (J.D.) - both in Poland; the Department of Cardiology, University of Minnesota, Minneapolis (I.S.A.); 2nd Department of Internal Medicine, Cardiovascular Medicine, General Teaching Hospital and 1st Faculty of Medicine, Charles University, Prague, Czech Republic (J.B.); the Division of Cardiology, Taipei Veterans General Hospital and National Yang-Ming University, Taipei, Taiwan (C.-E.C.); the Department of Cardiology, Medanta, Gurgaon, India (V.K.C.); the Department of Cardiology, University Medical Center and University of Groningen, Groningen, the Netherlands (R.A.B.); the 5th Department of Internal Medicine, Comenius University in Bratislava, Bratislava, Slovakia (A.D.); the Department of Cardiology, Shanghai Institute of Cardiovascular Disease and Zhongshan Hospital Fudan University, Shanghai, China (J.G.); Cumming School of Medicine and Libin Cardiovascular Institute, University of Calgary, Calgary, AB (J.G.H.), the Department of Cardiology, Montreal Heart Institute, Montreal (E.O.), and the Division of Cardiac Surgery, St. Michael's Hospital, University of Toronto, Toronto (S.V.) - all in Canada; Clinic of Cardiology, National Cardiology Hospital, Sofia, Bulgaria (T.K.); the Cardiovascular Division of Medicine, National Cerebral and Cardiovascular Center, Osaka, Japan (M.K.); the Department of Molecular and Clinical Medicine and Cardiology, Sahlgrenska Academy (C.E.A.L.), and AstraZeneca (O.B., M. Sjöstrand, A.M.L.), Gothenburg, and the Department of Medical Sciences, Cardiology, Uppsala Clinical Research Center, Uppsala University (C.H.), Uppsala - all in Sweden; the Heart and Vascular Center, Semmelweis University, Budapest, Hungary (B.M.); Instituto do Coracao, Hospital das Clinicas da Faculdade de Medicina, Universidade de São Paolo, São Paolo (J.C.N.); the Department of Internal Medicine, Tan Tao University, Tan Duc, Vietnam (P.N.V.); the Department of Myocardial Disease and Heart Failure, National Medical Research Center of Cardiology, Moscow (S.T.); and the Department of Biostatistics and Medical Informatics, University of Wisconsin, Madison (D.L.D.).
+Solomon
+Scott D
+SD
+Inzucchi
+Silvio E
+SE
+Køber
+Lars
+L
+Kosiborod
+Mikhail N
+MN
+Martinez
+Felipe A
+FA
+Ponikowski
+Piotr
+P
+Sabatine
+Marc S
+MS
+Anand
+Inder S
+IS
+Bělohlávek
+Jan
+J
+Böhm
+Michael
+M
+Chiang
+Chern-En
+CE
+Chopra
+Vijay K
+VK
+de Boer
+Rudolf A
+RA
+Desai
+Akshay S
+AS
+Diez
+Mirta
+Drozdz
+Jaroslaw
+Dukát
+Andrej
+A
+Ge
+Junbo
+Howlett
+Jonathan G
+JG
+Katova
+Tzvetana
+T
+Kitakaze
+Masafumi
+Ljungman
+Charlotta E A
+CEA
+Merkely
+Béla
+B
+Nicolau
+Jose C
+JC
+O'Meara
+Eileen
+E
+Petrie
+Mark C
+MC
+Vinh
+Pham N
+PN
+Schou
+Morten
+Tereshchenko
+Sergey
+S
+Verma
+Subodh
+Held
+Claes
+C
+DeMets
+David L
+DL
+Docherty
+Kieran F
+KF
+0000-0002-5446-9969
+Jhund
+Pardeep S
+PS
+Bengtsson
+Olof
+O
+Sjöstrand
+Mikaela
+Langkilde
+Anna-Maria
+AM
+DAPA-HF Trial Committees and Investigators
+eng
+ClinicalTrials.gov
+NCT03036124
+Clinical Trial, Phase III
+Journal Article
+Multicenter Study
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+09
+19
+United States
+0255562
+0028-4793
+0
+Benzhydryl Compounds
+Cardiovascular Agents
+Glucosides
+Glycated Hemoglobin
+Sodium-Glucose Transporter 2 Inhibitors
+1ULL0QJ8UC
+dapagliflozin
+IM
+N Engl J Med. 2019 Nov 21;381(21):2063-2064. doi: 10.1056/NEJMe1912180.
+31535828
+Nat Rev Cardiol. 2019 Dec;16(12):700. doi: 10.1038/s41569-019-0291-1.
+31578515
+Ann Intern Med. 2020 Feb 18;172(4):JC16. doi: 10.7326/ACPJ202002180-016.
+32066149
+N Engl J Med. 2020 Mar 5;382(10):972. doi: 10.1056/NEJMc1917241.
+32130820
+32130821
+N Engl J Med. 2020 Mar 5;382(10):972-973. doi: 10.1056/NEJMc1917241.
+32130822
+MMW Fortschr Med. 2021 May;163(9):65. doi: 10.1007/s15006-021-9952-1.
+33961267
+Aged
+adverse effects
+therapeutic use
+Cardiovascular Diseases
+mortality
+Combined Modality Therapy
+Diabetes Mellitus, Type 2
+blood
+complications
+drug therapy
+Drug Therapy, Combination
+Female
+analysis
+Heart Failure
+Hospitalization
+Humans
+Kaplan-Meier Estimate
+Male
+Middle Aged
+Stroke Volume
+drug effects
+Ventricular Dysfunction, Left
+Jose Carlos
+Jonathan
+Belohlavek
+Bela
+Vijay
+V
+Masahumi
+De Boer
+Rudolf
+R
+Drożdż
+Jarosław
+Charlotta
+Mark
+Inder
+I
+Akshay
+Mikhail
+Nguyễn Vinh
+Pham
+Sassone
+Aizenberg
+D
+Talavera
+Mercau
+G
+Albisu
+Hershson
+García Durán
+Hominal
+Cluigt
+N
+Colombo Berra
+F
+Perna
+Ahuad Guerrero
+Garcia Brasca
+Zaidman
+Majul
+Taborda
+Luquez
+H
+Sala
+Sosa Liprandi
+Cursack
+Montaña
+Fernandez
+Najenson
+Nani
+Caruso
+Fairman
+Pereiro Gonzalez
+Maia
+Pereira
+Rossi
+Precoma
+Neuenschwander
+Reis
+Guimaraes
+Saraiva
+Arantes
+Hernandes
+Borges
+Paolino
+Vasconcellos
+Manenti
+Pimentel
+Leaes
+Rassi
+Dalcoquio
+Avramov
+Spasova
+Raev
+Chompalova
+Milanova
+Tokmakova
+Runev
+Mihov
+Gogov
+Dincheva
+Iliev
+Kolomanov
+Ivanova
+Y
+Ilieva
+K
+Karageorgiev
+Efremov
+Botushanov
+Vladeva
+Constance
+Vizel
+Pandey
+Mehta
+Rupka
+Pesant
+Poirier
+Chehayeb
+Babapulle
+Yao
+Mckelvie
+Hartleib
+Vijayaraghavan
+Vyselaar
+Azzari
+Cha
+Nasser-Sharif
+Maung
+T Z
+TZ
+Mansour
+Khaykin
+Lee
+Fong
+Jiang
+Li
+X
+Fu
+Wang
+Zhao
+Q
+Dong
+Zhou
+Lin
+Zhang
+Zheng
+Z
+Huang
+W
+Gu
+Liu
+Guo
+Wu
+Tang
+Peng
+Liang
+Han
+Slaby
+Spinar
+Hajek
+Busak
+Carda
+Spinarova
+Malek
+Skopek
+Kuchar
+Krcova
+Mayer
+Jr
+Kucera
+Egstrup
+Hove
+Gislason
+Videbæk
+Nischik
+Appel
+Schmidt
+Weigmann
+Kellerer
+Al-Zoebi
+Stephan
+U
+Wilke
+Genth-Zotz
+Simonis
+Tschöpe
+Costard-Jäckle
+Andrássy
+Noori
+Járai
+Poór
+Király
+Czigány
+Nagy
+Motyovszki
+Á
+Masszi
+Naik
+Gadkari
+Sawant
+Mahapekar
+Karna
+Deshpande
+Bhargava
+Kothiwale
+Menon
+Sinha
+Kokane
+Udgire
+Sandhu
+Nishino
+Kiyosue
+Sumii
+Suzuki
+Noguchi
+Tanaka
+Takase
+Mohri
+Higashiue
+Iseki
+Kuramochi
+Shibasaki
+Tsutsui
+Takagi
+Katayama
+Takeyasu
+Anzai
+Nagashima
+Kimura
+Kakuta
+Hashimoto
+Sugino
+Saito
+Hiroi
+Kamiya
+Fukui
+Matsuoka
+Moritani
+Tomobuchi
+Hata
+Kawamura
+Hattori
+Fujimoto
+Takahashi
+Kadokami
+Ueno
+Uchikawa
+Shinozaki
+Onishi
+Komiyama
+Inoue
+Momiyama
+Ueda
+Komura
+Arakawa
+Meno
+Higuchi
+Hayashi
+Seki
+Fujii
+Harada
+Wada
+Kasai
+Kuwahara
+Yasaka
+Uchida
+Okumura
+Hisamatsu
+Nunohiro
+Tsukahara
+Hirohata
+Asakura
+Bellersen
+Swart
+Groenemeijer
+Zoet Nugteren
+De Nooijer
+Nierop
+Robies De Medina
+Van Eck
+Van Hessen
+Miękus
+Ściborski
+Mikłaszewicz
+Sudnik
+Mariankowski
+Witek
+Drelich
+Mirek-Bryniarska
+Szynal
+Pawłowicz
+Lampart
+Korzeniak
+Prokopczuk
+Boldueva
+Didenko
+Dzhaiani
+Ermoshkina
+Kostenko
+Vishneva
+Koziolova
+Tereschenko
+Pevzner
+Krylova
+Chernyavsky
+Kazakov
+Aksentiev
+Nilk
+Paltsman
+Galyavich
+Maltcev
+Kopylov
+Ezhov
+Shilko
+Antalik
+Bugan
+Fulop
+Jamriskova
+Kollarova
+Macek
+Slovenska
+Tomasova
+Vinanska
+Smik
+Selecky
+Majercak
+Olexa
+Hedman
+Lindholm
+Lindmark
+Mooe
+Chang
+Hsia
+Shih
+Hsieh
+Tseng
+Gardner
+Clark
+Japp
+Lang
+Leslie
+Murphy
+Walsh
+Arif
+Avino
+Banerjee
+Kanwar
+Berk
+Brown
+Ince
+Lewis
+Nikfarjam
+Patel
+Ramanathan
+Schabauer
+Greene
+Shah
+Sotolongo
+Viera
+Akinboboye
+Arouni
+Bertolet
+Chandra
+Cimato
+Deleon
+Bennett
+Franchi
+Hamroff
+Hotchkiss
+Jardula
+Javier
+Kazemi
+Kostis
+Lash
+Levinson
+Lieber
+Lo
+Mahal
+Manshadi
+Mody
+Paraschos
+Pursley
+Hickey
+Londono
+Singal
+Srivastava
+Teel
+Castriz
+Kantaros
+Venugopal
+Staniloae
+Gupta
+Syed
+Zacharias
+Jaffrani
+Wakefield
+Nassif
+Haddad
+Iskander
+Al-Joundi
+French
+Ogunniyi
+Emani
+Weiss
+Cheng
+Florea
+Joseph
+Lederman
+Izzo
+Bernstein
+Fruehling
+Foley
+Younis
+Song
+Nguyen
+Do
+Truong
+Ho
+9
+20
+6
+28
+ppublish

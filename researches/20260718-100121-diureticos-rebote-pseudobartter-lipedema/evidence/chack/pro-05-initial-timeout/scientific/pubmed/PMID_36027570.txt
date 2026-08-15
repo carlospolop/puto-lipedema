@@ -1,0 +1,905 @@
+36027570
+2022
+09
+23
+2026
+05
+18
+1533-4406
+387
+12
+Sep
+22
+The New England journal of medicine
+N Engl J Med
+Dapagliflozin in Heart Failure with Mildly Reduced or Preserved Ejection Fraction.
+1089
+1098
+1089-1098
+10.1056/NEJMoa2206286
+Sodium-glucose cotransporter 2 (SGLT2) inhibitors reduce the risk of hospitalization for heart failure and cardiovascular death among patients with chronic heart failure and a left ventricular ejection fraction of 40% or less. Whether SGLT2 inhibitors are effective in patients with a higher left ventricular ejection fraction remains less certain.
+We randomly assigned 6263 patients with heart failure and a left ventricular ejection fraction of more than 40% to receive dapagliflozin (at a dose of 10 mg once daily) or matching placebo, in addition to usual therapy. The primary outcome was a composite of worsening heart failure (which was defined as either an unplanned hospitalization for heart failure or an urgent visit for heart failure) or cardiovascular death, as assessed in a time-to-event analysis.
+Over a median of 2.3 years, the primary outcome occurred in 512 of 3131 patients (16.4%) in the dapagliflozin group and in 610 of 3132 patients (19.5%) in the placebo group (hazard ratio, 0.82; 95% confidence interval [CI], 0.73 to 0.92; P<0.001). Worsening heart failure occurred in 368 patients (11.8%) in the dapagliflozin group and in 455 patients (14.5%) in the placebo group (hazard ratio, 0.79; 95% CI, 0.69 to 0.91); cardiovascular death occurred in 231 patients (7.4%) and 261 patients (8.3%), respectively (hazard ratio, 0.88; 95% CI, 0.74 to 1.05). Total events and symptom burden were lower in the dapagliflozin group than in the placebo group. Results were similar among patients with a left ventricular ejection fraction of 60% or more and those with a left ventricular ejection fraction of less than 60%, and results were similar in prespecified subgroups, including patients with or without diabetes. The incidence of adverse events was similar in the two groups.
+Dapagliflozin reduced the combined risk of worsening heart failure or cardiovascular death among patients with heart failure and a mildly reduced or preserved ejection fraction. (Funded by AstraZeneca; DELIVER ClinicalTrials.gov number, NCT03619213.).
+Copyright © 2022 Massachusetts Medical Society.
+Solomon
+Scott D
+SD
+From the Cardiovascular Division, Brigham and Women's Hospital, Harvard Medical School, Boston (S.D.S., B.C., A.S.D., M.V.); the British Heart Foundation Glasgow Cardiovascular Research Centre, School of Cardiovascular and Metabolic Health, University of Glasgow, Glasgow, Scotland, United Kingdom (J.J.V.M., P.S.J.); the Department of Cardiology, University Medical Center Groningen, University of Groningen, Groningen (R.A.B., C.S.P.L.), and Haga Teaching Hospital, the Hague (C.J.W.B.) - both in the Netherlands; the University of Wisconsin, Madison (D. DeMets); Duke University Medical Center, Durham, NC (A.F.H.); Yale School of Medicine, New Haven, CT (S.E.I.); Saint Luke's Mid America Heart Institute, University of Missouri, Kansas City, Kansas City (M.N.K.); National Heart Center Singapore and Duke-National University of Singapore, Singapore (C.S.P.L.); National University of Cordoba, Cordoba (F.M.), and Jefe de Unidad de Insuficiencia Cardíaca, Centro de Educación Médica e Investigaciones Clínicas Norberto Quirno, Buenos Aires (J.T.) - both in Argentina; Northwestern University Feinberg School of Medicine, Chicago (S.J.S.); General University Hospital, Charles University, Prague, Czech Republic (J.B.); General Clinical Research Center and the Division of Cardiology, Taipei Veterans General Hospital and National Yang Ming Chiao Tung University, Taipei, Taiwan (C.-E.C.); the Department of Cardiology, Bellvitge University Hospital and Bellvitge Biomedical Research Institute, University of Barcelona, L'Hospitalet de Llobregat, Barcelona (J.C.-C.); George Emil Palade University of Medicine, Pharmacy, Science, and Technology, Târgu Mureş, Romania (D. Dobreanu); the Department of Cardiology, Medical University Lodz, Lodz, Poland (J.D.); University of Utah Medical Center, Salt Lake City (J.C.F.); Centro de Estudios Clínicos de Querétaro, Querétaro, Mexico (M.A.A.-G.); the Cardiac Sciences Department, King Saud University, Riyadh, Saudi Arabia (W.A.H.); the Cardiovascular Research Institute and Department of Cardiology, General Hospital of Northern Theater Command, Shenyang, China (Y.H.); Clínica Vesalio, San Borja, Peru (J.W.C.H.); the Department of Cardiovascular Diseases, Cardiac Intensive Care, University Hospitals Leuven, Leuven, Belgium (S.P.J.); the Department of Noninvasive Cardiology, National Cardiology Hospital, Sofia, Bulgaria (T.K.); Kinshukai Hanwa Daini Senboku Hospital, Osaka, Japan (M.K.); Heart and Vascular Center, Semmelweis University, Budapest, Hungary (B.M.); Institut de Cardiologie de Montréal, Université de Montréal, Montreal (E.O.), and the Division of Cardiac Surgery, St. Michael's Hospital, University of Toronto, Toronto (S.V.) - both in Canada; the Cardiovascular Division, Instituto de Pesquisa Clínica de Campinas, Campinas, Brazil (J.F.K.S.); the Department of Myocardial Disease and Heart Failure, National Medical Research Center of Cardiology, Moscow (S.N.T.); the Minneapolis Veterans Affairs Center for Care Delivery and Outcomes Research, University of Minnesota, Minneapolis (O.V.); Cardiovascular Center, Tam Anh Hospital, Tan Tao University, Tan Duc, Vietnam (V.N.P.); and Late-Stage Development, Cardiovascular, Renal and Metabolism, BioPharmaceuticals Research and Development, AstraZeneca, Gothenburg, Sweden (U.W., N.Z., E.B., D.L., M.P., A.M.L.).
+McMurray
+John J V
+JJV
+0000-0002-6317-3975
+Claggett
+Brian
+B
+de Boer
+Rudolf A
+RA
+0000-0002-4775-9140
+DeMets
+David
+D
+Hernandez
+Adrian F
+AF
+Inzucchi
+Silvio E
+SE
+Kosiborod
+Mikhail N
+MN
+Lam
+Carolyn S P
+CSP
+Martinez
+Felipe
+F
+Shah
+Sanjiv J
+SJ
+Desai
+Akshay S
+AS
+Jhund
+Pardeep S
+PS
+Belohlavek
+Jan
+J
+Chiang
+Chern-En
+CE
+Borleffs
+C Jan Willem
+CJW
+Comin-Colet
+Josep
+Dobreanu
+Dan
+Drozdz
+Jaroslaw
+Fang
+James C
+JC
+Alcocer-Gamba
+Marco Antonio
+MA
+Al Habeeb
+Waleed
+W
+Han
+Yaling
+Y
+Cabrera Honorio
+Jose Walter
+JW
+Janssens
+Stefan P
+SP
+Katova
+Tzvetana
+T
+Kitakaze
+Masafumi
+M
+Merkely
+Béla
+O'Meara
+Eileen
+E
+Saraiva
+Jose Francisco Kerr
+JFK
+Tereshchenko
+Sergey N
+SN
+Thierer
+Jorge
+Vaduganathan
+Muthiah
+0000-0003-0885-1953
+Vardeny
+Orly
+O
+Verma
+Subodh
+S
+Pham
+Vinh Nguyen
+VN
+Wilderäng
+Ulrica
+U
+Zaozerska
+Natalia
+N
+Bachus
+Erasmus
+Lindholm
+Daniel
+0000-0003-3526-0614
+Petersson
+Magnus
+Langkilde
+Anna Maria
+AM
+DELIVER Trial Committees and Investigators
+eng
+ClinicalTrials.gov
+NCT03619213
+Journal Article
+Randomized Controlled Trial
+Research Support, Non-U.S. Gov't
+08
+27
+United States
+0255562
+0028-4793
+0
+Benzhydryl Compounds
+Glucosides
+Sodium-Glucose Transporter 2 Inhibitors
+1ULL0QJ8UC
+dapagliflozin
+IM
+N Engl J Med. 2022 Sep 22;387(12):1138-1140. doi: 10.1056/NEJMe2210177.
+36027566
+Nat Rev Cardiol. 2022 Nov;19(11):719. doi: 10.1038/s41569-022-00782-x.
+36114415
+Eur Heart J. 2022 Nov 21;43(44):4614-4615. doi: 10.1093/eurheartj/ehac541.
+36173867
+N Engl J Med. 2023 Jan 19;388(3):286. doi: 10.1056/NEJMc2213974.
+36652369
+N Engl J Med. 2023 Jan 19;388(3):286-287. doi: 10.1056/NEJMc2213974.
+36652370
+N Engl J Med. 2023 Jan 19;388(3):287. doi: 10.1056/NEJMc2213974.
+36652371
+N Engl J Med. 2023 Jan 19;388(3):287-288. doi: 10.1056/NEJMc2213974.
+36652372
+N Engl J Med. 2023 Jan 19;388(3):288. doi: 10.1056/NEJMc2213974.
+36652373
+MMW Fortschr Med. 2023 Mar;165(4):66. doi: 10.1007/s15006-023-2422-1.
+36826674
+adverse effects
+therapeutic use
+Diabetes Mellitus, Type 2
+complications
+drug therapy
+Heart Failure
+mortality
+physiopathology
+Humans
+pharmacology
+Stroke Volume
+drug effects
+Ventricular Function, Left
+Bengtsson
+Olof
+Nilsson
+Ann
+A
+Kucharczuk-Filipek
+Barbara
+Pfeffer
+Marc
+Pocock
+Stuart
+Swedberg
+Karl
+K
+Rouleau
+Jean L
+JL
+Chaturvedi
+Nish
+Ivanovich
+Peter
+P
+Levey
+Andrew
+Akshay
+Pardeep
+Finn
+Brahimi
+Abdel
+McGrath
+Martina
+Barkoudah
+Ebrahim
+McCausland
+Finnian
+Connolly
+Eugene
+Lang
+Ninian
+Petrie
+Mark
+Ruff
+Christian
+C
+Alexanian
+Sara
+Garg
+Rajesh K
+RK
+McDonnell
+Marie E
+ME
+Adrian
+Kerr Saraiva
+Jose Francisco
+JF
+Tsvetana
+Bela
+Alcocer Gamba
+Tereschenko
+Jim
+Vinh
+Pham Nguyen
+PN
+Loureyro
+Juan
+Besada
+Diego
+Perna
+Eduardo
+Perez Terns
+Paula
+García Brasca
+Daniela
+Aizenberg
+Mercau
+Guillermo
+G
+Alvarisqueta
+Andres
+Zaidman
+Cesar
+Ruiz
+Mariana
+Montaña
+Oscar
+Arias
+Viviana
+V
+Junin
+Sanatorio
+Cluigt
+Hominal
+Miguel
+Sassone
+Sonia
+Liberman
+Alberto
+Majul
+Claudio
+García Durán
+Rubén
+R
+Ferre Pacora
+Fredy
+Pouleur
+Anne
+Stefan
+Maamar
+Rachid
+Smolders
+Walter
+Vanduynhoven
+Philippe
+Derthoo
+Moralles Kormann
+Adrian Paulo
+AP
+Tuche
+Fabio
+Lariucci
+Renner
+Esteves Hernandes
+Mauro
+Leaes
+Paulo Ernesto
+PE
+Precoma
+Dalton Bertolim
+DB
+Vidotti
+Maria Helena
+MH
+Moura
+Lidia Zytynski
+LZ
+Pereira
+Adamastor Humberto
+AH
+Reis
+Gilmar
+Runev
+Nikolai
+Iliev
+Nikolay
+Ivanova
+Yuliyana
+Mihov
+Atanas
+Milanova
+Maria
+Damyanova
+Tsvetelina
+Zhelev
+Vladimir
+Gogov
+Antoni
+Karageorgiev
+Dimitar
+Stanchev
+Georgi
+Tsonkova-Dobreva
+Vatova
+Ralitsa
+Avramov
+Danail
+Salter
+Timothy
+Sia
+Ying Tung
+YT
+Vijayaraghavan
+Ram
+Mayrand
+Helene
+H
+Zieroth
+Shelley
+El-Ghassan
+Dany
+Yan
+Gupta
+Milan
+Singal
+Sewa
+Hill
+Laurie
+L
+Khaykin
+Yaariv
+Mehta
+Shamir
+Pesant
+Yves
+Yao
+Louis
+Noronha
+Luis
+Cha
+James
+Choi
+Richard
+Babapulle
+Mohan
+Stewart
+John
+Gu
+Ye
+Lu
+Lihong
+Guo
+Xueya
+X
+Liang
+Yingzi
+Liu
+Jinqiu
+Chen
+Yundai
+Wang
+Jingfeng
+Zheng
+Zeqi
+Z
+Zong
+Wenxia
+Song
+Yu
+Zhang
+Xiaoli
+Zhao
+Qiang
+Q
+Jun
+Li
+Hui
+Yuan
+Zuyi
+Daying
+Xu
+Biao
+Dong
+Jianzeng
+Long
+Mingzhi
+Wu
+Ling
+Qi
+Xin
+Luo
+Zhurong
+Ding
+Chunhua
+Su
+Guohai
+He
+Yong
+Xuelian
+Huang
+Wenjun
+Feng
+Zhou
+Yimeng
+Lin
+Xuefeng
+Dongfang
+Yang
+Ping
+Jiyan
+Fu
+Jerabek
+Ondrej
+Kucera
+Dusan
+Parenica
+Jiri
+Krupicka
+Kuchar
+Roman
+Matejka
+Vesely
+Povolny
+Petr
+Noori
+Hornyik
+Andrea
+Nagy
+László
+Motyovszki
+András
+Czigány
+Anna
+Király
+Csaba
+Dézsi
+Csaba András
+CA
+Zilahi
+Zsolt
+Benczur
+Kajetán
+Miklós
+Herczeg
+Kawasaki
+Atsushi
+Takenaka
+Takashi
+Yoshida
+Keiki
+Inoue
+Shujiro
+Maebuchi
+Daisuke
+Sasaki
+Akihito
+Kitasato
+Kenjiro
+Shimizu
+Masatoshi
+Ohnishi
+Masato
+Akao
+Masaharu
+Iseki
+Harukazu
+Uchikawa
+Shinichiro
+Koga
+Yasuaki
+Takase
+Hiroyuki
+Izumi
+Chisato
+Akasaka
+Takeshi
+Akashi
+Shintaro
+Kiyosue
+Arihiro
+Takagi
+Takuro
+Sakagami
+Satoru
+Shimomura
+Mitsuhiro
+Sugino
+Hiroshi
+Hata
+Yoshiki
+Asakura
+Masanori
+Higashiue
+Shinichi
+Sakai
+Tetsuo
+Fujimoto
+Noritaka
+Kanda
+Junji
+Kuwahara
+Koichiro
+Katayama
+Yusuke
+Takahashi
+Wataru
+Shinbo
+Masaya
+Tsukahara
+Kengo
+Hattori
+Eijiro
+Yuichiro
+Ueno
+Hideki
+Kametani
+Ryosuke
+Higuchi
+Motoaki
+Kato
+Toru
+Fukue
+Masataka
+Kakuta
+Tsunekazu
+Higa
+Nobuyoshi
+Teramoto
+Tomohiko
+Garza Ruíz
+José
+González López
+Víctor
+Vicente Ruiz
+VR
+Bayram Llamas
+Edmundo
+Rivera Martinez
+Garcia Cantu
+Elias
+Zaragoza Pérez
+Mauricio
+Ramos Lopez
+Gabriel
+Echeverri Rico
+Marco
+Hernández Llamas
+Hernandez Herrera
+Carlos
+Rudolf
+Van Gent
+Schweitzer Ziekenhuis
+Albert
+Groutars
+Reginald
+Emans
+Ziekenhuis
+Ikazia
+I
+de Nooijer
+Cornelis
+van de Wal
+Ruud
+Römer
+Tjeerd
+Jan Willem
+Kietselaer
+Bastiaan
+Hoogslag
+Pieter
+Pisters
+Ron
+Godoy
+Armando
+Cardoza
+Luisa
+Manrique
+Helard
+Sanchez
+Victor
+Arbanil
+Hugo
+Cabrera
+Valdivia
+Angelica
+Correa
+Roger
+Anchante
+Henry
+Rodriguez
+Aldo
+Chavez
+Garrido Carrasco
+Elizabeth
+Cymerman
+Krzysztof
+Ploch
+Michał
+Pawłowicz
+Lidia
+Gogola-Migdał
+Bernadeta
+Korzeniak
+Romuald
+Mazur
+Stanisław
+Lampart
+Jacek
+Miękus
+Paweł
+Mądrzejewski
+Adam
+Szynal
+Sławomir
+Witek
+Robert
+Szuba
+Andrzej
+Drelich
+Grzegorz
+Drożdż
+Jarosław
+Jurowiecki
+Ściborski
+Ryszard
+Lisowska
+Lupu
+Sirona
+Pintilei
+Ella
+Podoleanu
+Cristian
+Militaru
+Constantin
+Istratoaie
+Octavian
+Pevzner
+Dmitrii
+Kobalava
+Zhanna
+Didenko
+Yury
+Boldueva
+Svetlana
+Privalova
+Elena
+Ermakova
+Polina
+Sergey
+Averkov
+Oleg
+Krasnopeeva
+Natalya
+Aksentiev
+Sergei
+Maltcev
+Alexey
+Medina
+Tatiana
+Nesmachnyy
+Dzhaiani
+Nino
+Kazakov
+Andrei
+Al-Habeeb
+Mukhtar
+Abdulmajid
+Chaudhary
+Ammar
+AlGhalayini
+Kamal
+Youssef
+Ali
+Al Qahtani
+Abdulrahman
+Hidalgo Urbano
+Rafael Jesús
+RJ
+Farré López
+Nuria
+Comín Colet
+Soto Gonzalez
+Alfonso
+Bover Freire
+Ramón
+Beltrán Robles
+Manuel
+Almenar Bonet
+González Juanatey
+José Ramón
+JR
+Bagudá
+Javier Salvador de Juan
+JSJ
+García Del Río
+Enrique
+Núñez Villota
+Julio Eduardo
+JE
+Ueng
+Kwo-Chang
+KC
+Tsung-Hsien
+TH
+Chu
+Pao-Hsien
+PH
+Chun-Yao
+CY
+Chang
+Hung-Yu
+HY
+Jin-Long
+Ming-En
+Chao
+Ting-Hsing
+Wei-Hsiang
+WH
+Tzung-Dau
+TD
+Kuan-Cheng
+Lee
+Thung-Lip
+TL
+Javier
+Julian
+Hegde
+Sheila
+Murray
+Barua
+Rajat
+Goyal
+Parag
+Pursley
+Michael
+Jetty
+Preetham
+Little
+Raymond
+Schabauer
+Alexander
+Fernando
+Ronald
+Lewis
+Todd
+Bhagwat
+Ravi
+Mody
+Freny
+Choudhary
+Gaurav
+Borlaug
+Barry
+Bazaz
+Subash
+Brown
+Christopher
+Ooi
+Izzo
+Joseph
+Hargrove
+Joe
+Sangrigoli
+Renee
+Ranga
+Vishweshwar
+Staniloae
+Cezar
+Napoli
+Van Buren
+Florea
+Viorel
+Ahmed
+Syed
+Castriz
+Joshi
+Nikhil
+Fasulo
+Forgosh
+Leslie
+Robinson
+Antwan
+Janik
+Matthew
+Arif
+Bianco
+Kansal
+Mayank
+Tahir
+Mohammad
+Ogunniyi
+Modele
+Torres
+William
+Preethi
+Blair
+Dinesh
+Mahal
+Sharan
+Ghafghazi
+Shahab
+Ganji
+Jagadeesh
+Gregory
+Hotchkiss
+Schmidt
+Dwayne
+Nikfarjam
+Akbar
+Ridgeway
+Agaiby
+Lepor
+Norman
+Gilstrap Milley
+Lauren
+Litwin
+Sheldon
+Amin
+Jay
+Fail
+Baumgarten
+Thomas
+Nassif
+Portnay
+Edward
+Whittle
+Jeffrey
+Lan
+Haddad
+Tariq
+Mikdadi
+Ghiath
+Mitter
+Sumeet
+Nguyen
+Hai
+Hien
+Ho
+Dung
+Vu
+Nga
+Ton
+Minh
+8
+6
+9
+24
+26
+16
+ppublish
