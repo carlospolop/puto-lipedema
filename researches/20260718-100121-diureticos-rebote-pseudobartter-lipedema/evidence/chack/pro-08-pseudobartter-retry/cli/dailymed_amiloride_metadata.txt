@@ -1,0 +1,6 @@
+Drug=amiloride
+SetID=e0cc2d44-436a-47e8-a890-589882fff4c4
+EffectiveTime=20260728
+Version=13
+Manufacturer=
+LabelURL=https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/e0cc2d44-436a-47e8-a890-589882fff4c4.xml

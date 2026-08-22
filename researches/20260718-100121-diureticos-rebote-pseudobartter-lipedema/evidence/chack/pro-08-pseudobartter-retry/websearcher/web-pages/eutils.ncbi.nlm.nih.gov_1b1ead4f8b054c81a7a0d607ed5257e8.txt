@@ -1,0 +1,857 @@
+
+PMID- 10547218
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19991206
+LR  - 20190915
+IS  - 0920-3206 (Print)
+IS  - 0920-3206 (Linking)
+VI  - 13
+IP  - 5
+DP  - 1999 Sep
+TI  - Diuretics in cardiovascular therapy: the new clinicopharmacological bases that 
+      matter.
+PG  - 371-98
+AB  - Diuretics in current use include early distal tubular (i.e., thiazide-type), loop 
+      (i.e., furosemide-type), and potassium-and-hydrogen-retaining substances. 
+      Available oral formulations of diuretics differ in terms of their renal excretory 
+      potency in man, as formally assessed through the effect of a single dose on 
+      24-hour natriuresis in healthy subjects. The 2.5 mg formulation of the loop 
+      diuretic torasemide does not increase mean 24-hour natriuresis, and it is 
+      therefore considered a very-low-dose formulation. Amiloride 5 mg and torasemide 5 
+      mg and 10 mg, which increase mean 24-hour natriuresis by less than 40%, are 
+      considered low-dose or low-potency diuretic formulations of diuretic substances. 
+      Hydrochlorothiazide 25 and 50 mg, furosemide 40 and 80 mg, and torasemide 20 mg, 
+      which increase mean 24-hour natriuresis by more than 40%, are considered 
+      high-dose or high-potency formulations. A rebound in natriuresis follows the 
+      early-after-dosing increase in this variables caused by loop diuretics; hence 
+      many oral formulations of loop substances are less potent natriuretics than most 
+      oral formulations of thiazide-type diuretics. Hydrochlorothiazide 25 mg and 
+      furosemide 80 mg have similar natriuretic potencies. During once-daily 
+      administration of diuretic formulations of diuretics to subjects without edema 
+      and normal renal function, the increases in 24-hour natriuresis and diuresis that 
+      follow the first dose disappear or attenuate markedly. This is due to 
+      neuroendocrine reactions to diuretic-induced sodium loss and its attendant 
+      hemodynamic shifts. Some of these reactions, e.g. the increase in plasma 
+      aldosterone that takes place, account for an elevation in kaliuresis that occurs 
+      during once-daily treatment with a high-dose formulation of a thiazide-type 
+      diuretic. Common fixed-dose combinations of a thiazide-type or a loop diuretic 
+      and a potassium-and-hydrogen-retaining substance generally do not change 
+      kaliuresis, but they increase natriuresis strikingly. Thiazide-type and loop 
+      diuretics decrease and increase calciuresis respectively; none of these actions 
+      wanes during prolonged administration. Plasma renin activity and aldosterone do 
+      not rise in response to very-low-dose formulations of loop diuretics taken once 
+      daily. Glomerular filtration rate tends to fall in the course of once-daily 
+      administration of high-dose formulations of diuretics, but not during prolonged 
+      once-daily treatment with very-low-dose formulations of loop diuretics.
+FAU - Reyes, A J
+AU  - Reyes AJ
+AD  - Institute of Cardiovascular Theory, Montevideo, Uruguay.
+FAU - Taylor, S H
+AU  - Taylor SH
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Cardiovasc Drugs Ther
+JT  - Cardiovascular drugs and therapy
+JID - 8712220
+RN  - 0 (Diuretics)
+RN  - 4964P6T9RB (Aldosterone)
+RN  - EC 3.4.23.15 (Renin)
+SB  - IM
+MH  - Aldosterone/blood
+MH  - Cardiovascular Diseases/*drug therapy
+MH  - Diuretics/administration & dosage/*classification/*therapeutic use
+MH  - Glomerular Filtration Rate/drug effects
+MH  - Humans
+MH  - Natriuresis/drug effects
+MH  - Renin/blood
+RF  - 133
+EDAT- 1999/11/05 00:00
+MHDA- 1999/11/05 00:01
+CRDT- 1999/11/05 00:00
+PHST- 1999/11/05 00:00 [pubmed]
+PHST- 1999/11/05 00:01 [medline]
+PHST- 1999/11/05 00:00 [entrez]
+AID - 10.1023/a:1007835821228 [doi]
+PST - ppublish
+SO  - Cardiovasc Drugs Ther. 1999 Sep;13(5):371-98. doi: 10.1023/a:1007835821228.
+
+PMID- 31437845
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200303
+LR  - 20200303
+IS  - 1423-0143 (Electronic)
+IS  - 1420-4096 (Linking)
+VI  - 44
+IP  - 5
+DP  - 2019
+TI  - Diuretic Resistance in Cardio-Nephrology: Role of Pharmacokinetics, 
+      Hypochloremia, and Kidney Remodeling.
+PG  - 915-927
+LID - 10.1159/000502648 [doi]
+AB  - BACKGROUND: Diuretic resistance is among the most challenging problems that the 
+      cardio-nephrologist must address in daily clinical practice, with a considerable 
+      burden on hospital admissions and health care costs. Indeed, loop diuretics are 
+      the first-line therapy to overcome fluid overload in heart failure patients. The 
+      pathophysiological mechanisms of fluid and sodium retention are complex and 
+      depend on several neuro-hormonal signals mainly acting on sodium reabsorption 
+      along the renal tubule. Consequently, doses and administration modalities of 
+      diuretics must be carefully tailored to patients in order to overcome under- or 
+      overtreatment. The frequent and tricky development of diuretic resistance depends 
+      in part on post-diuretic sodium retention, reduced tubular secretion of the drug, 
+      and reduced sodium/chloride sensing. Sodium and chloride depletions have been 
+      recently shown to be major factors mediating these processes. Aquaretics and 
+      high-saline infusions have been recently suggested in cases of hyponatremic 
+      conditions. This review discusses the limitations and strengths of these 
+      approaches. SUMMARY: Long-term diuretic use may lead to diuretic resistance in 
+      cardio-renal syndromes. To overcome this complication intravenous administration 
+      of loop diuretics and a combination of different diuretic classes have been 
+      proposed. In the presence of hyponatremia, high-saline solutions in addition to 
+      loop diuretics might be beneficial, whereas aquaretics require caution to avoid 
+      overcorrection. Key Messages: Diuretic resistance is a central theme for 
+      cardio-renal syndromes. Hyponatremia and hypochloremia may be part of the 
+      mechanisms for diuretic resistance. Aquaretics and high-saline solutions have 
+      been proposed as possible new therapeutic solutions.
+CI  - (c) 2019 The Author(s) Published by S. Karger AG, Basel.
+FAU - Masella, Cristina
+AU  - Masella C
+AD  - Department of Translational Medical Sciences, University of Campania "Luigi 
+      Vanvitelli", Naples, Italy.
+FAU - Viggiano, Davide
+AU  - Viggiano D
+AD  - BIOGEM Research Institute, Ariano Irpino, Italy, Davide.viggiano@gmail.com.
+AD  - Department of Medicine and Health Sciences, University of Molise, Campobasso, 
+      Italy, Davide.viggiano@gmail.com.
+FAU - Molfino, Ida
+AU  - Molfino I
+AD  - Department of Translational Medical Sciences, University of Campania "Luigi 
+      Vanvitelli", Naples, Italy.
+FAU - Zacchia, Miriam
+AU  - Zacchia M
+AD  - Department of Translational Medical Sciences, University of Campania "Luigi 
+      Vanvitelli", Naples, Italy.
+FAU - Capolongo, Giovanna
+AU  - Capolongo G
+AD  - Department of Translational Medical Sciences, University of Campania "Luigi 
+      Vanvitelli", Naples, Italy.
+FAU - Anastasio, Pietro
+AU  - Anastasio P
+AD  - Department of Translational Medical Sciences, University of Campania "Luigi 
+      Vanvitelli", Naples, Italy.
+FAU - Simeoni, Mariadelina
+AU  - Simeoni M
+AD  - Department of Medical and Surgery Sciences, "Magna Graecia" University, 
+      Catanzaro, Italy.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20190822
+PL  - Switzerland
+TA  - Kidney Blood Press Res
+JT  - Kidney & blood pressure research
+JID - 9610505
+RN  - 0 (Diuretics)
+SB  - IM
+MH  - Cardio-Renal Syndrome/*therapy
+MH  - Diuretics/pharmacology/*therapeutic use
+MH  - Heart Failure/*therapy
+MH  - Humans
+MH  - Kidney/*pathology
+MH  - Nephrology/*methods
+OTO - NOTNLM
+OT  - Diuretic resistance
+OT  - Fluid overload
+OT  - Heart failure
+OT  - Vaptans
+EDAT- 2019/08/23 06:00
+MHDA- 2020/03/04 06:00
+CRDT- 2019/08/23 06:00
+PHST- 2019/06/03 00:00 [received]
+PHST- 2019/08/10 00:00 [accepted]
+PHST- 2019/08/23 06:00 [pubmed]
+PHST- 2020/03/04 06:00 [medline]
+PHST- 2019/08/23 06:00 [entrez]
+AID - 000502648 [pii]
+AID - 10.1159/000502648 [doi]
+PST - ppublish
+SO  - Kidney Blood Press Res. 2019;44(5):915-927. doi: 10.1159/000502648. Epub 2019 Aug 
+      22.
+
+PMID- 29897275
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180905
+LR  - 20180905
+IS  - 2048-8734 (Electronic)
+IS  - 2048-8726 (Linking)
+VI  - 7
+IP  - 4
+DP  - 2018 Jun
+TI  - Editor's Choice-Diuretic resistance in acute heart failure.
+PG  - 379-389
+LID - 10.1177/2048872618768488 [doi]
+AB  - Diuretic resistance is a powerful predictor of adverse outcome in acute heart 
+      failure (AHF), irrespectively of underlying glomerular filtration rate. Metrics 
+      of diuretic efficacy such as natriuresis, urine output, weight loss, net fluid 
+      balance, or fractional sodium excretion, differ in their risk for measurement 
+      error, convenience, and biological plausibility, which should be taken into 
+      account when interpreting their results. Loop diuretic resistance in AHF has 
+      multiple causes including altered drug pharmacokinetics, impaired renal perfusion 
+      and effective circulatory volume, neurohumoral activation, post-diuretic sodium 
+      retention, the braking phenomenon and functional as well as structural 
+      adaptations in the nephron. Ideally, these mechanisms should guide specific 
+      treatment decisions with the goal of achieving complete decongestion. Therefore, 
+      volume overload needs to be identified correctly to avoid poor diuretic response 
+      due to electrolyte depletion or dehydration. Next, renal perfusion should be 
+      optimised if possible and loop diuretics should be prescribed above their 
+      threshold dose. Addition of thiazide-type diuretics should be considered when a 
+      progressive decrease in loop diuretic efficacy is observed with prolonged use 
+      (i.e., the braking phenomenon). Furthermore, thiazide-type diuretics are a useful 
+      addition in patients with low glomerular filtration rate. However, they limit 
+      free water excretion and are relatively contraindicated in cases of hypotonic 
+      hyponatremia, where acetazolamide is the better option. Finally, ultrafiltration 
+      should be considered in patients with refractory diuretic resistance as 
+      persistent volume overload after decongestive treatment is associated with worse 
+      outcomes. Whether more upfront use of any of these individually tailored 
+      decongestion strategies is superior to monotherapy with loop diuretics remains to 
+      be shown by adequately powered randomised clinical trials.
+FAU - Verbrugge, Frederik H
+AU  - Verbrugge FH
+AD  - Department of Cardiology, Jessa Ziekenhuis, Belgium.
+LA  - eng
+PT  - Editorial
+PL  - England
+TA  - Eur Heart J Acute Cardiovasc Care
+JT  - European heart journal. Acute cardiovascular care
+JID - 101591369
+RN  - 0 (Diuretics)
+RN  - 9NEZ333N27 (Sodium)
+SB  - IM
+MH  - Diuretics/*therapeutic use
+MH  - *Drug Resistance
+MH  - Glomerular Filtration Rate/*drug effects
+MH  - Heart Failure/*drug therapy/metabolism/physiopathology
+MH  - Humans
+MH  - Sodium/metabolism
+OTO - NOTNLM
+OT  - Cardio-renal syndrome
+OT  - diuretics
+OT  - heart failure
+OT  - sodium
+EDAT- 2018/06/14 06:00
+MHDA- 2018/09/06 06:00
+CRDT- 2018/06/14 06:00
+PHST- 2018/06/14 06:00 [entrez]
+PHST- 2018/06/14 06:00 [pubmed]
+PHST- 2018/09/06 06:00 [medline]
+AID - 10.1177/2048872618768488 [doi]
+PST - ppublish
+SO  - Eur Heart J Acute Cardiovasc Care. 2018 Jun;7(4):379-389. doi: 
+      10.1177/2048872618768488.
+
+PMID- 28982672
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180604
+LR  - 20260127
+IS  - 2047-9980 (Electronic)
+IS  - 2047-9980 (Linking)
+VI  - 6
+IP  - 10
+DP  - 2017 Oct 5
+TI  - Sodium and Fluid Excretion With Torsemide in Healthy Subjects is Limited by the 
+      Short Duration of Diuretic Action.
+LID - 10.1161/JAHA.117.006135 [doi]
+LID - e006135
+AB  - BACKGROUND: Loop diuretics are highly natriuretic but their short duration of 
+      action permits postdiuretic sodium retention, which limits salt loss unless 
+      dietary salt is severely restricted. We tested the hypothesis that a more 
+      prolonged duration of action would enhance salt loss. METHODS AND RESULTS: Ten 
+      healthy participants were crossed over between 20 mg of oral immediate-release or 
+      extended-release (ER) torsemide while consuming a fixed diet with 300 mmol.d(-1) 
+      of Na(+). Compared with immediate-release, plasma torsemide after ER was 59% 
+      lower at 1 to 3 hours but 97% higher at 8 to 10 hours as a result of a >3-fold 
+      prolongation of time to maximal plasma concentrations. The relationship of 
+      natriuresis to log torsemide excretion showed marked hysteresis, but participants 
+      spent twice as long with effective concentrations of torsemide after ER, thereby 
+      enhancing diuretic efficiency. Compared with immediate-release, ER torsemide did 
+      not reduce creatinine clearance and increased fluid (1634+/-385 versus 728+/-445 mL, 
+      P<0.02) and Na(+) output (98+/-15 versus 42+/-17 mmol, P<0.05) despite an 18% 
+      reduction in exposure. Neither formulation increased K(+) excretion. CONCLUSIONS: 
+      Torsemide ER prolongs urine drug levels, thereby increasing the time spent with 
+      effective drug concentrations, reduces postdiuretic Na(+) retention, and 
+      moderates a fall in glomerular filtration rate. It caused significant Na(+) loss 
+      even during very high salt intake. Thus, a short duration of action limits salt 
+      loss with loop diuretics. These conclusions warrant testing in subjects with 
+      edema and heart failure.
+CI  - (c) 2017 The Authors and Sarfez Pharmaceuticals, Inc. Published on behalf of the 
+      American Heart Association, Inc., by Wiley.
+FAU - Shah, Salim
+AU  - Shah S
+AD  - Sarfez Pharmaceuticals, Inc., McLean, VA.
+FAU - Pitt, Bertram
+AU  - Pitt B
+AD  - Division of Cardiology, University of Michigan, Ann Arbor, MI.
+AD  - Sarfez Pharmaceuticals, Inc., McLean, VA.
+FAU - Brater, D Craig
+AU  - Brater DC
+AD  - Department of Medicine Emeritus, Indiana University School of Medicine, 
+      Indianapolis, IN.
+FAU - Feig, Peter U
+AU  - Feig PU
+AD  - Sarfez Pharmaceuticals, Inc., McLean, VA.
+AD  - Division of Nephrology & Hypertension, Weill Cornell Medical College, New York, 
+      New York.
+FAU - Shen, Wen
+AU  - Shen W
+AD  - Hypertension Research Center and Division of Nephrology and Hypertension, 
+      Georgetown University, Washington, DC.
+FAU - Khwaja, Fatima S
+AU  - Khwaja FS
+AD  - Sarfez Pharmaceuticals, Inc., McLean, VA.
+FAU - Wilcox, Christopher S
+AU  - Wilcox CS
+AD  - Hypertension Research Center and Division of Nephrology and Hypertension, 
+      Georgetown University, Washington, DC wilcoxch@georgetown.edu.
+LA  - eng
+GR  - R43 DK098856/DK/NIDDK NIH HHS/United States
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20171005
+PL  - England
+TA  - J Am Heart Assoc
+JT  - Journal of the American Heart Association
+JID - 101580524
+RN  - 0 (Delayed-Action Preparations)
+RN  - 0 (Sodium Chloride, Dietary)
+RN  - 0 (Sodium Potassium Chloride Symporter Inhibitors)
+RN  - 0 (Sulfonamides)
+RN  - AYI8EX34EU (Creatinine)
+RN  - W31X2H97FB (Torsemide)
+SB  - IM
+MH  - Adult
+MH  - Area Under Curve
+MH  - Creatinine/urine
+MH  - Cross-Over Studies
+MH  - Delayed-Action Preparations
+MH  - Female
+MH  - Glomerular Filtration Rate/drug effects
+MH  - Healthy Volunteers
+MH  - Humans
+MH  - India
+MH  - Kidney/*drug effects/metabolism
+MH  - Male
+MH  - Metabolic Clearance Rate
+MH  - Middle Aged
+MH  - Natriuresis/*drug effects
+MH  - Renal Elimination/*drug effects
+MH  - Sodium Chloride, Dietary/adverse effects/urine
+MH  - Sodium Potassium Chloride Symporter Inhibitors/administration & dosage/adverse 
+      effects/*pharmacokinetics
+MH  - Sulfonamides/administration & dosage/adverse effects/*pharmacokinetics
+MH  - Torsemide
+MH  - Young Adult
+PMC - PMC5721837
+OTO - NOTNLM
+OT  - diuretics
+OT  - heart failure
+OT  - kidney
+OT  - sodium
+EDAT- 2017/10/07 06:00
+MHDA- 2018/06/05 06:00
+PMCR- 2017/10/01
+CRDT- 2017/10/07 06:00
+PHST- 2017/10/07 06:00 [entrez]
+PHST- 2017/10/07 06:00 [pubmed]
+PHST- 2018/06/05 06:00 [medline]
+PHST- 2017/10/01 00:00 [pmc-release]
+AID - JAHA.117.006135 [pii]
+AID - JAH32580 [pii]
+AID - 10.1161/JAHA.117.006135 [doi]
+PST - epublish
+SO  - J Am Heart Assoc. 2017 Oct 5;6(10):e006135. doi: 10.1161/JAHA.117.006135.
+
+PMID- 27465540
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170301
+LR  - 20170302
+IS  - 1538-4683 (Electronic)
+IS  - 1061-5377 (Linking)
+VI  - 24
+IP  - 5
+DP  - 2016 Sep-Oct
+TI  - Treating Diuretic Resistance: An Overview.
+PG  - 256-60
+LID - 10.1097/CRD.0000000000000116 [doi]
+AB  - Loop diuretics are central to the management of fluid overload in acute 
+      decompensated heart failure. However, a variance in the response to loop 
+      diuretics can alter a patient's clinical course and has an adverse effect on 
+      clinical outcomes. Thus, a diminished response to loop diuretics is an important 
+      clinical issue. Factors thought to contribute to diuretic resistance include 
+      erratic oral absorption in congested states and postdiuretic sodium retention. 
+      Further contributing to diuretic resistance in patients with advanced heart 
+      failure are decreases in renal perfusion and alterations in sodium handling that 
+      occur in an attempt to maintain circulatory homeostasis. Several pharmacologic 
+      interventions have been used to improve diuretic response. Intravenous diuretic 
+      administration, increasing diuretic doses, or changing diuretic agents can 
+      potentially overcome pharmacokinetic obstacles which contribute to drug 
+      resistance. Combination diuretic therapy may be useful to overcome increased 
+      sodium retention, dopamine may improve renal perfusion, and hypertonic saline may 
+      transiently increase intravascular volume and improve sodium delivery to the 
+      tubules of the nephron. Despite the prevalence of diuretic resistance, there 
+      remains a paucity of clinical trial evidence to help guide therapy in these 
+      patients.
+FAU - Bowman, Brandi N
+AU  - Bowman BN
+AD  - From the *Department of Pharmacy, University of New Mexico Hospital, Albuquerque, 
+      NM; and daggerCollege of Pharmacy, University of New Mexico, Albuquerque, NM.
+FAU - Nawarskas, James J
+AU  - Nawarskas JJ
+FAU - Anderson, Joe R
+AU  - Anderson JR
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Cardiol Rev
+JT  - Cardiology in review
+JID - 9304686
+RN  - 0 (Sodium Potassium Chloride Symporter Inhibitors)
+SB  - IM
+MH  - *Drug Resistance
+MH  - Heart Failure/*drug therapy/metabolism
+MH  - Humans
+MH  - *Sodium Potassium Chloride Symporter Inhibitors
+EDAT- 2016/07/29 06:00
+MHDA- 2017/03/03 06:00
+CRDT- 2016/07/29 06:00
+PHST- 2016/07/29 06:00 [entrez]
+PHST- 2016/07/29 06:00 [pubmed]
+PHST- 2017/03/03 06:00 [medline]
+AID - 10.1097/CRD.0000000000000116 [doi]
+PST - ppublish
+SO  - Cardiol Rev. 2016 Sep-Oct;24(5):256-60. doi: 10.1097/CRD.0000000000000116.
+
+PMID- 19729568
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20091117
+LR  - 20190101
+IS  - 1535-2900 (Electronic)
+IS  - 1079-2082 (Linking)
+VI  - 66
+IP  - 18
+DP  - 2009 Sep 15
+TI  - Management of loop diuretic resistance in the intensive care unit.
+PG  - 1635-40
+LID - 10.2146/ajhp090068 [doi]
+AB  - PURPOSE: The management of loop diuretic resistance in the intensive care unit 
+      (ICU) is reviewed. SUMMARY: Volume overload, a common complication of fluid 
+      resuscitation, is frequently encountered in the ICU and is associated with 
+      numerous adverse effects, including pulmonary and peripheral edema, acute lung 
+      injury, and pleural effusions. Loop diuretics are used to treat volume overload 
+      and acute renal failure and to ameliorate their associated complications. When 
+      administered intravenously, these drugs induce vigorous and prompt diuresis, 
+      which may result in negative fluid balance. This may also result in significant 
+      adverse effects, including electrolyte imbalance, ototoxicity, and volume 
+      contraction. Prolonged use of loop diuretics may lead to loop diuretic 
+      resistance, a frequent observation in the ICU. Three general mechanisms are used 
+      to explain loop diuretic resistance: rebound sodium retention, postdiuretic 
+      effect, and diuretic braking. While very few agents have joined the armamentarium 
+      and no new strategies have been developed to deal with this phenomenon, several 
+      options are available to clinicians for managing loop diuretic resistance, 
+      including salt restriction, administration of i.v. loop diuretics, continuous 
+      infusion of loop diuretics, and combination therapy using loop diuretics and 
+      thiazides. CONCLUSION: Loop diuretic resistance presents a challenge for 
+      clinicians in the ICU setting. Strategies to improve patients' responsiveness to 
+      these agents include fluid and salt restriction, switching from oral to i.v. loop 
+      diuretics, increasing diuretic dose, continuous infusion, and combination therapy 
+      with thiazides. Several of these strategies may be used concurrently to combat 
+      diuretic resistance and promote symptomatic relief of edema in the critically ill 
+      patient.
+FAU - Asare, Kwame
+AU  - Asare K
+AD  - Critical Care/Transplantation, Pharmacy Department, St. Thomas Hospital, 4220 
+      Harding Road, Nashville, TN 37205, USA. kasare@stthomas.org
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - England
+TA  - Am J Health Syst Pharm
+JT  - American journal of health-system pharmacy : AJHP : official journal of the 
+      American Society of Health-System Pharmacists
+JID - 9503023
+RN  - 0 (Diuretics)
+RN  - 0 (Sodium Potassium Chloride Symporter Inhibitors)
+SB  - IM
+MH  - Diuretics/administration & dosage
+MH  - Drug Resistance
+MH  - Drug Therapy, Combination
+MH  - Edema, Cardiac/drug therapy
+MH  - Humans
+MH  - *Intensive Care Units
+MH  - Sodium Potassium Chloride Symporter Inhibitors/administration & dosage/adverse 
+      effects/*therapeutic use
+MH  - Water Intoxication/*drug therapy
+RF  - 43
+EDAT- 2009/09/05 06:00
+MHDA- 2009/11/18 06:00
+CRDT- 2009/09/05 06:00
+PHST- 2009/09/05 06:00 [entrez]
+PHST- 2009/09/05 06:00 [pubmed]
+PHST- 2009/11/18 06:00 [medline]
+AID - 66/18/1635 [pii]
+AID - 10.2146/ajhp090068 [doi]
+PST - ppublish
+SO  - Am J Health Syst Pharm. 2009 Sep 15;66(18):1635-40. doi: 10.2146/ajhp090068.
+
+PMID- 12782772
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20030714
+LR  - 20190501
+IS  - 0032-5473 (Print)
+IS  - 1469-0756 (Electronic)
+IS  - 0032-5473 (Linking)
+VI  - 79
+IP  - 931
+DP  - 2003 May
+TI  - Mechanisms and management of diuretic resistance in congestive heart failure.
+PG  - 268-71
+AB  - Diuretic drugs are used almost universally in patients with congestive heart 
+      failure, most frequently the potent loop diuretics. Despite their unproven effect 
+      on survival, their indisputable efficacy in relieving congestive symptoms makes 
+      them first line therapy for most patients. In the treatment of more advanced 
+      stages of heart failure diuretics may fail to control salt and water retention 
+      despite the use of appropriate doses. Diuretic resistance may be caused by 
+      decreased renal function and reduced and delayed peak concentrations of loop 
+      diuretics in the tubular fluid, but it can also be observed in the absence of 
+      these pharmacokinetic abnormalities. When the effect of a short acting diuretic 
+      has worn off, postdiuretic salt retention will occur during the rest of the day. 
+      Chronic treatment with a loop diuretic results in compensatory hypertrophy of 
+      epithelial cells downstream from the thick ascending limb and consequently its 
+      diuretic effect will be blunted. Strategies to overcome diuretic resistance 
+      include restriction of sodium intake, changes in dose, changes in timing, and 
+      combination diuretic therapy.
+FAU - De Bruyne, L K M
+AU  - De Bruyne LK
+AD  - lode_de_bruyne@hotmail.com
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - England
+TA  - Postgrad Med J
+JT  - Postgraduate medical journal
+JID - 0234135
+RN  - 0 (Diuretics)
+RN  - 0 (Drug Combinations)
+SB  - IM
+MH  - Diuretics/*therapeutic use
+MH  - Dose-Response Relationship, Drug
+MH  - Drug Combinations
+MH  - Drug Resistance
+MH  - Heart Failure/*drug therapy
+MH  - Humans
+MH  - Infusions, Intravenous
+MH  - Injections
+MH  - Treatment Refusal
+PMC - PMC1742703
+EDAT- 2003/06/05 05:00
+MHDA- 2003/07/15 05:00
+PMCR- 2006/05/01
+CRDT- 2003/06/05 05:00
+PHST- 2003/06/05 05:00 [pubmed]
+PHST- 2003/07/15 05:00 [medline]
+PHST- 2003/06/05 05:00 [entrez]
+PHST- 2006/05/01 00:00 [pmc-release]
+AID - 10.1136/pmj.79.931.268 [doi]
+PST - ppublish
+SO  - Postgrad Med J. 2003 May;79(931):268-71. doi: 10.1136/pmj.79.931.268.
+
+PMID- 10598546
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20000111
+LR  - 20241017
+IS  - 0270-9295 (Print)
+IS  - 0270-9295 (Linking)
+VI  - 19
+IP  - 6
+DP  - 1999 Nov
+TI  - Diuretic resistance: physiology and therapeutics.
+PG  - 581-97
+AB  - Diuretic drugs are usually effective treatment for edema when used judiciously. 
+      However, some patients become resistant to their effects. Adaptation to diuretic 
+      drugs and diuretic resistance may be caused by similar mechanisms. Diuretic 
+      adaptations can be classified as those that occur during diuretic action, those 
+      that cause sodium retention in the short term (causing 'post-diuretic NaCl 
+      retention'), and those that increase sodium retention chronically (the 'braking 
+      phenomenon'). Recent experimental work has indicated ways in which kidneys adapt 
+      to chronic diuretic treatment. First, nephron segments downstream from the site 
+      of diuretic action increase NaCl reabsorption during diuretic administration 
+      because delivered NaCl load is increased. Second, when diuretic concentrations in 
+      the tubule decline, the kidney tubules act to retain Na until the next dose of 
+      diuretic is administered. Third, the ability of the diuretic to increase renal 
+      NaCl excretion declines over time, an effect that results both from depletion of 
+      the extracellular fluid volume and from structural and functional changes of 
+      kidney tubules themselves. These adaptations all increase the rate of NaCl 
+      reabsorption and blunt the effectiveness of diuretic therapy. Many times, a 
+      second diuretic drug is effective treatment for diuretic resistance. Recent 
+      experimental results suggest that a second drug may act synergistically because 
+      it blocks the adaptive processes limiting the effectiveness of the first 
+      diuretic. Based on an understanding of the mechanisms of diuretic adaptation and 
+      resistance, treatment regimens can be designed to block specific adaptive 
+      mechanisms and improve diuretic effectiveness.
+FAU - Ellison, D H
+AU  - Ellison DH
+AD  - Division of Nephrology, University of Colorado Health Sciences Center and VA 
+      Medical Center, Denver 80220, USA. www.uchsc.edu/sm/renal/epithelial.
+LA  - eng
+GR  - 1 RO1 DK51496/DK/NIDDK NIH HHS/United States
+GR  - 5 P50 HL55007/HL/NHLBI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, P.H.S.
+PT  - Review
+PL  - United States
+TA  - Semin Nephrol
+JT  - Seminars in nephrology
+JID - 8110298
+RN  - 0 (Diuretics)
+SB  - IM
+MH  - Adaptation, Physiological
+MH  - Animals
+MH  - Biological Transport/drug effects/physiology
+MH  - Diuretics/*administration & dosage
+MH  - Dose-Response Relationship, Drug
+MH  - Drug Resistance
+MH  - Humans
+MH  - Kidney/drug effects
+MH  - Sensitivity and Specificity
+MH  - Time Factors
+RF  - 76
+EDAT- 1999/12/22 00:00
+MHDA- 1999/12/22 00:01
+CRDT- 1999/12/22 00:00
+PHST- 1999/12/22 00:00 [pubmed]
+PHST- 1999/12/22 00:01 [medline]
+PHST- 1999/12/22 00:00 [entrez]
+PST - ppublish
+SO  - Semin Nephrol. 1999 Nov;19(6):581-97.
+
+PMID- 9239273
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19970828
+LR  - 20190831
+IS  - 0929-693X (Print)
+IS  - 0929-693X (Linking)
+VI  - 4
+IP  - 6
+DP  - 1997 Jun
+TI  - [Hydroelectrolytic requirements during the first week of life in premature 
+      infants weighing less than 1000 g. Physiopathology and recommendations].
+PG  - 555-60
+AB  - Fluid and electrolyte maintenance in very low birth weight infants during the 
+      first week of life must be adapted to their physiological characteristics and to 
+      pathological events. Insensible water losses are elevated and may reach 100 
+      mL/kg/24 h depending upon many factors, such as type of incubator, phototherapy, 
+      presence of respiratory distress syndrome, changes in transepidermal water losses 
+      and renal water and electrolyte regulation (prediuretic, diuretic and 
+      postdiuretic phases); there is also a major risk of hypernatremia and 
+      hyperkaliema. In cases of insufficient fluid intake the main complication is 
+      dehydration with hypernatremia. Excessive fluid intake results in increased 
+      incidence of bronchopulmonary dysplasia, patent ductus arteriosus and necrotizing 
+      enterocolitis. Hypernatremia is a major risk factor of intracranial hemorrhage. A 
+      careful management of water and electrolyte requirements is therefore mandatory 
+      in very low birth weight infants. Guidelines on daily maintenance and management 
+      are presented.
+FAU - Yaseen, H
+AU  - Yaseen H
+AD  - King Fahd Hospital of the University, Al-Khobar, Arabie Saoudite.
+FAU - Darwich, M
+AU  - Darwich M
+LA  - fre
+PT  - English Abstract
+PT  - Journal Article
+PT  - Review
+TT  - Besoins hydroelectrolytiques pendant la premiere semaine de vie chez les 
+      prematures de moins de 1,000 g. Physiopathologie et recommandations.
+PL  - France
+TA  - Arch Pediatr
+JT  - Archives de pediatrie : organe officiel de la Societe francaise de pediatrie
+JID - 9421356
+RN  - 059QF0KO0R (Water)
+SB  - IM
+MH  - Humans
+MH  - Infant, Newborn
+MH  - *Infant, Premature
+MH  - *Infant, Very Low Birth Weight
+MH  - Kidney/physiology
+MH  - Nutritional Requirements
+MH  - Respiratory Distress Syndrome, Newborn/physiopathology
+MH  - Water
+MH  - Water-Electrolyte Balance/*physiology
+RF  - 43
+EDAT- 1997/06/01 00:00
+MHDA- 2000/05/05 09:00
+CRDT- 1997/06/01 00:00
+PHST- 1997/06/01 00:00 [pubmed]
+PHST- 2000/05/05 09:00 [medline]
+PHST- 1997/06/01 00:00 [entrez]
+AID - S0929693X9787580X [pii]
+AID - 10.1016/s0929-693x(97)87580-x [doi]
+PST - ppublish
+SO  - Arch Pediatr. 1997 Jun;4(6):555-60. doi: 10.1016/s0929-693x(97)87580-x.
+
+PMID- 8338919
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19930831
+LR  - 20241017
+IS  - 1046-6673 (Print)
+IS  - 1046-6673 (Linking)
+VI  - 3
+IP  - 12
+DP  - 1993 Jun
+TI  - A volume-independent component to postdiuretic sodium retention in humans.
+PG  - 1878-83
+AB  - Net sodium (Na) loss during diuretic administration is limited by postdiuretic 
+      renal salt retention. This could be a homeostatic response to extracellular fluid 
+      volume (ECV) depletion. However, rats infused with loop diuretics develop 
+      structural and functional adaptations in the distal nephron that enhance NaCl 
+      reabsorption. Therefore, the hypothesis that postdiuretic Na retention in humans 
+      contains a volume-independent component was tested. Normal volunteers were 
+      equilibrated to a 120 mmol/24 h Na intake. For the first protocol, subjects 
+      received, in random order, a placebo, bumetanide (B), or bumetanide accompanied 
+      by an infusion of an electrolyte solution at a rate adjusted to match urine flow 
+      and thereby to obviate Na losses (bumetanide plus volume replacement; B + VR). 
+      After the completion of B diuresis, there was a positive Na balance that restored 
+      70% of the Na loss within 42 h. However, this positive Na balance was prevented 
+      by volume replacement (B + VR). For the second protocol, subjects received, in 
+      random order, a placebo injection and a 100-mmol NaCl load (P + NaCl) or a 
+      bumetanide injection plus volume replacement in addition to a 100-mmol NaCl load 
+      (B + VR + NaCl). Over the ensuing 42 h, 94% of the load was eliminated when it 
+      was infused alone (P + NaCl). In contrast, only 9% was eliminated when it was 
+      given with bumetanide and volume replacement (B + VR + NaCl). It was concluded 
+      that postdiuretic Na retention in normal human subjects is due both to ECV 
+      depletion and to volume-independent Na retention manifest as an inability to 
+      excrete a modest NaCl load.(ABSTRACT TRUNCATED AT 250 WORDS)
+FAU - Almeshari, K
+AU  - Almeshari K
+AD  - Division of Nephrology, Hypertension and Transplantation, University of Florida, 
+      Gainesville.
+FAU - Ahlstrom, N G
+AU  - Ahlstrom NG
+FAU - Capraro, F E
+AU  - Capraro FE
+FAU - Wilcox, C S
+AU  - Wilcox CS
+LA  - eng
+GR  - RR #00082/RR/NCRR NIH HHS/United States
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - United States
+TA  - J Am Soc Nephrol
+JT  - Journal of the American Society of Nephrology : JASN
+JID - 9013836
+RN  - 0 (Diuretics)
+RN  - 0Y2S3XUQ5H (Bumetanide)
+RN  - 451W47IQ8X (Sodium Chloride)
+RN  - 9NEZ333N27 (Sodium)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Bumetanide/pharmacology
+MH  - Diuretics/*pharmacology
+MH  - Extracellular Space/*metabolism
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Sodium/*metabolism
+MH  - Sodium Chloride/pharmacology
+EDAT- 1993/06/01 00:00
+MHDA- 1993/06/01 00:01
+CRDT- 1993/06/01 00:00
+PHST- 1993/06/01 00:00 [pubmed]
+PHST- 1993/06/01 00:01 [medline]
+PHST- 1993/06/01 00:00 [entrez]
+AID - 10.1681/ASN.V3121878 [doi]
+PST - ppublish
+SO  - J Am Soc Nephrol. 1993 Jun;3(12):1878-83. doi: 10.1681/ASN.V3121878.
+
+PMID- 2973989
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19890126
+LR  - 20190813
+IS  - 0031-6970 (Print)
+IS  - 0031-6970 (Linking)
+VI  - 35
+IP  - 4
+DP  - 1988
+TI  - Frusemide pretreatment blunts the inhibition of renal tubular sodium reabsorption 
+      by ANF in man.
+PG  - 333-8
+AB  - The effects of atrial natriuretic factor (ANF) 15 pmol/kg/min on renal function 
+      were studied in 7 normal male volunteers during maximal water diuresis. Subjects 
+      were studied in neutral salt balance either before, or after, seven days 
+      treatment with 40 mg oral frusemide. The post-frusemide state was associated with 
+      activation of the renin-angiotensin system (RAAS) and generally higher 
+      noradrenaline levels; this state was also associated with sodium retention, 
+      mainly due to enhanced distal nephron reabsorption. Without diuretic pretreatment 
+      ANF produced a natriuresis and diuresis associated with inhibition of both 
+      proximal and distal nephron sodium reabsorption. In contrast, after frusemide 
+      pretreatment, ANF caused an increase in water excretion (urinary flow rate) but 
+      no change in sodium excretion. In the post-diuretic condition ANF did not affect 
+      renal tubular handling of sodium. The enhanced tubular reabsorption of sodium 
+      post-frusemide, and the failure of ANF to suppress this, could be due to 
+      activation of the RAAS and SNS.
+FAU - McMurray, J
+AU  - McMurray J
+AD  - Department of Pharmacology and Clinical Pharmacology, Ninewells Hospital, Dundee, 
+      Scotland, UK.
+FAU - Struthers, A D
+AU  - Struthers AD
+LA  - eng
+GR  - Wellcome Trust/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Germany
+TA  - Eur J Clin Pharmacol
+JT  - European journal of clinical pharmacology
+JID - 1256165
+RN  - 11128-99-7 (Angiotensin II)
+RN  - 4964P6T9RB (Aldosterone)
+RN  - 7LXU5N7ZO5 (Furosemide)
+RN  - 85637-73-6 (Atrial Natriuretic Factor)
+RN  - 9NEZ333N27 (Sodium)
+SB  - IM
+MH  - Adult
+MH  - Aldosterone/blood
+MH  - Angiotensin II/blood
+MH  - Atrial Natriuretic Factor/*pharmacology
+MH  - Furosemide/*pharmacology
+MH  - Humans
+MH  - Kidney Tubules/*drug effects/metabolism
+MH  - Male
+MH  - Renin-Angiotensin System/*drug effects
+MH  - Sodium/*metabolism
+MH  - Stimulation, Chemical
+MH  - Sympathetic Nervous System/drug effects/metabolism
+EDAT- 1988/01/01 00:00
+MHDA- 1988/01/01 00:01
+CRDT- 1988/01/01 00:00
+PHST- 1988/01/01 00:00 [pubmed]
+PHST- 1988/01/01 00:01 [medline]
+PHST- 1988/01/01 00:00 [entrez]
+AID - 10.1007/BF00561360 [doi]
+PST - ppublish
+SO  - Eur J Clin Pharmacol. 1988;35(4):333-8. doi: 10.1007/BF00561360.

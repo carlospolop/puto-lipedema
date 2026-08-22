@@ -1,0 +1,63 @@
+
+PMID- 15006533
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20040430
+LR  - 20041117
+IS  - 0007-1226 (Print)
+IS  - 0007-1226 (Linking)
+VI  - 57
+IP  - 3
+DP  - 2004 Apr
+TI  - Painful fat syndrome in a male patient.
+PG  - 282-6
+AB  - Painful fat syndrome or lipoedema is a distinct clinical condition, characterised 
+      by bilateral and symmetrical enlargement of the upper and lower leg with 
+      tenderness, but excluding the feet. Lipoedema occurs almost exclusively in 
+      females, and no male patient has been reported in the literature published in 
+      English. We report on an extremely rare presentation of lipoedema in a male 
+      patient. A thorough study based on the case history, physical manifestations, and 
+      magnetic resonance imaging (MRI) provided valuable clues for a differential 
+      diagnosis. Conservative treatment using weight reduction, compression-stocking 
+      application, and diuretic therapy was not effective. Tumescent liposuction with 
+      postoperative pressure garments provided a satisfactory treatment.
+FAU - Chen, Shyi-Gen
+AU  - Chen SG
+AD  - Division of Plastic and Reconstructive Surgery, Department of Surgery, 
+      Tri-Service General Hospital, National Defense Medical Center, No. 325, Section 
+      2, Cheng-Gung Road, Taipei 100, Taiwan, ROC. shyigen@ms26.hinet.net
+FAU - Hsu, Shih-Dar
+AU  - Hsu SD
+FAU - Chen, Tim-Mo
+AU  - Chen TM
+FAU - Wang, Hsian-Jenn
+AU  - Wang HJ
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - England
+TA  - Br J Plast Surg
+JT  - British journal of plastic surgery
+JID - 2984714R
+SB  - IM
+MH  - Adiposis Dolorosa/*surgery
+MH  - Adult
+MH  - Edema/pathology/surgery
+MH  - Humans
+MH  - Leg/pathology/*surgery
+MH  - Lipectomy
+MH  - Magnetic Resonance Imaging
+MH  - Male
+MH  - Syndrome
+EDAT- 2004/03/10 05:00
+MHDA- 2004/05/01 05:00
+CRDT- 2004/03/10 05:00
+PHST- 2003/06/02 00:00 [received]
+PHST- 2003/12/17 00:00 [accepted]
+PHST- 2004/03/10 05:00 [pubmed]
+PHST- 2004/05/01 05:00 [medline]
+PHST- 2004/03/10 05:00 [entrez]
+AID - S0007122603005940 [pii]
+AID - 10.1016/j.bjps.2003.12.020 [doi]
+PST - ppublish
+SO  - Br J Plast Surg. 2004 Apr;57(3):282-6. doi: 10.1016/j.bjps.2003.12.020.

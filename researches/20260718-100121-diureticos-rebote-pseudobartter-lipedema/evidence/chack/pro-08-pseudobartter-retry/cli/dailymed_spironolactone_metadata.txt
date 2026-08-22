@@ -1,0 +1,6 @@
+Drug=spironolactone
+SetID=7646ca22-710e-4a5c-9613-b829e2f9d5ce
+EffectiveTime=20260817
+Version=9
+Manufacturer=
+LabelURL=https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/7646ca22-710e-4a5c-9613-b829e2f9d5ce.xml

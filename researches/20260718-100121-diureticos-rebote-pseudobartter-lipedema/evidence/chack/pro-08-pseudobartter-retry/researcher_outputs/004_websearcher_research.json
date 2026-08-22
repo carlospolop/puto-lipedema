@@ -1,0 +1,1 @@
+{"research_worked":false,"failure_reason":"Researcher did not return parseable final researcher JSON. Preserved artifact manifest tool/kind rows: fetch_url_text:35.","final_research_review":"","researcher_tool":"websearcher_research","status":"error","task_id":"task-1-c3598c","tool_call_counts":{"fetch_url_text":35},"total_tool_calls":35}

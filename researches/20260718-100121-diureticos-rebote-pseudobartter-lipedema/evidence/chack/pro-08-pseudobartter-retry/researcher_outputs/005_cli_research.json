@@ -1,0 +1,1 @@
+{"research_worked":false,"failure_reason":"Researcher did not return parseable final researcher JSON. Preserved artifact manifest tool/kind rows: run_shell_command:27.","final_research_review":"","researcher_tool":"cli_research","status":"error","task_id":"task-2-7d9363","tool_call_counts":{"run_shell_command":27},"total_tool_calls":27}

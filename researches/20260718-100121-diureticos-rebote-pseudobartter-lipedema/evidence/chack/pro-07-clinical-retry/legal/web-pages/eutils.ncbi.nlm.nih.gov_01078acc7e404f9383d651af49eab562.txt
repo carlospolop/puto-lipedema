@@ -1,0 +1,125 @@
+1. Clin Exp Dermatol. 2023 Jul 7;48(7):733-743. doi: 10.1093/ced/llad080.
+
+Sodium in the skin: a summary of the physiology and a scoping review of disease 
+associations.
+
+Chattopadhyay A(1), Tully J(2), Shan J(1), Sheikh S(3), Ohliger M(4), Gordon 
+JW(4), Mauro T(1)(5), Abuabara K(1).
+
+Author information:
+(1)Department of Dermatology, University of California San Francisco, San 
+Francisco, CA, USA.
+(2)University of Arizona College of Medicine - Phoenix, Phoenix, AZ, USA.
+(3)Kaiser Permanente, Department of Physical Medicine & Rehabilitation, Oakland, 
+CA, USA.
+(4)Department of Radiology & Biomedical Imaging, University of California San 
+Francisco, San Francisco, CA, USA.
+(5)Dermatology Service, Veterans Affairs Health Care System, San Francisco, CA, 
+USA.
+
+A large and growing body of research suggests that the skin plays an important 
+role in regulating total body sodium, challenging traditional models of sodium 
+homeostasis that focused exclusively on blood pressure and the kidney. In 
+addition, skin sodium may help to prevent water loss and facilitate 
+macrophage-driven antimicrobial host defence, but may also trigger immune 
+dysregulation via upregulation of proinflammatory markers and downregulation of 
+anti-inflammatory processes. We performed a systematic search of PubMed for 
+published literature on skin sodium and disease outcomes and found that skin 
+sodium concentration is increased in patients with cardiometabolic conditions 
+including hypertension, diabetes and end-stage renal disease; autoimmune 
+conditions including multiple sclerosis and systemic sclerosis; and 
+dermatological conditions including atopic dermatitis, psoriasis and lipoedema. 
+Several patient characteristics are associated with increased skin sodium 
+concentration including older age and male sex. Animal evidence suggests that 
+increased salt intake results in higher skin sodium levels; however, there are 
+conflicting results from small trials in humans. Additionally, limited data 
+suggest that pharmaceuticals such as diuretics and sodium-glucose 
+co-transporter-2 inhibitors approved for diabetes, as well as haemodialysis may 
+reduce skin sodium levels. In summary, emerging research supports an important 
+role for skin sodium in physiological processes related to osmoregulation and 
+immunity. With the advent of new noninvasive magnetic resonance imaging 
+measurement techniques and continued research on skin sodium, it may emerge as a 
+marker of immune-mediated disease activity or a potential therapeutic target.
+
+© The Author(s) 2023. Published by Oxford University Press on behalf of British 
+Association of Dermatologists. All rights reserved. For permissions, please 
+e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/ced/llad080
+PMID: 36970766 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of interest The authors declare they 
+have no conflicts of interest.
+
+
+2. Br J Plast Surg. 2004 Apr;57(3):282-6. doi: 10.1016/j.bjps.2003.12.020.
+
+Painful fat syndrome in a male patient.
+
+Chen SG(1), Hsu SD, Chen TM, Wang HJ.
+
+Author information:
+(1)Division of Plastic and Reconstructive Surgery, Department of Surgery, 
+Tri-Service General Hospital, National Defense Medical Center, No. 325, Section 
+2, Cheng-Gung Road, Taipei 100, Taiwan, ROC. shyigen@ms26.hinet.net
+
+Painful fat syndrome or lipoedema is a distinct clinical condition, 
+characterised by bilateral and symmetrical enlargement of the upper and lower 
+leg with tenderness, but excluding the feet. Lipoedema occurs almost exclusively 
+in females, and no male patient has been reported in the literature published in 
+English. We report on an extremely rare presentation of lipoedema in a male 
+patient. A thorough study based on the case history, physical manifestations, 
+and magnetic resonance imaging (MRI) provided valuable clues for a differential 
+diagnosis. Conservative treatment using weight reduction, compression-stocking 
+application, and diuretic therapy was not effective. Tumescent liposuction with 
+postoperative pressure garments provided a satisfactory treatment.
+
+DOI: 10.1016/j.bjps.2003.12.020
+PMID: 15006533 [Indexed for MEDLINE]
+
+
+3. G Ital Dermatol Venereol. 2014 Dec;149(6):643-7.
+
+Application of microcurrents of bioresonance and transdermal delivery of active 
+principles in lymphedema and lipedema of the lower limbs: a pilot study.
+
+Elio C(1), Guaitolini E, Paccasassi S, Rosati N, Cavezzi A.
+
+Author information:
+(1)Vascular Unit, Poliambulatorio Hippocrates San Benedetto del Tronto, Ascoli 
+Piceno, Italy - concyelio@alice.it.
+
+AIM: Application of microcurrents of bioresonance may allow protein aggregates 
+lysis and a related enhancement of lymphatic drainage. Combining bioresonance 
+with transcutaneous passage of active principles, by means of skin 
+electroporation, microcirculation and clearance of connective tissues may be 
+theoretically activated. A pilot study on an electro-medical device which 
+includes these two technologies (Transponder(®)), has been performed on patients 
+affected by lymphedema (LYM) and/or lipedema (LIP) of the lower limbs.
+METHODS: Eight patients affected by primary or secondary unilateral LYM or LIP 
+were submitted to six consecutive daily sessions with the medical device; the 
+first two sessions were performed by a trained physiotherapist, whilst the 
+following four sessions were self-administered by the patients themselves at 
+home (who were educated about the technique). Magnesium silicate was delivered 
+transcutaneously by means of the device at each session. Pre-post-treatment 
+assessment included: 1) limb volumetry by means of tape measurement; 2) 
+segmental multifrequency bioimpedance spectroscopy for fluid changes, with L-DEX 
+measurement; 3) visual analogue scale (VAS) (0-10 score) questionnaire for 
+related symptoms.
+RESULTS: All the patients completed the scheduled treatment. After the treatment 
+the mean volume of the whole limb decreased from 9462.85 (±3407.02) to 9297.37 
+cc (±3393.20), which accounts for a 165.48 cc (2%) reduction after six days of 
+treatment. The pre/post-treatment VAS mean score changes were: heaviness from 
+4.57±3.46 to 2.43±2.57 (-47%), dysesthesias from 1.71±2.63 to 0.71±1.50 (-58%), 
+pain from 1.57±2.57 to 0.57±0.79 (-64%). Diuresis VAS measurement passed from 
+7.43±1.81 to 8.57±0.98 (15% increase). The average L-DEX percentage reduction 
+was 21%. No side effects were reported and a good patients' compliance was 
+recorded.
+CONCLUSIONS: The preliminary data of this pilot study show that the combination 
+of microcurrents of bioresonance with transdermal delivery of active principles 
+indicate that it could result in edema decrease and symptom improvement in 
+patients affected by LYM and/or LIP of the lower limbs. Self-administered 
+modality of the electrical device is possible and effective; no side effects 
+have been reported.
+
+PMID: 25664822 [Indexed for MEDLINE]

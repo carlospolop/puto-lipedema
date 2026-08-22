@@ -1,0 +1,656 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="pmc-domain-id">1888</journal-id><journal-id journal-id-type="pmc-domain">jaha</journal-id><journal-id journal-id-type="nlm-id">101580524</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC7660713</article-id><article-id pub-id-type="pmcid-ver">PMC7660713.1</article-id><article-id pub-id-type="pmcaid">7660713</article-id><article-id pub-id-type="pmcaiid">7660713</article-id><article-id pub-id-type="pmid">32633188</article-id><article-id pub-id-type="doi">10.1161/JAHA.119.014180</article-id><article-id pub-id-type="publisher-id">JAH35138</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Hypertension</subject></subj-group></subj-group></article-categories><title-group><article-title>Adherence to Antihypertensive Drugs Assessed by Hyphenated High‐Resolution Mass Spectrometry Analysis of Oral Fluids</article-title></title-group><contrib-group><contrib id="jah35138-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Lauder</surname><given-names initials="L">Lucas</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah35138-aff-0001">
+<sup>1</sup>
+</xref><address><email>lucas.lauder@uks.eu</email></address></contrib><contrib id="jah35138-cr-0002" contrib-type="author"><name name-style="western"><surname>Ewen</surname><given-names initials="S">Sebastian</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah35138-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah35138-cr-0003" contrib-type="author"><name name-style="western"><surname>Kunz</surname><given-names initials="M">Michael</given-names></name><xref ref-type="aff" rid="jah35138-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah35138-cr-0004" contrib-type="author"><name name-style="western"><surname>Richter</surname><given-names initials="LHJ">Lilian H. J.</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah35138-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah35138-cr-0005" contrib-type="author"><name name-style="western"><surname>Jacobs</surname><given-names initials="CM">Cathy M.</given-names></name><xref ref-type="aff" rid="jah35138-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah35138-cr-0006" contrib-type="author"><name name-style="western"><surname>Kindermann</surname><given-names initials="I">Ingrid</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah35138-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah35138-cr-0007" contrib-type="author"><name name-style="western"><surname>Böhm</surname><given-names initials="M">Michael</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah35138-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah35138-cr-0008" contrib-type="author"><name name-style="western"><surname>Meyer</surname><given-names initials="MR">Markus R.</given-names></name><xref ref-type="aff" rid="jah35138-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah35138-cr-0009" contrib-type="author"><name name-style="western"><surname>Mahfoud</surname><given-names initials="F">Felix</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah35138-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jah35138-aff-0003">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="jah35138-aff-0001">
+<label><sup>1</sup></label>
+<institution>Klinik für Innere Medizin III</institution>
+<institution>Kardiologie, Angiologie und Internistische Intensivmedizin</institution>
+<institution>Universitätsklinikum des Saarlandes and Saarland University</institution>
+<city>Homburg/Saar</city>
+<country country="DE">Germany</country>
+</aff><aff id="jah35138-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Experimental and Clinical Toxicology</named-content>
+<named-content content-type="organisation-division">Institute of Experimental and Clinical Pharmacology and Toxicology</named-content>
+<named-content content-type="organisation-division">Center for Molecular Signaling</named-content>
+<institution>Saarland University</institution>
+<city>Homburg/Saar</city>
+<country country="DE">Germany</country>
+</aff><aff id="jah35138-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Institute for Medical Engineering and Science</named-content>
+<institution>MIT</institution>
+<city>Cambridge</city>
+<named-content content-type="country-part">MA</named-content>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>Correspondence to: Lucas Lauder, MD, Klinik für Innere Medizin III, Kardiologie, Angiologie und Internistische Intensivmedizin, Universitätsklinikum des Saarlandes, Kirrberger Strasse 100, Geb. 41.1 (IMED), 66421 Homburg, Germany. E‐mail: <email>lucas.lauder@uks.eu</email></corresp></author-notes><pub-date pub-type="epub"><day>07</day><month>7</month><year>2020</year></pub-date><pub-date pub-type="collection"><day>21</day><month>7</month><year>2020</year></pub-date><volume>9</volume><issue>14</issue><issue-id pub-id-type="pmc-issue-id">368731</issue-id><issue-id pub-id-type="doi">10.1002/jah3.v9.14</issue-id><elocation-id>e014180</elocation-id><history><date date-type="received"><day>18</day><month>2</month><year>2020</year></date><date date-type="accepted"><day>15</day><month>4</month><year>2020</year></date></history><pub-history><event event-type="pmc-release"><date><day>21</day><month>07</month><year>2020</year></date></event><event event-type="pmc-live"><date><day>17</day><month>11</month><year>2020</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-30 16:25:14.423"><day>30</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2020 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley. </copyright-statement><license license-type="creativeCommonsBy-nc-nd"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="JAH3-9-e014180.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:JAH3-9-e014180.pdf"/><abstract id="jah35138-abs-0001"><sec id="jah35138-sec-0001"><title>Background</title><p>It is currently unknown if antihypertensive drugs can be monitored in oral fluid (<styled-content style="fixed-case" toggle="no">OF</styled-content>) using liquid chromatography coupled to high‐resolution mass spectrometry.</p></sec><sec id="jah35138-sec-0002"><title>Methods and Results</title><p>We assessed adherence using liquid chromatography coupled to high‐resolution mass spectrometry in <styled-content style="fixed-case" toggle="no">OF</styled-content>, plasma, and urine of 56 consecutive patients with hypertension referred to a tertiary hypertension unit. Of these patients, 59% were completely adherent (all drugs detectable in urine), whereas 29% and 13% were partially adherent (1 drug not detectable in urine) or nonadherent (&gt;1 drug not detectable in urine), respectively. Adherent patients were on fewer antihypertensive drugs (<italic toggle="yes">P</italic>=0.001), had fewer daily drug doses (<italic toggle="yes">P</italic>=0.012), and had lower 24‐hour ambulatory systolic (<italic toggle="yes">P</italic>=0.012) and diastolic (<italic toggle="yes">P</italic>=0.009) blood pressures than nonadherent or partially adherent patients. Most drugs were detected in urine compared with plasma and <styled-content style="fixed-case" toggle="no">OF</styled-content> (181 versus 119 versus 88; <italic toggle="yes">P</italic>=0.001). Compared with urine and plasma, detection rates of angiotensin‐converting enzyme inhibitors, angiotensin <styled-content style="fixed-case" toggle="no">II</styled-content> receptor blockers, and diuretics were lower in <styled-content style="fixed-case" toggle="no">OF</styled-content>. There was no difference in the frequency of detecting β blockers (<italic toggle="yes">P</italic>=1.0) and calcium channel blockers (<italic toggle="yes">P</italic>=0.063) when comparing <styled-content style="fixed-case" toggle="no">OF</styled-content> with urine. There was no difference in the number of calcium channel blockers (<italic toggle="yes">P</italic>=0.727), β blockers (<italic toggle="yes">P</italic>=1.000), thiazide diuretics (<italic toggle="yes">P</italic>=0.125), and α‐2 agonists (<italic toggle="yes">P</italic>=0.125) identified between <styled-content style="fixed-case" toggle="no">OF</styled-content> and plasma.</p></sec><sec id="jah35138-sec-0003"><title>Conclusions</title><p>This study shows the feasibility of drug adherence testing for several antihypertensive drugs, especially those without acidic components, in <styled-content style="fixed-case" toggle="no">OF</styled-content>, with a similar recovery compared with plasma. Therefore, drug adherence testing in <styled-content style="fixed-case" toggle="no">OF</styled-content> should be further explored as a noninvasive approach, which can easily be performed in an “out‐of‐office” setting.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah35138-kwd-0001">adherence</kwd><kwd id="jah35138-kwd-0002">arterial hypertension</kwd><kwd id="jah35138-kwd-0003">compliance</kwd><kwd id="jah35138-kwd-0004">liquid chromatography coupled to high‐resolution mass spectrometry</kwd><kwd id="jah35138-kwd-0005">toxicological analyses</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Hypertension</kwd><kwd>Clinical Studies</kwd><kwd>Risk Factors</kwd><kwd>Compliance/Adherence</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Deutsche Forschungsgemeinschaft </institution><institution-id institution-id-type="open-funder-registry">10.13039/501100001659</institution-id></institution-wrap></funding-source></award-group><award-group id="funding-0002"><funding-source>Open Access Publishing</funding-source></award-group></funding-group><counts><fig-count count="5"/><table-count count="2"/><page-count count="10"/><word-count count="5663"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC-ND</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>21 July 2020</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:5.8.8 mode:remove_FC converted:29.08.2020</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jah35138-cit-1001">(<source xml:lang="en">J Am Heart Assoc</source>. <year>2020</year>;<volume>9</volume>:<elocation-id>e014180</elocation-id> DOI: <pub-id pub-id-type="doi">10.1161/JAHA.119.014180</pub-id>.)<pub-id pub-id-type="pmid">32633188</pub-id><pub-id pub-id-type="pmcid">PMC7660713</pub-id></mixed-citation>
+</p><fn-group id="jah35138-ntgp-0001"><fn fn-type="funding" id="jah35138-note-1002"><p>For Sources of Funding and Disclosures, see page 9.</p></fn></fn-group></notes></front><body id="jah35138-body-0001"><def-list list-content="abbreviations" id="jah35138-dl-0001"><title>Nonstandard Abbreviations and Acronyms</title><def-item><term>LC‐HRMS/MS</term><def><p>liquid chromatography coupled to high‐resolution mass spectrometry</p></def></def-item><def-item><term>OF</term><def><p> oral fluid</p></def></def-item></def-list><p>
+<boxed-text position="anchor" content-type="box" id="jah35138-blkfxd-0001" orientation="portrait"><sec id="jah35138-sec-0005"><title>Clinical Perspective</title><sec id="jah35138-sec-0006"><title>What Is New?</title><p>
+<list list-type="bullet" id="jah35138-list-0001"><list-item><p>This is the first study that showed the feasibility of detecting several antihypertensive drugs, especially those without acidic components, in oral fluid (OF).</p></list-item><list-item><p>Using liquid chromatography coupled to high‐resolution mass spectrometry analysis, most antihypertensive medications were identified in urine, followed by plasma and OF.</p></list-item><list-item><p>Antihypertensive drugs without acidic components had similar detection rates in plasma and OF, whereas antihypertensive drugs with acidic functions were poorly detected in OF.</p></list-item></list>
+</p></sec><sec id="jah35138-sec-0007"><title>What Are the Clinical Implications?</title><p>
+<list list-type="bullet" id="jah35138-list-0002"><list-item><p>Although most antihypertensive drugs were detected in urine, drug adherence testing in OF, especially of substances without acidic components, is feasible and should be further explored as a noninvasive approach, which can easily be performed in an “out‐of‐office” setting.</p></list-item></list>
+</p></sec></sec></boxed-text>
+</p><sec id="jah35138-sec-0008"><p>Nonadherence to prescribed drug treatment frequently occurs in hypertension and is associated with increased morbidity and mortality.<xref rid="jah35138-bib-0001" ref-type="ref">1</xref>, <xref rid="jah35138-bib-0002" ref-type="ref">2</xref>, <xref rid="jah35138-bib-0003" ref-type="ref">3</xref>, <xref rid="jah35138-bib-0004" ref-type="ref">4</xref>, <xref rid="jah35138-bib-0005" ref-type="ref">5</xref> Assessing drug adherence in hypertensive patients can guide specific patient‐centered interventions to improve adherence and might reduce the number of unnecessarily prescribed drugs.<xref rid="jah35138-bib-0006" ref-type="ref">6</xref>, <xref rid="jah35138-bib-0007" ref-type="ref">7</xref>, <xref rid="jah35138-bib-0008" ref-type="ref">8</xref> Several indirect (pill count, patient diaries, adherence questionnaires, and prescription record reviews) and direct (drug monitoring in blood and urine and directly observed therapy) methods to evaluate adherence have been introduced.<xref rid="jah35138-bib-0009" ref-type="ref">9</xref> Toxicological analyses of urine and plasma are the most commonly used matrices for assessing drug adherence. However, the collection of both matrices bears potential disadvantages: collecting urine cannot be observed without infringing the patient's privacy, whereas obtaining a blood sample is invasive and requires medical personnel. Furthermore, drug adherence monitoring in urine may cause false‐positive results because the washout period for several antihypertensive drugs in urine lasts longer than multiple half‐lives, usually exceeding 24 hours.<xref rid="jah35138-bib-0010" ref-type="ref">10</xref> Therefore, there is an unmet need for an easily applicable and reliable method to evaluate drug adherence.<xref rid="jah35138-bib-0007" ref-type="ref">7</xref>, <xref rid="jah35138-bib-0009" ref-type="ref">9</xref>, <xref rid="jah35138-bib-0011" ref-type="ref">11</xref> As drugs are in principle distributed to all body compartments, including oral fluids (OFs), the detection of drugs in OF may represent a novel approach in drug adherence testing. This study aimed at investigating liquid chromatography coupled to high‐resolution mass spectrometry (LC‐HRMS/MS) of urine, plasma, and OF to assess drug adherence in patients referred to an outpatient hypertension unit.</p></sec><sec id="jah35138-sec-0009"><title>Methods</title><p>The data of this investigator‐initiated study are available from the corresponding author on reasonable request. Between November 2017 and March 2018, 56 consecutive patients with hypertension who were referred to the outpatient hypertension unit at the Saarland University Medical Center (Homburg/Saar, Germany) were included in this study. All participating patients provided written informed consent, and local ethics committees approved the study. Eligible patients were ≥18 years old, had hypertension, as defined by current guidelines,<xref rid="jah35138-bib-0012" ref-type="ref">12</xref> and were prescribed to stable antihypertensive therapy for at least 2 weeks.</p><sec id="jah35138-sec-0010"><title>Clinical Assessment</title><p>All patients were instructed to take their medication in the morning as prescribed. Medical history, physical examination, routine blood chemistry, and attended office blood pressures were documented for all patients. After 5 minutes of rest in a comfortable, seated position, 3 consecutive blood pressure measurements, 1 minute apart, were taken with a validated automated blood pressure monitor (Omron Health Care, Inc, Lake Forest, IL). If the first 2 readings varied by &gt;10 mm Hg, an additional measurement was performed. The last 2 blood pressure readings were averaged and recorded as the office blood pressure. Also, 24‐hour ambulatory blood pressure monitoring (Mobil‐O‐Graph; I.E.M GmbH, Stolberg, Germany) was done where clinically indicated. Chronic kidney disease was defined as an estimated glomerular filtration rate &lt;60 mL/min per 1.73 m<sup>2</sup>. Chronic heart failure comprised patients with a history of chronic heart failure with and without reduced left ventricular ejection fraction.</p></sec><sec id="jah35138-sec-0011"><title>Sampling of OF, Plasma, and Urine</title><p>OF was sampled in the morning using the Quantisal OF collection device (Immunalysis Corporation, Pomona, CA). The collection device consists of a collection pad that collects 1 mL (±10%) of OF and a transport tube containing liquid buffer. The device pad was placed under the patient's tongue until the volume adequacy indicator turned blue. Of note, no chemical stimuli, such as acidic stimulation (citric acid), were used to increase salivation, as this might influence drug concentrations.<xref rid="jah35138-bib-0013" ref-type="ref">13</xref> After sampling, the collection pad was inserted in the transport tube and was shaken for 2 hours at room temperature to allow the extraction of the OF from the collection pad. Afterward, the collection pad was removed. Venous EDTA blood and spot urinary samples were drawn, blood was centrifuged, and the supernatant was separated. Then, OF, plasma, and urine samples were stored at −20°C until the analysis was performed at the Department of Experimental and Clinical Toxicology at Saarland University (Homburg/Saar, Germany).</p></sec><sec id="jah35138-sec-0012"><title>Drug Adherence Analysis by LC‐HRMS/MS</title><p>The detailed bioanalytical method of the targeted adherence monitoring method has been described previously.<xref rid="jah35138-bib-0014" ref-type="ref">14</xref> In brief, samples were separated on a ThermoFisher Accucore PhyenylHexyl column (ThermoFisher, Dreieich, Germany) with mobile phase A consisting of 2 mmol/L aqueous ammonium formate containing 0.1% formic acid (v/v, pH 3) and mobile phase B consisting of 2 mmol/L aqueous ammonium formate with acetonitrile:methanol (50:50, v/v, 1% water) containing 0.1% formic acid. Drugs and metabolites were analyzed by a ThermoFisher Scientific Dionex UltiMate 3000 (ThermoFisher) interfaced to an HTC PAL autosampler (CTC Analytics, Zwingen, Switzerland) and a TF Q‐Exactive system with a heated electrospray ionization‐II source set to positive/negative switching. Mass spectrometry was performed using full‐scan data and a subsequent data‐dependent acquisition mode with an inclusion list containing masses of interest. TraceFinder 4.1 software (ThermoFisher) was used for data processing. People assessing drug adherence were blinded to patients’ characteristics.</p></sec><sec id="jah35138-sec-0013"><title>Definition of Adherence</title><p>Despite recent efforts to establish a standardized classification of medication adherence,<xref rid="jah35138-bib-0015" ref-type="ref">15</xref> the definitions used in the literature remain inconsistent.<xref rid="jah35138-bib-0016" ref-type="ref">16</xref> We applied 2 commonly used classifications: In the first set of analyses, nonadherence was defined according to the absolute number of nondetectable drugs. If all prescribed drugs were detectable in urine, a patient was classified as “adherent.” If 1 or at least 2 of the prescribed drugs were not detectable, the patient was considered to be “partially adherent” and “nonadherent,” respectively. In the second set of analyses, provided in <xref rid="jah35138-sup-0001" ref-type="supplementary-material">Tables S1 and S2</xref>, adherence was defined dichotomously on the basis of a threshold of 80%. If ≥80% of the prescribed drugs were detectable in urine, the patient was classified as “adherent.” Otherwise, the patient was considered to be “nonadherent.” For analyses of clinical characteristics, adherence to all substances of a single‐pill combination was assumed, if at least one component of a single‐pill combination was detectable (referred to as “adherence corrected for single‐pill combinations”).</p></sec><sec id="jah35138-sec-0014"><title>Statistical Analysis</title><p>Data are presented as mean±SD and numbers (percentages). Because of the relatively low sample size, we used the Wilcoxon matched‐pairs signed‐rank test and the Mann‐Whitney test to compare continuous variables between 2 paired and unpaired groups, respectively. The Kruskal‐Wallis test was used for comparisons of continuous data between adherent, partially adherent, and nonadherent patients. If the Kruskal‐Wallis test was significant, we used the Dunn‐Bonferroni post hoc method for pairwise comparisons. For categorical variables, comparisons between independent groups were performed using Pearson's χ<sup>2</sup> or Fisher's exact test, whereas McNemar's or Cochran's Q test was used for paired groups. For nominal variables, we used Fleiss’ K to assess reliability. Interrater reliability was interpreted as initially suggested, with a K &lt;0 tentatively considered to be poor; 0 to 0.2, slight; 0.21 to 0.40, fair; 0.41 to 0.60, moderate; 0.61 to 0.80, substantial; and 0.81 to 1.00, almost perfect.<xref rid="jah35138-bib-0017" ref-type="ref">17</xref> A 2‐sided <italic toggle="yes">P</italic>&lt;0.05 was considered to be statistically significant. All statistical analyses were performed with IBM SPSS Statistics, version 23.0 (IBM Corp, Armonk, NY), and graphs were created with GraphPad Prism, version 8.4.2 (GraphPad Software, La Jolla, CA).</p></sec></sec><sec id="jah35138-sec-0015"><title>Results</title><sec id="jah35138-sec-0016"><title>Patients’ Characteristics</title><p>The patients’ characteristics are summarized in Table <xref rid="jah35138-tbl-0001" ref-type="table">1</xref>. The patients’ mean age was 60.0±13.1 years, 54% were women, with a body mass index of 29.2±6.8 kg/m<sup>2</sup>. Mean 24‐hour ambulatory blood pressures were 133.8/81.4±16.1/10.4 mm Hg, despite the prescription of 3.8±1.4 antihypertensive drugs. In total, 59% of the patients were completely (all drugs detectable in urine, 66% after correcting for single‐pill combinations) and 29% partially adherent (1 drug not detectable urine, 23% after correcting for single‐pill combinations) to their prescribed antihypertensive medication. Adherence rates were highest when using urine as the matrix for LC‐HRMS/MS (Figure <xref rid="jah35138-fig-0001" ref-type="fig">1</xref>). Adherent patients were prescribed to fewer antihypertensive drugs and daily doses (Figure <xref rid="jah35138-fig-0002" ref-type="fig">2</xref>) and had lower 24‐hour ambulatory systolic and diastolic blood pressures compared with nonadherent or partially adherent patients (Table <xref rid="jah35138-tbl-0001" ref-type="table">1</xref>). Except for mineralocorticoid receptor antagonists (<italic toggle="yes">P</italic>=0.042), α‐1 blockers (<italic toggle="yes">P</italic>=0.008), and α‐2 agonists (<italic toggle="yes">P</italic>=0.008), there was no difference in prescribed drug classes between completely adherent, partially adherent, and nonadherent patients (<xref rid="jah35138-sup-0001" ref-type="supplementary-material">Table S3</xref>). Figure <xref rid="jah35138-fig-0003" ref-type="fig">3</xref> depicts the adherence rates for each antihypertensive drug class.</p><table-wrap id="jah35138-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Patients’ Characteristics</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Characteristic</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Nonadherent Patients</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Partially Adherent Patients</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Fully Adherent Patients</th><th align="left" rowspan="2" valign="top" colspan="1">
+<italic toggle="yes">P</italic> Value</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Value</th><th align="left" valign="top" rowspan="1" colspan="1">N</th><th align="left" valign="top" rowspan="1" colspan="1">Value</th><th align="left" valign="top" rowspan="1" colspan="1">N</th><th align="left" valign="top" rowspan="1" colspan="1">Value</th><th align="left" valign="top" rowspan="1" colspan="1">N</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, y</td><td align="left" rowspan="1" colspan="1">64.0±8.7</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">56.2±13.4</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">59.1±13.7</td><td align="left" rowspan="1" colspan="1">37</td><td align="char" char="." rowspan="1" colspan="1">0.400</td></tr><tr><td align="left" rowspan="1" colspan="1">Women, n (%)</td><td align="left" rowspan="1" colspan="1">5 (83)</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">8 (62)</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">17 (46)</td><td align="left" rowspan="1" colspan="1">37</td><td align="char" char="." rowspan="1" colspan="1">0.249<xref ref-type="fn" rid="jah35138-note-0004">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Body mass index, kg/m<sup>2</sup>
+</td><td align="left" rowspan="1" colspan="1">26.1±8.2</td><td align="left" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">30.0±6.5</td><td align="left" rowspan="1" colspan="1">11</td><td align="left" rowspan="1" colspan="1">29.3±6.9</td><td align="left" rowspan="1" colspan="1">36</td><td align="char" char="." rowspan="1" colspan="1">0.695</td></tr><tr><td align="left" rowspan="1" colspan="1">Current smoker, n (%)</td><td align="left" rowspan="1" colspan="1">2 (33)</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">4 (31)</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">9 (24)</td><td align="left" rowspan="1" colspan="1">37</td><td align="char" char="." rowspan="1" colspan="1">0.726<xref ref-type="fn" rid="jah35138-note-0004">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Type 2 diabetes mellitus, n (%)</td><td align="left" rowspan="1" colspan="1">1 (17)</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">3 (23)</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">10 (27)</td><td align="left" rowspan="1" colspan="1">37</td><td align="char" char="." rowspan="1" colspan="1">0.908<xref ref-type="fn" rid="jah35138-note-0004">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Coronary artery disease, n (%)</td><td align="left" rowspan="1" colspan="1">3 (50)</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">2 (15)</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">8 (22)</td><td align="left" rowspan="1" colspan="1">37</td><td align="char" char="." rowspan="1" colspan="1">0.242<xref ref-type="fn" rid="jah35138-note-0004">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Chronic heart failure, n (%)</td><td align="left" rowspan="1" colspan="1">3 (50)</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">3 (23)</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">14 (38)</td><td align="left" rowspan="1" colspan="1">37</td><td align="char" char="." rowspan="1" colspan="1">0.434<xref ref-type="fn" rid="jah35138-note-0004">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">eGFR &lt;60 mL/min per 1.73 m<sup>2, n (%)</sup>
+</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">2 (17)</td><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">8 (23)</td><td align="left" rowspan="1" colspan="1">35</td><td align="char" char="." rowspan="1" colspan="1">0.575<xref ref-type="fn" rid="jah35138-note-0004">a</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Office systolic BP, mm Hg</td><td align="left" rowspan="1" colspan="1">155.5±37.3</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">143.9±24.7</td><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">142.3±24.7</td><td align="left" rowspan="1" colspan="1">36</td><td align="char" char="." rowspan="1" colspan="1">0.666</td></tr><tr><td align="left" rowspan="1" colspan="1">Office diastolic BP, mm Hg</td><td align="left" rowspan="1" colspan="1">90.2±22.5</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">90.5±19.1</td><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">83.1±12.3</td><td align="left" rowspan="1" colspan="1">36</td><td align="char" char="." rowspan="1" colspan="1">0.507</td></tr><tr><td align="left" rowspan="1" colspan="1">24‐h Systolic BP, mm Hg</td><td align="left" rowspan="1" colspan="1">147.0±17.1</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">141.7±14.1</td><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">128.4±14.4</td><td align="left" rowspan="1" colspan="1">27</td><td align="char" char="." rowspan="1" colspan="1">0.012</td></tr><tr><td align="left" rowspan="1" colspan="1">24‐h Diastolic BP, mm Hg</td><td align="left" rowspan="1" colspan="1">81.6±9.3</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">90.0±9.3</td><td align="left" rowspan="1" colspan="1">10</td><td align="left" rowspan="1" colspan="1">77.7±9.2</td><td align="left" rowspan="1" colspan="1">27</td><td align="char" char="." rowspan="1" colspan="1">0.009</td></tr><tr><td align="left" rowspan="1" colspan="1">Heart rate, bpm</td><td align="left" rowspan="1" colspan="1">80.5±15.6</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">79.6±18.3</td><td align="left" rowspan="1" colspan="1">12</td><td align="left" rowspan="1" colspan="1">78.0±11.8</td><td align="left" rowspan="1" colspan="1">35</td><td align="char" char="." rowspan="1" colspan="1">0.950</td></tr></tbody></table><table-wrap-foot id="jah35138-ntgp-0002"><fn id="jah35138-note-0003"><p>Values are mean±SD or number (percentage). <italic toggle="yes">P</italic> values are given for between‐group comparisons. BP indicates blood pressure; bpm, beats per minute; and eGFR, estimated glomerular filtration rate.</p></fn><fn id="jah35138-note-0004"><label>a</label><p>Fisher's exact test. Adherence rates were corrected for single‐pill combinations.</p></fn></table-wrap-foot></table-wrap><fig fig-type="Figure" xml:lang="en" id="jah35138-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Assessment of adherence rates using liquid chromatography coupled to high‐resolution mass spectrometry (LC‐<styled-content style="fixed-case" toggle="no">HRMS</styled-content>/<styled-content style="fixed-case" toggle="no">MS</styled-content>) in urine, plasma, and oral fluid.</title><p>
+<bold>A</bold>, Patients were considered “adherent” if ≥80% of the prescribed drugs were detectable in the matrices. <bold>B</bold>, Patients were classified as “adherent” if all prescribed drugs were detected. If 1 or at least 2 of the prescribed drugs were not detectable, the patient was considered to be “partially adherent” and “nonadherent,” respectively.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-1" position="float" orientation="portrait" xlink:href="JAH3-9-e014180-g001.jpg"/></fig><fig fig-type="Figure" xml:lang="en" id="jah35138-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><title>Impact of dosing regimen on adherence.</title><p>The impact of the total number of antihypertensive drugs (<bold>A</bold>) and dosing frequency (<bold>B</bold>) on adherence to antihypertensive drugs. Adherence rates were corrected for single‐pill combinations. <italic toggle="yes">P</italic> values are given for between‐group comparisons.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-3" position="float" orientation="portrait" xlink:href="JAH3-9-e014180-g002.jpg"/></fig><fig fig-type="Figure" xml:lang="en" id="jah35138-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><title>Adherence rates for different substance classes.</title><p>Adherence rates were corrected for single‐pill combinations. *The overall number of drugs detected includes triamterene. As only one patient was prescribed to triamterene, potassium‐sparing diuretics are not explicitly depicted in the figure. <styled-content style="fixed-case" toggle="no">ACE</styled-content>i indicates angiotensin‐converting enzyme inhibitor; <styled-content style="fixed-case" toggle="no">ARB</styled-content>, angiotensin <styled-content style="fixed-case" toggle="no">II</styled-content> receptor blocker; <styled-content style="fixed-case" toggle="no">BB</styled-content>, β blocker; <styled-content style="fixed-case" toggle="no">CCB</styled-content>, calcium channel blocker; and <styled-content style="fixed-case" toggle="no">MRA</styled-content>, mineralocorticoid receptor antagonist.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-5" position="float" orientation="portrait" xlink:href="JAH3-9-e014180-g003.jpg"/></fig></sec><sec id="jah35138-sec-0017"><title>Comparison of Detection Methods</title><p>Figure <xref rid="jah35138-fig-0004" ref-type="fig">4</xref> shows an example of an LC‐MS spectrum for the same sample in urine, plasma, and OF. In total, 215 antihypertensive drugs were prescribed, of which 182 drugs (parent and/or their metabolites) were detected. Using LC‐HRMS/MS analysis, most antihypertensive medications were identified in urine, followed by plasma and OF (181 versus 119 versus 88; <italic toggle="yes">P</italic>&lt;0.001; Figure <xref rid="jah35138-fig-0005" ref-type="fig">5</xref>). For all substance classes but alpha‐1 blockers, detection rates of LC‐HRMS/MS were highest in the urine. The overall detection rates of drugs with acidic functions, such as angiotensin‐converting enzyme inhibitors, angiotensin II receptor blockers, and thiazides, were low in OF. However, there was no statistical difference in the frequency of detecting calcium channel blockers (<italic toggle="yes">P</italic>=0.727), β blockers (<italic toggle="yes">P</italic>=1.000), thiazides (<italic toggle="yes">P</italic>=0.125), and α‐2 agonists (<italic toggle="yes">P</italic>=0.125) between LC‐HRMS/MS analyses of OF and plasma samples. Compared with urine, there was no significant difference in the detection of calcium channel blocker (<italic toggle="yes">P</italic>=0.063) and β blockers (<italic toggle="yes">P</italic>=1.000) in OF. Of note, detection rates of drugs in OF were not different in patients with or without concomitant medication, known to possibly (eg, domperidone; <italic toggle="yes">P</italic>=0.651) or commonly (eg, amiodarone; <italic toggle="yes">P</italic>=0.702) cause hyposalivation. Furthermore, there were no differences in detection rates in patients with conditions known to impact salivation, such as diabetes mellitus (<italic toggle="yes">P</italic>=0.626) or chronic kidney disease (estimated glomerular filtration rate &lt;60 mL/min per 1.73 m<sup>2</sup>; <italic toggle="yes">P</italic>=0.059). Interrater agreement was assessed for urine, plasma, and OF samples of 56 patients. For drug detection, Cohen's κ ranged from 0.14 to 1.00 for urine and plasma samples, from −0.14 to 0.87 for urine and OF samples, and from 0.31 to 1.00 for plasma and OF samples (Table <xref rid="jah35138-tbl-0002" ref-type="table">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jah35138-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><title>Example of liquid chromatography coupled to high‐resolution mass spectrometry (LC‐HRMS/MS) chromatograms.</title><p>The figure shows reconstructed <styled-content style="fixed-case" toggle="no">LC</styled-content>‐<styled-content style="fixed-case" toggle="no">HRMS</styled-content>/<styled-content style="fixed-case" toggle="no">MS</styled-content> chromatograms (<styled-content style="fixed-case" toggle="no">BCD</styled-content> protonated molecule; <styled-content style="fixed-case" toggle="no">AE</styled-content>1E2 deprotonated molecule; E3 fragment ion) of analytes in one patient's urine (<bold>A</bold>), plasma (<bold>B</bold>), and oral fluid (<bold>C</bold>).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-7" position="float" orientation="portrait" xlink:href="JAH3-9-e014180-g004.jpg"/></fig><fig fig-type="Figure" xml:lang="en" id="jah35138-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><title>Comparison of detection rates between matrices.</title><p>The figure depicts the detection rates of antihypertensive drugs in urine, plasma, and oral fluids. <sup>†</sup>The number of drugs detected was corrected for single‐pill combinations. *The overall number of drugs detected includes triamterene. As only one patient was prescribed to triamterene, potassium‐sparing diuretics are not explicitly depicted in the figure. <italic toggle="yes">P</italic> values were calculated for the comparison between all matrices (Cochran's Q test) and between‐group comparisons of oral fluid with plasma or urine (McNemar's test). <styled-content style="fixed-case" toggle="no">ACE</styled-content>i indicates angiotensin‐converting enzyme inhibitor; <styled-content style="fixed-case" toggle="no">ARB</styled-content>, angiotensin <styled-content style="fixed-case" toggle="no">II</styled-content> receptor blocker; <styled-content style="fixed-case" toggle="no">BB</styled-content>, β blocker; <styled-content style="fixed-case" toggle="no">CCB</styled-content>, calcium channel blocker; and <styled-content style="fixed-case" toggle="no">MRA</styled-content>, mineralocorticoid receptor antagonist.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" id="nlm-graphic-9" position="float" orientation="portrait" xlink:href="JAH3-9-e014180-g005.jpg"/></fig><table-wrap id="jah35138-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Interrater Reliability for Drug Detection Between Urine, Plasma, and OF Samples</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Antihypertensive Medication</th><th align="left" rowspan="2" valign="top" colspan="1">No. of Prescriptions</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Urine and Plasma</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Urine and OF</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Plasma and OF</th><th align="left" rowspan="2" valign="top" colspan="1">Fleiss’ K (95% CI)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">% Agreement</th><th align="left" valign="top" rowspan="1" colspan="1">κ (95% CI)</th><th align="left" valign="top" rowspan="1" colspan="1">% Agreement</th><th align="left" valign="top" rowspan="1" colspan="1">κ (95% CI)</th><th align="left" valign="top" rowspan="1" colspan="1">% Agreement</th><th align="left" valign="top" rowspan="1" colspan="1">κ (95% CI)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Angiotensin‐converting enzyme inhibitor</td><td align="left" rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">84</td><td align="char" char="(" rowspan="1" colspan="1">0.55 (0.31; 0.79)</td><td align="left" rowspan="1" colspan="1">70</td><td align="left" rowspan="1" colspan="1">
+<xref ref-type="fn" rid="jah35138-note-0006">a</xref>
+</td><td align="left" rowspan="1" colspan="1">86</td><td align="left" rowspan="1" colspan="1">
+<xref ref-type="fn" rid="jah35138-note-0006">a</xref>
+</td><td align="char" char="(" rowspan="1" colspan="1">0.20 (0.05; 0.35)</td></tr><tr><td align="left" rowspan="1" colspan="1">Angiotensin II receptor blocker</td><td align="left" rowspan="1" colspan="1">38</td><td align="left" rowspan="1" colspan="1">73</td><td align="char" char="(" rowspan="1" colspan="1">0.50 (0.19; 0.31)</td><td align="left" rowspan="1" colspan="1">50</td><td align="left" rowspan="1" colspan="1">−0.14 (0.03; 0.26)</td><td align="left" rowspan="1" colspan="1">77</td><td align="left" rowspan="1" colspan="1">0.38 (0.15; 0.61)</td><td align="char" char="(" rowspan="1" colspan="1">0.27 (0.12; 0.42)</td></tr><tr><td align="left" rowspan="1" colspan="1">Calcium channel blocker</td><td align="left" rowspan="1" colspan="1">33</td><td align="left" rowspan="1" colspan="1">88</td><td align="char" char="(" rowspan="1" colspan="1">0.74 (0.57; 0.91)</td><td align="left" rowspan="1" colspan="1">91</td><td align="left" rowspan="1" colspan="1">0.82 (0.67; 0.97)</td><td align="left" rowspan="1" colspan="1">86</td><td align="left" rowspan="1" colspan="1">0.69 (0.49; 0.89)</td><td align="char" char="(" rowspan="1" colspan="1">0.75 (0.60; 0.90)</td></tr><tr><td align="left" rowspan="1" colspan="1">Thiazide</td><td align="left" rowspan="1" colspan="1">30</td><td align="left" rowspan="1" colspan="1">88</td><td align="char" char="(" rowspan="1" colspan="1">0.71 (0.52; 0.90)</td><td align="left" rowspan="1" colspan="1">80</td><td align="left" rowspan="1" colspan="1">0.53 (0.31; 0.75)</td><td align="left" rowspan="1" colspan="1">93</td><td align="left" rowspan="1" colspan="1">0.79 (0.59; 0.98)</td><td align="char" char="(" rowspan="1" colspan="1">0.67 (0.52; 0.82)</td></tr><tr><td align="left" rowspan="1" colspan="1">Loop diuretic</td><td align="left" rowspan="1" colspan="1">17</td><td align="left" rowspan="1" colspan="1">95</td><td align="char" char="(" rowspan="1" colspan="1">0.86 (0.71; 1.01)</td><td align="left" rowspan="1" colspan="1">80</td><td align="left" rowspan="1" colspan="1">0.39 (0.14; 0.65)</td><td align="left" rowspan="1" colspan="1">86</td><td align="left" rowspan="1" colspan="1">0.49 (0.21; 0.77)</td><td align="char" char="(" rowspan="1" colspan="1">0.59 (0.44; 0.75)</td></tr><tr><td align="left" rowspan="1" colspan="1">Triamterene</td><td align="left" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">100</td><td align="char" char="(" rowspan="1" colspan="1">1.00 (1.00; 1.00)</td><td align="left" rowspan="1" colspan="1">98</td><td align="left" rowspan="1" colspan="1">
+<xref ref-type="fn" rid="jah35138-note-0006">a</xref>
+</td><td align="left" rowspan="1" colspan="1">98</td><td align="left" rowspan="1" colspan="1">
+<xref ref-type="fn" rid="jah35138-note-0006">a</xref>
+</td><td align="char" char="(" rowspan="1" colspan="1">0.49 (0.34; 0.65)</td></tr><tr><td align="left" rowspan="1" colspan="1">β Blocker</td><td align="left" rowspan="1" colspan="1">48</td><td align="left" rowspan="1" colspan="1">96</td><td align="char" char="(" rowspan="1" colspan="1">0.91 (0.79; 1.03)</td><td align="left" rowspan="1" colspan="1">95</td><td align="left" rowspan="1" colspan="1">0.87 (0.72; 1.01)</td><td align="left" rowspan="1" colspan="1">98</td><td align="left" rowspan="1" colspan="1">0.96 (0.87; 1.04)</td><td align="char" char="(" rowspan="1" colspan="1">0.91 (0.76; 1.06)</td></tr><tr><td align="left" rowspan="1" colspan="1">Mineralocorticoid receptor antagonist</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">82</td><td align="char" char="(" rowspan="1" colspan="1">0.14 (−0.11; 0.38)</td><td align="left" rowspan="1" colspan="1">82</td><td align="left" rowspan="1" colspan="1">0.14 (−0.11; 0.38)</td><td align="left" rowspan="1" colspan="1">100</td><td align="left" rowspan="1" colspan="1">1.00 (1.00; 1.00)</td><td align="char" char="(" rowspan="1" colspan="1">0.17 (0.02; 0.32)</td></tr><tr><td align="left" rowspan="1" colspan="1">α‐1 Blocker</td><td align="left" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">98</td><td align="char" char="(" rowspan="1" colspan="1">0.66 (0.04; 1.28)</td><td align="left" rowspan="1" colspan="1">98</td><td align="left" rowspan="1" colspan="1">
+<xref ref-type="fn" rid="jah35138-note-0006">a</xref>
+</td><td align="left" rowspan="1" colspan="1">96</td><td align="left" rowspan="1" colspan="1">
+<xref ref-type="fn" rid="jah35138-note-0006">a</xref>
+</td><td align="char" char="(" rowspan="1" colspan="1">0.32 (0.17; 0.47)</td></tr><tr><td align="left" rowspan="1" colspan="1">α‐2 Agonist</td><td align="left" rowspan="1" colspan="1">14</td><td align="left" rowspan="1" colspan="1">82</td><td align="char" char="(" rowspan="1" colspan="1">0.14 (−0.11; 0.38)</td><td align="left" rowspan="1" colspan="1">89</td><td align="left" rowspan="1" colspan="1">0.57 (0.28; 0.87)</td><td align="left" rowspan="1" colspan="1">93</td><td align="left" rowspan="1" colspan="1">0.31 (−0.16; 0.79)</td><td align="char" char="(" rowspan="1" colspan="1">0.35 (0.19; 0.50)</td></tr></tbody></table><table-wrap-foot id="jah35138-ntgp-0003"><fn id="jah35138-note-0005"><p>OF indicates oral fluid.</p></fn><fn id="jah35138-note-0006"><label>a</label><p>Computation of Cohen's κ not possible, as the drug was not detected in OF.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="jah35138-sec-0018"><title>Discussion</title><p>Detection rates by LC‐HRMS/MS for all substance classes but α‐1 blockers were highest in the urine. Antihypertensive drugs without acidic components had similar detection rates in plasma and OF, whereas antihypertensive drugs with acidic functions were poorly detected in OF.</p><p>In this study, 59% of the patients were completely (66% after correcting for single‐pill combinations) adherent to their prescribed antihypertensive medication, whereas 29% (23% after correcting for single‐pill combinations) were partially adherent and 13% (11% after correcting for single‐pill combinations) were nonadherent. The relatively high rate of poor adherence to antihypertensive medication in this study is in line with previous studies using LC‐HRMS/MS urine analysis.<xref rid="jah35138-bib-0018" ref-type="ref">18</xref>, <xref rid="jah35138-bib-0019" ref-type="ref">19</xref>, <xref rid="jah35138-bib-0020" ref-type="ref">20</xref> In hypertension, evidence suggests that nonadherence represents an important problem in routine care. Approximately one third of the hypertensive patients do not initiate a new prescription of antihypertensive drugs,<xref rid="jah35138-bib-0002" ref-type="ref">2</xref> and almost half of the patients who were prescribed an antihypertensive medication become nonadherent within 1 year.<xref rid="jah35138-bib-0016" ref-type="ref">16</xref> Nonadherence to the antihypertensive medication has also been shown to be associated with increased cardiovascular risk.<xref rid="jah35138-bib-0001" ref-type="ref">1</xref>, <xref rid="jah35138-bib-0002" ref-type="ref">2</xref>, <xref rid="jah35138-bib-0003" ref-type="ref">3</xref>, <xref rid="jah35138-bib-0004" ref-type="ref">4</xref>
+</p><p>The 2018 European Society of Cardiology/European Society of Hypertension guidelines for the management of arterial hypertension<xref rid="jah35138-bib-0012" ref-type="ref">12</xref> have put a strong emphasis on evaluating potential nonadherence as a major cause of insufficient blood pressure control and recommend drug monitoring to improve blood pressure control.<xref rid="jah35138-bib-0012" ref-type="ref">12</xref>, <xref rid="jah35138-bib-0021" ref-type="ref">21</xref>, <xref rid="jah35138-bib-0022" ref-type="ref">22</xref> Although toxicological analyses using LC‐HRMS/MS of urine and plasma are regarded as the most accurate method for the assessment of adherence, their use in clinical practice is often limited. There is an unmet need to develop an easily applicable, reliable method of drug detection, which can be implemented in the management of patients with hypertension without requiring invasive sampling and sophisticated instrumentation on site.<xref rid="jah35138-bib-0010" ref-type="ref">10</xref>, <xref rid="jah35138-bib-0011" ref-type="ref">11</xref>, <xref rid="jah35138-bib-0012" ref-type="ref">12</xref> In this context, we evaluated the feasibility of adherence monitoring of antihypertensive drugs in OF when compared with urine and plasma. In contrast to venous plasma, sampling of OF is performed noninvasively and, therefore, neither requires medical personnel nor causes discomfort, which may negatively impact patient compliance, especially in the setting of clinical studies. Unlike plasma sampling, OF collection can also easily be done in an “out‐of‐office” setting as the shipping and processing of OF samples does not require special capabilities.</p><p>Using LC‐HRMS/MS analysis, most antihypertensive drugs were detected in urine, followed by plasma and OF. Most drugs appear to enter the saliva by passive diffusion. The saliva/plasma ratio of drugs depends, among others, on the concentration gradient of the free (unbound) fraction of the drug in the blood, the pH of OF and blood, the protein binding of the drug, and its acid dissociation constant.<xref rid="jah35138-bib-0023" ref-type="ref">23</xref>, <xref rid="jah35138-bib-0024" ref-type="ref">24</xref> For acidic and highly protein‐binding drugs, the equilibrium generally favors blood.<xref rid="jah35138-bib-0025" ref-type="ref">25</xref>, <xref rid="jah35138-bib-0026" ref-type="ref">26</xref> Consequently, detection rates for angiotensin‐converting enzyme inhibitors, angiotensin II receptor blockers, and thiazides were low in OF and high in plasma and urine. For calcium channel blockers, however, detection rates in OF were comparable to urine (<italic toggle="yes">P</italic>=0.063) and plasma (<italic toggle="yes">P</italic>=0.727). As single‐pill combinations comprising a renin‐angiotensin system inhibitor in conjunction with a calcium channel blocker or diuretic are recommended as initial therapy in most patients, the detection of one of these substances may be sufficient enough to screen for adherence. Drug adherence monitoring in urine alone may cause false‐positive results because the washout period for several antihypertensive drugs in urine lasts longer than multiple half‐lives, usually &gt;24 hours.<xref rid="jah35138-bib-0010" ref-type="ref">10</xref> Less is known on the detection time of drugs in OF. However, for drugs of abuse, detection times are far shorter in OF than in urine.<xref rid="jah35138-bib-0027" ref-type="ref">27</xref> Urine may still be the matrix of choice for qualitative analyses, such as adherence screening in general, but an additional LC‐HRMS/MS analysis of plasma or OF should be considered to assess recent drug intake. Although the present study analyzed the feasibility of qualitative analyses of antihypertensive drugs, recent data indicate that OF can be used for quantitative analyses similarly.<xref rid="jah35138-bib-0028" ref-type="ref">28</xref>, <xref rid="jah35138-bib-0029" ref-type="ref">29</xref>
+</p><p>The OF is secreted by 3 pairs of salivary glands (parotid, submandibular, and sublingual glands), the gingival cervicular sulci, and hundreds of minor accessory salivary glands.<xref rid="jah35138-bib-0030" ref-type="ref">30</xref> The sympathetic and parasympathetic nervous system regulates salivation and follows a circadian pattern.<xref rid="jah35138-bib-0030" ref-type="ref">30</xref> A higher salivatory flow rate is associated with higher bicarbonate concentrations and pH.<xref rid="jah35138-bib-0024" ref-type="ref">24</xref>, <xref rid="jah35138-bib-0030" ref-type="ref">30</xref>, <xref rid="jah35138-bib-0031" ref-type="ref">31</xref> The pH of OF highly depends on physiological conditions and can range from 6.0 to 8.0.<xref rid="jah35138-bib-0024" ref-type="ref">24</xref>, <xref rid="jah35138-bib-0030" ref-type="ref">30</xref>, <xref rid="jah35138-bib-0031" ref-type="ref">31</xref> Under resting conditions, the pH of OFs is stabilized at ≈7.0.<xref rid="jah35138-bib-0030" ref-type="ref">30</xref> When collecting OF, several factors have to be considered, which may influence salivation. These include the patient's diet, emotional states (eg, hunger and anxiety), medications (antidepressants), and medical conditions (cystic fibrosis, diabetes mellitus, and end‐stage renal disease).<xref rid="jah35138-bib-0025" ref-type="ref">25</xref>, <xref rid="jah35138-bib-0030" ref-type="ref">30</xref>, <xref rid="jah35138-bib-0032" ref-type="ref">32</xref>, <xref rid="jah35138-bib-0033" ref-type="ref">33</xref> Therefore, sampling of OF should be performed under standardized conditions (at the same daytime and during rest). However, herein, there was no difference in detection rates for patients with or without diabetes mellitus (<italic toggle="yes">P</italic>=0.626), chronic kidney disease (<italic toggle="yes">P</italic>=0.059), or drugs known to influence salivation (<italic toggle="yes">P</italic>&gt;0.651).</p></sec><sec id="jah35138-sec-0019"><title>Limitations</title><p>This study was primarily designed to assess the feasibility of adherence monitoring of antihypertensive drugs in OF as a noninvasively accessible matrix. In this feasibility study, the sample size was relatively low and was not based on a priori power calculation. The results should be regarded as hypothesis generating and need validation in larger cohorts. As with all cross‐sectional studies, measuring drug adherence at one occasion only incompletely reflects the dynamic process of a patient's drug‐taking behavior, which encompasses the initiation of a newly prescribed drug, the implementation of the dosing regimen, and its discontinuation.<xref rid="jah35138-bib-0034" ref-type="ref">34</xref> The study protocol did not require directly observed drug intake. As most drugs enter saliva by passive diffusion, the saliva/plasma ratio does not only depend on the concentration gradient but also the pH of OF, which can be influenced by drugs, medical conditions, and the autonomic nervous system.</p></sec><sec id="jah35138-sec-0020"><title>Conclusions</title><p>Although more drugs were detectable in urine, this study showed the feasibility of detecting several antihypertensive drugs or their compounds in OF. Therefore, drug adherence testing in OF should further be investigated as a noninvasive approach, not requiring medical personnel, and can be directly observed without interfering with the patient's privacy.</p></sec><sec id="jah35138-sec-0021"><title>Perspectives</title><p>Assessing drug adherence in hypertensive patients might reduce the number of unnecessarily prescribed drugs. In patients with apparently treatment‐resistant hypertension, therapeutic drug monitoring was shown to improve blood pressure control. LC‐HRMS/MS of urine and plasma is regarded as the most accurate method for the assessment of adherence. However, there is an unmet need for an easily applicable, cost‐effective, and reliable method to evaluate drug adherence, with no need for invasive sampling at best. Drug adherence testing in OF is feasible for several antihypertensive drugs and should further be investigated as a noninvasive approach, which can also easily be done in an “out‐of‐office” setting.</p></sec><sec id="jah35138-sec-0022"><title>Sources of Funding</title><p>We acknowledge support by the Deutsche Forschungsgemeinschaft (German Research Foundation) and Saarland University within the funding program Open Access Publishing.</p></sec><sec id="jah35138-sec-0023"><title>Disclosures</title><p>Dr Ewen received scientific support and speaker honoraria from Medtronic and ReCor Medical. Dr Kindermann received speaker honoraria and consultancy fees from Astra, Fresenius, Boehringer Ingelheim, Novartis, Pfizer, Vifor, and Bayer. Dr Böhm received support from Abbott, Amgen, Astra‐Zeneca, Bayer, Boehringer‐Ingelheim, Bristol‐Myers Squibb, Deutsche Forschungsgemeinschaft (DFG, SFB TRR219, S‐01, M‐03, M‐05), Medtronic, Novartis, ReCor Medical, Servier, and Vifor. Dr Mahfoud is supported by Deutsche Gesellschaft für Kardiologie and Deutsche Forschungsgemeinschaft (SFB TRR219) and has received scientific support and speaker honoraria from Bayer, Boehringer Ingelheim, Medtronic, and ReCor Medical. The remaining authors have no disclosures to report.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="jah35138-sup-0001" position="float" orientation="portrait"><caption><p>
+<bold>Tables S1–S3</bold>
+</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="JAH3-9-e014180-s001.pdf" position="float" orientation="portrait"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ref-list content-type="cited-references" id="jah35138-bibl-0001"><title>References</title><ref id="jah35138-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah35138-cit-0001">
+<string-name name-style="western">
+<surname>Ho</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bryson</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rumsfeld</surname>
+<given-names>JS</given-names>
+</string-name>. <article-title>Medication adherence: its importance in cardiovascular outcomes</article-title>. <source xml:lang="en">Circulation</source>. <year>2009</year>;<volume>119</volume>:<fpage>3028</fpage>–<lpage>3035</lpage>.<pub-id pub-id-type="pmid">19528344</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCULATIONAHA.108.768986</pub-id></mixed-citation></ref><ref id="jah35138-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah35138-cit-0002">
+<string-name name-style="western">
+<surname>Fischer</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stedman</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lii</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vogeli</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shrank</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brookhart</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weissman</surname>
+<given-names>JS</given-names>
+</string-name>. <article-title>Primary medication non‐adherence: analysis of 195,930 electronic prescriptions</article-title>. <source xml:lang="en">J Gen Intern Med</source>. <year>2010</year>;<volume>25</volume>:<fpage>284</fpage>–<lpage>290</lpage>.<pub-id pub-id-type="pmid">20131023</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11606-010-1253-9</pub-id><pub-id pub-id-type="pmcid">PMC2842539</pub-id></mixed-citation></ref><ref id="jah35138-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah35138-cit-0003">
+<string-name name-style="western">
+<surname>Corrao</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Parodi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nicotra</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zambon</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Merlino</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cesana</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mancia</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Better compliance to antihypertensive medications reduces cardiovascular risk</article-title>. <source xml:lang="en">J Hypertens</source>. <year>2011</year>;<volume>29</volume>:<fpage>610</fpage>–<lpage>618</lpage>.<pub-id pub-id-type="pmid">21157368</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/HJH.0b013e328342ca97</pub-id></mixed-citation></ref><ref id="jah35138-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah35138-cit-0004">
+<string-name name-style="western">
+<surname>Gehi</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ali</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Na</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Whooley</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Self‐reported medication adherence and cardiovascular events in patients with stable coronary heart disease: the heart and soul study</article-title>. <source xml:lang="en">Arch Intern Med</source>. <year>2007</year>;<volume>167</volume>:<fpage>1798</fpage>–<lpage>1803</lpage>.<pub-id pub-id-type="pmid">17846400</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/archinte.167.16.1798</pub-id><pub-id pub-id-type="pmcid">PMC2789555</pub-id></mixed-citation></ref><ref id="jah35138-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah35138-cit-0005">
+<string-name name-style="western">
+<surname>Böhm</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lloyd</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ford</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Borer</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ewen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Laufs</surname>
+<given-names>U</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mahfoud</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lopez‐Sendon</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ponikowski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tavazzi</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>Non‐adherence to ivabradine and placebo and outcomes in chronic heart failure: an analysis from SHIFT</article-title>. <source xml:lang="en">Eur J Heart Fail</source>. <year>2016</year>;<volume>18</volume>:<fpage>672</fpage>–<lpage>683</lpage>.<pub-id pub-id-type="pmid">26952245</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ejhf.493</pub-id></mixed-citation></ref><ref id="jah35138-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah35138-cit-0006">
+<string-name name-style="western">
+<surname>Patel</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gupta</surname>
+<given-names>PKC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>White</surname>
+<given-names>CMJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stanley</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tomaszewski</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Screening for non‐adherence to antihypertensive treatment as a part of the diagnostic pathway to renal denervation</article-title>. <source xml:lang="en">J Hum Hypertens</source>. <year>2016</year>;<volume>30</volume>:<fpage>368</fpage>–<lpage>373</lpage>.<pub-id pub-id-type="pmid">26446393</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/jhh.2015.103</pub-id><pub-id pub-id-type="pmcid">PMC4856755</pub-id></mixed-citation></ref><ref id="jah35138-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah35138-cit-0007">
+<string-name name-style="western">
+<surname>Berra</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Azizi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Capron</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Høieggen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rabbia</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kjeldsen</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Staessen</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wallemacq</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Persu</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Evaluation of adherence should become an integral part of assessment of patients with apparently treatment‐resistant hypertension</article-title>. <source xml:lang="en">Hypertension</source>. <year>2016</year>;<volume>68</volume>:<fpage>297</fpage>–<lpage>306</lpage>.<pub-id pub-id-type="pmid">27296995</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/HYPERTENSIONAHA.116.07464</pub-id></mixed-citation></ref><ref id="jah35138-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah35138-cit-0008">
+<string-name name-style="western">
+<surname>Senst</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Achusim</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Genest</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cosentino</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ford</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Little</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raybon</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bates</surname>
+<given-names>DW</given-names>
+</string-name>. <article-title>Practical approach to determining costs and frequency of adverse drug events in a health care network</article-title>. <source xml:lang="en">Am J Heal Pharm</source>. <year>2001</year>;<volume>58</volume>:<fpage>1126</fpage>–<lpage>1132</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/ajhp/58.12.1126</pub-id><pub-id pub-id-type="pmid">11449856</pub-id></mixed-citation></ref><ref id="jah35138-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah35138-cit-0009">
+<string-name name-style="western">
+<surname>Osterberg</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blaschke</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Drug therapy: adherence to medication</article-title>. <source xml:lang="en">N Engl J Med</source>. <year>2005</year>;<volume>353</volume>:<fpage>487</fpage>–<lpage>497</lpage>.<pub-id pub-id-type="pmid">16079372</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMra050100</pub-id></mixed-citation></ref><ref id="jah35138-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah35138-cit-0010">
+<string-name name-style="western">
+<surname>Gupta</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horne</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buchanan</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Williams</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tomaszewski</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>How to screen for non‐adherence to antihypertensive therapy</article-title>. <source xml:lang="en">Curr Hypertens Rep</source>. <year>2016</year>;<volume>18</volume>:<fpage>89</fpage>.<pub-id pub-id-type="pmid">27889904</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11906-016-0697-7</pub-id><pub-id pub-id-type="pmcid">PMC5124437</pub-id></mixed-citation></ref><ref id="jah35138-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah35138-cit-0011">
+<string-name name-style="western">
+<surname>Burnier</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Managing “resistance”: is adherence a target for treatment</article-title>. <source xml:lang="en">Curr Opin Nephrol Hypertens</source>. <year>2014</year>;<volume>23</volume>:<fpage>439</fpage>–<lpage>443</lpage>.<pub-id pub-id-type="pmid">25036746</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/MNH.0000000000000045</pub-id></mixed-citation></ref><ref id="jah35138-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah35138-cit-0012">
+<string-name name-style="western">
+<surname>Williams</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mancia</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Spiering</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Agabiti Rosei</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Azizi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burnier</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Clement</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Coca</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Simone</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dominiczak</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>2018 ESC/ESH guidelines for the management of arterial hypertension</article-title>. <source xml:lang="en">Eur Heart J</source>. <year>2018</year>;<volume>39</volume>:<fpage>3021</fpage>–<lpage>3104</lpage>.<pub-id pub-id-type="pmid">30165516</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurheartj/ehy339</pub-id></mixed-citation></ref><ref id="jah35138-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah35138-cit-0013">
+<string-name name-style="western">
+<surname>O'Neal</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crouch</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rollins</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fatah</surname>
+<given-names>AA</given-names>
+</string-name>. <article-title>The effects of collection methods on oral fluid codeine concentrations</article-title>. <source xml:lang="en">J Anal Toxicol</source>. <year>2000</year>;<volume>24</volume>:<fpage>536</fpage>–<lpage>542</lpage>.<pub-id pub-id-type="pmid">11043656</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jat/24.7.536</pub-id></mixed-citation></ref><ref id="jah35138-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah35138-cit-0014">
+<string-name name-style="western">
+<surname>Richter</surname>
+<given-names>LHJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jacobs</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mahfoud</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kindermann</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Böhm</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meyer</surname>
+<given-names>MR</given-names>
+</string-name>. <article-title>Development and application of a LC‐HRMS/MS method for analyzing antihypertensive drugs in oral fluid for monitoring drug adherence</article-title>. <source xml:lang="en">Anal Chim Acta</source>. <year>2019</year>;<volume>1070</volume>:<fpage>69</fpage>–<lpage>79</lpage>.<pub-id pub-id-type="pmid">31103169</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.aca.2019.04.026</pub-id></mixed-citation></ref><ref id="jah35138-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jah35138-cit-0015">
+<string-name name-style="western">
+<surname>Garcia Garcia</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vrijens</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vranckx</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McFadden</surname>
+<given-names>EP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Costa</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pieper</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vock</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Es</surname>
+<given-names>G‐A</given-names>
+</string-name>, et al. <article-title>Standardized classification and framework for reporting, interpreting, and analysing medication non‐adherence in cardiovascular clinical trials: a consensus report from the Non‐adherence Academic Research Consortium (NARC)</article-title>. <source xml:lang="en">Eur Heart J</source>. <year>2018</year>;<volume>40</volume>:<fpage>2070</fpage>–<lpage>2085</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/eurheartj/ehy377</pub-id><pub-id pub-id-type="pmcid">PMC7963139</pub-id><pub-id pub-id-type="pmid">29992264</pub-id></mixed-citation></ref><ref id="jah35138-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jah35138-cit-0016">
+<string-name name-style="western">
+<surname>Vrijens</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vincze</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kristanto</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Urquhart</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burnier</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Adherence to prescribed antihypertensive drug treatments: longitudinal study of electronically compiled dosing histories</article-title>. <source xml:lang="en">BMJ</source>. <year>2008</year>;<volume>336</volume>:<fpage>1114</fpage>–<lpage>1117</lpage>.<pub-id pub-id-type="pmid">18480115</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.39553.670231.25</pub-id><pub-id pub-id-type="pmcid">PMC2386633</pub-id></mixed-citation></ref><ref id="jah35138-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jah35138-cit-0017">
+<string-name name-style="western">
+<surname>Landis</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Koch</surname>
+<given-names>GG</given-names>
+</string-name>. <article-title>The measurement of observer agreement for categorical data</article-title>. <source xml:lang="en">Biometrics</source>. <year>1977</year>;<volume>33</volume>:<fpage>159</fpage>.<pub-id pub-id-type="pmid">843571</pub-id></mixed-citation></ref><ref id="jah35138-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jah35138-cit-0018">
+<string-name name-style="western">
+<surname>Jung</surname>
+<given-names>O</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gechter</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wunder</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paulke</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bartel</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Geiger</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Toennes</surname>
+<given-names>SW</given-names>
+</string-name>. <article-title>Resistant hypertension? Assessment of adherence by toxicological urine analysis</article-title>. <source xml:lang="en">J Hypertens</source>. <year>2013</year>;<volume>31</volume>:<fpage>766</fpage>–<lpage>774</lpage>.<pub-id pub-id-type="pmid">23337469</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/HJH.0b013e32835e2286</pub-id></mixed-citation></ref><ref id="jah35138-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jah35138-cit-0019">
+<string-name name-style="western">
+<surname>Tomaszewski</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>White</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Masca</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Damani</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hepworth</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Samani</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gupta</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Madira</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stanley</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>High rates of non‐adherence to antihypertensive treatment revealed by high‐performance liquid chromatography‐tandem mass spectrometry (HP LC‐MS/MS) urine analysis</article-title>. <source xml:lang="en">Heart</source>. <year>2014</year>;<volume>100</volume>:<fpage>855</fpage>–<lpage>861</lpage>.<pub-id pub-id-type="pmid">24694797</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/heartjnl-2013-305063</pub-id><pub-id pub-id-type="pmcid">PMC4033175</pub-id></mixed-citation></ref><ref id="jah35138-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jah35138-cit-0020">
+<string-name name-style="western">
+<surname>Azizi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pereira</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hamdidouche</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gosse</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Monge</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bobrie</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Delsart</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mounier‐Véhier</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Courand</surname>
+<given-names>P‐Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lantelme</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Adherence to antihypertensive treatment and the blood pressure–lowering effects of renal denervation in the renal denervation for hypertension (DENERHTN) trial</article-title>. <source xml:lang="en">Circulation</source>. <year>2016</year>;<volume>134</volume>:<fpage>847</fpage>–<lpage>857</lpage>.<pub-id pub-id-type="pmid">27576780</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/CIRCULATIONAHA.116.022922</pub-id></mixed-citation></ref><ref id="jah35138-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jah35138-cit-0021">
+<string-name name-style="western">
+<surname>Gupta</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arshad</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Poulter</surname>
+<given-names>NR</given-names>
+</string-name>. <article-title>Compliance, safety, and effectiveness of fixed‐dose combinations of antihypertensive agents: a meta‐analysis</article-title>. <source xml:lang="en">Hypertension</source>. <year>2010</year>;<volume>55</volume>:<fpage>399</fpage>–<lpage>407</lpage>.<pub-id pub-id-type="pmid">20026768</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1161/HYPERTENSIONAHA.109.139816</pub-id></mixed-citation></ref><ref id="jah35138-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jah35138-cit-0022">
+<string-name name-style="western">
+<surname>Brinker</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pandey</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ayers</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Price</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Raheja</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Arbique</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Das</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Halm</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaplan</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vongpatanasin</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Therapeutic drug monitoring facilitates blood pressure control in resistant hypertension</article-title>. <source xml:lang="en">J Am Coll Cardiol</source>. <year>2014</year>;<volume>63</volume>:<fpage>834</fpage>–<lpage>835</lpage>.<pub-id pub-id-type="pmid">24315901</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jacc.2013.10.067</pub-id><pub-id pub-id-type="pmcid">PMC4374549</pub-id></mixed-citation></ref><ref id="jah35138-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jah35138-cit-0023">
+<string-name name-style="western">
+<surname>Matin</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wan</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Karam</surname>
+<given-names>JH</given-names>
+</string-name>. <article-title>Pharmacokinetics of tolbutamide: prediction by concentration in saliva</article-title>. <source xml:lang="en">Clin Pharmacol Ther</source>. <year>1974</year>;<volume>16</volume>:<fpage>1052</fpage>–<lpage>1058</lpage>.<pub-id pub-id-type="pmid">4433472</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt19741661052</pub-id></mixed-citation></ref><ref id="jah35138-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jah35138-cit-0024">
+<string-name name-style="western">
+<surname>Hold</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>de Boer</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zuidema</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maes</surname>
+<given-names>RAA</given-names>
+</string-name>. <article-title>Saliva as an analytical tool in toxicology</article-title>. <source xml:lang="en">Int J Drug Test</source>. <year>1999</year>;<volume>1</volume>:<fpage>16</fpage>–<lpage>23</lpage>.</mixed-citation></ref><ref id="jah35138-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jah35138-cit-0025">
+<string-name name-style="western">
+<surname>Drummer</surname>
+<given-names>OH</given-names>
+</string-name>. <article-title>Drug testing in oral fluid</article-title>. <source xml:lang="en">Clin Biochem Rev</source>. <year>2006</year>;<volume>27</volume>:<fpage>147</fpage>–<lpage>159</lpage>.<pub-id pub-id-type="pmid">17268583</pub-id><pub-id pub-id-type="pmcid">PMC1579288</pub-id></mixed-citation></ref><ref id="jah35138-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jah35138-cit-0026">
+<string-name name-style="western">
+<surname>Crouch</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Oral fluid collection: the neglected variable in oral fluid testing</article-title>. <source xml:lang="en">Forensic Sci Int</source>. <year>2005</year>;<volume>150</volume>:<fpage>165</fpage>–<lpage>173</lpage>.<pub-id pub-id-type="pmid">15899565</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.forsciint.2005.02.028</pub-id></mixed-citation></ref><ref id="jah35138-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jah35138-cit-0027">
+<string-name name-style="western">
+<surname>Verstraete</surname>
+<given-names>AG</given-names>
+</string-name>. <article-title>Detection times of drugs of abuse in blood, urine, and oral fluid</article-title>. <source xml:lang="en">Ther Drug Monit</source>. <year>2004</year>;<volume>26</volume>:<fpage>200</fpage>–<lpage>205</lpage>.<pub-id pub-id-type="pmid">15228165</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/00007691-200404000-00020</pub-id></mixed-citation></ref><ref id="jah35138-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jah35138-cit-0028">
+<string-name name-style="western">
+<surname>Meyer</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosenborg</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stenberg</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beck</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>First report on the pharmacokinetics of tramadol and O‐desmethyltramadol in exhaled breath compared to plasma and oral fluid after a single oral dose</article-title>. <source xml:lang="en">Biochem Pharmacol</source>. <year>2015</year>;<volume>98</volume>:<fpage>502</fpage>–<lpage>510</lpage>.<pub-id pub-id-type="pmid">26388171</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bcp.2015.09.008</pub-id></mixed-citation></ref><ref id="jah35138-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jah35138-cit-0029">
+<string-name name-style="western">
+<surname>Caspar</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Meyer</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maurer</surname>
+<given-names>HH</given-names>
+</string-name>. <article-title>Blood plasma level determination using an automated LC‐MS n screening system and electronically stored calibrations exemplified for 22 drugs and two active metabolites often requested in emergency toxicology</article-title>. <source xml:lang="en">Drug Test Anal</source>. <year>2018</year>;<fpage>1</fpage>–<lpage>10</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/dta.2466</pub-id><pub-id pub-id-type="pmid">30011134</pub-id></mixed-citation></ref><ref id="jah35138-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jah35138-cit-0030">
+<string-name name-style="western">
+<surname>Aps</surname>
+<given-names>JKM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martens</surname>
+<given-names>LC</given-names>
+</string-name>. <article-title>Review: the physiology of saliva and transfer of drugs into saliva</article-title>. <source xml:lang="en">Forensic Sci Int</source>. <year>2005</year>;<volume>150</volume>:<fpage>119</fpage>–<lpage>131</lpage>.<pub-id pub-id-type="pmid">15944052</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.forsciint.2004.10.026</pub-id></mixed-citation></ref><ref id="jah35138-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jah35138-cit-0031">
+<string-name name-style="western">
+<surname>O'Neal</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Crouch</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rollins</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fatah</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cheever</surname>
+<given-names>ML</given-names>
+</string-name>. <article-title>Correlation of saliva codeine concentrations with plasma concentrations after oral codeine administration</article-title>. <source xml:lang="en">J Anal Toxicol</source>. <year>1999</year>;<volume>23</volume>:<fpage>452</fpage>–<lpage>459</lpage>.<pub-id pub-id-type="pmid">10517550</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jat/23.6.452</pub-id></mixed-citation></ref><ref id="jah35138-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jah35138-cit-0032">
+<string-name name-style="western">
+<surname>Kho</surname>
+<given-names>H‐S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lee</surname>
+<given-names>S‐W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chung</surname>
+<given-names>S‐C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kim</surname>
+<given-names>Y‐K</given-names>
+</string-name>. <article-title>Oral manifestations and salivary flow rate, pH, and buffer capacity in patients with end‐stage renal disease undergoing hemodialysis</article-title>. <source xml:lang="en">Oral Surg Oral Med Oral Pathol Oral Radiol Endod</source>. <year>1999</year>;<volume>88</volume>:<fpage>316</fpage>–<lpage>319</lpage>.<pub-id pub-id-type="pmid">10503861</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s1079-2104(99)70035-1</pub-id></mixed-citation></ref><ref id="jah35138-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jah35138-cit-0033">
+<string-name name-style="western">
+<surname>Moore</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guggenheimer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Etzel</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weyant</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Orchard</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Type 1 diabetes mellitus, xerostomia, and salivary flow rates</article-title>. <source xml:lang="en">Oral Surg Oral Med Oral Pathol Oral Radiol Endod</source>. <year>2001</year>;<volume>92</volume>:<fpage>281</fpage>–<lpage>291</lpage>.<pub-id pub-id-type="pmid">11552145</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1067/moe.2001.117815</pub-id></mixed-citation></ref><ref id="jah35138-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jah35138-cit-0034">
+<string-name name-style="western">
+<surname>Vrijens</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>De Geest</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hughes</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Przemyslaw</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Demonceau</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruppar</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dobbels</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fargher</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morrison</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lewek</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>A new taxonomy for describing and defining adherence to medications</article-title>. <source xml:lang="en">Br J Clin Pharmacol</source>. <year>2012</year>;<volume>73</volume>:<fpage>691</fpage>–<lpage>705</lpage>.<pub-id pub-id-type="pmid">22486599</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1365-2125.2012.04167.x</pub-id><pub-id pub-id-type="pmcid">PMC3403197</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

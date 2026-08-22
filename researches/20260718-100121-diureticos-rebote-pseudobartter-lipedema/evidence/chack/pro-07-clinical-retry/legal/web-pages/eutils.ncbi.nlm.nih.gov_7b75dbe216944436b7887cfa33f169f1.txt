@@ -1,0 +1,60 @@
+1. Circulation. 2022 May 3;145(18):e895-e1032. doi: 10.1161/CIR.0000000000001063.
+ Epub 2022 Apr 1.
+
+2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure: A Report of the 
+American College of Cardiology/American Heart Association Joint Committee on 
+Clinical Practice Guidelines.
+
+Heidenreich PA(1), Bozkurt B(1), Aguilar D(1), Allen LA(1), Byun JJ(1), Colvin 
+MM(1), Deswal A(2), Drazner MH(1), Dunlay SM(1), Evers LR(1), Fang JC(1), Fedson 
+SE(1), Fonarow GC(3), Hayek SS(1), Hernandez AF(2), Khazanie P(1), Kittleson 
+MM(1), Lee CS(1), Link MS(1), Milano CA(1), Nnacheta LC(1), Sandhu AT(1), 
+Stevenson LW(1), Vardeny O(4), Vest AR(4), Yancy CW(1); ACC/AHA Joint Committee 
+Members.
+
+Collaborators: Beckman JA, O’Gara PT, Al-Khatib SM, Armbruster AL, Birtcher KK, 
+Cigarroa JE, de las Fuentes L, Deswal A, Dixon DL, Fleisher LA, Gentile F, 
+Goldberger ZD, Gorenek B, Haynes N, Hernandez AF, Hlatky MA, Joglar JA, Jones 
+WS, Marine JE, Mark DB, Mukherjee D, Palaniappan LP, Piano MR, Rab T, Spatz ES, 
+Tamis-Holland JE, Wijeysundera DN, Woo YJ.
+
+Author information:
+(1)ACC/AHA Representative.
+(2)ACC/AHA Joint Committee on Clinical Practice Guidelines Liaison.
+(3)ACC/AHA Task Force on Performance Measures Representative.
+(4)HFSA Representative.
+
+Erratum in
+    Circulation. 2022 May 3;145(18):e1033. doi: 10.1161/CIR.0000000000001073.
+    Circulation. 2022 Sep 27;146(13):e185. doi: 10.1161/CIR.0000000000001097.
+    Circulation. 2023 Apr 4;147(14):e674. doi: 10.1161/CIR.0000000000001142.
+
+Comment in
+    Am Fam Physician. 2023 Sep;108(3):315-320.
+
+AIM: The "2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure" 
+replaces the "2013 ACCF/AHA Guideline for the Management of Heart Failure" and 
+the "2017 ACC/AHA/HFSA Focused Update of the 2013 ACCF/AHA Guideline for the 
+Management of Heart Failure." The 2022 guideline is intended to provide 
+patient-centric recommendations for clinicians to prevent, diagnose, and manage 
+patients with heart failure.
+METHODS: A comprehensive literature search was conducted from May 2020 to 
+December 2020, encompassing studies, reviews, and other evidence conducted on 
+human subjects that were published in English from MEDLINE (PubMed), EMBASE, the 
+Cochrane Collaboration, the Agency for Healthcare Research and Quality, and 
+other relevant databases. Additional relevant clinical trials and research 
+studies, published through September 2021, were also considered. This guideline 
+was harmonized with other American Heart Association/American College of 
+Cardiology guidelines published through December 2021. Structure: Heart failure 
+remains a leading cause of morbidity and mortality globally. The 2022 heart 
+failure guideline provides recommendations based on contemporary evidence for 
+the treatment of these patients. The recommendations present an evidence-based 
+approach to managing patients with heart failure, with the intent to improve 
+quality of care and align with patients' interests. Many recommendations from 
+the earlier heart failure guidelines have been updated with new evidence, and 
+new recommendations have been created when supported by published data. Value 
+statements are provided for certain treatments with high-quality published 
+economic analyses.
+
+DOI: 10.1161/CIR.0000000000001063
+PMID: 35363499 [Indexed for MEDLINE]

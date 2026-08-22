@@ -1,0 +1,108 @@
+
+PMID- 36970766
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230710
+LR  - 20250130
+IS  - 1365-2230 (Electronic)
+IS  - 0307-6938 (Linking)
+VI  - 48
+IP  - 7
+DP  - 2023 Jul 7
+TI  - Sodium in the skin: a summary of the physiology and a scoping review of disease 
+      associations.
+PG  - 733-743
+LID - 10.1093/ced/llad080 [doi]
+AB  - A large and growing body of research suggests that the skin plays an important 
+      role in regulating total body sodium, challenging traditional models of sodium 
+      homeostasis that focused exclusively on blood pressure and the kidney. In 
+      addition, skin sodium may help to prevent water loss and facilitate 
+      macrophage-driven antimicrobial host defence, but may also trigger immune 
+      dysregulation via upregulation of proinflammatory markers and downregulation of 
+      anti-inflammatory processes. We performed a systematic search of PubMed for 
+      published literature on skin sodium and disease outcomes and found that skin 
+      sodium concentration is increased in patients with cardiometabolic conditions 
+      including hypertension, diabetes and end-stage renal disease; autoimmune 
+      conditions including multiple sclerosis and systemic sclerosis; and 
+      dermatological conditions including atopic dermatitis, psoriasis and lipoedema. 
+      Several patient characteristics are associated with increased skin sodium 
+      concentration including older age and male sex. Animal evidence suggests that 
+      increased salt intake results in higher skin sodium levels; however, there are 
+      conflicting results from small trials in humans. Additionally, limited data 
+      suggest that pharmaceuticals such as diuretics and sodium-glucose 
+      co-transporter-2 inhibitors approved for diabetes, as well as haemodialysis may 
+      reduce skin sodium levels. In summary, emerging research supports an important 
+      role for skin sodium in physiological processes related to osmoregulation and 
+      immunity. With the advent of new noninvasive magnetic resonance imaging 
+      measurement techniques and continued research on skin sodium, it may emerge as a 
+      marker of immune-mediated disease activity or a potential therapeutic target.
+CI  - (c) The Author(s) 2023. Published by Oxford University Press on behalf of British 
+      Association of Dermatologists. All rights reserved. For permissions, please 
+      e-mail: journals.permissions@oup.com.
+FAU - Chattopadhyay, Aheli
+AU  - Chattopadhyay A
+AUID- ORCID: 0000-0002-3562-6818
+AD  - Department of Dermatology, University of California San Francisco, San Francisco, 
+      CA, USA.
+FAU - Tully, Janell
+AU  - Tully J
+AD  - University of Arizona College of Medicine - Phoenix, Phoenix, AZ, USA.
+FAU - Shan, Judy
+AU  - Shan J
+AD  - Department of Dermatology, University of California San Francisco, San Francisco, 
+      CA, USA.
+FAU - Sheikh, Sidra
+AU  - Sheikh S
+AD  - Kaiser Permanente, Department of Physical Medicine & Rehabilitation, Oakland, CA, 
+      USA.
+FAU - Ohliger, Michael
+AU  - Ohliger M
+AD  - Department of Radiology & Biomedical Imaging, University of California San 
+      Francisco, San Francisco, CA, USA.
+FAU - Gordon, Jeremy W
+AU  - Gordon JW
+AUID- ORCID: 0000-0003-2760-4886
+AD  - Department of Radiology & Biomedical Imaging, University of California San 
+      Francisco, San Francisco, CA, USA.
+FAU - Mauro, Theodora
+AU  - Mauro T
+AD  - Department of Dermatology, University of California San Francisco, San Francisco, 
+      CA, USA.
+AD  - Dermatology Service, Veterans Affairs Health Care System, San Francisco, CA, USA.
+FAU - Abuabara, Katrina
+AU  - Abuabara K
+AD  - Department of Dermatology, University of California San Francisco, San Francisco, 
+      CA, USA.
+LA  - eng
+GR  - LF-OC-21-000665/LEO Foundation/
+GR  - NEA21-ECRG156/National Eczema Association/
+PT  - Journal Article
+PT  - Scoping Review
+PL  - England
+TA  - Clin Exp Dermatol
+JT  - Clinical and experimental dermatology
+JID - 7606847
+RN  - 9NEZ333N27 (Sodium)
+RN  - 0 (Pharmaceutical Preparations)
+SB  - IM
+MH  - Animals
+MH  - Humans
+MH  - Male
+MH  - Sodium
+MH  - Skin
+MH  - *Hypertension
+MH  - *Diabetes Mellitus
+MH  - Pharmaceutical Preparations
+COIS- Conflicts of interest The authors declare they have no conflicts of interest.
+EDAT- 2023/03/28 06:00
+MHDA- 2023/07/10 06:42
+CRDT- 2023/03/27 03:59
+PHST- 2023/01/04 00:00 [received]
+PHST- 2023/02/16 00:00 [revised]
+PHST- 2023/07/10 06:42 [medline]
+PHST- 2023/03/28 06:00 [pubmed]
+PHST- 2023/03/27 03:59 [entrez]
+AID - 7086609 [pii]
+AID - 10.1093/ced/llad080 [doi]
+PST - ppublish
+SO  - Clin Exp Dermatol. 2023 Jul 7;48(7):733-743. doi: 10.1093/ced/llad080.

@@ -1,0 +1,77 @@
+PMID=7952012
+TITLE=Comparison of derivatization procedures for the determination of diuretics in urine by gas chromatography-mass spectrometry.
+JOURNAL=Journal of chromatography. A
+DATE=1994 Oct 14
+DOI=10.1016/S0021-9673(94)89116-8
+ABSTRACT=Three different GC-MS screening procedures, which use different ways of derivatization (methylation), are compared. In the first one, derivatization with iodomethane in acetone and a previous solid-liquid extraction is used; the second one is based on an extractive alkylation method using iodomethane in toluene (liquid-liquid extraction); and the last one is flash methylation by pyrolysis of tetraalkylammonium salts in the injector of the gas chromatograph using trimethylanilinium as the derivatization agent. The speed of the extraction, reproducibility and accuracy have been compared for 20 diuretics including the ones most often used in sports, such as bumetanide, ethacrynic acid, acetazolamide, dichlorphenamide, furosemide, hydroflumethiazide, hydrochlorothiazide and chlorthalidone; they have also been applied to the two uricosuric agents probenecid and benzbromarone.
+---
+PMID=11419748
+TITLE=Screening, confirmation and quantification of diuretics in urine for doping control analysis by high-performance liquid chromatography-atmospheric pressure ionisation tandem mass spectrometry.
+JOURNAL=Journal of chromatography. B, Biomedical sciences and applications
+DATE=2001 Jun 05
+DOI=10.1016/s0378-4347(01)00058-5
+ABSTRACT=A sensitive, selective, robust and fast method to identify 32 diuretics and masking agents in urine is described. The analytical procedure is reduced to a single XAD extraction step for sample preparation, followed by reversed-phase liquid chromatography in combination with atmospheric pressure ionisation/tandem mass spectrometry. This technique is, after minor modifications, suitable for screening analyses and confirmation of identity as well as quantitation of diuretics. Considerations relating to the stability and metabolism of the compounds are given if relevant for routine screening analyses.
+---
+PMID=17367107
+TITLE=A new method for screening and determination of diuretics by on-line CE-ESI-MS.
+JOURNAL=Electrophoresis
+DATE=2007 May
+DOI=10.1002/elps.200600543
+ABSTRACT=A rapid, high-resolution and effective new method for analyzing 12 diuretics by CE-ESI-MS was established in this paper. Ten diuretics (except two neutral compounds) could be fast separated by CE with a DAD at 214 nm with a 20 kV voltage within 6 min, using a 50 microm id and 48.5 cm effective length uncoated fused-silica capillary in a 40 mM ammonium formate buffer (pH 9.40). CE was coupled to the mass spectrometer applying an orthogonal electrospray interface with a triple-tube sheath liquid arrangement. The sheath liquid was composed of isopropanol-water (1:1 v/v) containing 30 mM acetic acid with a flow rate of 4 microL/min. Mass spectrum was employed in the positive mode and both full scan mode and SIM scan mode were utilized. All 12 diuretics could be detected and confirmed by MS in a single analysis. Under optimized conditions, LODs for the 12 diuretics were in the range of 0.13-2.7 micromol/L at an S/N of 3, and the correlation coefficients R(2 )were between 0.9921 and 0.9978. The RDSs (n = 5) of the method was 0.24-0.94 % for migration times and 1.6-8.8 % for peak areas. The recoveries of spiked samples of 12 diuretics were between 72.4% and 118%. The real urine samples were injected directly for analysis, with only simple filtration through a 0.22 microm membrane filter in order to remove solid particles, which may cause capillary blockage. Based on the migration times and characteristic ions, the diuretics in urine samples were detected successfully. This CE-ESI-MS method for analyzing diuretics will hopefully be applied to doping control.
+---
+PMID=18585128
+TITLE=Liquid-phase microextration combined with liquid chromatography-electrospray tandem mass spectrometry for detecting diuretics in urine.
+JOURNAL=Talanta
+DATE=2008 May 15
+DOI=10.1016/j.talanta.2007.11.058
+ABSTRACT=Trace amounts of diuretics were determined in human urine by hollow fiber liquid-phase microextraction (LPME) combined with liquid chromatography-electrospray ionization-tandem mass spectrometry (LC-ESI-MS/MS) in this study. Chromatography was performed on a C(8) reversed-phase column. A 25 microL n-octanol was used to extract analytes in urine. Extraction was optimized using a pH 2 solution spiked with 0.15 g/mL NaCl for 40 min at 40 degrees C with 1010 rpm stirring. The limits of detection of diuretics in urine were 0.3-6.8 ng/mL, and linearity range was 1-1000 ng/mL. Recoveries of spiked 50 ng/mL diuretics were 97.7-102.5%. The intra-day precision and inter-day precision were 3-18% and 4-21%, respectively. The diuretics concentration profiles in patient urine were also determined. The results of this study reveal the adequacy of LPME-LC-MS/MS method for analyzing diuretics in urine and quantification limits exceed World Anti-Doping Agency requirements.
+---
+PMID=18585233
+TITLE=An online field-amplification sample stacking method for the determination of diuretics in urine by capillary electrophoresis-amperometric detection.
+JOURNAL=Talanta
+DATE=2008 Jun 30
+DOI=10.1016/j.talanta.2008.01.064
+ABSTRACT=A simple and sensitive online field-amplification sample stacking (FASS) pre-enrichment method following by capillary electrophoresis with amperometric detection has been developed for the determination of diuretics, such as indapamide (IDP), hydrochlorothiazide (HCT) and bumetanide (BMTN) in urine. Under the optimum conditions, it was found that the low concentration buffer solution could be used as the diluents for simultaneous field-amplification injection of three diuretics after electrokinetically injecting a short water plug (15 kV, 3 s). Three analytes could be well separated within 10 min in an uncoated fused-silica capillary with H(3)BO(3)-Na(2)B(4)O(7) (BB) buffer solution (pH 8.98). The detection limits (S/N=3) were 9.0 ng/mL for IDP, 20 ng/mL for HCT and 1.5 ng/mL for BMTN, respectively. The detection limits of three diuretics were much lower by FASS than that by conventional sample injection, of which the detection limits were 340, 890 and 330 ng/mL for IDP, HCT and BMTN, respectively. Especially, for bumetanide the detection limit was 220-time lower by FASS. The linear ranges of three diuretics were all over three orders of magnitude. The proposed method has been successfully applied to analyze the diuretics in human urine samples without off-column sample pre-concentration.
+---
+PMID=22080905
+TITLE=Liquid chromatography-tandem mass spectrometry screening method for the simultaneous detection of stimulants and diuretics in urine.
+JOURNAL=Journal of analytical toxicology
+DATE=2011 Nov
+DOI=10.1093/anatox/35.9.665
+ABSTRACT=This study established a simultaneous screening method based on solid-phase extraction and liquid chromatography-tandem mass spectrometry (LC-MS-MS) for the detection of 23 stimulants and 23 diuretics in human urine. An electrospray ionization source and multiple reaction monitoring were used for data acquisition. All stimulants and diuretics were separated in less than 12.52 min. The limits of detection were in the range of 25-500 ng/mL for stimulants and 25-125 ng/mL for diuretics. To evaluate the performance of this method, urine samples were collected from 1627 athletes in Taiwan, and 7 positive samples were found. This LC-MS-MS method not only meets the minimum required performance limits set by the World Anti-Doping Agency but also provides a fast way to analyze the authentic urine samples in doping control laboratories.
+---
+PMID=30430987
+TITLE=Identification and confirmation of diuretics and masking agents in urine by turbulent flow online solid-phase extraction coupled with liquid chromatography-triple quadrupole mass spectrometry for doping control.
+JOURNAL=Journal of chromatography. A
+DATE=2018 Dec 07
+DOI=10.1016/j.chroma.2018.10.032
+ABSTRACT=Diuretics can be misused to force diuresis to achieve weight loss or to mask the intake of a prohibited substance and are therefore prohibited by the World Anti-Doping Agency (WADA). For similar reasons other masking agents (vaptans, probenecid, etc.) are also prohibited by the WADA. The currently employed methods to detect diuretics in urine use extraction or dilute-and-shoot, combined with 1D- liquid chromatography (LC) high resolution mass spectrometry (MS) or LC-triple quadrupole MS. Dilute-and-shoot methods save time and work, but these methods encounter some problems (e.g., peak drift and matrix effect). Therefore, a 2D-LC-MS/MS application was developed, validated and evaluated as an alternative. The effect of a turbulent flow rate was studied by loading samples under different conditions and the turbulent flow rate was found to be more effective in removing matrix interferences. A correlation with the specific gravity was observed. A turbulent flow online solid phase extraction (SPE) method combined with LC-MS/MS for the detection of 50 diuretics and masking agents was developed and validated for identification purposes. This method combines the advantages of dilute-and-shoot while solving the issues of matrix effect and retention time shift. Furthermore, the presented method is compliant with WADA's identification criteria and can hence be used for screening and/or confirmation.
+---
+PMID=32384182
+TITLE=Determination of diuretics in human urine using HPLC coupled with magnetic solid-phase extraction based on a metal-organic framework.
+JOURNAL=Biomedical chromatography : BMC
+DATE=2020 Sep
+DOI=10.1002/bmc.4876
+ABSTRACT=Magnetic solid-phase extraction (MSPE) employing a metal-organic framework (Fe3 O4 @UiO-66-OH) combined with high-performance liquid chromatography was developed for the determination of trace diuretics in urine. The structure and properties of Fe3 O4 @UiO-66-OH were investigated using X-ray diffraction, infrared spectroscopy, scanning electron microscopy and vibrating sample magnetometry. Magnetic solid-phase extraction conditions, such as adsorbent amount and solution pH, were optimized using response surface methodology. Under the optimal conditions, the method resulted in excellent linearity with a high correlation coefficient (r > 0.99), satisfactory intraday repeatability (1.78-2.99%), low limits of detection (0.08-0.23 ng/ml), and good recoveries in urine samples (between 93.5 and 103%). Fe3 O4 @UiO-66-OH based on MSPE is a novel pretreatment technique for the detection of trace diuretics in urine.
+---
+PMID=33618643
+TITLE=Solvent Bar Microextraction Combined with HPLC-DAD for Simultaneous Determination of Diuretics in Human Urine and Plasma Samples.
+JOURNAL=Current pharmaceutical biotechnology
+DATE=2022
+DOI=10.2174/1389201022666210222111943
+ABSTRACT=A simple and powerful microextraction procedure, the solvent bar microextraction (SBME), was used for the simultaneous determination of two diuretics, furosemide and spironolactone in human urine and plasma samples, using high-performance liquid chromatography coupled with diode array detection (HPLC-DAD). The appropriate amount (2 μL) of 1-octanol as an organic solvent confined within 2.5 cm of a porous hollow fiber micro-tube, sealed at both ends was used for this procedure. The conditions for the SBME were optimized in water and the analytical performance was examined in spiked human urine and plasma samples. The optimized method exhibited good linearity (R2> 0.997) over the studied range of higher than 33 to 104μg L-1 for furosemide and spironolactone in urine and plasma samples, illustrating a satisfactory precision level with RSD values between 2.1% and 9.1%. The values of the limits of detection were found to be in the range of 6.39 to 9.67μg L-1, and extraction recovery ˃ 58.8% for both diuretics in urine and plasma samples. The applicability and effectiveness of the proposed method for the determination of furosemide and spironolactone in patient urine samples were tested. In comparison with reference methods, the attained results demonstrated that SBME combined with HPLC-DAD was proved to be simple, inexpensive, and promising analytical technology for the simultaneous determination of furosemide and spironolactone in urine and plasma samples.
+---
+PMID=36602104
+TITLE=Potential of desorption electrospray ionization and paper spray ionization with high-resolution mass spectrometry for the screening of sports doping agents in urine.
+JOURNAL=Analytical methods : advancing methods and applications
+DATE=2023 Jan 26
+DOI=10.1039/d2ay01687g
+ABSTRACT=In this work, desorption electrospray ionization and paper spray ionization both with high-resolution mass spectrometry (DESI-HRMS and PSI-HRMS) were explored for the fast and direct analysis of stimulants and diuretics in urine samples. The analysis was performed at a resolution of 70 000 FWHM (m/z 200) using a quadrupole-Orbitrap mass spectrometer in full scan acquisition mode, detecting stimulants and diuretics in positive and negative ion modes, respectively. The most critical parameters affecting the desorption and ionization efficiencies of compounds were optimized, paying particular attention to the optimization of the spray solvent for PSI-HRMS analysis and to the selection of the DESI sample substrate. For stimulants, the PSI-HRMS method performed better than DESI-HRMS, allowing the direct analysis of raw urine samples with better signal-to-noise ratios than DESI. However, results obtained for diuretics were not as satisfactory as we expected. The PSI-HRMS method was applied to the screening of 52 stimulants for doping control purposes, providing satisfactory detectability for most of them at the Minimum Reporting Level (MRL) in less than 2 minutes for each single analysis. Despite the advantages offered by the PSI-HRMS method, in this study is also included a discussion on the limitations observed because of the presence of interference for some compounds.
+---
+PMID=12474217
+TITLE=Screening for 18 diuretics and probenecid in doping analysis by liquid chromatography-tandem mass spectrometry.
+JOURNAL=Biomedical chromatography : BMC
+DATE=2002 Dec
+DOI=10.1002/bmc.201
+ABSTRACT=A fast and selective liquid chromatography-tandem mass spectrometric (LC/MS/MS) method for the screening of 18 diuretics and probenecid in human urine is presented. Analyses were performed on a LCQ-Deca instrument equipped with ESI-interface using scan by scan polarity changing. All diuretics and probenecid were separated in less than 20 min after liquid-liquid extraction with ethyl acetate. The LOD for all substances was 100 ng/mL or better. The method was applied to detect diuretics after the oral administration of several drugs including hydrochlorothiazide, bumetanide, spironolactone, furosemide, amiloride, triamterene, chlortalidone and epithizide. All diuretics could be detected for periods up to 96 h after the intake of therapeutic amounts.
+---

@@ -1,0 +1,10 @@
+Database: PubMed ESearch via NCBI E-utilities
+Run date: 2026-08-22 (system date)
+Scope: direct title/abstract/all-field Boolean searches; retmax=100; no result restriction by date.
+
+pseudo_bartter	count=0	query=(lipedema OR lipoedema) AND ("pseudo-Bartter" OR pseudo-Bartter)	PMIDs=
+hypokalemia	count=1	query=(lipedema OR lipoedema) AND (hypokalemia OR hypokalaemia)	PMIDs=39476528
+electrolyte	count=5	query=(lipedema OR lipoedema) AND (electrolyte OR electrolytes)	PMIDs=42377498,39476528,37530741,30620977,16324854
+diuretic	count=2	query=(lipedema OR lipoedema) AND (diuretic OR diuretics OR furosemide OR thiazide OR spironolactone OR amiloride)	PMIDs=36970766,15006533
+metabolic_alkalosis	count=0	query=(lipedema OR lipoedema) AND ("metabolic alkalosis" OR hypochloremic OR hypochloraemic)	PMIDs=
+urine_chloride	count=0	query=(lipedema OR lipoedema) AND (urine OR urinary) AND (chloride OR potassium)	PMIDs=

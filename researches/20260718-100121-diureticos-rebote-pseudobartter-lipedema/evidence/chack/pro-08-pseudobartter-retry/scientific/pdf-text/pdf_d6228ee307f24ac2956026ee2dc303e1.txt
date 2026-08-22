@@ -1,0 +1,696 @@
+Journal of Clinical InvestigationVol. 45, No. 4, 1966
+Renal Gluconeogenesis in Acidosis, Alkalosis, and Potassium
+Deficiency: Its Possible Role in Regulation of Renal
+Ammonia Production *
+A. DAVID GOODMAN,t ROBERT E. Fuisz,t AND GEORGE F. CAHILL, JR.§
+(From the Elliott Joslin Research Laboratory, the Department of Medicine, Harvard Medical
+School, the Peter Bent Brigham Hospital, and the Diabetes Foundation, Inc., Boston,
+Mass., and the Subdepartment of Endocrinology and Metabolism, Department
+of Medicine, Albany Medical College, Albany, N. Y.)
+In man, dog, and rat the induction of metabolic
+acidosis leads to an increase in renal production
+and excretion of ammonia (2-4) that appears to
+derive primarily from glutamine (4-6). Studies
+of the renal cortex of the acidotic rat reveal an in-
+crease in the activity of glutaminase I, the enzyme
+that deamidates glutamine to glutamate (Figure
+1), and it is assumed that this may contribute to
+the increase in ammoniagenesis from glutamine
+(2).
+The mechanism by which acidosis evokes an in-
+crease in renal glutaminase I activity in the rat is
+not known. If acidosis directly stimulates the syn-
+thesis or activation of glutaminase I it would be
+expected that the intracellular concentration of glu-
+tamate would be increased. Actually, the gluta-
+mate content of the renal cortex of acidotic rats is
+decreased (7, 8).
+The concurrence in acidotic rats of decreased
+renal glutamate concentration and increased renal
+glutaminase I activity is of much interest. In a
+variety of biologic systems there exists a negative
+feedback between the intracellular concentration
+of an immediate or distant product of an enzymatic
+* Submitted for publication August 5, 1965; accepted
+December 27, 1965.
+Presented in part before the Eastern Section of the
+American Federation for Clinical Research, December
+1964, and published in abstract form (1).
+Supported in part by U. S. Public Health Service
+grants T1 AM 5077-09, AM 09584-01, and AM 09232-01,
+and the Hartford Foundation.
+t This work was done in part during tenure as a Clini-
+cal Trainee in Endocrinology, National Institutes of
+Health. Present address: Albany Medical College, Al-
+bany, N. Y.
+t Special Fellow, National Institutes of Health.
+§ Investigator, Howard Hughes Medical Institute.
+Address requests for reprints to Dr. George F. Cahill,
+Jr., 170 Pilgrim Rd., Boston, Mass. 02215.
+reaction, and either the rate of synthesis of the en-
+zyme or the specific activity of the enzyme (9).
+It has been suggested that such a relationship may
+exist between glutamate and renal glutaminase I,
+and that the reduction in renal glutamate concen-
+tration in acidosis either stimulates the synthesis
+or enhances the specific activity of glutaminase I
+(7,8).
+As the fall in cortical glutamate content in aci-
+dosis may play a crucial role in the increase in re-
+nal ammoniagenesis, the mechanism of this fall is
+of interest. Renal cortex is known to have a re-
+markable capacity to produce glucose from gluta-
+mate and its products (10), and hence the possi-
+bility has been investigated that acidosis may
+decrease cortical glutamate by accelerating its con-
+version to glucose. In the studies to be described,
+it was found that renal cortical slices taken from
+rats with metabolic acidosis have an increased ca-
+pacity to convert glutamate and a-ketoglutarate
+(a-KG) to glucose, and that in alkali-fed rats the
+cortical gluconeogenic capacity is decreased.
+Since renal glutaminase I and urinary ammonium
+excretion are known to be increased in potassium
+deficiency (11, 12), it was of interest to find that
+cortical tissue from potassium-depleted rats has an
+increased ability to convert glutamate and a-KG
+to glucose.
+These findings are consistent with the hypothe-
+sis that in metabolic acidosis and potassium de-
+pletion, the increase in cortical glutaminase I and
+ammonia production is mediated by a decrease in
+intracellular glutamate due to an increase in the
+rate of conversion of glutamate to glucose. Fur-
+thermore, the increased renal glutamine transami-
+nase activity in acidotic rats and in potassium de-
+ficient rats (12) may result from a decrease in
+a-KG-the secondary product of the transaminase
+612
+
+RENAL GLUCONEOGENESIS AND AMMONIA PRODUCTION
+°K-KETO
+GLUTARAMATE
+.,N
+(
+GLUTAMINE o0-KEI
+GLUCOSE
+A
+FRUCTOSE 1, 6 DIPHOSPHATE
+PHOSPHOENOL
+PYRUVATE
+-wt / PYRUVATE
+ACETYL-CoA
+oe
+OXALOACETATE CITRATE
+II
+TO-GLUTARATE
+"I
+__ _ _~~~~
+GLUTAMATE
+FIG. 1. SCHEMATIC DIAGRAM OF RELATION OF RENAL GLUTAMINE METABOLISM TO
+GLUCONEOGENESIS.
+reaction-as a consequence of the enhanced con-
+version of a-KG to glucose.
+Methods
+Sprague-Dawley male rats ' weighing 250 to 350 g
+were used in all experiments. For experiments requiring
+adrenalectomized rats, bilateral adrenalectomy was per-
+formed under ether anesthesia 4 days before initiation of
+the experimental protocol.
+Acid-feeding protocol. A group of rats was deprived
+of solid food at the start of the experiment and given
+isotonic saline ad libitum. Half of the group were tube
+fed twice daily 10 ml of a 20% dextrose solution containing
+300 mM NH4CI. The other half were tube fed in the
+same manner a 20% dextrose solution devoid of NH4Cl.
+After two days of tube feeding the animals were sacri-
+ficed, and the gluconeogenic capacity of their renal cor-
+tical tissue was determined in a manner to be described.
+To eliminate adrenal glucocorticoid secretion as a
+variable, we applied a similar protocol to a group of
+adrenalectomized rats. The feeding solutions were modi-
+fied in that half of the rats received a 20%o dextrose solu-tion containing 130 mM NH4Cl, whereas the other half
+received the same solution devoid of NH4Cl. At the
+time of sacrifice, blood was collected from some of these
+1Holtzman Laboratories, Madison, Wis.
+rats by decapitation, and the serum C02 content was
+found to be 17.2 ± 1.5 mmoles per L (n =5) in the
+NH4CI-fed group, and 25.1 +0.8 mmoles per L (n =4)in the control group.
+To dissociate the acidifying effect of NH4Cl adminis-
+tration from the effect of NH4C1 per se, we made a groupof adrenalectomized rats acidotic by tube feeding a
+20%o dextrose solution containing 150 mM NH4Cl and
+150 mM NaCl, whereas the control group received a
+20% dextrose solution containing 150 mM NH4Cl and
+150 mM NaHCOs.
+To determine whether the administration of NH4Cl
+would affect the renal gluconeogenic capacity in as little
+as 12 hours, we performed the following study. Half
+of a group of adrenalectomized animals were tube fed
+10 ml of a 20% dextrose solution containing 150 mM
+NaCl and 150 mM NH4C1, and half were tube fed the
+same volume of a 20% dextrose solution containing 150
+mM NaCl but devoid of NH4Cl. The animals were sac-
+rificed 12 hours after the single feeding for studies of re-
+nal gluconeogenesis. In another experiment, the same
+protocol was followed except that the animals were sac-
+rificed 6 hours after the feeding.
+Alkali-feeding protocol. A group of rats was deprivedof solid food at the start of the experiment. Half were
+tube fed twice daily 10 ml of a 20%yo dextrose solution
+containing 450 mM NaHCOs and allowed to drink ad
+libitum a solution containing 75 mM NaHCO, and 75 mM
+613
+
+A. D. GOODMAN, R. E. FUISZ, AND G. F. CAHILL, JR.
+NaCl. The other half were tube fed a 20% dextrose
+solution containing 450 mM NaCl and given isotonic sa-
+line ad libitum. After 2 days of tube feeding the ani-
+mals were sacrificed and studies of renal gluconeogenesis
+were performed.
+A similar protocol wasapplied to a group of adrenalec-
+tomized rats. The tube-feeding solutions were modified,
+in that half of the animals received a 20% dextrose solu-
+tion containing 300 mM NaHCO3, whereas the other
+half received a 20% dextrose solution containing 300 mM
+NaCl.
+Potassiumt depletion protocol. In studying the effect
+of potassium deficiency on renal gluconeogenesis, a pro-
+tocol for producing potassium depletion was employed
+which ensured that at the end of the study both potas-
+sium-depleted and control animals would have had iden-
+tical nutritional intakes. This was deemed important be-
+cause alteration in carbohydrate intake is known to have
+a profound effect on renal glucose production (10).
+A group of rats was placed on a low potassium diet.2
+Isotonic saline was allowed ad libitum from the initiation
+of the synthetic diet until the time of sacrifice. During
+the first 9 days the animals were given daily subcutaneous
+injections of 1 mgof deoxycorticosterone acetate in 0.4 ml
+sesame oil. On the twelfth day they were deprived of the
+synthetic diet, and half were tube fed twice daily 10 ml
+of a 20% dextrose solution containing 200 mM KC1,
+whereas the other half were fed in the same manner a
+20%o dextrose solution devoid of KCl. After 3 days of
+tube feeding, both the potassium-repleted and the potas-
+sium-depleted rats were sacrificed, and renal gluconeo-
+genesis was studied.
+A similar protocol was employed in a second study,
+with the modification that on the ninth day of the study
+all of the rats were bilaterally adrenalectomized under
+ether anesthesia.
+In vitro studies of renal cortical gluconeogenic capacity.
+On completion of the various tube-feeding regimens, the
+rats were rapidly decapitated, the kidneys removed, and
+renal cortical slices made with a Stadie-Riggs micro-
+tome (13). Several 150- to 200-mg portions of sliced cor-
+tex from each animal were rinsed in isotonic saline at
+room temperature for a few minutes. One portion of
+slices from each animal was placed in a 50-ml flask con-
+taining 10 ml of modified Krebs-Ringer medium without
+added substrate, and the other portions were put in 50-ml
+flasks containing 10 ml of the same medium to which in-
+dividual gluconeogenic substrates had been added in a
+10 mM concentration. The electrolyte composition of the
+substrate-free medium was Na, 145 mEq; K, 4.5 mEq;
+Ca, 2.6 mEq; Mg, 1.2 mEq; Cl, 126 mEq; HCO3, 24
+mEq; H2PO4, 1.2 mmoles per L; and S04, 1.2 mEq; it
+was equilibrated with 95% 02-5% C02 before use and
+the resultant pH was 7.35 to 7.45. Glutamic acid was
+added as monosodium glutamate, and a-ketoglutaric and
+oxaloacetic acids were modified before addition to the
+2 "Low potassium and sodium diet" of Nutritional Bio-
+chemicals Corp., Cleveland, Ohio, to which NaCl, 170
+mmoles per kg of diet, was added.
+media by titrating solutions of these acids to pH 7.40
+with NaHCO3 (the pH determinations being made after
+elimination of H2C05 by bubbling with nitrogen). After
+flushing of the gas phase of the flasks with 95% 02- 5%
+C02, the flasks were incubated for 90 minutes at 370 C in
+an Eberbach metabolic shaker at 100 oscillations per
+minute.
+After incubation, the tissue and media were separated
+by centrifugation, and the tissue was dried to constant
+weight by heating at 950 C for 24 hours. The media
+were deproteinized by the zinc sulfate-barium hydroxide
+method of Nelson (14), and glucose concentrations de-
+termined by the glucose oxidase technique (15). Glucose
+production in each flask was calculated as micromoles
+glucose produced per gram dry weight of tissue in 90
+minutes. The production of glucose from a particular
+substrate was calculated for each animal by subtracting
+the glucose production of the animal's cortical slices in-
+cubated in substrate free medium from the glucose pro-
+duced by its slices incubated in the presence of the
+substrate.
+Changes in the glycogen content of the slices during
+incubation were not taken into account in the determina-
+tion of glucose production. In preliminary studies cor-
+tical glycogen was determined by the method of Good,
+Kramer, and Somogyi (16), with the modification that
+the glucose derived from the glycogen was measured by
+the glucose oxidase technique (15). It was found that
+the glycogen content of the slices was very small (less
+than 2.5 /Amoles per g dry wt) immediately before incu-
+bation, and that it was not significantly different at the
+end of incubation in either media with substrate or media
+without substrate.
+Changes in the glucose content of the slices during in-
+cubation were also not taken into account. In preliminary
+studies cortical glucose was determined by homogenizing
+slices of cortex in 2% perchloric acid and measuring the
+glucose in the supernatant by the glucose oxidase tech-
+nique (15). It was found that the glucose content of the
+slices was extremely small (less than 0.5 jsmole per g
+dry wt) immediately before incubation, and that it was
+not significantly altered after incubation in either media
+with substrate or media without substrate.
+TABLE 1
+Effect oj NH4Cl feeding of normal rats on the gluconeogenic
+capacity of renal cortex in vitro*
+Glucose production Per cent
+Substratet Control NH4Cl-fed change p
+jgmoleslg dry wt/90
+minutes 4 SD
+None 19 ± 3 23 5 3 +21 <0.05
+Glutamine 89 :t 16 156 i23 +75 <0.001
+Glutamate 91 + 18 140 -+ 35 +54 <0.001
+a-KG 133 4 22 219 a 33 +65 <0.001
+* Renal cortex of seven NH4Cl-fed and sevencontrol-fed animals was
+studied.t Concentration = 10 mmoles per L. a-KG = a-ketoglutarate.
+614
+
+RENAL GLUCONEOGENESIS AND AMMONIA PRODUCTION
+TABLE 1I
+Effect of NH4Cl feeding of adrenalectomized rats on the
+gluconeogenic capacity of renal cortex in vitro*
+Glucose production Per centSubstratet Control NH4Cl-fed change p
+,pmokes/g dry wt/90minutes ±SD
+None 18 + 5 24 ± 8 +33 >0.05
+Glutamine 104 4 18 205 +27 +96 <0.001
+Glutamate 119 +32 188 ±31 +58 <0.001
+a-KG 175 i39 289 + 50 +65 <0.001
+* Renal cortex of seven NH4Cl-fed and seven control-fed animals wasstudied.
+t Concentration = 10 mmoles per L.
+Results
+Acid-feeding studies. Renal cortical slices from
+normal rats fed NH4Cl for 2 days produced sig-
+nificantly more glucose from glutamine, glutamate,
+and a-KG than did slices from normal rats not fed
+NH4Cl (Table I). Slices from adrenalectomized
+rats fed NH4Cl for 2 days also had an increased
+capacity to produce glucose from these substrates
+(Table II). In similar studies of renal cortex
+from NH4Cl-fed adrenalectomized rats, glucose
+production from oxalacetate increased, but there
+was no significant increase in glucose production
+from glycerol or fructose (Table III).
+Cortical slices from a large group of normal rats
+fed NH4Cl for 2 days were compared with slices
+from an equal number of normal rats that had not
+received NH4Cl, with regard to their capacity for
+glucose production when incubated in the absence
+of exogenous substrate. In 27 animals fed NH4Cl,
+mean cortical glucose production was 24 + 6
+Ftmoles per gdry wt tissue per 90 minutes, whereas
+in 27 control-fed animals it was 18 ± 4 (p <
+TABLE III
+Effect of NH4Cl feeding of adrenalectomized rats on thecapacity of the renal cortex to produce glucose fromoxalacetate, fructose, and glycerol in vitro*
+Glucose production Per centSubstratet Control NHiCl-fed change p
+jsmoles/g dry wu/90minutes ±SD
+Oxalacetate 95 ± 14 172 ±25 +81 <0.001
+Fructose 425 ± 70 429 ±- 29 + 1 >0.10
+Glycerol 53 ± 6 50 4 13 - 6 >0.10
+* Renal cortex of seven NH4Cl-fed and seven control-fed animals wasstudied.
+t Concentration = 10 mmoles per L.
+TABLE IV
+A comparison of the effect of NH4Cl-NaHCOsfeeding and ofNH4CI-NaCl feeding in adrenalectomized animals on
+the gluconeogenic capacity of renal cortex in vitro*
+Glucose production
+NHiCl- NH4C1- Per centSubstratet NaHCO-fed NaCl-fed change p
+pmoles/g dry w1/90minutes ± SD
+None 16 ± 4 24 +12 +50 <0.01
+Glutamine 102 ± 14 149 ± 28 +46 <0.001
+Glutamate 97 ± 27 140 ± 17 +44 <0.001
+a-KG 125 ± 20 161 ±t 26 +29 <0.01
+* Renal cortex of nine rats fed NH4CI-NaHCOs and nine fed NH4CI-NaCl wasstudied.
+t Concentration = 10 mmoles per L.
+0.001). In a similar study in adrenalectomized
+rats, mean cortical glucose production in 44
+NH4Cl-fed animals was 20 ± 5, whereas in 46
+control-fed animals it was 16 + 5 (p <0.001).Renal cortex from 13 adrenalectomized rats
+that were sacrificed 12 hours after a single feed-
+ing of 1.5 mmoles NH4Cl was found to produce
+37% more glucose from glutamine (p < 0.01) and
+23% more glucose from oxalacetate (p <0.01)
+than did cortex from an equal number of control
+rats; gluconeogenesis from other substrates was
+not studied. No significant increase in gluconeo-genesis from glutamine and oxalacetate was ob-
+servable when adrenalectomized animals were sac-
+rificed 6 hours after a single feeding of 1.5 mmoles
+NH4CI.
+Renal cortex from adrenalectomized rats that
+werefed NH4Cl and an equimolar amount of NaCl
+for 2 days was found to produce more glucose
+from glutamine, glutamate, and a-KG than did
+cortex from adrenalectomized rats fed the same
+amount of NH4C1 and an equimolar amount of
+NaHCO, (Table IV).
+TABLE V
+Effect of NaHCO3feeding of normal rats on the gluconeogeniccapacity of renal cortex in vitro*
+Glucose production Per cent
+Substratet Control NaHCOs-fed change p
+pAmoles/g dry wt/90minutes ± SD
+None 19 ± 2 19 ± 3 0
+Glutamine 74 ± 11 45 ± 21 -39 <0.02
+Glutamate 66 4 13 36 ±17 -45 <0.01
+a-KG 98 ± 39 55 ± 15 -44 <0.02
+* Renal cortex of seven NaHCO-fed and seven control-fed animals
+wasstudied.
+t Concentration = 10 mmoles per L.
+615
+
+A. D. GOODMAN, R. E. FUISZ, AND G. F. CAHILL, JR.
+TABLE VI
+Effect of NaHCO3 feeding of adrenalectomized rats on the
+gluconeogenic capacity of renal cortex in vitro*
+Glucose production Per centSubstratet Control NaHCOa-fed change p
+umoles/g dry wt/90minutes ±SD
+None 19 2 18 ± 2 - 5 >0.05
+Glutamine 74 ± 9 49 ± 9 -34 <0.001
+Glutamate 123 ±49 63 ± 19 -49 <0.05
+a-KG 154 ± 22 108 ± 15 -30 <0.01
+*Renal cortex of five NaHCOM-fed and seven control-fed animals wasstudied.
+t Concentration = 10 mmoles per L.
+Alkali-feeding studies. Renal cortical slices
+from normal rats fed NaHCO3 for 2 days pro-
+duced significantly less glucose from glutamine,
+glutamate, and a-KG than did slices from normal
+rats not fed NaHCOQ (Table V). Cortex from
+adrenalectomized animals that had been fed
+NaHCOQ for 2 days was also found to have a de-
+creased capacity to produce glucose from these
+substrates (Table VI).
+Potassium deficiency studies. Renal cortex from
+normal rats that were depleted of potassium pro-
+duced significantly more glucose from glutamine,
+glutamate, and a-KG than did cortex from potas-
+sium-repleted normal rats (Table VII). Cortex
+from potassium deficient adrenalectomized rats
+also produced more glucose from these substrates
+than did cortex from potassium-repleted adrenal-
+ectomized rats (Table VIII). In both normal and
+adrenalectomized animals, potassium deficiency
+significantly enhanced the capacity of cortex to
+produce glucose in the absence of exogenous sub-
+strate (Tables VII and VIII).
+TABLE VII
+Effect of potassium deficiency in normal rats on the glucone-
+ogenic capacity of renal cortex in vitro*
+Glucose production-______-- Per centSubstratet K-repleted K-deficient change p)
+jsmoles/g drywt/90minutes ±SD
+None 14 ± 6 22 ± 7 +57 <0.01
+Glutamine 87 ± 28 123 ± 28 +41 <0.01
+Glutamate 96 ± 22 128 ± 30 +33 <0.01
+a-KG 97 ± 16 127 ± 22 +31 <0.001
+*Renal cortex of 14 potassium deficient and 14 potassium-repletedanimals was studied.
+t Concentration = 10 mmoles per L.
+TABLE VIII
+Effect of potassium deficiency in adrenalectomized rats oan
+the gluconeogenic capacity of renal cortex in vitro*
+Glucose production Per cent
+Substratet K-repleted Kdeficient change p
+Amoles/g dry wt/90minutes ± SD
+None 19 i 3 25 Zl: 4 +32 <0.001
+Glutamine 78 :4: 17 110 i29 +41 <0.001
+Glutamate 55 i 10 101 ± 26 +84 <0.001
+a-KG 121 i30 170 ±39 +40 <0.001
+* Renal cortex of 23 potassium deficient and 23 potassium-repletedanimals was studied.
+t Concentration = 10 mmoles per L.
+Discussion
+The present observations indicate that in rats
+the administration of NH4Cl causes an increase in
+the capacity of the renal cortex to produce glucose
+from appropriate exogenous substrate. This in-
+crease is not mediated by enhanced production of
+adrenal glucocorticoid hormone (17), as it is de-
+monstrable in adrenalectomized animals. It ap-
+pears to be due to the acidifying action of NH4Cl
+rather than to a direct effect of this substance on
+the gluconeogenic process, for animals receiving
+NH4Cl and an equimolar amount of NaCl had in-
+creased gluconeogenesis compared with animals
+receiving the same amount of NH4C1 and an equi-
+molar amount of NaHCO,. Consistent with the
+observation that the administration of an acidifying
+agent stimulates gluconeogenesis was the observa-
+tion that the administration of alkali, in the form
+of NaHCO3, suppresses gluconeogenesis.
+Acidosis might enhance cortical production of
+glucose from gluconeogenic substrates, either by
+increasing transport of these substrates into the
+cell, or by directly stimulating the intracellular
+mechanism for converting them to glucose. The
+possibility that the intracellular gluconeogenic
+mechanism is stimulated directly is strongly fa-
+vored by the observation that when cortex from
+NH4Cl-fed rats was incubated in the absence of
+exogenous substrate, it produced more glucose-
+undoubtedly from intracellular metabolites-than
+did slices from control animals. The finding that
+in NHCl-fed animals there is increased renal glu-
+cose production from oxalacetate, as well as from
+glutamine, glutamate, and a-KG, suggests that the
+primary stimulatory effect of acidosis on gluco-
+neogenesis is on a rate-limiting step between ox-
+alacetate and glucose (Figure 1).
+616
+
+RENAL GLUCONEOGENESIS AND AMMONIA PRODUCTION
+The effects of metabolic acidosis and alkalosis
+on cortical gluconeogenesis may well be due to a
+direct influence of the pH of extracellular fluid on
+the cortical' gluconeogenic process. Consistent
+with this hypothesis is the finding that cortical
+slices incubated in Krebs-Ringer medium at pH
+7.1 [HCO3, 12 mEq; and CO2 pressure (Pco2),
+40 mm Hg] produce more glucose from glucose
+precursors than do slices incubated at pH 7.4
+(HCO3, 24 mEq; Pco2, 40 mm Hg), and that
+slices incubated at pH 7.7 (HCO3, 48 mEq; Pco2,
+40 mmHg) produce less glucose than do slices in-
+cubated at pH 7.4 (18).
+Increased cortical conversion of glutamate to
+glucose may be responsible for the decrease in
+cortical glutamate concentration in acidotic ani-
+mals (7, 8). Goldstein and Copenhaver have
+hypothesized that a negative feedback exists be-
+tween renal glutamate and the synthesis of glu-
+taminase I (7), and it is relevant that such a re-
+lationship appears to exist between glutamate and
+glutaminase I in rat retina (19). Furthermore,
+glutamate is an inhibitor of glutaminase I activity
+(20), and the concentration of glutamate in rat
+renal cortex is approximately that required for
+50% inhibition (8) ; consequently, the decrease in
+cortical glutamate in acidosis might well result
+in an increased rate of deamidation of glutamine,
+even in the absence of an increase in the con-
+centration of the enzyme. Accordingly, the ob-
+served increase in cortical conversion of glutamate
+to glucose after acid feeding may constitute the
+first of the series of biochemical events leading to
+increased ammonia production via the glutaminase
+I pathway.
+In acidotic rats there is an increase in cortical
+glutamine transaminase activity (12), which pre-
+sumably contributes to the increase in ammonia-
+genesis (Figure 1). In many biologic systems a
+decrease in the concentration of a distant product
+of an enzymic reaction stimulates an increase in
+the synthesis or in the specific activity of the en-
+zyme (9); it is reasonable to hypothesize that a
+decrease in cortical a-KG (the secondary product
+of the glutamine transaminase reaction) conse-
+quent to increased conversion of a-KG to glucose
+may be the cause of the increased glutamine trans-
+aminase activity in acidosis.
+In potassium deficiency, as in metabolic acidosis,
+urinary ammonium excretion is elevated and the
+cortical activity of glutaminase I and glutamine
+transaminase is increased (11, 12). The finding
+of increased cortical gluconeogenic capacity in po-
+tassium-depleted rats supports the hypothesis that
+the rate of cortical gluconeogenesis may play an
+important role in the regulation of renal ammonia
+production.
+Renal gluconeogenesis may be a significant fac-
+tor in over-all metabolism of carbohydrate in the
+body, for in vivo production of glucose by the
+kidneys is considerable (21, 22). The observa-
+tion that acidosis and potassium depletion enhance
+the capacity of kidney cortex to produce glucose
+in vitro suggests that in these states the renal pro-
+duction of glucose in vivo may be increased. This
+may contribute to the decreased glucose tolerance
+observed in both metabolic acidosis (23) and po-
+tassium deficiency (24).
+It has been observed that metabolic alkalosis de-
+creases renal consumption of a-KG in vivo (25).
+This may be explained by the present finding that
+alkalosis decreased the capacity of the kidney to
+convert a-KG to glucose, for the ability of the
+kidney to dissimilate a-KG is probably contingent
+in part on its capacity to incorporate it into glucose.
+The compounds of the citric acid cycle cannot
+be dissipated through the reactions of this cycle
+per se, for, although with each passage of an inter-
+mediate around the cycle two carbon atoms are re-
+moved as C02, two other carbons are added as ace-
+tate. Consequently, the dissimilation of a-KG in
+the body is probably dependent upon the fact that
+in some tissues the oxalacetate arising from this
+compound can "escape" the cycle by conversion
+to phosphoenolpyruvate (PEP) under the influ-
+ence of PEP carboxykinase (26) (Figure 1).
+Consistent with this concept is the fact that the
+only tissues known to extract significant quanti-
+ties of a-KG from blood are those that contain
+PEP carboxykinase, namely kidney and liver (26,
+27). The PEP formed in these organs from oxal-
+acetate can either be converted to acetate and oxi-
+dized by the citric acid cycle, or converted to glu-
+cose, which can then be metabolized by glycolytic
+tissue such as muscle and brain. The renal con-
+version of a-KG to glucose is probably consider-
+able, since the renal uptake of oxygen is much less
+than would be expected if all the a-KG extracted
+by the kidney were oxidized to CO2 and water
+(28).
+617
+
+A. D. GOODMAN, R. E. FUISZ, AND G. F. CAHILL, JR.
+Summary
+Renal cortical slices from rats fed NH4C1 have
+an increased capacity to produce glucose from glu-
+tamine, glutamate, and a-ketoglutarate (a-KG),
+and slices from NaHCO3-fed rats have a decreased
+capacity to produce glucose from these substrates.
+Cortex from potassium-depleted rats manifests in-
+creased gluconeogenesis from these compounds.
+The stimulatory effect of acidosis and potassium
+depletion on renal gluconeogenic capacity can be
+demonstrated in adrenalectomized rats, and is
+therefore not mediated by increased adrenal glu-
+cocorticoid secretion.
+The increased renal formation of glucose from
+glutamate and a-KG in acidosis and potassium
+depletion is intimately related to the increase in
+renal ammonia production observed in these states.
+The hypothesis is presented that enhanced con-
+version of glutamate and a-KG to glucose causes
+a decrease in the intracellular concentration of
+these metabolites, and that this decrease causes
+accelerated synthesis or activation of glutaminase
+I and glutamine transaminase, with a consequent
+increase in ammonia production from glutamine.
+The present findings may be relevant to the di-
+minished glucose tolerance in metabolic acidosis
+and potassium depletion and to the decrease in
+renal extraction of a-KG in alkalosis.
+Acknowledgments
+We gratefully acknowledge the invaluable technical as-
+sistance of Miss Judith Flewelling of Boston and Miss
+Elizabeth Sheldon of Albany.
+References
+1. Goodman, A. D., R. E. Fuisz, and G. F. Cahill, Jr.
+Role of renal gluconeogenesis in regulation of re-
+nal ammonia production. Clin. Res. 1964, 12,
+469.
+2. Leonard, E., and J. Orloff. Regulation of ammonia
+excretion in the rat. Amer. J. Physiol. 1955, 182,
+131.
+3. Pitts, R., J. DeHaas, and J. Klein. Relation of re-
+nal amino and amide nitrogen extraction to am-
+monia production. Amer. J. Physiol. 1963, 204,
+187.
+4. Owen, E., and R. R. Robinson. Amino acid extrac-
+tion and ammonia metabolism by the human kidney
+during the prolonged administration of ammonium
+chloride. J. clin. Invest. 1963, 42, 263.
+5. Shalhoub, R., W. Webber, S. Glabman, M. Canessa-
+Fischer, J. Klein, J. DeHaas, and R. Pitts. Ex-
+traction of amino acids from and their addition to
+renal blood plasma. Amer. J. Physiol. 1963, 204,181.
+6. Davies, B. M. A., and J. Yudkin. Studies in bio-
+chemical adaptation. The origin of urinary am-
+monia as indicated by the effect of chronic aci-
+dosis and alkalosis on some renal enzymes in the
+rat. Biochem. J. 1952, 52, 407.
+7. Goldstein, L., and J. H. Copenhaver, Jr. Relation
+of glutaminase I activity to glutamic acid con-
+centration in the rat kidney. Amer. J. Physiol.1960, 198, 227.
+8. Goldstein, L., and J. M. Schooler. Relation of re-
+nal glutamate concentration to acid-base balance
+and urinary ammonia production. Fed. Proc. 1965,24, 582.
+9. Moyed, H. S., and H. E. Umbarger. Regulation of
+biosynthetic pathways. Physiol. Rev. 1962, 42,444.
+10. Krebs, H. A., D. A. H. Bennett, P. De Gasquet, T.
+Gascoyne, and T. Yoshida. Renal gluconeogene-sis. The effect of diet on the gluconeogenic ca-
+pacity of rat-kidney-cortex slices. Biochem. J.1963, 86, 22.
+11. Iacobellis, M., E. Muntwyler, and G. E. Griffin. En-
+zyme concentration changes in the kidneys of
+protein- and/or potassium-deficient rats. Amer. J.Physiol. 1954, 178, 477.
+12. Goldstein, L. Relation of renal glutamine trans-
+aminase-w-amidase activity to ammonia excretion
+in the rat. Nature (Lond.) 1964, 201, 1229.
+13. Stadie, W. C., and B. C. Riggs. Microtome for the
+preparation of tissue slices for metabolic studies
+of surviving tissues in vitro. J. biol. Chem. 1944,154, 687.
+14. Nelson, N. A photometric adaptation of the So-
+mogyi method for the determination of glucose.J. biol. Chem. 1944, 153, 375.
+15. Huggett, A. St. G., and D. A. Nixon. Use of glu-
+cose oxidase, peroxidase, and o-dianisidine in de-
+termination of blood and urinary glucose. Lancet
+1957, 2, 368.
+16. Good, C. A., H. Kramer, and M. Somogyi. The de-
+termination of glycogen. J. biol. Chem. 1933, 100,485.
+17. Landau, B. Gluconeogenesis and pyruvate metabo-
+lism in rat kidney, in vitro. Endocrinology 1960,67, 744.
+18. Fuisz, R. E., A. D. Goodman, D. E. Kamm, G. F.
+Cahill, Jr., and A. Marble. Metabolic implica-tions of renal gluconeogenesis in rate control of
+ammonia synthesis (abstract). J. clin. Invest.
+1965, 44, 1049.
+19. Freedman, J., and V. Potts. Repression of glutami-
+nase I in the rat retina by administration of so-
+dium-L-glutamate. Invest. Ophthal. 1963, 2, 252.
+20. Klingman, J., and P. Handler. Partial purificationand properties of renal glutaminase. J. biol. Chem.
+1958, 232, 369.
+618
+
+RENAL GLUCONEOGENESIS AND AMMONIA PRODUCTION
+21. Dzuirik, R., B. Krajci-Lazary, and T. R. Niederland.
+Glucose metabolism in rat kidney: influence of
+insulin and adrenaline. J. Physiol. (Lond.) 1963,
+168, 782.
+22. McCann, W., and J. R. Jude. The synthesis of glu-
+cose by the kidney. Bull. Johns Hopk. Hosp.
+1958, 103, 77.
+23. Mackler, B., H. Lichtenstein, and G. M. Guest. Ef-
+fects of ammonium chloride acidosis on glucose
+tolerance in dogs. Amer. J. Physiol. 1952, 168,
+126.
+24. Sagild, U., V. Andersen, and P. G. Andreasen. Glu-
+cose tolerance and insulin responsiveness in ex-
+perimental potassium depletion. Acta med. scand.
+1961, 169, 243.
+25. Cohen, J. J., and E. Wittman. Renal utilization and
+excretion of a-ketoglutarate in the dog: effect of
+alkalosis. Amer. J. Physiol. 1963, 204, 795.
+26. Utter, M. F. The role of C02 fixation in carbohy-
+drate utilization and synthesis. Ann. N. Y. Acad.
+Sci. 1958, 72, 451.
+27. Selleck, B. H., and J. J. Cohen. Specific localization
+of a-ketoglutarate uptake to dog kidney and liver
+in wivo. Amer. J. Physiol. 1965, 208, 24.
+28. Cohen, J. J. High respiratory quotient of dog kid-
+ney in vizvo. Amer. J. Physiol. 1960, 199, 560.
+619

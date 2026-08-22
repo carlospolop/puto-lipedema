@@ -1,0 +1,351 @@
+
+PMID- 37114397
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240313
+LR  - 20241031
+IS  - 1130-0108 (Print)
+IS  - 1130-0108 (Linking)
+VI  - 116
+IP  - 3
+DP  - 2024 Mar
+TI  - Torsade de pointes secondary to long QT syndrome after intragastric balloon 
+      placement. A rare but severe complication.
+PG  - 169-170
+LID - 10.17235/reed.2023.9613/2023 [doi]
+AB  - The obesity pandemic is becoming one of the most prevalent diseases nowadays. 
+      There is a wide spectrum of treatment, ranging from hygienic-dietary measures to 
+      bariatric surgery. Endoscopic intragastric balloon placement is becoming 
+      increasingly more frequent, due to its technical simplicity, safety and 
+      short-term success(1). Although complications are rare some can be severe, so 
+      pre-endoscopic evaluation must be carried out carefully. A 43-year-old woman with 
+      a history of grade I obesity (BMI 32.7) had an Orbera(R) intragastric balloon 
+      implanted successfully. After the procedure she presented frequent nausea and 
+      vomiting, partially controlled with antiemetics. She attended the Emergency 
+      Department(ED) with a persistent emetic syndrome - oral intolerance and 
+      short-term loss of consciousness(syncope), for which she was admitted. Lab tests 
+      showed metabolic alkalosis with severe hypokalemia(K+ 1.8mmol/L), so fluid 
+      therapy was initiated for hydroelectrolytic replacement. During the patient's 
+      stay in the ED, two episodes of polymorphic ventricular tachychardia "Torsades de 
+      Pointes" (PVT-TDP) occurred, leading to cardiac arrest and requiring electrical 
+      cardioversion to restore sinus rhythm, in addition to a temporary pacemaker 
+      placement. Telemetry showed a corrected QT interval of >500ms, compatible with 
+      Long QT Syndrome(LQTS). Once the patient was hemodynamically stabilized a 
+      gastroscopy was performed. The intragastric balloon located in the fundus was 
+      removed using an extraction kit, puncturing and aspirating 500ml of saline 
+      solution, and extracting the collapsed balloon without any complications. The 
+      patient achieved an adequate oral intake afterwards, and no recurrence of emetic 
+      episodes were noticed. Previous ECGs revealed a prolonged QT interval and a 
+      genetic study confirmed a congenital type 1 LQTS. Treatment was initiated with 
+      beta-blockers and a bicameral automatic defibrillator was implanted in order to 
+      prevent recurrences. Intragastric balloon placement is generally a safe 
+      procedure, serious complications present in 0.70% of cases(2). It is essential to 
+      have a proper pre-endoscopic evaluation, including patient's medical history and 
+      comorbidities. Episodes of PVT-TDP may present precipitated by certain 
+      medications (eg. metoclopramide) or hydroelectrolytic imbalances (eg, 
+      hypokalemia)(3). A standardized evaluation of ECG before intragastric balloon 
+      placement may be useful to prevent these rare but serious complications.
+FAU - Garcia-Calonge, Marta
+AU  - Garcia-Calonge M
+AUID- ORCID: 0000-0001-8817-9225
+AD  - Gastroenterology, Hospital Universitario Central de Asturias, Spain.
+FAU - Gonzalez-Sanchez, Maria Helena
+AU  - Gonzalez-Sanchez MH
+AUID- ORCID: 0000-0001-8387-5379
+AD  - Gastroenterology, Hospital Universitario Central de Asturias, Espana.
+FAU - Muino-Dominguez, Daniel
+AU  - Muino-Dominguez D
+AUID- ORCID: 0000-0003-0423-5897
+AD  - Gastroenterology, Hospital Universitario Central de Asturias, Espana.
+FAU - Florez-Diez, Pablo
+AU  - Florez-Diez P
+AUID- ORCID: 0000-0001-6186-517X
+AD  - Gastroenterology, Hospital Universitario Central de Asturias, Espana.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - Spain
+TA  - Rev Esp Enferm Dig
+JT  - Revista espanola de enfermedades digestivas
+JID - 9007566
+RN  - 0 (Emetics)
+RN  - 0 (DNA-Binding Proteins)
+SB  - IM
+MH  - Female
+MH  - Humans
+MH  - Adult
+MH  - *Torsades de Pointes/etiology/therapy
+MH  - *Gastric Balloon/adverse effects
+MH  - Emetics
+MH  - *Hypokalemia/complications
+MH  - *Long QT Syndrome/therapy/complications
+MH  - Obesity/complications
+MH  - DNA-Binding Proteins
+EDAT- 2023/04/28 06:42
+MHDA- 2024/03/13 06:46
+CRDT- 2023/04/28 03:43
+PHST- 2024/03/13 06:46 [medline]
+PHST- 2023/04/28 06:42 [pubmed]
+PHST- 2023/04/28 03:43 [entrez]
+AID - 10.17235/reed.2023.9613/2023 [doi]
+PST - ppublish
+SO  - Rev Esp Enferm Dig. 2024 Mar;116(3):169-170. doi: 10.17235/reed.2023.9613/2023.
+
+PMID- 18594746
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20090622
+LR  - 20080702
+IS  - 1972-6007 (Electronic)
+IS  - 0009-9074 (Linking)
+VI  - 159
+IP  - 3
+DP  - 2008 May-Jun
+TI  - Hypokalemic rhabdomyolysis in a patient with a laparoscopic adjustable gastric 
+      banding.
+PG  - 169-72
+AB  - Rhabdomyolysis is an acute skeletal muscle disorder characterized by altered 
+      integrity of the cell membranes of muscle fiber cells. It can be related to a 
+      variety of factors: muscular trauma, muscle enzyme deficiencies, infections, 
+      drugs, toxins, alcohol ingestion, endocrinopathies and electrolyte imbalances 
+      such as hypokalemia. We report the case of a 46-year-old woman admitted to the 
+      Emergency Department for frequent episodes of vomiting associated with food 
+      intake in the last two weeks, general muscular weakness and myalgia. Physical 
+      examination on admission was unremarkable, except for a symmetrical and 
+      dominantly proximal muscular weakness of all four extremities. Blood pressure was 
+      116/70 mmHg with a sinus bradycardia (53 beats/min) on the electrocardiogram. 
+      Laboratory tests showed a metabolic alkalosis with marked hypokalemia (K+= 1.9 
+      mEq/l) and elevation of muscular enzymes (myglobin= 993 ng/ml, troponin T= 0,10 
+      ng/ml e CK= 1113 U/l). No symptoms of recurrent rhabdomyolysis were reported, 
+      patient denied alcohol consumption and there was not clinical evidence of 
+      hyperthyroidism. A iatrogenic etiology could not be excluded for certain because 
+      patient was in therapy with lansoprazole (Naranjo algorithm 3/13) but, revealing 
+      medical history that she underwent a laparoscopic adjustable gastric banding for 
+      the treatment of a severe obesity, we focused our attention on hypokalemia, due 
+      to persistent vomiting. Fasting, administration of metoclopramide and infusion of 
+      potassium chloride resulted in steady improvement of clinical conditions and 
+      normalization of electrolyte imbalance. At the clinical follow-up of three 
+      months, after partial deflation of the gastric banding, the patient was 
+      asymptomatic with muscular enzymes and potassium levels in the normal range. 
+      Authors discuss the pathophysiologic mechanisms of these alterations.
+FAU - Di Grande, A
+AU  - Di Grande A
+AD  - U.O.C. di Medicina e Chirurgia d'Accettazione e d'Urgenza, Az. Osp. S. Elia, 
+      Caltanissetta, Italy. adigrande@yahoo.it
+FAU - Giustolisi, V
+AU  - Giustolisi V
+FAU - Tabita, V
+AU  - Tabita V
+FAU - Giuffrida, C
+AU  - Giuffrida C
+FAU - Riccobene, S
+AU  - Riccobene S
+FAU - Le Moli, C
+AU  - Le Moli C
+FAU - Cannone, V
+AU  - Cannone V
+FAU - Maira, E
+AU  - Maira E
+FAU - Narbone, G
+AU  - Narbone G
+FAU - Nigro, F
+AU  - Nigro F
+FAU - Paradiso, R
+AU  - Paradiso R
+FAU - Tramontana, C
+AU  - Tramontana C
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - Italy
+TA  - Clin Ter
+JT  - La Clinica terapeutica
+JID - 0372604
+SB  - IM
+MH  - Female
+MH  - Gastroplasty/*adverse effects/*methods
+MH  - Humans
+MH  - Hypokalemia/*etiology
+MH  - *Laparoscopy
+MH  - Middle Aged
+MH  - Rhabdomyolysis/*etiology
+EDAT- 2008/07/03 09:00
+MHDA- 2009/06/23 09:00
+CRDT- 2008/07/03 09:00
+PHST- 2008/07/03 09:00 [pubmed]
+PHST- 2009/06/23 09:00 [medline]
+PHST- 2008/07/03 09:00 [entrez]
+PST - ppublish
+SO  - Clin Ter. 2008 May-Jun;159(3):169-72.
+
+PMID- 15318060
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050503
+LR  - 20190713
+IS  - 1529-4242 (Electronic)
+IS  - 0032-1052 (Linking)
+VI  - 114
+IP  - 3
+DP  - 2004 Sep 1
+TI  - Electrolyte and plasma enzyme analyses during large-volume liposuction.
+PG  - 766-75; discussion 776-7
+AB  - Substantial fluid shifts occur during liposuction as wetting solution is 
+      infiltrated subcutaneously and fat is evacuated, causing potential electrolyte 
+      imbalances. In the porcine model for large-volume liposuction, plasma aspartate 
+      aminotransferase and alanine transaminase levels were elevated following 
+      liposuction. These results raised concerns for possible mechanical injury and/or 
+      lidocaine-induced hepatocellular toxicity in a clinical setting. The first 
+      objective of this human model study was to explore the effect of the liposuction 
+      procedure on electrolyte balance. The second objective was to determine whether 
+      elevated plasma aminotransferase levels were observed subsequent to large-volume 
+      liposuction. Five female volunteers underwent three-stage, ultrasound-assisted 
+      liposuction. Blood samples were collected perioperatively. Plasma levels of 
+      sodium, potassium, venous carbon dioxide, blood urea nitrogen, chloride, and 
+      creatinine were determined. Liver function analyte levels were measured, 
+      including albumin, total protein, aspartate aminotransferase, and alanine 
+      transaminase, alkaline phosphatase, gamma-glutamyl transpeptidase, and total 
+      bilirubin. To further define intracellular enzyme release, creatine kinase levels 
+      were measured. Mild hyponatremia was evident postoperatively (134 to 136 
+      mmol/liter) in four patients. Hypokalemia was evident intraoperatively in all 
+      subjects (mean +/- SEM; 3.3 +/- 0.16 mmol/liter; range, 3.0 to 3.4 mmol/liter). 
+      Hypoalbuminemia and hypoproteinemia were observed throughout the study (baseline: 
+      2.9 +/- 0.2 g/dl; range, 2.6 to 3.5 g/dl), decreasing to 10 to 40 percent 24 
+      hours postoperatively (2.0 +/- 0.2 g/dl; range, 1.7 to 2.1 g/dl). Aspartate 
+      aminotransferase, alanine transaminase, and creatine kinase levels were 
+      significantly elevated after the procedure (190 +/- 47.1 U/liter, 50 +/- 7.7 
+      U/liter, and 11,219 +/- 2556.7 U/liter, respectively) (p < 0.01). Release of 
+      antidiuretic hormone and even mildly hypotonic intravenous fluid infiltration 
+      have long been known to cause hyponatremia postoperatively. Intraoperative 
+      hypokalemia is associated with hypocarbia and respiratory alkalosis and the 
+      elevated epinephrine levels observed in the concurrent study. Factors having the 
+      greatest initial impact on diminished serum albumin and protein levels 
+      postoperatively are redistribution and hemodilution. Subsequent diminished 
+      viscosity may significantly affect postoperative hemodynamics. Elevated aspartate 
+      aminotransferase, alanine transaminase, and creatine kinase levels are associated 
+      with skeletal muscle injury, adipocyte lysis, and/or hepatic damage. Therefore, 
+      tissue injury is associated with large-volume liposuction as observed in several 
+      cellularly released enzymes. Future clinical studies are required to determine 
+      the degree of injury and specific tissues that are damaged or sensitive to 
+      mechanical trauma and/or drugs used in large-volume liposuction.
+FAU - Lipschitz, Avron H
+AU  - Lipschitz AH
+AD  - Department of Plastic Surgery, Nancy Lee and Perry R. Bass Advanced Plastic 
+      Surgery and Wound Healing Laboratory, Dallas, Texas, USA.
+FAU - Kenkel, Jeffrey M
+AU  - Kenkel JM
+FAU - Luby, Maureen
+AU  - Luby M
+FAU - Sorokin, Evan
+AU  - Sorokin E
+FAU - Rohrich, Rod J
+AU  - Rohrich RJ
+FAU - Brown, Spencer A
+AU  - Brown SA
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Plast Reconstr Surg
+JT  - Plastic and reconstructive surgery
+JID - 1306050
+RN  - 0 (Electrolytes)
+RN  - EC 2.6.1.- (Transaminases)
+RN  - EC 2.6.1.1 (Aspartate Aminotransferases)
+RN  - EC 2.6.1.2 (Alanine Transaminase)
+RN  - EC 2.7.3.2 (Creatine Kinase)
+RN  - EC 3.1.3.1 (Alkaline Phosphatase)
+SB  - IM
+MH  - Alanine Transaminase/*blood
+MH  - Alkaline Phosphatase/blood
+MH  - Aspartate Aminotransferases/*blood
+MH  - Creatine Kinase/blood
+MH  - Electrolytes/blood
+MH  - Humans
+MH  - Lipectomy/*adverse effects/methods
+MH  - Liver/enzymology
+MH  - Liver Function Tests
+MH  - Transaminases/*blood
+MH  - *Water-Electrolyte Balance
+EDAT- 2004/08/20 05:00
+MHDA- 2005/05/04 09:00
+CRDT- 2004/08/20 05:00
+PHST- 2004/08/20 05:00 [pubmed]
+PHST- 2005/05/04 09:00 [medline]
+PHST- 2004/08/20 05:00 [entrez]
+AID - 00006534-200409010-00025 [pii]
+AID - 10.1097/01.prs.0000131022.98481.6e [doi]
+PST - ppublish
+SO  - Plast Reconstr Surg. 2004 Sep 1;114(3):766-75; discussion 776-7. doi: 
+      10.1097/01.prs.0000131022.98481.6e.
+
+PMID- 30553575
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200717
+LR  - 20200717
+IS  - 1878-7886 (Electronic)
+IS  - 1878-7886 (Linking)
+VI  - 156
+IP  - 4
+DP  - 2019 Sep
+TI  - Chronic hypokalemia due to gastric exclusion after bariatric surgery.
+PG  - 363-365
+LID - S1878-7886(18)30174-7 [pii]
+LID - 10.1016/j.jviscsurg.2018.12.001 [doi]
+AB  - Hypokalemia is a common complication of repeated vomiting or prolonged gastric 
+      suction. In the case we observed, a patient presented with chronic hypokalemia 
+      due to gastric dilatation and the development of a superior mesenteric artery 
+      syndrome several years after gastric banding. This paper presents pre-operative 
+      and post-operative illustrations of a rare but potentially serious entity.
+CI  - Copyright (c) 2018 Elsevier Masson SAS. All rights reserved.
+FAU - Gaillard, M
+AU  - Gaillard M
+AD  - Department of Minimally Invasive Digestive Surgery, Antoine Beclere Hospital, 
+      157, rue de la Porte-de-Trivaux, 92141 Clamart, France.
+FAU - Dagher, I
+AU  - Dagher I
+AD  - Department of Minimally Invasive Digestive Surgery, Antoine Beclere Hospital, 
+      157, rue de la Porte-de-Trivaux, 92141 Clamart, France.
+FAU - Tranchart, H
+AU  - Tranchart H
+AD  - Department of Minimally Invasive Digestive Surgery, Antoine Beclere Hospital, 
+      157, rue de la Porte-de-Trivaux, 92141 Clamart, France. Electronic address: 
+      hadrien.tranchart@aphp.fr.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20181213
+PL  - France
+TA  - J Visc Surg
+JT  - Journal of visceral surgery
+JID - 101532664
+SB  - IM
+MH  - Bariatric Surgery/*adverse effects
+MH  - Chronic Disease
+MH  - Female
+MH  - Gastric Bypass
+MH  - Gastroplasty/instrumentation/methods
+MH  - Humans
+MH  - Hypokalemia/*etiology
+MH  - Middle Aged
+MH  - Postoperative Complications/diagnostic imaging/*etiology
+MH  - Postoperative Period
+MH  - Preoperative Period
+MH  - Superior Mesenteric Artery Syndrome/diagnostic imaging/*etiology
+OTO - NOTNLM
+OT  - Gastric banding
+OT  - Hypokalemia
+OT  - Obesity
+OT  - Superior mesenteric artery syndrome
+EDAT- 2018/12/17 06:00
+MHDA- 2020/07/18 06:00
+CRDT- 2018/12/17 06:00
+PHST- 2018/12/17 06:00 [pubmed]
+PHST- 2020/07/18 06:00 [medline]
+PHST- 2018/12/17 06:00 [entrez]
+AID - S1878-7886(18)30174-7 [pii]
+AID - 10.1016/j.jviscsurg.2018.12.001 [doi]
+PST - ppublish
+SO  - J Visc Surg. 2019 Sep;156(4):363-365. doi: 10.1016/j.jviscsurg.2018.12.001. Epub 
+      2018 Dec 13.

@@ -1,0 +1,2623 @@
+
+<!DOCTYPE html>
+<html lang="en" >
+    <head >
+
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="HandheldFriendly" content="True" />
+        <meta name="MobileOptimized" content="320" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        
+        
+
+        
+        
+  <link  rel="stylesheet" href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/assets/base_style-BxRs1iOp.css" />
+<script type="module" crossorigin="" src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/assets/base_style-D-jH62-1.js"></script>
+
+  <link  rel="stylesheet" href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/assets/article_style-B67IZFds.css" />
+<link  rel="stylesheet" href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/assets/style-D77LS1kY.css" />
+<script type="module" crossorigin="" src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/assets/article_style-CTAd1LmM.js"></script>
+
+  
+  
+    <style>
+  
+  
+  @media screen and (min-width: 64em) {
+    div.pmc-wm {
+      background: repeat-y;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='350' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cdefs%3E%3Cfilter x='-.02' y='0' width='1.05' height='1' id='c'%3E%3CfeFlood flood-color='%23FFF'/%3E%3CfeComposite in='SourceGraphic'/%3E%3C/filter%3E%3Ctext id='b' font-family='Helvetica' font-size='11pt' style='opacity:1;fill:%23005ea2;stroke:none;text-anchor:middle' x='175' y='14'%3E%3C/text%3E%3Cpath id='a' style='fill:%23005ea2' d='M0 8h350v3H0z'/%3E%3C/defs%3E%3Cuse xlink:href='%23a' transform='rotate(90 10 10)'/%3E%3Cuse xlink:href='%23b' transform='rotate(90 10 10)' filter='url(%23c)'/%3E%3C/svg%3E");
+      padding-left: 3rem;
+    }
+  }
+</style>
+
+  
+
+
+
+        
+            <link rel="apple-touch-icon"
+                  sizes="180x180"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/favicons/apple-touch-icon.png" />
+            <link rel="icon"
+                  type="image/png"
+                  sizes="48x48"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/favicons/favicon-48x48.png" />
+            <link rel="icon"
+                  type="image/png"
+                  sizes="32x32"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/favicons/favicon-32x32.png" />
+            <link rel="icon"
+                  type="image/png"
+                  sizes="16x16"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/favicons/favicon-16x16.png" />
+            <link rel="manifest" href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/favicons/site.webmanifest" />
+            <link rel="mask-icon"
+                  href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/favicons/safari-pinned-tab.svg"
+                  color="#0071bc" />
+            <meta name="msapplication-config"
+                  content="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/favicons/browserconfig.xml" />
+            <meta name="theme-color" content="#ffffff" />
+        
+
+        <title>
+            Metabolic Alkalosis: A Brief Pathophysiologic Review - PMC
+        </title>
+
+        
+        
+  
+  <!-- Logging params: Pinger defaults -->
+<meta name="ncbi_app" content="cloudpmc-viewer" />
+<meta name="ncbi_db" content="pmc" />
+<meta name="ncbi_phid" content="9DB857E5A89560D30957E5006F59884A.m_1" />
+<meta name="ncbi_pinger_stat_url" content="https://pmc.ncbi.nlm.nih.gov/stat" />
+<!-- Logging params: Pinger custom -->
+<meta name="ncbi_pdid" content="article" />
+  
+    <link rel="preconnect" href="https://www.google-analytics.com" />
+
+    
+        <link rel="preconnect" href="https://cdn.ncbi.nlm.nih.gov" />
+    
+
+    <!-- Include USWDS Init Script -->
+    <script src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/assets/uswds-init.js"></script>
+
+
+    <meta name="ncbi_domain" content="clinjasn">
+<meta name="ncbi_type" content="fulltext">
+<meta name="ncbi_pcid" content="journal">
+<link rel="canonical" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7769018/">
+<meta name="robots" content="INDEX,NOFOLLOW,NOARCHIVE">
+<meta name="citation_journal_title" content="Clinical Journal of the American Society of Nephrology : CJASN">
+<meta name="citation_title" content="Metabolic Alkalosis: A Brief Pathophysiologic Review">
+<meta name="citation_author" content="Michael Emmett">
+<meta name="citation_author_institution" content="Divisions of Internal Medicine and Nephrology, Department of Medicine, Baylor University Medical Center at Dallas, Dallas, Texas">
+<meta name="citation_publication_date" content="2020 Jun 25">
+<meta name="citation_volume" content="15">
+<meta name="citation_issue" content="12">
+<meta name="citation_firstpage" content="1848">
+<meta name="citation_doi" content="10.2215/CJN.16041219">
+<meta name="citation_pmid" content="32586924">
+<meta name="citation_abstract_html_url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC7769018/">
+<meta name="citation_fulltext_html_url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC7769018/">
+<meta name="citation_pdf_url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC7769018/pdf/CJN.16041219.pdf">
+<meta name="description" content="Metabolic alkalosis is a very commonly encountered acid-base disorder that may be generated by a variety of exogenous and/or endogenous, pathophysiologic mechanisms. Multiple mechanisms are also responsible for the persistence, or maintenance, of ...">
+<meta name="og:title" content="Metabolic Alkalosis: A Brief Pathophysiologic Review">
+<meta name="og:type" content="article">
+<meta name="og:site_name" content="PubMed Central (PMC)">
+<meta name="og:description" content="Metabolic alkalosis is a very commonly encountered acid-base disorder that may be generated by a variety of exogenous and/or endogenous, pathophysiologic mechanisms. Multiple mechanisms are also responsible for the persistence, or maintenance, of ...">
+<meta name="og:url" content="https://pmc.ncbi.nlm.nih.gov/articles/PMC7769018/">
+<meta name="og:image" content="https://cdn.ncbi.nlm.nih.gov/pmc/cms/images/pmc-card-share.jpg?_=0">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@ncbi">
+    
+    
+
+    </head>
+    <body >
+        
+    <a class="usa-skipnav " href="#main-content">
+      Skip to main content
+    </a>
+
+
+        
+            
+
+<section class="usa-banner " aria-label="Official website of the United States government" >
+    <div class="usa-accordion">
+        <header class="usa-banner__header">
+            <div class="usa-banner__inner">
+                <div class="grid-col-auto">
+                    <img aria-hidden="true"
+                         class="usa-banner__header-flag"
+                         src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/us_flag.svg"
+                         alt="" />
+                </div>
+
+                <div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
+                    <p class="usa-banner__header-text">
+                        An official website of the United States government
+                    </p>
+                    <span class="usa-banner__header-action">Here's how you know</span>
+                </div>
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-accordion__button usa-banner__button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    aria-expanded="false"
+    aria-controls="gov-banner-default"
+    
+    data-testid="storybook-django-banner"
+    
+    >
+    
+        
+
+        
+                    <span class="usa-banner__button-text">Here's how you know</span>
+                
+
+        
+    
+        
+            </button>
+        
+
+
+            </div>
+        </header>
+
+        <div class="usa-banner__content usa-accordion__content"
+             id="gov-banner-default"
+             hidden>
+            <div class="grid-row grid-gap-lg">
+                <div class="usa-banner__guidance tablet:grid-col-6">
+                    <img class="usa-banner__icon usa-media-block__img"
+                         src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/icon-dot-gov.svg"
+                         alt=""
+                         aria-hidden="true" />
+                    <div class="usa-media-block__body">
+                        <p>
+                            <strong>Official websites use .gov</strong>
+                            <br />
+                            A
+                            <strong>.gov</strong> website belongs to an official
+                            government organization in the United States.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="usa-banner__guidance tablet:grid-col-6">
+                    <img class="usa-banner__icon usa-media-block__img"
+                         src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/icon-https.svg"
+                         alt=""
+                         aria-hidden="true" />
+
+                    <div class="usa-media-block__body">
+                        <p>
+                            <strong>Secure .gov websites use HTTPS</strong>
+                            <br />
+                            A <strong>lock</strong> (
+                            <span class="icon-lock">
+                                <svg xmlns="http://www.w3.org/2000/svg"
+                                     width="52"
+                                     height="64"
+                                     viewBox="0 0 52 64"
+                                     class="usa-banner__lock-image"
+                                     role="graphics-symbol"
+                                     aria-labelledby="banner-lock-description"
+                                     focusable="false">
+                                    <title id="banner-lock-title">Lock</title>
+                                    <desc id="banner-lock-description">
+                                    Locked padlock icon
+                                    </desc>
+                                    <path fill="#000000"
+                                          fill-rule="evenodd"
+                                          d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" />
+                                </svg>
+</span>) or <strong>https://</strong> means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        
+
+        
+    
+    
+    
+
+<div class="usa-overlay">
+</div>
+
+
+
+<header class="usa-header usa-header--extended usa-header--wide" data-header data-testid="header"    >
+    <div class="ncbi-header">
+        <div class="ncbi-header__container">
+            <a class="ncbi-header__logo-container"
+               href="https://www.ncbi.nlm.nih.gov/">
+                <img alt="NCBI home page"
+                     class="ncbi-header__logo-image"
+                     src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/ncbi-logos/nih-nlm-ncbi--white.svg"
+                     width="410"
+                     height="100" />
+            </a>
+
+            <!-- Mobile menu hamburger button -->
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-menu-btn ncbi-header__hamburger-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    aria-label="Show menu"
+    data-testid="navMenuButton"
+    
+    >
+    
+        
+
+        
+                <svg aria-hidden="true"
+                     class="ncbi-hamburger-icon"
+                     fill="none"
+                     focusable="false"
+                     height="21"
+                     viewBox="0 0 31 21"
+                     width="31"
+                     xmlns="http://www.w3.org/2000/svg">
+                    <path clip-rule="evenodd"
+                          d="M0.125 20.75H30.875V17.3333H0.125V20.75ZM0.125 12.2083H30.875V8.79167H0.125V12.2083ZM0.125 0.25V3.66667H30.875V0.25H0.125Z"
+                          fill="#F1F1F1"
+                          fill-rule="evenodd" />
+                </svg>
+            
+
+        
+    
+        
+            </button>
+        
+
+
+
+            
+                <!-- Desktop buttons-->
+                <div class="ncbi-header__desktop-buttons">
+                    
+                        <!-- Desktop search button -->
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           usa-button--unstyled ncbi-header__desktop-button
+           "
+    aria-expanded="false"
+    aria-controls="search-field-desktop-navigation"
+    aria-label="Show search overlay"
+    data-testid="toggleSearchPanelButton"
+    data-toggle-search-panel-button
+    >
+    
+        
+
+        
+                            
+
+
+
+    <img
+        src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/search.svg"
+        class="usa-icon "
+        aria-hidden="true"
+        
+        
+    />
+
+
+                            Search
+                        
+
+        
+    
+        
+            </button>
+        
+
+
+                    
+
+                    <!-- Desktop login dropdown -->
+                    
+                        <div class="ncbi-header__login-dropdown">
+                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           usa-button--unstyled ncbi-header__desktop-button ncbi-header__login-dropdown-button
+           "
+    aria-expanded="false"
+    aria-controls="login-dropdown-menu"
+    aria-label="Show login menu"
+    data-testid="toggleLoginMenuDropdown"
+    data-desktop-login-button
+    >
+    
+        
+
+        
+                                
+
+
+
+    <img
+        src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/person.svg"
+        class="usa-icon "
+        aria-hidden="true"
+        
+        
+    />
+
+
+
+                                <span data-login-dropdown-text>Log in</span>
+
+                                <!-- Dropdown icon pointing up -->
+                                
+
+
+
+    <img
+        src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/expand_less.svg"
+        class="usa-icon ncbi-header__login-dropdown-icon ncbi-header__login-dropdown-icon--expand-less ncbi-header__login-dropdown-icon--hidden"
+        aria-hidden="true"
+        data-login-dropdown-up-arrow
+        
+    />
+
+
+
+                                <!-- Dropdown icon pointing down -->
+                                
+
+
+
+    <img
+        src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/expand_more.svg"
+        class="usa-icon ncbi-header__login-dropdown-icon ncbi-header__login-dropdown-icon--expand-more ncbi-header__login-dropdown-icon--hidden"
+        aria-hidden="true"
+        data-login-dropdown-down-arrow
+        
+    />
+
+
+                            
+
+        
+    
+        
+            </button>
+        
+
+
+
+                            <!-- Login dropdown menu -->
+                            <ul class="usa-nav__submenu ncbi-header__login-dropdown-menu"
+                                id="login-dropdown-menu"
+                                data-desktop-login-menu-dropdown
+                                hidden>
+                                
+                                    <li class="usa-nav__submenu-item">
+                                        <!-- Uses custom style overrides to render external and document links. -->
+                                        
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/" class="usa-link  "  >
+        
+
+        
+            Dashboard
+        
+
+        
+    </a>
+
+
+                                    </li>
+                                
+                                    <li class="usa-nav__submenu-item">
+                                        <!-- Uses custom style overrides to render external and document links. -->
+                                        
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/" class="usa-link  "  >
+        
+
+        
+            Publications
+        
+
+        
+    </a>
+
+
+                                    </li>
+                                
+                                    <li class="usa-nav__submenu-item">
+                                        <!-- Uses custom style overrides to render external and document links. -->
+                                        
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/account/settings/" class="usa-link  "  >
+        
+
+        
+            Account settings
+        
+
+        
+    </a>
+
+
+                                    </li>
+                                
+                                <li class="usa-nav__submenu-item">
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           usa-button--outline ncbi-header__login-dropdown-logout-button
+           "
+    
+    
+    
+    data-testid="desktopLogoutButton"
+    data-desktop-logout-button
+    >
+    
+        
+
+        Log out
+
+        
+    
+        
+            </button>
+        
+
+
+                                </li>
+                            </ul>
+                        </div>
+                    
+                </div>
+            
+        </div>
+    </div>
+
+    <!-- Search panel -->
+    
+        <div class="ncbi-search-panel ncbi--show-only-at-desktop"
+             data-header-search-panel
+             hidden>
+            <div class="ncbi-search-panel__container">
+                <form action="https://www.ncbi.nlm.nih.gov/search/all/"
+                      
+                      autocomplete="off"
+                      class="usa-search usa-search--big ncbi-search-panel__form"
+                      data-testid="desktop-navigation-search-form"
+                      method="GET"
+                      role="search">
+                    <label class="usa-sr-only" for="search-field-desktop-navigation">
+                        Search…
+                    </label>
+                    <input class="usa-input"
+                           id="search-field-desktop-navigation"
+                           name="term"
+                           
+                               placeholder="Search NCBI"
+                           
+                           type="search"
+                           value="" />
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="submit"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    
+    
+    
+    >
+    
+        
+
+        
+                        <span class="usa-search__submit-text">
+                            Search NCBI
+                        </span>
+                    
+
+        
+    
+        
+            </button>
+        
+
+
+                </form>
+
+                
+            </div>
+        </div>
+    
+
+    <nav aria-label="Primary navigation" class="usa-nav">
+        <p class="usa-sr-only" id="primary-navigation-sr-only-title">
+            Primary site navigation
+        </p>
+
+        <!-- Mobile menu close button -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-nav__close ncbi-nav__close-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    aria-label="Close navigation menu"
+    data-testid="navCloseButton"
+    
+    >
+    
+        
+
+        
+            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/close.svg" alt="Close" />
+        
+
+        
+    
+        
+            </button>
+        
+
+
+
+        
+            <!-- Mobile search component -->
+            <form class="usa-search usa-search--small ncbi--hide-at-desktop"
+                  action="https://www.ncbi.nlm.nih.gov/search/all/"
+                  
+                  autocomplete="off"
+                  data-testid="mobile-navigation-search-form"
+                  method="GET"
+                  role="search">
+                <label class="usa-sr-only" for="search-field-mobile-navigation">
+                    Search
+                </label>
+
+                <input class="usa-input"
+                       id="search-field-mobile-navigation"
+                       type="search"
+                       
+                           placeholder="Search NCBI"
+                       
+                       name="term" />
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="submit"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           
+           "
+    
+    
+    
+    
+    
+    >
+    
+        
+
+        
+                    <!-- This SVG should be kept inline and not replaced with a link to the icon as otherwise it will render in the wrong color -->
+                    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0Ij48cGF0aCBkPSJNMCAwaDI0djI0SDB6IiBmaWxsPSJub25lIi8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE1LjUgMTRoLS43OWwtLjI4LS4yN0E2LjQ3MSA2LjQ3MSAwIDAgMCAxNiA5LjUgNi41IDYuNSAwIDEgMCA5LjUgMTZjMS42MSAwIDMuMDktLjU5IDQuMjMtMS41N2wuMjcuMjh2Ljc5bDUgNC45OUwyMC40OSAxOWwtNC45OS01em0tNiAwQzcuMDEgMTQgNSAxMS45OSA1IDkuNVM3LjAxIDUgOS41IDUgMTQgNy4wMSAxNCA5LjUgMTEuOTkgMTQgOS41IDE0eiIvPjwvc3ZnPg=="
+                         class="usa-search__submit-icon"
+                         alt="Search" />
+                
+
+        
+    
+        
+            </button>
+        
+
+
+            </form>
+
+            
+        
+
+        <!-- Primary navigation menu items -->
+        <!-- This usa-nav__inner wrapper is required to correctly style the navigation items on Desktop -->
+        
+
+        
+            <div class="ncbi-nav__mobile-login-menu ncbi--hide-at-desktop"
+                 data-mobile-login-menu
+                 hidden>
+                <p class="ncbi-nav__mobile-login-menu-status">
+                    Logged in as:
+                    <strong class="ncbi-nav__mobile-login-menu-email"
+                            data-mobile-login-email-text></strong>
+                </p>
+                <ul class="usa-nav__primary usa-accordion">
+                    
+                        <li class="usa-nav__primary-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/" class="usa-link  "  >
+        
+
+        
+            Dashboard
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="usa-nav__primary-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/myncbi/collections/bibliography/" class="usa-link  "  >
+        
+
+        
+            Publications
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="usa-nav__primary-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.ncbi.nlm.nih.gov/account/settings/" class="usa-link  "  >
+        
+
+        
+            Account settings
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            </div>
+        
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        <button
+            type="button"
+        
+    
+    class="usa-button
+           
+
+           
+               
+               
+               
+               
+            
+
+           
+           
+           ncbi-nav__mobile-login-button ncbi--hide-at-desktop
+           "
+    
+    
+    
+    data-testid="mobileLoginButton"
+    data-mobile-login-button
+    >
+    
+        
+
+        Log in
+
+        
+    
+        
+            </button>
+        
+
+
+    </nav>
+</header>
+
+    
+    
+        
+
+<section class="pmc-header pmc-header--basic" aria-label="PMC Header with search box">
+    <div class="pmc-nav-container">
+        <div class="pmc-header__bar">
+           <div class="pmc-header__logo">
+               <a href="/" title="Home" aria-label="PMC Home"></a>
+           </div>
+            <button
+                    type="button"
+                    class="usa-button usa-button--unstyled pmc-header__search__button"
+                    aria-label="Open search"
+                    data-ga-category="search"
+                    data-ga-action="PMC"
+                    data-ga-label="pmc_search_panel_mobile"
+            >
+                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/search.svg" alt="PMC search open icon" aria-hidden="true" class="usa-icon usa-icon--size-4 pmc-icon__open" />
+                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/close.svg" alt="PMC search close ison" aria-hidden="true" class="usa-icon usa-icon--size-4 pmc-icon__close" />
+            </button>
+        </div>
+        <div class="pmc-header__search">
+            
+
+
+<form class="usa-search usa-search--extra usa-search--article-right-column  pmc-header__search__form" id="pmc-search-form" autocomplete="off" role="search">
+<label class="usa-sr-only" for="pmc-search">Search PMC Full-Text Archive</label>
+<span class="autoComplete_wrapper flex-1">
+<input class="usa-input width-full maxw-none" required="required" placeholder="Search PMC Full-Text Archive" id="pmc-search"  type="search" name="term" data-autocomplete-url="https://pmc.ncbi.nlm.nih.gov/autocomp/search/autocomp/"/>
+</span>
+<button
+class="usa-button"
+type="submit"
+formaction="https://pmc.ncbi.nlm.nih.gov/search/"
+data-ga-category="search"
+data-ga-action="PMC"
+data-ga-label="PMC_search_button"
+>
+<span class="usa-search__submit-text">Search in PMC</span>
+<img
+src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons-bg/search--white.svg"
+class="usa-search__submit-icon"
+alt="Search"
+/>
+</button>
+</form>
+            <div class="display-flex flex-column tablet:flex-row tablet:flex-justify flex-justify-center flex-align-center width-full desktop:maxw-44">
+                <ul class="pmc-header__search__menu">
+                    <li>
+                        
+                            <a class="usa-link" href="/journals/" data-ga-action="featured_link" data-ga-label="journal list">
+                                Journal List
+                            </a>
+                        
+                    </li>
+                    <li>
+                        
+                            <a class="usa-link" href="/about/userguide/" data-ga-action="featured_link"
+                            data-ga-label="user guide">
+                                User Guide
+                            </a>
+                        
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+    
+
+
+        
+        
+
+       
+  <div class="usa-section padding-top-0 desktop:padding-top-6 pmc-article-section" data-article-db="pmc" data-article-id="7769018">
+
+    
+
+   
+
+
+
+<div class="grid-container pmc-actions-bar" aria-label="Actions bar" role="complementary">
+    <div class="grid-row">
+        <div class="grid-col-fill display-flex">
+             <div class="display-flex">
+                <ul class="usa-list usa-list--unstyled usa-list--horizontal">
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex mob">
+                        <button
+                                type="button"
+                                class="usa-button pmc-sidenav__container__open usa-button--unstyled width-auto display-flex"
+                                aria-label="Open resources"
+                                data-extra-class="is-visible-resources"
+                                data-ga-category="resources_accordion"
+                                data-ga-action="click"
+                                data-ga-label="mobile_icon"
+                        >
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/more_vert.svg" alt="Open resources icon" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                        </button>
+                    </li>
+                    
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex mob">
+                        <a
+                                href="https://doi.org/10.2215/CJN.16041219"
+                                class="usa-link display-flex usa-tooltip"
+                                role="button"
+                                target="_blank"
+                                rel="noreferrer noopener"
+                                title="View on publisher site"
+                                data-position="bottom"
+                                aria-label="View on publisher site"
+                                data-ga-category="actions"
+                                data-ga-action="click"
+                                data-ga-label="publisher_link_mobile"
+                        >
+                                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/launch.svg" alt="View on publisher site icon" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                        </a>
+                    </li>
+                    
+                    
+                        <li class="margin-right-2 mobile-lg:margin-right-4 display-flex">
+                             <a
+                                     href="pdf/CJN.16041219.pdf"
+                                     class="usa-link display-flex usa-tooltip"
+                                     role="button"
+                                     title="Download PDF"
+                                     data-position="bottom"
+                                     aria-label="Download PDF"
+                                     data-ga-category="actions"
+                                     data-ga-action="click"
+                                     data-ga-label="pdf_download_mobile"
+                             >
+
+                                 <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/file_download.svg" alt="Download PDF icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                            </a>
+                        </li>
+                    
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex">
+                        <button
+                            class="usa-button usa-button--unstyled  usa-tooltip collections-dialog-trigger collections-button display-flex collections-button-empty"
+                            title="Add to Collections"
+                            data-position="bottom"
+                            aria-label="Save article in MyNCBI collections."
+                            data-ga-category="actions"
+                            data-ga-action="click"
+                            data-ga-label="collections_button_mobile"
+                            data-collections-open-dialog-enabled="false"
+                            data-collections-open-dialog-url="https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC7769018%2F%3Freport%3Dxml%23open-collections-dialog"
+                            data-in-collections="false"
+                        >
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/action-bookmark-full.svg" alt="Collections icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link usa-icon--bookmark-full" />
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/action-bookmark-empty.svg" alt="Collections icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link usa-icon--bookmark-empty" />
+                        </button>
+                    </li>
+                    
+                    <li class="margin-right-2 mobile-lg:margin-right-4 display-flex">
+                        <button role="button" class="usa-button usa-button--unstyled usa-tooltip citation-dialog-trigger display-flex"
+                            aria-label="Open dialog with citation text in different styles"
+                            title="Cite"
+                            data-position="bottom"
+                            data-ga-category="actions"
+                            data-ga-action="open"
+                            data-ga-label="cite_mobile"
+                            data-all-citations-url="/resources/citations/7769018/"
+                            data-citation-style="nlm"
+                            data-download-format-link="/resources/citations/7769018/export/"
+                        >
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/format_quote.svg" alt="Cite icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                        </button>
+                    </li>
+                    
+                    <li class="pmc-permalink display-flex" >
+                         <button
+                                 type="button"
+                                 title="Permalink"
+                                 data-position="bottom"
+                                 class="usa-button usa-button--unstyled display-flex usa-tooltip"
+                                 aria-label="Show article permalink"
+                                 aria-expanded="false"
+                                 aria-haspopup="true"
+                                 data-ga-category="actions"
+                                 data-ga-action="open"
+                                 data-ga-label="permalink_mobile"
+                         >
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/share.svg" alt="Show article permalink icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link" />
+                        </button>
+                        
+
+<div class="pmc-permalink__dropdown" hidden>
+    <div class="pmc-permalink__dropdown__container">
+          <h2 class="usa-modal__heading margin-top-0 margin-bottom-2 text-uppercase font-sans-xs">PERMALINK</h2>
+          <div class="pmc-permalink__dropdown__content">
+              <input type="text" class="usa-input" value="https://pmc.ncbi.nlm.nih.gov/articles/PMC7769018/" aria-label="Article permalink">
+              <button class="usa-button display-inline-flex pmc-permalink__dropdown__copy__btn margin-right-0" title="Copy article permalink" data-ga-category="save_share" data-ga-action="link" data-ga-label="copy_link">
+                  <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/content_copy.svg" alt="Copy icon" aria-hidden="true" class="usa-icon usa-icon--white" />
+                  <span class="margin-left-1">Copy</span>
+              </button>
+          </div>
+    </div>
+</div>
+                    </li>
+                </ul>
+            </div>
+            <button
+                    type="button"
+                    class="usa-button pmc-sidenav__container__open usa-button--unstyled width-auto display-flex"
+                    aria-label="Open article navigation"
+                    data-extra-class="is-visible-in-page"
+                    data-ga-category="actions"
+                    data-ga-action="open"
+                    data-ga-label="article_nav_mobile"
+            >
+                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/list.svg" alt="Open article navigation icon" aria-hidden="true" class="usa-icon usa-icon--size-4 usa-icon--link" />
+            </button>
+        </div>
+    </div>
+</div>
+    <div class="grid-container desktop:padding-left-6">
+      <div id="article-container" class="grid-row grid-gap">
+        <div class="grid-col-12 desktop:grid-col-8 order-2 pmc-layout__content">
+            <div class="grid-container padding-left-0 padding-right-0">
+                <div class="grid-row desktop:margin-left-neg-6">
+                    <div class="grid-col-12">
+                        <div class="pmc-layout__disclaimer" role="complementary" aria-label="Disclaimer note">
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.<br/>
+    Learn more:
+    <a class="usa-link" data-ga-category="Link click" data-ga-action="Disclaimer" data-ga-label="New disclaimer box" href="/about/disclaimer/">PMC Disclaimer</a>
+    |
+    <a class="usa-link" data-ga-category="Link click" data-ga-action="PMC Copyright Notice" data-ga-label="New disclaimer box" href="/about/copyright/">
+        PMC Copyright Notice
+    </a>
+</div>
+                    </div>
+                </div>
+                <div class="grid-row pmc-wm desktop:margin-left-neg-6">
+                    <!-- Main content -->
+                    <main
+                      id="main-content"
+                      class="usa-layout-docs__main usa-layout-docs grid-col-12 pmc-layout pmc-prose padding-0"
+                    >
+
+                      
+                        <section class="pmc-journal-banner text-center line-height-none" aria-label="Journal banner"><img src="https://cdn.ncbi.nlm.nih.gov/pmc/banners/logo-clinjasn.png" alt="Clinical Journal of the American Society of Nephrology : CJASN logo" usemap="#pmc-banner-imagemap" width="500" height="75"><map name="pmc-banner-imagemap"><area alt="Link to Clinical Journal of the American Society of Nephrology : CJASN" title="Link to Clinical Journal of the American Society of Nephrology : CJASN" shape="default" href="https://journals.lww.com/cjasn/pages/default.aspx" target="_blank" rel="noopener noreferrer"></map></section><article lang="en"><section aria-label="Article citation and metadata"><section class="pmc-layout__citation font-secondary font-xs"><div>
+<div class="display-inline-block"><button type="button" class="cursor-pointer text-no-underline bg-transparent border-0 padding-0 text-left margin-0 text-normal text-primary" aria-controls="journal_context_menu">Clin J Am Soc Nephrol</button></div>. 2020 Jun 25;15(12):1848–1856. doi: <a href="https://doi.org/10.2215/CJN.16041219" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">10.2215/CJN.16041219</a>
+</div>
+<nav id="journal_context_menu" hidden="hidden"><ul class="menu-list font-family-ui" role="menu">
+<li role="presentation"><a href='https://pmc.ncbi.nlm.nih.gov/search/?term="Clin%20J%20Am%20Soc%20Nephrol"[jour]' class="usa-link" role="menuitem">Search in PMC</a></li>
+<li role="presentation"><a href='https://pubmed.ncbi.nlm.nih.gov/?term="Clin%20J%20Am%20Soc%20Nephrol"[jour]' lang="en" class="usa-link" role="menuitem">Search in PubMed</a></li>
+<li role="presentation"><a href='https://www.ncbi.nlm.nih.gov/nlmcatalog?term="Clin%20J%20Am%20Soc%20Nephrol"[Title%20Abbreviation]' class="usa-link" role="menuitem">View in NLM Catalog</a></li>
+<li role="presentation"><a href='?term="Clin%20J%20Am%20Soc%20Nephrol"[jour]' class="usa-link" role="menuitem" data-add-to-search="true">Add to search</a></li>
+</ul></nav></section><section class="front-matter"><div class="ameta p font-secondary font-xs">
+<hgroup><h1>Metabolic Alkalosis</h1>
+<p>A Brief Pathophysiologic Review</p></hgroup><div class="cg p">
+<a href='https://pubmed.ncbi.nlm.nih.gov/?term="Emmett%20M"[Author]' class="usa-link" aria-describedby="id1"><span class="name western">Michael Emmett</span></a><div hidden="hidden" id="id1">
+<h3><span class="name western">Michael Emmett</span></h3>
+<div class="p">
+<sup>1</sup>Divisions of Internal Medicine and Nephrology, Department of Medicine, Baylor University Medical Center at Dallas, Dallas, Texas</div>
+<div class="p">Find articles by <a href='https://pubmed.ncbi.nlm.nih.gov/?term="Emmett%20M"[Author]' class="usa-link"><span class="name western">Michael Emmett</span></a>
+</div>
+</div>
+<sup>1,</sup><sup>✉</sup>
+</div>
+<ul class="d-buttons inline-list">
+<li><button class="d-button" aria-controls="aip_a" aria-expanded="false">Author information</button></li>
+<li><button class="d-button" aria-controls="anp_a" aria-expanded="false">Article notes</button></li>
+<li><button class="d-button" aria-controls="clp_a" aria-expanded="false">Copyright and License information</button></li>
+</ul>
+<div class="d-panels font-secondary-light">
+<div id="aip_a" class="d-panel p" style="display: none">
+<div class="p" id="aff1">
+<sup>1</sup>Divisions of Internal Medicine and Nephrology, Department of Medicine, Baylor University Medical Center at Dallas, Dallas, Texas</div>
+<div class="author-notes p">
+<div class="fn" id="cor1">
+<sup>✉</sup><p class="display-inline"><strong>Correspondence:</strong> Dr. Michael Emmett, Department of Medicine, Baylor University Medical Center at Dallas, 3500 Gaston Avenue, Room H-102, Dallas, TX 75246-2096. Email: <span>Michael.Emmett@BSWHealth.org</span></p>
+</div>
+<div class="fn" id="_fncrsp93pmc__">
+<sup>✉</sup><p class="display-inline">Corresponding author.</p>
+</div>
+</div>
+</div>
+<div id="anp_a" class="d-panel p" style="display: none"><div class="notes p"><section id="historyarticle-meta1" class="history"><p>Issue date 2020 Dec 7.</p></section></div></div>
+<div id="clp_a" class="d-panel p" style="display: none">
+<div>Copyright © 2020 by the American Society of Nephrology</div>
+<div class="p"><a href="/about/copyright/" class="usa-link">PMC Copyright notice</a></div>
+</div>
+</div>
+<div>PMCID: PMC7769018  PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/32586924/" class="usa-link">32586924</a>
+</div>
+</div></section></section><section aria-label="Article content"><section class="body main-article-body"><section class="abstract" id="abstract1"><h2>Abstract</h2>
+<p>Metabolic alkalosis is a very commonly encountered acid-base disorder that may be generated by a variety of exogenous and/or endogenous, pathophysiologic mechanisms. Multiple mechanisms are also responsible for the persistence, or maintenance, of metabolic alkalosis. Understanding these generation and maintenance mechanisms helps direct appropriate intervention and correction of this disorder. The framework utilized in this review is based on the ECF volume-centered approach popularized by Donald Seldin and Floyd Rector in the 1970s.  Although many subsequent scientific discoveries have advanced our understanding of the pathophysiology of metabolic alkalosis, that framework continues to be a valuable and relatively straightforward diagnostic and therapeutic model.</p>
+<section id="kwd-group1" class="kwd-group"><p><strong>Keywords:</strong> electrolytes, alkalosis, musculoskeletal abnormalities, bicarbonates</p></section></section><section id="s1"><h2 class="pmc_sec_title">Introduction</h2>
+<p>Metabolic alkalosis is a primary acid-base disorder that increases the serum bicarbonate concentration [HCO3<sup>−</sup>] (this is usually approximated by its surrogate the venous total [CO<sub>2</sub>]) above 30 meq/L (<a href="#B1" class="usa-link" aria-describedby="B1">1</a>), causing the arterial blood [H<sup>+</sup>] to fall, <em>i.e.</em>, the arterial blood pH increases into the alkaline range (&gt;7.45). Metabolic alkalosis is a very common disorder, especially in ICU settings (<a href="#bib45" class="usa-link" aria-describedby="bib45">2</a>). The diagnostic criteria and a pathophysiologic approach to differential diagnosis and treatment on the basis of dissection of the etiology and dominant maintenance mechanisms are reviewed.</p></section><section id="s2"><h2 class="pmc_sec_title">Respiratory Compensation</h2>
+<p>Uncomplicated metabolic alkalosis rapidly (minutes to hours) generates hypoventilatory compensation that elevates the pCO<sub>2</sub>. Compensation reduces the arterial pH, but it generally remains &gt;7.45. Although the magnitude of the hypoventilatory response is proportional to the [HCO<sub>3</sub><sup>−</sup>] increase, the response is very variable (<a href="#fig1" class="usa-link">Figure 1</a>) (<a href="#B2" class="usa-link" aria-describedby="B2">3</a>–<a href="#B5" class="usa-link" aria-describedby="B5">6</a>, M.A. Fallahzadeh, <em>et al.</em>, unpublished observations).</p>
+<figure class="fig xbox font-sm" id="fig1"><h3 class="obj_head">Figure 1.</h3>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" target="_blank" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=7769018_CJN.16041219f1.jpg"><img class="graphic zoom-in" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aa6/7769018/9e0f4c37b17a/CJN.16041219f1.jpg" loading="lazy" height="570" width="765" alt="Figure 1."></a></p>
+<div class="p text-right font-secondary"><a href="figure/fig1/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p><strong>Respiratory compensation for metabolic alkalosis.</strong> Simultaneous pCO<sub>2</sub> and [HCO<sub>3</sub>] data points derived from a recent comprehensive literature review showing the best-fit linear regression line (*M.A. Fallahzadeh, <em>et al.</em>, unpublished observations). Also shown are several commonly published relationship equations with adjacent references. The following very simple and easy to remember and utilize relationship: pCO<sub>2</sub> = [HCO<sub>3</sub>]+10 (dashed line) is very similar to the best-fit regression line in the HCO<sub>3</sub> range between 30 and 50 meq/L. If the [HCO<sub>3</sub><sup>−</sup>] exceeds 55 mmol/L, the pCO<sub>2</sub> may increase markedly. This is likely because of the development of a coexisting respiratory muscle weakness generated by almost inevitable severe hypokalemia. Therefore, respiratory acidosis often complicates extreme metabolic alkalosis. pCO<sub>2</sub>, partial pressure of carbon dioxide; 1 TORR, 133.32 Pascal (Pa).</p></figcaption></figure></section><section id="s3"><h2 class="pmc_sec_title">Serum Chloride Concentration and Metabolic Alkalosis</h2>
+<p>Hyper- or hypochloremia can reflect water/hydration disorders, acid/base disorders, or both. When an abnormal [Cl<sup>−</sup>] is secondary to a water/hydration disorder, there is a proportional degree of hyper- or hyponatremia. Thus the abnormal [Cl<sup>−</sup>] coexists with an abnormal [Na<sup>+</sup>] in a 1:1.4 ratio. This relationship is disrupted in acid-base disorders such as metabolic alkalosis. The elevated [HCO<sub>3</sub><sup>−</sup>] with metabolic alkalosis is generally associated with a reciprocally reduced [Cl<sup>−</sup>] independent of [Na<sup>+</sup>]. The electrolyte profile, or Gamblegram (<a href="#fig2" class="usa-link">Figure 2</a>), shows why the increased [HCO<sub>3</sub><sup>−</sup>] must be accompanied by a reduction of [Cl<sup>−</sup>] (independent of [Na<sup>+</sup>]), a reduction of the [AG<sup>−</sup>], or both (<a href="#B7" class="usa-link" aria-describedby="B7">7</a>,<a href="#B8" class="usa-link" aria-describedby="B8">8</a>). In fact, metabolic alkaloses reproducibly increase the [AG<sup>−</sup>] to a small degree, mostly owing to increased negative charge density of plasma proteins (<a href="#B9" class="usa-link" aria-describedby="B9">9</a>,<a href="#B10" class="usa-link" aria-describedby="B10">10</a>). Therefore, the relative [Cl<sup>−</sup>] decrease must be even greater.</p>
+<figure class="fig xbox font-sm" id="fig2"><h3 class="obj_head">Figure 2.</h3>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" target="_blank" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=7769018_CJN.16041219f2.jpg"><img class="graphic zoom-in" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aa6/7769018/617d48f6240f/CJN.16041219f2.jpg" loading="lazy" height="768" width="808" alt="Figure 2."></a></p>
+<div class="p text-right font-secondary"><a href="figure/fig2/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p><strong>The three major serum electrolytes in a normal patient and a patient with metabolic alkalosis, visualized using a Gamblegram.</strong> Note, when the HCO<sub>3</sub><sup>−</sup> concentration increases and the anion gap also increases slightly (this occurs with most forms of metabolic alkalosis), then the [Cl<sup>−</sup>] must fall and the Cl:Na ratio must fall below its normal 1:1.4 ratio.</p></figcaption></figure><p>However, an identical electrolyte pattern, increased [HCO<sub>3</sub><sup>−</sup>] and reduced [Cl<sup>−</sup>], is also generated by compensation for chronic respiratory acidosis. Clinical assessment and arterial blood pH measurement will point toward the correct diagnosis—the blood pH is high-normal/overtly alkaline with metabolic alkalosis and low-normal/overtly acid with chronic respiratory acidosis. Venous blood pH, although less definitive than arterial, can also differentiate these disorders—add 0.03 pH units to the venous pH to approximate the arterial pH (<a href="#B11" class="usa-link" aria-describedby="B11">11</a>).</p></section><section id="s4"><h2 class="pmc_sec_title">Pathogenesis: Generation and Maintenance</h2>
+<p>Seldin and Rector published a classic review, “The Generation and Maintenance of Metabolic Alkalosis,” in 1972 (<a href="#B12" class="usa-link" aria-describedby="B12">12</a>). Although many subsequent discoveries have expanded our understanding of the complex systemic neurohormonal, kidney, cellular, and paracellular mechanisms participating in the development and maintenance of this acid-base disorder, the Seldin/Rector extracellular fluid (ECF) volume-centered approach continues to be an extremely useful and relatively easy-to-understand diagnostic and therapeutic framework for the metabolic alkaloses. Some experts believe the “ECF volume-centered” approach should be replaced by a chloride-depletion model and cite experimental animal models to support their position (<a href="#B13" class="usa-link" aria-describedby="B13">13</a>–<a href="#B16" class="usa-link" aria-describedby="B16">16</a>). However, others challenge these experimental results and their interpretation (<a href="#B17" class="usa-link" aria-describedby="B17">17</a>,<a href="#B18" class="usa-link" aria-describedby="B18">18</a>). This review uses the traditional “ECF volume-centered” classification.</p>
+<section id="sec5"><h3 class="pmc_sec_title">Normal HCO<sub>3</sub><sup>−</sup> Reclamation, Regeneration, and Generation</h3>
+<p>Nonvolatile acids are generated by metabolism of ingested foods and oxidation of endogenous substrates. A typical Western European/American diet generates 80–100 meq/d of nonvolatile strong acids (mainly sulfuric, phosphoric, and hydrochloric). These acids release H<sup>+</sup> that mainly reacts with HCO<sub>3</sub><sup>−</sup> to form H<sub>2</sub>CO<sub>3</sub>, which rapidly dehydrates to CO<sub>2</sub> and H<sub>2</sub>O. Thus, serum [HCO<sub>3</sub><sup>−</sup>] falls and is “replaced” by the anions of the generated strong acids, <em>i.e.</em>, Cl<sup>−</sup>, SO<sub>4</sub><sup>−2</sup>, HPO<sub>4</sub><sup>−2</sup>, <em>etc</em>. Acid-base homeostasis is restored by the kidney, which filters and secretes the acid anions mainly with Na<sup>+</sup>, then the tubules reabsorb the Na<sup>+</sup> in exchange for H<sup>+</sup>, and finally the anions are excreted together with an equal quantity of H<sup>+</sup>, in the form of titratable acid (largely H<sub>2</sub>PO<sub>4</sub><sup>−</sup>) and NH<sub>4</sub><sup>+</sup>. In this way, 80–100 meq of H<sup>+</sup> are “buffered” and excreted in the urine and 80–100 meq of HCO3<sup>−</sup> are regenerated and added back to the body fluids.</p>
+<p>However, before the kidney can secrete/excrete the daily required load of acid and thereby regenerate the decomposed HCO<sub>3</sub><sup>−</sup>, all the filtered HCO<sub>3</sub><sup>−</sup> must first be reclaimed and returned to the body. About 85%–90% of the normal filtered HCO<sub>3</sub><sup>−</sup> load (4000–4500 meq/d) is reclaimed by the proximal tubules <em>via</em> H<sup>+</sup> secretion. A large fraction of proximal Na<sup>+</sup> reabsorption occurs <em>via</em> the Na-H exchanger 3 (NHE3) in the luminal membrane. This exchange is energized by basolateral membrane Na-K ATPase, which reduces intracellular Na<sup>+</sup> and generates a negative intracellular charge. This creates a strong inward (lumen into cell) electrochemical Na<sup>+</sup> gradient. Additionally, ATP-energized H<sup>+</sup> pumps in the lumenal membrane contribute a smaller fraction (about 30%) of proximal H<sup>+</sup> secretion. Each secreted H<sup>+</sup> generates a HCO<sub>3</sub><sup>−</sup> molecule that is added to the ECF and causes the disappearance of an HCO<sub>3</sub><sup>−</sup> molecule from the lumen. Major aspects of proximal tubule Na<sup>+</sup> reabsorption/H<sup>+</sup> secretion are shown in <a href="#fig3" class="usa-link">Figure 3</a>. The 10%–15% of HCO<sub>3</sub><sup>−</sup> that escapes proximal reclamation is reclaimed in the distal tubules/collecting ducts, as shown in <a href="#fig4" class="usa-link">Figure 4</a>.</p>
+<figure class="fig xbox font-sm" id="fig3"><h4 class="obj_head">Figure 3.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" target="_blank" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=7769018_CJN.16041219f3.jpg"><img class="graphic zoom-in" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aa6/7769018/5fa525ad6c64/CJN.16041219f3.jpg" loading="lazy" height="606" width="697" alt="Figure 3."></a></p>
+<div class="p text-right font-secondary"><a href="figure/fig3/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p><strong>Proximal tubule: The major proximal tubule cellular and luminal events that participate in HCO</strong><sub><strong>3</strong></sub><sup>−</sup>
+<strong>reclamation.</strong> Intracellular H<sub>2</sub>O combines with CO<sub>2</sub> to generate H<sub>2</sub>CO<sub>3</sub> that rapidly dissociates to H<sup>+</sup> and HCO<sub>3</sub><sup>−</sup> ions. These reactions are catalyzed by the cytoplasmic enzyme carbonic anhydrase II (CAII). Na-K ATPase in the basolateral membrane creates a steep Na<sup>+</sup> electrochemical gradient that energizes Na<sup>+</sup> reabsorption <em>via</em> the Na<sup>+</sup>-H<sup>+</sup> antiporter exchanger (NHE3). When H<sup>+</sup> moves into the lumen, it reacts with filtered HCO<sub>3</sub><sup>−</sup> to form H<sub>2</sub>CO<sub>3</sub>. The H<sub>2</sub>CO<sub>3</sub> dehydrates to H<sub>2</sub>O and CO<sub>2</sub>, a reaction catalyzed by intraluminal carbonic anhydrase IV (CAIV) (tethered to the luminal membrane). Generated CO<sub>2</sub> flows into the cell, largely <em>via</em> the aquaporin 1 channel. The HCO<sub>3</sub><sup>−</sup> ions generated within the cells move into the peritubular capillary, primarily <em>via</em> a Na<sup>+</sup>-3HCO<sub>3</sub><sup>−</sup> cotransporter (the electrogenic NBCe1-A transporter; a product of the Solute Carrier Family 4 Member A4 or <em>SLC4A4</em> gene). The net effect of the secretion of one H<sup>+</sup> molecule and reabsorption of one Na<sup>+</sup> molecule is the addition of one molecule of NaHCO<sub>3</sub> to the extracellular fluid and the disappearance of one NaHCO<sub>3</sub> molecule from the lumen. In addition, a smaller component of proximal tubule H<sup>+</sup> secretion (HCO<sub>3</sub><sup>−</sup> reclamation) is accomplished <em>via</em> a V-type H<sup>+</sup>-ATPase pump complex. About 85%–90% of the filtered NaHCO<sub>3</sub> is reclaimed in the proximal tubule.</p></figcaption></figure><figure class="fig xbox font-sm" id="fig4"><h4 class="obj_head">Figure 4.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" target="_blank" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=7769018_CJN.16041219f4.jpg"><img class="graphic zoom-in" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aa6/7769018/e40b071715d8/CJN.16041219f4.jpg" loading="lazy" height="1167" width="697" alt="Figure 4."></a></p>
+<div class="p text-right font-secondary"><a href="figure/fig4/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p><strong>Principal cells and type A and type B intercalated cells are located in the late distal convoluted tubule, the connecting tubule, and cortical collecting duct.</strong> Principal cell transport is energized primarily by electrogenic Na<sup>+</sup>-K<sup>+</sup> ATPase pumps in the basolateral membrane. The resulting low intracellular [Na<sup>+</sup>] and negative intracellular potential difference combine to create a large gradient for Na<sup>+</sup> to move from the lumen into these cells. Flow occurs mainly through the epithelial sodium channel (ENaC; which is composed of <em>α</em>, <em>β</em>, and <em>γ</em> subunits, each a product of a different gene). Inward flow of Na<sup>+</sup> ions is more rapid than the sum of outward movement of K<sup>+</sup> (mainly through the renal outer medullary potassium channel [ROMK]) and inward flow of Cl<sup>−</sup> (mainly <em>via</em> the paracellular space). Therefore, the Na<sup>+</sup> influx generates a negative potential difference (PD of about −40 mv) in the lumen. The secretion of H<sup>+</sup> by the type A intercalated cells initially reacts with HCO<sub>3</sub><sup>−</sup> in the lumen, which represents HCO<sub>3</sub><sup>−</sup> reclamation. As the luminal pH falls, additional secreted H<sup>+</sup> combines with buffers such as HPO<sub>4</sub><sup>−2</sup> and NH<sub>3</sub>to generate urine titratable acid and NH<sub>4</sub><sup>−</sup>, which creates equimolar quantitates of systemic HCO<sub>3</sub><sup>−</sup>. See <a href="#fig5" class="usa-link">Figure 5</a> for a description of intercalated cell ion transport.</p></figcaption></figure><p>After HCO<sub>3</sub><sup>−</sup> has largely disappeared from the distal tubules/collecting ducts, continued H<sup>+</sup> secretion regenerates decomposed ECF HCO<sub>3</sub><sup>−</sup>. If dietary and metabolic acids have produced 80–100 meq/d of nonvolatile acids, then 80–100 meq/d of H<sup>+</sup> must be excreted by the kidneys. This regenerates the HCO<sub>3</sub><sup>−</sup> that reacted with H<sup>+</sup>derived from nonvolatile acids and thereby decomposed or “disappeared.” Also, any HCO<sub>3</sub><sup>−</sup> lost in stool must be regerated. As HCO<sub>3</sub><sup>−</sup> disappears from the tubular fluid, the fluid pH falls. The minimum achievable urine pH is about 4.5, which represents only 0.03 meq/L of free [H<sup>+</sup>]. Therefore, virtually the entire excreted H<sup>+</sup> load must be bound to urine buffers: HPO<sub>4</sub><sup>−2</sup> (titrated to H<sub>2</sub>PO<sub>4</sub><sup>−</sup>) represents most of the titratable acid, and NH<sub>3</sub> binds to H<sup>+</sup> to form NH<sub>4</sub><sup>+</sup>. These buffered H<sup>+</sup> charges are electrically balanced by acid anions such as SO<sub>4</sub><sup>−</sup> and Cl<sup>−</sup> in the urine.</p>
+<p><a href="#fig4" class="usa-link">Figure 4</a> shows the major distal kidney transport mechanisms for HCO<sub>3</sub><sup>−</sup> reclamation, regeneration, and generation (all linked to H<sup>+</sup> secretion) and also HCO<sub>3</sub><sup>−</sup> secretion (by type B intercalated cells).</p></section><section id="sec6"><h3 class="pmc_sec_title">Metabolic Alkalosis—Source of Excess HCO3<sup>−</sup>
+</h3>
+<p>Usually metabolic alkalosis indicates an accumulation of “excess” HCO<sub>3</sub><sup>−</sup>. The source of excess HCO<sub>3</sub><sup>−</sup> can be exogenous, endogenous, or both. Exogenous sources are Na<sup>+</sup> or K<sup>+</sup> HCO<sub>3</sub><sup>−</sup> salts or salts of precursors (organic anions such as lactate, acetate or citrate, which generate HCO<sub>3</sub><sup>−</sup> when completely oxidized). These salts can be ingested/absorbed or infused (<a href="#t1" class="usa-link">Table 1</a>).</p>
+<section class="tw xbox font-sm" id="t1"><h4 class="obj_head">Table 1.</h4>
+<div class="caption p"><p>Metabolic alkalosis: Mechanisms of generation</p></div>
+<div class="tbl-box p" tabindex="0"><table class="content" frame="hsides" rules="groups"><tbody>
+<tr><td rowspan="1" colspan="1">Ingest and absorb or infuse NaHCO<sub>3</sub> or NaHCO<sub>3</sub> precursors (<em>i.e.</em>, Na acetate, Na citrate, Na gluconate)</td></tr>
+<tr><td rowspan="1" colspan="1">Distal renal tubule HCO<sub>3</sub> generation through enhanced H<sup>+</sup> secretion</td></tr>
+<tr><td rowspan="1" colspan="1"> Generous delivery of NaCl (or other Na salts such as Na<sub>2</sub>SO<sub>4</sub> or Na penicillin) to distal tubules/collecting ducts, which are actively reabsorbing Na<sup>+</sup>
+</td></tr>
+<tr><td rowspan="1" colspan="1">K<sup>+</sup> depletion (shifting H<sup>+</sup> into cells)</td></tr>
+<tr><td rowspan="1" colspan="1">Remove HCl from body (vomiting/nasogastric suction/chloride-rich diarrhea)</td></tr>
+</tbody></table></div>
+<div class="p text-right font-secondary"><a href="table/t1/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div></section><p>The two potential endogenous sources of large amounts of HCO<sub>3</sub><sup>−</sup> are (<em>1</em>) the stomach and (<em>2</em>) the kidneys. Net endogenous HCO<sub>3</sub><sup>−</sup> generation requires H<sup>+</sup> removal from the body. HCO<sub>3</sub><sup>−</sup> is generated when HCl is secreted into gastric lumen, but net HCO<sub>3</sub><sup>−</sup> accumulation in the ECF requires the HCl to be lost externally, usually as a result of vomiting and/or suction (see section on gastric alkalosis).</p>
+<p>Normally, kidney H<sup>+</sup> excretion into the urine (as NH<sub>4</sub><sup>+</sup> and/or titratable acid) generates HCO<sub>3</sub><sup>−</sup> to replace the quantity decomposed by nonvolatile H<sup>+</sup> derived from dietary intake and metabolism and any HCO<sub>3</sub><sup>−</sup> lost in alkaline stool. To the extent kidney HCO<sub>3</sub><sup>−</sup> generation exceeds this requirement, “excess” HCO<sub>3</sub><sup>−</sup>is generated. This generally occurs when the following conditions coexist: (<em>1</em>) the kidney tubules/ducts beyond the early distal tubule are avidly reabsorbing Na<sup>+</sup> (for example, aldosterone activity is high), and (<em>2</em>) the delivery of salt and volume to these sites is relatively large.</p>
+<p>Clinical examples of kidney bicarbonate overproduction are:</p>
+<ol class="list" style="list-style-type:decimal">
+<li><p>Primary hyperaldosteronism (especially when a high-salt diet is ingested) and other mimics of primary hyperaldosteronism (<a href="#t2" class="usa-link">Table 2</a>).</p></li>
+<li><p>Loop and/or thiazide diuretics and several inherited syndromes that have diuretic like manifestations (<em>i.e.</em>, Bartter and Gitelman syndromes).</p></li>
+<li><p>The infusion of Na<sup>+</sup> salts of poorly absorbed anions (PO<sub>4</sub>, SO<sub>4</sub>, penicillin, <em>etc.</em>) if distal tubule Na<sup>+</sup> reabsorption is stimulated by mineralocorticoids and/or volume contraction (<a href="#B19" class="usa-link" aria-describedby="B19">19</a>,<a href="#B20" class="usa-link" aria-describedby="B20">20</a>).</p></li>
+</ol>
+<p>Another endogenous source of HCO<sub>3</sub><sup>−</sup> is the movement of K<sup>+</sup> from within cells into the ECF. In response to hypokalemia, K<sup>+ </sup>exit is partially balanced by movement of H<sup>+</sup> into cells and this generates ECF HCO<sub>3</sub><sup>−</sup> (<a href="#B21" class="usa-link" aria-describedby="B21">21</a>,<a href="#B22" class="usa-link" aria-describedby="B22">22</a>). ECF [HCO<sub>3</sub><sup>−</sup>] can also increase when the ECF volume contracts around a fixed quantity of HCO<sub>3</sub><sup>−</sup> (<a href="#B23" class="usa-link" aria-describedby="B23">23</a>) (see section on gastric alkalosis).</p>
+<section class="tw xbox font-sm" id="t2"><h4 class="obj_head">Table 2.</h4>
+<div class="caption p"><p>The metabolic alkaloses</p></div>
+<div class="tbl-box p" tabindex="0"><table class="content" frame="hsides" rules="groups"><tbody>
+<tr><td rowspan="1" colspan="1"><strong>ECF volume contracted: urine chloride concentration &lt;20 meq/L</strong></td></tr>
+<tr><td rowspan="1" colspan="1"> Gastric alkalosis: vomiting/nasogastric suction</td></tr>
+<tr><td rowspan="1" colspan="1"> Chloride-rich diarrhea (congenital chloridorrhea)</td></tr>
+<tr><td rowspan="1" colspan="1"> Status/postchronic hypercapnia (acute reversal of chronic respiratory acidosis)</td></tr>
+<tr><td rowspan="1" colspan="1"> Cystic fibrosis with major sweating</td></tr>
+<tr><td rowspan="1" colspan="1"> Thiazide or loop diuretics after renal tubule diuretic effect has dissipated</td></tr>
+<tr><td rowspan="1" colspan="1"> Some villous adenomas</td></tr>
+<tr><td rowspan="1" colspan="1"><strong>ECF volume expanded: urine chloride concentration &gt;20 meq/L</strong></td></tr>
+<tr><td rowspan="1" colspan="1"> Primary hyperaldosteronism (unilateral adenoma/bilateral hyperplasia/glucocorticoid-sensitive hyperaldosteronism)</td></tr>
+<tr><td rowspan="1" colspan="1"> Severe Cushing syndrome (especially because of ectopic ACTH)</td></tr>
+<tr><td rowspan="1" colspan="1"> Exogenous mineralocorticoids</td></tr>
+<tr><td rowspan="1" colspan="1"> Reduced 11-<em>β</em> (OH) steroid dehydrogenase activity</td></tr>
+<tr><td rowspan="1" colspan="1">  <em>Chronic licorice/carbenoxolone ingestion</em>
+</td></tr>
+<tr><td rowspan="1" colspan="1">  <em>Congenital AME syndrome (11-β HSD type 2 inactivating mutation)</em>
+</td></tr>
+<tr><td rowspan="1" colspan="1"> Renin-secreting tumors</td></tr>
+<tr><td rowspan="1" colspan="1"> Some forms of congenital adrenal hyperplasia</td></tr>
+<tr><td rowspan="1" colspan="1">  <em>11-β hydroxylase deficiency</em>
+</td></tr>
+<tr><td rowspan="1" colspan="1">  <em>17-α hydroxylase deficiency</em>
+</td></tr>
+<tr><td rowspan="1" colspan="1"> Liddle syndrome</td></tr>
+<tr><td rowspan="1" colspan="1"><strong>ECF volume contracted: but urine chloride concentration &gt;20 meq/L (generally indicates a renal tubule reabsorptive defect)</strong></td></tr>
+<tr><td rowspan="1" colspan="1"> Thiazide or loop diuretics actively working</td></tr>
+<tr><td rowspan="1" colspan="1"> Bartter syndrome (defective Na reabsorption in loop of Henle, furosemide-like lesion)</td></tr>
+<tr><td rowspan="1" colspan="1"> Gitelman syndrome (defective Na reabsorption at the thiazide-sensitive site)</td></tr>
+<tr><td rowspan="1" colspan="1"><strong>Metabolic alkalosis: other</strong></td></tr>
+<tr><td rowspan="1" colspan="1"> Severe potassium deficiency</td></tr>
+<tr><td rowspan="1" colspan="1"> Milk (calcium) alkali syndrome</td></tr>
+<tr><td rowspan="1" colspan="1"> NaHCO<sub>3</sub> loads with markedly reduced GFR</td></tr>
+<tr><td rowspan="1" colspan="1"> Refeeding after fasting</td></tr>
+</tbody></table></div>
+<div class="p text-right font-secondary"><a href="table/t2/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<div class="tw-foot p"><div class="fn" id="fn1"><p>ECF, extracellular fluid; ACTH, adrenocorticotropic hormone; AME, apparent mineralocorticoid excess; HSD, hydroxysteroid dehydrogenases</p></div></div></section></section><section id="sec7"><h3 class="pmc_sec_title">Maintenance of Metabolic Alkalosis</h3>
+<p>The various mechanisms responsible for the maintanence of metabolic alkalosis are shown in <a href="#t3" class="usa-link">Table 3</a>. If metabolic alkalosis develops and the GFR is not markedly reduced, correction of the alkalosis should be relatively straightforward: merely excrete a large fraction of the filtered HCO<sub>3</sub><sup>−</sup> (which should be supranormal because of the higher serum/filtered [HCO<sub>3</sub><sup>−</sup>]). A brisk HCO<sub>3</sub><sup>−</sup> diuresis would then reduce the [HCO<sub>3</sub><sup>−</sup>] and restore normal acid-base status. This obviously has not occurred when metabolic alkalosis persists. Why does the kidney not excrete HCO<sub>3</sub><sup>−</sup> and rapidly restore normal acid-base status? The answer to this question varies, depending on the underlying cause, and the precise explanations continue to be refined and debated.</p>
+<section class="tw xbox font-sm" id="t3"><h4 class="obj_head">Table 3.</h4>
+<div class="caption p"><p>Metabolic alkalosis: Mechanisms of maintenance</p></div>
+<div class="tbl-box p" tabindex="0"><table class="content" frame="hsides" rules="groups"><tbody>
+<tr><td rowspan="1" colspan="1">
+<strong>Increased proximal renal tubule HCO</strong><sub><strong>3</strong></sub><strong> reclamation</strong>
+</td></tr>
+<tr><td rowspan="1" colspan="1"> Extracellular fluid contraction</td></tr>
+<tr><td rowspan="1" colspan="1"> K<sup>+</sup> depletion</td></tr>
+<tr><td rowspan="1" colspan="1">
+<strong>Continuous or intermittent generation of new HCO</strong><sub><strong>3</strong></sub>
+</td></tr>
+<tr><td rowspan="1" colspan="1"> In distal kidney tubules and collecting ducts</td></tr>
+<tr><td rowspan="1" colspan="1"> Gastric HCl losses</td></tr>
+<tr><td rowspan="1" colspan="1"> Exogenous alkali</td></tr>
+<tr><td rowspan="1" colspan="1">
+<strong>Reduced HCO</strong><sub><strong>3</strong></sub><strong> filtration: reduced GFR/kidney failure</strong>
+</td></tr>
+</tbody></table></div>
+<div class="p text-right font-secondary"><a href="table/t3/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div></section><p>Normal individuals ingesting up to 1000 meq/d of NaHCO<sub>3</sub> for several weeks are able to efficiently excrete this load with a minimal increase in their serum [HCO<sub>3</sub><sup>−</sup>] (<a href="#B24" class="usa-link" aria-describedby="B24">24</a>). Consequently, when metabolic alkalosis develops and persists despite a relatively normal GFR, this indicates the kidney is reclaiming HCO<sub>3</sub><sup>−</sup> at a supranormal rate.</p>
+<p>Most patients with metabolic alkalosis have developed increased proximal HCO<sub>3</sub><sup>−</sup> reabsorption. The major stimulatory factors responsible are reduced intravascular, or effective arterial, blood volume, and hypokalemia (<a href="#B12" class="usa-link" aria-describedby="B12">12</a>). Metabolic acidosis and chronic respiratory acidosis also increase proximal tubule HCO<sub>3</sub><sup>−</sup> reabsorption, but these disorders are not relevant to the current discussion.</p>
+<p>Metabolic alkalosis is also usually associated with accelerated distal HCO<sub>3</sub><sup>−</sup> reabsorption and generation. Generous distal Na<sup>+</sup> delivery, combined with avid distal Na<sup>+</sup> reabsorption (for example, because of high aldosterone levels), accelerates distal H<sup>+</sup> and K<sup>+</sup> secretion. This occurs, in part, because distal Na<sup>+</sup> reabsorption, mainly <em>via</em> the epithelial sodium channel (ENaC) in principal cells, generates a lumen negative electric potential (potential difference [PD]=−40 mv), which drives paracellular and transcellular anion (mostly Cl<sup>−</sup>) reabsorption and enhances the secretion of H<sup>+</sup> and K<sup>+</sup>. Also, many neurohormonal stimuli of distal Na<sup>+</sup> absorption increase type A intercalated cell activity (<a href="#B25" class="usa-link" aria-describedby="B25">25</a>) (<a href="#fig4" class="usa-link">Figure 4</a>).</p>
+<p><a href="#fig5" class="usa-link">Figure 5</a> shows three types of intercalated cells. The type B intercalated cell secretes HCO<sub>3</sub><sup>−</sup> in exchange for Cl<sup>−</sup>, and can therefore contribute to the correction of metabolic alkalosis. However, generous distal delivery of Cl<sup>−</sup> is required to enable this cell to secrete major quantities of HCO<sub>3</sub><sup>−</sup>. Recent studies show that intercalated cells also play an important role in NaCl reabsorption and volume regulation (<a href="#B25" class="usa-link" aria-describedby="B25">25</a>–<a href="#B31" class="usa-link" aria-describedby="B31">31</a>) (discussed in the legend for <a href="#fig5" class="usa-link">Figure 5</a>).</p>
+<figure class="fig xbox font-sm" id="fig5"><h4 class="obj_head">Figure 5.</h4>
+<p class="img-box line-height-none margin-x-neg-2 tablet:margin-x-0 text-center"><a class="tileshop" target="_blank" href="https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=7769018_CJN.16041219f5.jpg"><img class="graphic zoom-in" src="https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8aa6/7769018/89edfc2c9939/CJN.16041219f5.jpg" loading="lazy" height="1488" width="685" alt="Figure 5."></a></p>
+<div class="p text-right font-secondary"><a href="figure/fig5/" class="usa-link" target="_blank" rel="noopener noreferrer">Open in a new tab</a></div>
+<figcaption><p><strong>Intercalated cells: Three different intercalated cell types have been identified: type A intercalated cells, type B intercalated cells, and non–type A/non–type B intercalated cells.</strong> Each is rich in carbonic anhydrase II and is capable of generating abundant HCO<sub>3</sub><sup>−</sup> and H<sup>+</sup> from H<sub>2</sub>CO<sub>3</sub>. Type A intercalated cells: H<sup>+</sup> is secreted into the lumen mainly <em>via</em> V-type H<sup>+</sup> ATPase and to a smaller extent <em>via</em> H<sup>+</sup>-K<sup>+</sup> ATPase. The generated cytoplasmic HCO<sub>3</sub><sup>−</sup> moves into the peritubular capillary in exchange for Cl<sup>−</sup>, <em>via</em> anion exchanger 1 (AE1; a product of the Solute Carrier Family 4 Member 1 or <em>SLC4A1</em> gene). This transporter is also called the “erythrocyte membrane protein band 3” in red blood cells. Type B intercalated cells: H<sup>+</sup> is secreted into the peritubular capillary by V-type H<sup>+</sup> ATPase in the basolateral membrane (the same proton transporter as found in type A intercalated cells, but in the opposite, or luminal, membrane). The HCO<sub>3</sub><sup>−</sup> generated in this cell is secreted into the lumen <em>via</em> an anion exchanger named Pendrin (a product of the Solute Carrier Family 26 Member A4 or <em>SLC26A4</em> gene) that exchanges one HCO<sub>3</sub><sup>−</sup> for one Cl<sup>−</sup>. Pendrin is a distinct and different exchanger than the AE1 in the type A cells that is present in the basolateral membrane. A Na<sup>+</sup>/3HCO<sub>3</sub><sup>−</sup> cotransporter AE4 (a product of the Solute Carrier Family 4 Member A4 or <em>SLC4A4</em> gene) is present in the basolateral membrane. These cells also have the sodium-driven bicarbonate chloride exchanger (NDBCE; a product of the Solute Carrier Family 4 Member A8 or <em>SLC4A8</em> gene) in the luminal membrane (see discussion below). Non–type A/non–type B intercalated cells: this is the third type of intercalated cell. Both a V-type H<sup>+</sup> ATPase, pumping H<sup>+</sup>, and Pendrin, exchanging HCO<sub>3</sub><sup>−</sup> for Cl<sup>−</sup>, coexist in the lumen membrane. The anion exchanger AE4 (a product of the Solute Carrier Family 4 Member A4 or <em>SLC4A4</em> gene) is a major Na<sup>+</sup>/3 HCO<sub>3</sub><sup>−</sup> transporter in the basolateral membrane, moving these ions into the peritubular capillary. Although intercalated cells were originally identified as major kidney acid base–regulating cells, it is now clear that these cells also play an important role in salt and volume regulation (<a href="#B42" class="usa-link" aria-describedby="B42">32</a>,<a href="#B43" class="usa-link" aria-describedby="B43">33</a>). The sodium-driven bicarbonate chloride exchanger (NDBCE) in the luminal membrane of the type B intercalated cells is an electrically neutral ion exchanger moving one Na<sup>+</sup> and two HCO<sub>3</sub><sup>−</sup> ions into the cell while moving one Cl<sup>−</sup> into the lumen. The net effect of two Pendrin cycles (two HCO<sub>3</sub><sup>−</sup> ions enter the lumen in exchange for uptake of two Cl<sup>−</sup> ions) and one NDBCE cycle (two HCO<sub>3</sub> ions and one Na<sup>+</sup> ion enter the cell and one Cl<sup>−</sup> ion enters the lumen) has the net effect of the reabsorption on one molecule of NaCl. These acid-base and salt reabsorption interactions of intercalated cells may explain why some patients with Pendred syndrome, a genetic defect of Pendrin, develop severe salt depletion and metabolic alkalosis when treated with thiazide diuretics (<a href="#B44" class="usa-link" aria-describedby="B44">34</a>).</p></figcaption></figure><p>When the GFR is markedly reduced, metabolic acidosis usually develops. However, occasionally, metabolic alkalosis occurs and then the HCO<sub>3</sub><sup>−</sup> load cannot be excreted because of the reduced GFR. Kidney dysfunction contributes to the maintenance of metabolic alkalosis in several syndromes, including milk-alkali or calcium-alkali syndrome (<a href="#B32" class="usa-link" aria-describedby="B32">35</a>) and bicarbonate ingestion or vomiting by patients with severe kidney dysfunction (<a href="#B33" class="usa-link" aria-describedby="B33">36</a>).</p></section></section><section id="s5"><h2 class="pmc_sec_title">The Metabolic Alkaloses: Etiology on the Basis of ECF Volume Status</h2>
+<p>The generation, maintenance, and resolution of “classic” examples of metabolic alkalosis in each ECF volume status category are described below.</p>
+<section id="sec9"><h3 class="pmc_sec_title">ECF Volume Contracted</h3>
+<section id="sec10"><h4 class="pmc_sec_title">Classic Example: Gastric Alkalosis.</h4>
+<section id="sec11"><h5 class="pmc_sec_title">Generation.</h5>
+<p>Gastric fluid osmolality is about 300 mosm/L with a [Cl<sup>−</sup>] of about 150 meq/L and total cations of about 150 meq/L. The [H<sup>+</sup>] typically varies between 40 and 140 meq/L, [K<sup>+</sup>] varies between 10 and 15 meq/L, and [Na<sup>+</sup>] makes up the balance (<a href="#B34" class="usa-link" aria-describedby="B34">37</a>). Secretion of HCl (<em>via</em> gastric type H<sup>+</sup>/K<sup>+</sup> ATPase) into the gastric lumen generates equimolar addition of HCO<sub>3</sub> to the ECF. Normally, gastric HCl secretion does not produce metabolic alkalosis because the acid is not lost from the body. The HCl leaves the stomach and enters the small bowel, where H<sup>+</sup> is neutralized by HCO<sub>3</sub><sup>−</sup> mainly secreted by the pancreas (with a smaller component from bile and intestinal epithelium). This generates CO<sub>2</sub> and water. The secretion of HCO<sub>3</sub><sup>−</sup> adds H<sup>+</sup> to the body fluids. Because the quantity of HCO<sub>3</sub><sup>−</sup> secreted into the small bowel equals the quantity of H<sup>+</sup> delivered from the stomach, these two processes neutralize one another. However, removal of the gastric HCl from the body, by vomiting or tube suction, prevents the HCl from reaching the small bowel. Consequently, HCO<sub>3</sub><sup>−</sup> is not secreted into the intestinal lumen so that a gastric-derived HCO<sub>3</sub><sup>−</sup> bolus is added to the ECF and an equal quantity of Cl<sup>−</sup> is removed from the body. Later in the development of gastric alkalosis, a K<sup>+</sup>/H<sup>+</sup> cell shift also generates additional HCO<sub>3</sub><sup>−</sup> (described below).</p></section><section id="sec12"><h5 class="pmc_sec_title">Maintenance.</h5>
+<p>Initially, much of the HCO<sub>3</sub><sup>−</sup> added to the ECF (after vomiting or gastric suction) is filtered and excreted by the kidneys largely as NaHCO<sub>3</sub>. The loss of gastric fluid combines with kidney loss of NaHCO<sub>3</sub> and fluid to generate ECF volume contraction: GFR falls and kidney salt and fluid retention are stimulated. Distal delivery of Na<sup>+</sup> and HCO<sub>3</sub><sup>−</sup>, linked with secondary hyperaldosteronism, increases the fraction of HCO<sub>3</sub><sup>−</sup> excreted as KHCO<sub>3</sub> (<a href="#B35" class="usa-link" aria-describedby="B35">40</a>). Hypokalemia shifts K<sup>+</sup> out of, and H<sup>+</sup> into, cells generating ECF HCO<sub>3</sub><sup>−</sup> (<a href="#B21" class="usa-link" aria-describedby="B21">21</a>,<a href="#B22" class="usa-link" aria-describedby="B22">22</a>). The resulting intracellular acidification of kidney tubule cells stimulates HCO<sub>3</sub><sup>−</sup> reclamation and generation. Hypokalemia also reduces pendrin activity and type B intercalated cell density, which further limits HCO<sub>3</sub><sup>−</sup> secretion (<a href="#B30" class="usa-link" aria-describedby="B30">30</a>,<a href="#B31" class="usa-link" aria-describedby="B31">31</a>).</p>
+<p>ECF contraction generates proximal and distal Na<sup>+</sup> reabsorption and HCO<sub>3</sub><sup>−</sup> reclamation. Distally, Na<sup>+</sup> reabsorption increases H<sup>+</sup> and K<sup>+</sup> secretion. K<sup>+</sup> depletion also increases H<sup>+</sup> secretion by type A intercalated cells <em>via</em> both H<sup>+</sup> ATPase and H/K ATPase pumps (<a href="#fig3" class="usa-link">Figures 3</a> and <a href="#fig4" class="usa-link">4</a>), and increases kidney NH<sub>3</sub> generation and excretion (<a href="#B36" class="usa-link" aria-describedby="B36">38</a>,<a href="#B37" class="usa-link" aria-describedby="B37">39</a>).</p>
+<p>During the maintenance phase, the urine electrolyte pattern fluctuates. Generally, filtered Na<sup>+</sup>, K<sup>+</sup>, HCO<sub>3</sub><sup>−</sup>, Cl<sup>−</sup>, and water are avidly reabsorbed, generating concentrated, electrolyte-poor, and relatively acid (denoted as “paradoxical aciduria” because metabolic alkalosis exists) urine. However, intermittently (for example, immediately after loss of a large bolus of gastric fluid), the serum [HCO<sub>3</sub><sup>−</sup>] acutely increases, and for a period of time, the larger load of filtered HCO<sub>3</sub><sup>−</sup> cannot be completely reclaimed despite the multiple stimulatory factors described previously. When this occurs, the urine [HCO<sub>3</sub><sup>−</sup>], [Na<sup>+</sup>], [K<sup>+</sup>], and pH all temporarily increase. Subsequently, the serum [HCO<sub>3</sub><sup>−</sup>] declines, the ECF volume contracts further, and filtered NaHCO<sub>3</sub> is completely reclaimed. Urine electrolyte concentrations and pH again fall. However, it is important to note that throughout these cyclic variations, the urine [Cl<sup>−</sup>] remains low. Thus, a low urine [Cl<sup>−</sup>] (&lt;20 meq/L) generally indicates the kidney’s ongoing response to reduced ECF volume or intra-arterial blood volume.</p></section><section id="sec13"><h5 class="pmc_sec_title">Resolution.</h5>
+<p>The factors responsible for kidney HCO<sub>3</sub><sup>−</sup> retention are reversed by adequate ECF volume expansion (NaCl infusion) and KCl repletion. Adequate restoration of ECF volume is signified by rising urine [Cl<sup>−</sup>] and the development of a NaHCO<sub>3</sub> diuresis. K<sup>+</sup> replacement moves K<sup>+</sup> into, and H<sup>+</sup> out of, cells into the ECF, simultaneously reducing the [HCO<sub>3</sub><sup>−</sup>] and increasing intracellular pH. The urine electrolyte profiles discussed above presume relatively intact kidney tubule function and the absence of diuretic activity.</p>
+<p>The term “contraction alkalosis” has been used to describe several different disorders in which the ECF “contracts” around a relatively fixed quantity of HCO<sub>3</sub><sup>−</sup>. Although gastric alkalosis is an ECF volume-“contracted” condition and the ECF contraction contributes importantly to both its pathogenesis and maintenance, the major cause of the blood [HCO<sub>3</sub><sup>−</sup>] increase is not shrinkage of the ECF <em>per se</em>, but rather generation of HCO<sub>3</sub><sup>−</sup> owing to gastric HCl loss and cellular H<sup>+</sup>-K<sup>+</sup> shifts (<a href="#B21" class="usa-link" aria-describedby="B21">21</a>–<a href="#B23" class="usa-link" aria-describedby="B23">23</a>,<a href="#B35" class="usa-link" aria-describedby="B35">40</a>). Conversely, although expansion of the ECF with NaCl does dilute the ECF [HCO<sub>3</sub><sup>−</sup>] to a small degree, its correcting action in these patients is mainly a result of kidney HCO<sub>3</sub><sup>−</sup> excretion.</p>
+<p>Reducing or stopping the loss of gastric HCl is of course critical for reversing the process at its initiation point. However, if the gastric fluid losses cannot be stopped, then reducing the gastric fluid [HCl] concentration with an H<sub>2</sub> blocker or proton pump inhibitor can be helpful (<a href="#B38" class="usa-link" aria-describedby="B38">41</a>).</p>
+<p><a href="#t2" class="usa-link">Table 2</a> lists the most common forms of ECF volume-contracted metabolic alkalosis. The urine [Cl<sup>−</sup>] is typically reduced to &lt;20 meq/L.</p></section></section></section><section id="sec14"><h3 class="pmc_sec_title">ECF Volume Expanded</h3>
+<section id="sec15"><h4 class="pmc_sec_title">Classic Example: Primary Mineralocorticoid Excess Syndromes.</h4>
+<p>Primary hyperaldosteronism is a condition of autonomous, or inappropriately upregulated, aldosterone secretion. This generates ECF volume expansion, hypertension, hypokalemia, and metabolic alkalosis. A unilateral adrenal adenoma secreting aldosterone is the prototypical cause of this disorder, but many conditions can mimic the electrolyte and acid-base pathophysiology of primary hyperaldosteronism (<a href="#t2" class="usa-link">Table 2</a>).</p></section><section id="sec16"><h4 class="pmc_sec_title">ECF Volume Regulation of Renin and Aldosterone (Normal Physiology).</h4>
+<p>The reabsorption of Na<sup>+</sup> in late distal tubules/collecting ducts is mainly accomplished by principal cells (<a href="#fig4" class="usa-link">Figure 4</a>) through ENaC pores in the luminal membranes. When these pores are open, the electrochemical gradient favors reabsorption of Na<sup>+</sup>. This generates a lumen negative electrical potential (−40 mv) that drives both chloride reabsorption and secretion of K<sup>+</sup> and H<sup>+</sup>.</p>
+<p>ECF volume contraction in normal individuals reduces the GFR and sharply increases the reabsorption of NaCl and NaHCO<sub>3</sub> in the proximal tubules. Volume contraction also generates secondary hyperaldosteronism (high aldosterone activity driven by high renin and angiotensin II activity). The result of these coordinated actions is that the potent aldosterone-driven stimulus to reabsorb Na<sup>+</sup> in the distal/collecting tubules is coordinated with increased proximal reabsorption, which sharply reduces distal salt and water delivery. Consequently, reduced Na<sup>+</sup> delivery to aldosterone-sensitive sites blunts the magnitude of Na<sup>+</sup> reabsorption and the indirectly linked secretion of K<sup>+</sup> and H<sup>+</sup>. The opposite occurs in response to ECF volume expansion in normal individuals—the GFR increases, proximal salt and water reabsorption fall, and generous distal salt and water delivery ensues. Simultaneously, renin angiotensin II and aldosterone levels fall. Now despite generous distal salt and water delivery, low aldosterone levels downmodulate distal Na<sup>+</sup> reabsorption, and indirectly linked K<sup>+</sup> and H<sup>+</sup> secretion. This describes the normal reciprocal physiologic balance that exists between the magnitude of distal delivery of salt and water and neuro-hormonal stimulation of distal Na<sup>+</sup> reabsorption and K<sup>+</sup> and H<sup>+</sup> secretion. This exquisite reciprocal balance is disrupted by autonomous aldosterone secretion (<a href="#B12" class="usa-link" aria-describedby="B12">12</a>,<a href="#B39" class="usa-link" aria-describedby="B39">42</a>).</p>
+<section id="sec17"><h5 class="pmc_sec_title">Generation.</h5>
+<p>Autonomous hyperaldosteronism increases distal Na<sup>+</sup> reabsorption, expanding the ECF. This expansion raises the GFR and reduces proximal tubule salt and water reabsorption. Generous distal salt and water delivery ensue. This results in inappropriately high aldosterone activity combining with generous distal tubule salt and water delivery. This combination represents pathophysiology and high rates of Na<sup>+</sup> reabsorption, and indirectly linked K<sup>+</sup> and H<sup>+</sup> secretion ensue. Excretion of K<sup>+</sup> and H<sup>+</sup> exceeds physiologic requirements, generating hypokalemia and metabolic alkalosis. The development of hypokalemia and K<sup>+</sup> depletion contribute importantly to HCO<sub>3</sub><sup>−</sup> generation when K<sup>+</sup> shifts out of cells in exchange for H<sup>+</sup> (<a href="#B22" class="usa-link" aria-describedby="B22">22</a>), and kidney H<sup>+</sup> secretion and ammonia excretion increases. Additionally, hypokalemia increases proximal tubule HCO<sub>3</sub><sup>− </sup>reclaimation and H<sup>+</sup>/K<sup>+</sup> ATPase activity in type A intercalated cells (<a href="#B25" class="usa-link" aria-describedby="B25">25</a>,<a href="#B27" class="usa-link" aria-describedby="B27">27</a>).</p></section><section id="sec18"><h5 class="pmc_sec_title">Maintenance Phase.</h5>
+<p>Usually, expansion of the ECF reduces proximal salt reabsorption and HCO<sub>3</sub><sup>−</sup> reclamation and simultaneously reduces renin, angiotensin II, and aldosterone levels. Consequently, distal Na<sup>+</sup> reabsorption and K<sup>+</sup> and H<sup>+</sup> secretion remain modest despite high delivery rates. However, when autonomous aldosterone secretion combines with generous distal salt delivery, inappropriately high levels of distal Na<sup>+</sup> reabsorption and K<sup>+</sup> and H<sup>+</sup> excretion develop. As hypokalemia and K<sup>+</sup> depletion ensue, they contribute importantly to both additional HCO<sub>3</sub><sup>−</sup> generation and kidney HCO<sub>3</sub><sup>−</sup> reclamation <em>via</em> systemic K<sup>+</sup>/H<sup>+</sup> cell shifts and acidification of kidney tubule cells. Hypokalemia also increases H<sup>+</sup>/K<sup>+</sup>-ATPase activity in type A intercalated cells (<a href="#fig4" class="usa-link">Figures 4</a> and <a href="#fig5" class="usa-link">5</a>) (<a href="#B25" class="usa-link" aria-describedby="B25">25</a>,<a href="#B27" class="usa-link" aria-describedby="B27">27</a>). Furthermore, aldosterone also increases salt reabsorption <em>via</em> a sequence of pendrin-related events (<a href="#fig5" class="usa-link">Figure 5</a>) (<a href="#B28" class="usa-link" aria-describedby="B28">28</a>). During the maintenance phase of autonomous hyperaldosteronism, the urine electrolytes reflect the patient’s salt intake. Thus, the urine [Cl<sup>−</sup>] will generally be &gt;20 meq/L.</p></section><section id="sec19"><h5 class="pmc_sec_title">Recovery Phase.</h5>
+<p>Successful resection of an adrenal aldosterone secreting adenoma generally reverses the entire syndrome. However, if hypertension has existed for a long period of time, it may persist because of structural vascular pathology. In lieu of surgery, drugs that block the action of aldosterone can be very helpful. The physical and biochemical manifestations of primary hyperaldosteronism can also be ameliorated by ingestion of a very-low-salt diet, which reduces distal salt delivery, blunting H<sup>+</sup> and K<sup>+</sup> loss. Conversely, the physical findings and electrolyte abnormalities are exacerbated by a high-salt diet (<a href="#B39" class="usa-link" aria-describedby="B39">42</a>,<a href="#B40" class="usa-link" aria-describedby="B40">43</a>). Analagously, other mineralocorticoid excess syndromes and mineralocorticoid excess-like syndromes can sometimes be reversed or cured at their source and/or treated by blocking downstream pathophysiology.</p></section></section></section><section id="sec20"><h3 class="pmc_sec_title">ECF Volume Contracted: Diuretic and Diuretic-Like Etiologies</h3>
+<section id="sec21"><h4 class="pmc_sec_title">Classic Example: Thiazide and/or Loop Diuretics.</h4>
+<p>Thiazide and/or loop diuretics very frequently generate hypokalemia and metabolic alkalosis. Despite development of a relatively contracted ECF, or effective arterial blood volume, the generation and maintenance mechanisms of this condition has many similarities to the ECF volume-expanded condition of primary hyperaldosteronism (<a href="#B39" class="usa-link" aria-describedby="B39">42</a>). That is because increased distal salt and volume delivery (due to the diuretics) combine with activation of the renin angiotensin II-aldosterone axis.</p>
+<section id="sec22"><h5 class="pmc_sec_title">Generation.</h5>
+<p>Inhibition of the Na/K/2Cl cotransporter (NKCC2) in the thick limb of Henle by loop diuretics and/or inhibition of the neutral Na/Cl cotransporter (NCC) in the diluting segment by thiazide diuretics increases NaCl and volume delivery to more distal sites. Diuretics also generally increase renin, angiotensin II, and aldosterone levels, generating a state of secondary hyperaldosteronism. In the absence of diuretics, secondary hyperaldosteronism is typically associated with reduced distal salt and volume delivery, which limits the magnitude of distal Na<sup>+</sup> reabsorption (and thereby H<sup>+</sup> and K<sup>+</sup> secretion). However, diuretics generate a state of secondary hyperaldosteronism linked with generous distal tubule Na<sup>+</sup> and volume delivery. Therefore, enhanced distal Na<sup>+</sup> reabsorption <em>via</em> principal cell ENaCs occurs together with generous distal Na<sup>+</sup> and volume delivery, accelerating distal H<sup>+</sup> and K<sup>+</sup> secretion and generating metabolic alkalosis and hypokalemia. Hypokalemia also generates additional ECF HCO<sub>3</sub><sup>−</sup>
+<em>via</em> cellular H<sup>+</sup>/K<sup>+</sup> exchange, which also stimulates distal H<sup>+</sup> secretion. During periods of diuretic activity, urine [Na<sup>+</sup>] and [Cl<sup>−</sup>] are both high. However, diuretic action is generally intermittent, and periods of diuretic activity cycle with periods of inactivity and recovery. During the “off-diuretic” phases, avid kidney salt reabsorption markedly reduces distal NaCl delivery, limiting principal cell Na<sup>+</sup> reabsorption and distal K<sup>+</sup> and H<sup>+</sup> secretion. Now, urine [Cl<sup>−</sup>] and [Na<sup>+</sup>] fall to low levels, reflecting the relative ECF-contracted state. Thus, the urine [Cl<sup>−</sup>] and [Na<sup>+</sup>] cycle up and down depending on the level of diuretic activity. In contrast, diuretic-mimicking disorders such as Bartter and Gitelman syndromes are characterized by persistent, high urine [Cl<sup>−</sup>] because they never develop an “off-diuretic-like” period.</p></section><section id="sec23"><h5 class="pmc_sec_title">Maintenance.</h5>
+<p>Again, many similarities to the maintenance mechanisms described for primary hyperaldosteronism exist. Hypokalemia increases both proximal and distal tubule H<sup>+</sup> and NH<sub>4</sub><sup>+</sup> secretion. ECF and/or effective intra-arterial volume is reduced, generating a neurohormonal cascade that increases proximal tubule NaCl and HCO<sub>3</sub><sup>−</sup> reclamation. Periods of diuretic activity deliver salt and volume to distal segments that are responding to hyperaldosteronism. These generation and maintenance phases cycle as diuretic activity waxes and wanes.</p></section><section id="sec24"><h5 class="pmc_sec_title">Recovery Phase.</h5>
+<p>Stopping the diuretic markedly reduces distal delivery of salt and volume so that HCO<sub>3</sub><sup>−</sup> generation ceases. However, metabolic alkalosis will not resolve unless potent stimuli that accelerate proximal and distal salt reabsorption can be reduced or eliminated. Therefore, if diuretics were initiated to treat avid salt retention generated by heart failure or cirrhosis, the metabolic alkalosis generally persists until the underlying disorder can be ameliorated. Reversing hypokalemia and K<sup>+</sup> depletion is also important. If the clinical situation mandates continuing diuretics despite severe metabolic alkalosis, the addition of potassium sparing (triamterene, spironolactone, <em>etc</em>.) or “acidifying” (acetazolamide) diuretics can be helpful. Note, however, that acetazolamide often generates marked K<sup>+</sup> wasting, so aggressive K<sup>+</sup> supplementation is generally required (<a href="#B41" class="usa-link" aria-describedby="B41">44</a>).</p>
+<p>All three types of intercalated cells located in the distal tubule/collecting ducts not only play a major role in acid/base regulation, but also participate in volume regulation and NaCl balance (<a href="#B42" class="usa-link" aria-describedby="B42">32</a>,<a href="#B43" class="usa-link" aria-describedby="B43">33</a>). These cells may be especially important in moderating the development of metabolic alkalosis in patients receiving thiazide diuretics (<a href="#B44" class="usa-link" aria-describedby="B44">34</a>) (<a href="#fig5" class="usa-link">Figure 5</a>).</p></section><section id="sec25"><h5 class="pmc_sec_title">Diagnostic Approach.</h5>
+<p>When the cause of metabolic alkalosis is not readily apparent from the history and physical examination, then it is very helpful to categorize the disorder on the basis of the patient’s kidney function and volume status. If the GFR is markedly reduced and major acidic gastrointestinal fluid losses do not exist, a source of exogenous bicarbonate loading should be sought. If the GFR is not markedly reduced, then carefully assess volume status with history, physical examination, and a spot urine [Cl<sup>−</sup>] measurement. A urine [Cl<sup>−</sup>] &lt;20 meq/L is consistent with a reduced ECF or effective intra-arterial volume, whereas a urine [Cl<sup>−</sup>] &gt;20 meq/L suggests an expanded state. Consider the diagnoses in <a href="#t2" class="usa-link">Table 2</a>. However, recognize that diuretic-generated metabolic alkaloses are characterized by cyclic changes in urine [Cl<sup>−</sup>] as the diuretic effect waxes and wanes. In general, widely varying urine [Cl<sup>−</sup>] changes indicate diuretic use (which some patients may deny).</p>
+<p>Metabolic alkalosis is a very common disorder. This brief review provides a diagnostic and therapeutic framework using an ECF volume-oriented physiologic approach to the generation, maintenance, and resolution of this disorder. Space limitations preclude in-depth discussion of many fascinating clinical metabolic alkalosis syndromes and a number of recent physiologic and pathophysiologic discoveries that enhance our understanding of this disorder.</p></section></section></section></section><section id="s6"><h2 class="pmc_sec_title">Disclosures</h2>
+<p>The author has nothing to disclose.</p></section><section id="s7"><h2 class="pmc_sec_title">Funding</h2>
+<p>None.</p></section><section id="fn-group1" class="fn-group"><h2 class="pmc_sec_title">Footnotes</h2>
+<div class="fn-group p font-secondary-light font-sm"><div class="fn p" id="fn2"><p>Published online ahead of print. Publication date available at <a href="http://www.cjasn.org" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">www.cjasn.org</a>.</p></div></div></section><section id="ref-list1" class="ref-list"><h2 class="pmc_sec_title">References</h2>
+<section id="ref-list1_sec2"><ul class="ref-list font-sm" style="list-style-type:none">
+<li id="B1">
+<span class="label">1.</span><cite>Kraut JA, Lew V, Madias NE: Re-evaluation of total CO2 concentration in apparently healthy younger adults. Am J Nephrol
+48: 15–20, 2018. 
+</cite> [<a href="https://doi.org/10.1159/000489965" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC6092200/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/29990967/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Am%20J%20Nephrol&amp;title=Re-evaluation%20of%20total%20CO2%20concentration%20in%20apparently%20healthy%20younger%20adults&amp;author=JA%20Kraut&amp;author=V%20Lew&amp;author=NE%20Madias&amp;volume=48&amp;publication_year=2018&amp;pages=15-20&amp;pmid=29990967&amp;doi=10.1159/000489965&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="bib45">
+<span class="label">2.</span><cite>Maehle K, Haug B, Flaatten H, Nielsen E: Metabolic alkalosis is the most common acid-base disorder in ICU patients. Critical Care
+28[14]: 420–420, 2014. 
+10.1186/cc13802
+</cite> [<a href="https://doi.org/10.1186/cc13802" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC4056091/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/25001067/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Critical%20Care&amp;title=Metabolic%20alkalosis%20is%20the%20most%20common%20acid-base%20disorder%20in%20ICU%20patients&amp;author=K%20Maehle&amp;author=B%20Haug&amp;author=H%20Flaatten&amp;author=E%20Nielsen&amp;volume=28&amp;issue=14&amp;publication_year=2014&amp;pages=420-420&amp;pmid=25001067&amp;doi=10.1186/cc13802&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B2">
+<span class="label">3.</span><cite>Javaheri S, Kazemi H: Metabolic alkalosis and hypoventilation in humans. Am Rev Respir Dis
+136: 1011–1016, 1987</cite> [<a href="https://doi.org/10.1164/ajrccm/136.4.1011" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/3116894/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Am%20Rev%20Respir%20Dis&amp;title=Metabolic%20alkalosis%20and%20hypoventilation%20in%20humans&amp;author=S%20Javaheri&amp;author=H%20Kazemi&amp;volume=136&amp;publication_year=1987&amp;pages=1011-1016&amp;pmid=3116894&amp;doi=10.1164/ajrccm/136.4.1011&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B3">
+<span class="label">4.</span><cite>Feldman M, Alvarez NM, Trevino M, Weinstein GL: Respiratory compensation to a primary metabolic alkalosis in humans. Clin Nephrol
+78: 365–369, 2012. 
+</cite> [<a href="https://doi.org/10.5414/CN107631" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/22854166/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Clin%20Nephrol&amp;title=Respiratory%20compensation%20to%20a%20primary%20metabolic%20alkalosis%20in%20humans&amp;author=M%20Feldman&amp;author=NM%20Alvarez&amp;author=M%20Trevino&amp;author=GL%20Weinstein&amp;volume=78&amp;publication_year=2012&amp;pages=365-369&amp;pmid=22854166&amp;doi=10.5414/CN107631&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B4">
+<span class="label">5.</span><cite>Adrogué HJ, Madias NE: Secondary responses to altered acid-base status: The rules of engagement. J Am Soc Nephrol
+21: 920–923, 2010. 
+</cite> [<a href="https://doi.org/10.1681/ASN.2009121211" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/20431042/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Am%20Soc%20Nephrol&amp;title=Secondary%20responses%20to%20altered%20acid-base%20status:%20The%20rules%20of%20engagement&amp;author=HJ%20Adrogu%C3%A9&amp;author=NE%20Madias&amp;volume=21&amp;publication_year=2010&amp;pages=920-923&amp;pmid=20431042&amp;doi=10.1681/ASN.2009121211&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B5">
+<span class="label">6.</span><cite>Hamm LL, DuBose, TD. Chapter 16. In: Brenner and Rector’s The Kidney, 11th Ed., edited by Yu A, Chertow G, Luyckx V, Marsden P, Skorecki K, Taal M, Philadelphia, PA, Elsevier, 2019, pp 496–536</cite> [<a href="https://scholar.google.com/scholar_lookup?title=Brenner%20and%20Rector%E2%80%99s%20The%20Kidney&amp;author=LL%20Hamm&amp;publication_year=2019&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B7">
+<span class="label">7.</span><cite>Emmett M, Narins RG: Clinical use of the anion gap. Medicine (Baltimore)
+56: 38–54, 1977. 
+</cite> [<a href="https://pubmed.ncbi.nlm.nih.gov/401925/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Medicine%20(Baltimore)&amp;title=Clinical%20use%20of%20the%20anion%20gap&amp;author=M%20Emmett&amp;author=RG%20Narins&amp;volume=56&amp;publication_year=1977&amp;pages=38-54&amp;pmid=401925&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B8">
+<span class="label">8.</span><cite>Emmett M, Seldin DW: Evaluation of acid-base disorders from plasma composition In: The Regulation of Acid-Base Balance, edited by Seldin DW, Giebisch G, New York, Raven Press, 1989, pp 213–263</cite> [<a href="https://scholar.google.com/scholar_lookup?title=The%20Regulation%20of%20Acid-Base%20Balance&amp;author=M%20Emmett&amp;author=DW%20Seldin&amp;publication_year=1989&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B9">
+<span class="label">9.</span><cite>Madias NE, Ayus JC, Adrogué HJ: Increased anion gap in metabolic alkalosis: The role of plasma-protein equivalency. N Engl J Med
+300: 1421–1423, 1979</cite> [<a href="https://doi.org/10.1056/NEJM197906213002507" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/35749/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&amp;title=Increased%20anion%20gap%20in%20metabolic%20alkalosis:%20The%20role%20of%20plasma-protein%20equivalency&amp;author=NE%20Madias&amp;author=JC%20Ayus&amp;author=HJ%20Adrogu%C3%A9&amp;volume=300&amp;publication_year=1979&amp;pages=1421-1423&amp;pmid=35749&amp;doi=10.1056/NEJM197906213002507&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B10">
+<span class="label">10.</span><cite>Adrogué HJ, Brensilver J, Madias NE: Changes in the plasma anion gap during chronic metabolic acid-base disturbances. Am J Physiol
+235: F291–F297, 1978</cite> [<a href="https://doi.org/10.1152/ajprenal.1978.235.4.F291" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/29493/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Am%20J%20Physiol&amp;title=Changes%20in%20the%20plasma%20anion%20gap%20during%20chronic%20metabolic%20acid-base%20disturbances&amp;author=HJ%20Adrogu%C3%A9&amp;author=J%20Brensilver&amp;author=NE%20Madias&amp;volume=235&amp;publication_year=1978&amp;pages=F291-F297&amp;pmid=29493&amp;doi=10.1152/ajprenal.1978.235.4.F291&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B11">
+<span class="label">11.</span><cite>Byrne AL, Bennett M, Chatterji R, Symons R, Pace NL, Thomas PS: Peripheral venous and arterial blood gas analysis in adults: Are they comparable? A systematic review and meta-analysis. Respirology
+19: 168–175, 2014. 
+</cite> [<a href="https://doi.org/10.1111/resp.12225" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/24383789/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Respirology&amp;title=Peripheral%20venous%20and%20arterial%20blood%20gas%20analysis%20in%20adults:%20Are%20they%20comparable?%20A%20systematic%20review%20and%20meta-analysis&amp;author=AL%20Byrne&amp;author=M%20Bennett&amp;author=R%20Chatterji&amp;author=R%20Symons&amp;author=NL%20Pace&amp;volume=19&amp;publication_year=2014&amp;pages=168-175&amp;pmid=24383789&amp;doi=10.1111/resp.12225&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B12">
+<span class="label">12.</span><cite>Seldin DW, Rector FC Jr.: Symposium on acid-base homeostasis. The generation and maintenance of metabolic alkalosis. Kidney Int
+1: 306–321, 1972</cite> [<a href="https://doi.org/10.1038/ki.1972.43" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/4600132/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Kidney%20Int&amp;title=Symposium%20on%20acid-base%20homeostasis.%20The%20generation%20and%20maintenance%20of%20metabolic%20alkalosis&amp;author=DW%20Seldin&amp;author=FC%20Rector&amp;volume=1&amp;publication_year=1972&amp;pages=306-321&amp;pmid=4600132&amp;doi=10.1038/ki.1972.43&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B13">
+<span class="label">13.</span><cite>Luke RG, Galla JH: It is chloride depletion alkalosis, not contraction alkalosis. J Am Soc Nephrol
+23: 204–207, 2012. 
+</cite> [<a href="https://doi.org/10.1681/ASN.2011070720" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC3269186/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/22223876/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Am%20Soc%20Nephrol&amp;title=It%20is%20chloride%20depletion%20alkalosis,%20not%20contraction%20alkalosis&amp;author=RG%20Luke&amp;author=JH%20Galla&amp;volume=23&amp;publication_year=2012&amp;pages=204-207&amp;pmid=22223876&amp;doi=10.1681/ASN.2011070720&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B14">
+<span class="label">14.</span><cite>Rosen RA, Julian BA, Dubovsky EV, Galla JH, Luke RG: On the mechanism by which chloride corrects metabolic alkalosis in man. Am J Med
+84: 449–458, 1988. 
+</cite> [<a href="https://doi.org/10.1016/0002-9343(88)90265-3" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/2450456/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Am%20J%20Med&amp;title=On%20the%20mechanism%20by%20which%20chloride%20corrects%20metabolic%20alkalosis%20in%20man&amp;author=RA%20Rosen&amp;author=BA%20Julian&amp;author=EV%20Dubovsky&amp;author=JH%20Galla&amp;author=RG%20Luke&amp;volume=84&amp;publication_year=1988&amp;pages=449-458&amp;pmid=2450456&amp;doi=10.1016/0002-9343(88)90265-3&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B15">
+<span class="label">15.</span><cite>Galla JH, Bonduris DN, Luke RG: Effects of chloride and extracellular fluid volume on bicarbonate reabsorption along the nephron in metabolic alkalosis in the rat. Reassessment of the classical hypothesis of the pathogenesis of metabolic alkalosis. J Clin Invest
+80: 41–50, 1987. 
+</cite> [<a href="https://doi.org/10.1172/JCI113061" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC442199/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/3110214/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Invest&amp;title=Effects%20of%20chloride%20and%20extracellular%20fluid%20volume%20on%20bicarbonate%20reabsorption%20along%20the%20nephron%20in%20metabolic%20alkalosis%20in%20the%20rat.%20Reassessment%20of%20the%20classical%20hypothesis%20of%20the%20pathogenesis%20of%20metabolic%20alkalosis&amp;author=JH%20Galla&amp;author=DN%20Bonduris&amp;author=RG%20Luke&amp;volume=80&amp;publication_year=1987&amp;pages=41-50&amp;pmid=3110214&amp;doi=10.1172/JCI113061&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B16">
+<span class="label">16.</span><cite>Galla JH, Bonduris DN, Luke RG: Correction of acute chloride-depletion alkalosis in the rat without volume expansion. Am J Physiol
+244: F217–F221, 1983. 
+</cite> [<a href="https://doi.org/10.1152/ajprenal.1983.244.2.F217" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/6824081/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Am%20J%20Physiol&amp;title=Correction%20of%20acute%20chloride-depletion%20alkalosis%20in%20the%20rat%20without%20volume%20expansion&amp;author=JH%20Galla&amp;author=DN%20Bonduris&amp;author=RG%20Luke&amp;volume=244&amp;publication_year=1983&amp;pages=F217-F221&amp;pmid=6824081&amp;doi=10.1152/ajprenal.1983.244.2.F217&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B17">
+<span class="label">17.</span><cite>Norris SH, Kurtzman NA: Does chloride play an independent role in the pathogenesis of metabolic alkalosis?
+Semin Nephrol
+8: 101–108, 1988</cite> [<a href="https://pubmed.ncbi.nlm.nih.gov/3293134/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Semin%20Nephrol&amp;title=Does%20chloride%20play%20an%20independent%20role%20in%20the%20pathogenesis%20of%20metabolic%20alkalosis?&amp;author=SH%20Norris&amp;author=NA%20Kurtzman&amp;volume=8&amp;publication_year=1988&amp;pages=101-108&amp;pmid=3293134&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B18">
+<span class="label">18.</span><cite>Garella S, Cohen JJ, Northrup TE: Chloride-depletion metabolic alkalosis induces ECF volume depletion via internal fluid shifts in nephrectomized dogs. Eur J Clin Invest
+21: 273–279, 1991. 
+</cite> [<a href="https://doi.org/10.1111/j.1365-2362.1991.tb01370.x" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/1909630/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Eur%20J%20Clin%20Invest&amp;title=Chloride-depletion%20metabolic%20alkalosis%20induces%20ECF%20volume%20depletion%20via%20internal%20fluid%20shifts%20in%20nephrectomized%20dogs&amp;author=S%20Garella&amp;author=JJ%20Cohen&amp;author=TE%20Northrup&amp;volume=21&amp;publication_year=1991&amp;pages=273-279&amp;pmid=1909630&amp;doi=10.1111/j.1365-2362.1991.tb01370.x&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B19">
+<span class="label">19.</span><cite>Stinebaugh B, Miller RB, Relman AS: The influence of non-reabsorbable anions on acid excretion. Clin Sci
+36: 53–65, 1969. 
+</cite> [<a href="https://pubmed.ncbi.nlm.nih.gov/5783805/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Clin%20Sci&amp;title=The%20influence%20of%20non-reabsorbable%20anions%20on%20acid%20excretion&amp;author=B%20Stinebaugh&amp;author=RB%20Miller&amp;author=AS%20Relman&amp;volume=36&amp;publication_year=1969&amp;pages=53-65&amp;pmid=5783805&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B20">
+<span class="label">20.</span><cite>Zietse R, Zoutendijk R, Hoorn EJ: Fluid, electrolyte and acid-base disorders associated with antibiotic therapy. Nat Rev Nephrol
+5: 193–202, 2009</cite> [<a href="https://doi.org/10.1038/nrneph.2009.17" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/19322184/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Nat%20Rev%20Nephrol&amp;title=Fluid,%20electrolyte%20and%20acid-base%20disorders%20associated%20with%20antibiotic%20therapy&amp;author=R%20Zietse&amp;author=R%20Zoutendijk&amp;author=EJ%20Hoorn&amp;volume=5&amp;publication_year=2009&amp;pages=193-202&amp;pmid=19322184&amp;doi=10.1038/nrneph.2009.17&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B21">
+<span class="label">21.</span><cite>Halperin ML, Scheich A: Should we continue to recommend that a deficit of KCl be treated with NaCl? A fresh look at chloride-depletion metabolic alkalosis. Nephron
+67: 263–269, 1994</cite> [<a href="https://doi.org/10.1159/000187977" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/7936014/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Nephron&amp;title=Should%20we%20continue%20to%20recommend%20that%20a%20deficit%20of%20KCl%20be%20treated%20with%20NaCl?%20A%20fresh%20look%20at%20chloride-depletion%20metabolic%20alkalosis&amp;author=ML%20Halperin&amp;author=A%20Scheich&amp;volume=67&amp;publication_year=1994&amp;pages=263-269&amp;pmid=7936014&amp;doi=10.1159/000187977&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B22">
+<span class="label">22.</span><cite>Aronson PS, Giebisch G: Effects of pH on potassium: New explanations for old observations. J Am Soc Nephrol
+22: 1981–1989, 2011. 
+</cite> [<a href="https://doi.org/10.1681/ASN.2011040414" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC3231780/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/21980112/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Am%20Soc%20Nephrol&amp;title=Effects%20of%20pH%20on%20potassium:%20New%20explanations%20for%20old%20observations&amp;author=PS%20Aronson&amp;author=G%20Giebisch&amp;volume=22&amp;publication_year=2011&amp;pages=1981-1989&amp;pmid=21980112&amp;doi=10.1681/ASN.2011040414&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B23">
+<span class="label">23.</span><cite>Garella S, Chang BS, Kahn SI: Dilution acidosis and contraction alkalosis: Review of a concept. Kidney Int
+5: 279–283, 1975</cite> [<a href="https://doi.org/10.1038/ki.1975.114" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/536/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Kidney%20Int&amp;title=Dilution%20acidosis%20and%20contraction%20alkalosis:%20Review%20of%20a%20concept&amp;author=S%20Garella&amp;author=BS%20Chang&amp;author=SI%20Kahn&amp;volume=5&amp;publication_year=1975&amp;pages=279-283&amp;pmid=536&amp;doi=10.1038/ki.1975.114&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B24">
+<span class="label">24.</span><cite>Van Goidsenhoven GM, Gray OV, Price AV, Sanderson PH: The effect of prolonged administration of large doses of sodium bicarbonate in man. Clin Sci
+13: 383–401, 1954. 
+</cite> [<a href="https://pubmed.ncbi.nlm.nih.gov/13190687/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Clin%20Sci&amp;title=The%20effect%20of%20prolonged%20administration%20of%20large%20doses%20of%20sodium%20bicarbonate%20in%20man&amp;author=GM%20Van%20Goidsenhoven&amp;author=OV%20Gray&amp;author=AV%20Price&amp;author=PH%20Sanderson&amp;volume=13&amp;publication_year=1954&amp;pages=383-401&amp;pmid=13190687&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B25">
+<span class="label">25.</span><cite>Roy A, Al-bataineh MM, Pastor-Soler NM: Collecting duct intercalated cell function and regulation. Clin J Am Soc Nephrol
+10: 305–324, 2015</cite> [<a href="https://doi.org/10.2215/CJN.08880914" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC4317747/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/25632105/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Clin%20J%20Am%20Soc%20Nephrol&amp;title=Collecting%20duct%20intercalated%20cell%20function%20and%20regulation&amp;author=A%20Roy&amp;author=MM%20Al-bataineh&amp;author=NM%20Pastor-Soler&amp;volume=10&amp;publication_year=2015&amp;pages=305-324&amp;pmid=25632105&amp;doi=10.2215/CJN.08880914&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B26">
+<span class="label">26.</span><cite>Gueutin V, Vallet M, Jayat M, Peti-Peterdi J, Cornière N, Leviel F, Sohet F, Wagner CA, Eladari D, Chambrey R: Renal β-intercalated cells maintain body fluid and electrolyte balance. J Clin Invest
+123: 4219–4231, 2013. 
+</cite> [<a href="https://doi.org/10.1172/JCI63492" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC3784520/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/24051376/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Invest&amp;title=Renal%20%CE%B2-intercalated%20cells%20maintain%20body%20fluid%20and%20electrolyte%20balance&amp;author=V%20Gueutin&amp;author=M%20Vallet&amp;author=M%20Jayat&amp;author=J%20Peti-Peterdi&amp;author=N%20Corni%C3%A8re&amp;volume=123&amp;publication_year=2013&amp;pages=4219-4231&amp;pmid=24051376&amp;doi=10.1172/JCI63492&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B27">
+<span class="label">27.</span><cite>Wall SM: Recent advances in our understanding of intercalated cells. Curr OpinNephrol Hypertens
+14: 480–484, 2005</cite> [<a href="https://doi.org/10.1097/01.mnh.0000168390.04520.06" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/16046908/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Curr%20OpinNephrol%20Hypertens&amp;title=Recent%20advances%20in%20our%20understanding%20of%20intercalated%20cells&amp;author=SM%20Wall&amp;volume=14&amp;publication_year=2005&amp;pages=480-484&amp;pmid=16046908&amp;doi=10.1097/01.mnh.0000168390.04520.06&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B28">
+<span class="label">28.</span><cite>Soleimani M: SLC26 Cl-/HCO3- exchangers in the kidney: Roles in health and disease. Kidney Int
+84: 657–666, 2013. 
+</cite> [<a href="https://doi.org/10.1038/ki.2013.138" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC10947778/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/23636174/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Kidney%20Int&amp;title=SLC26%20Cl-/HCO3-%20exchangers%20in%20the%20kidney:%20Roles%20in%20health%20and%20disease&amp;author=M%20Soleimani&amp;volume=84&amp;publication_year=2013&amp;pages=657-666&amp;pmid=23636174&amp;doi=10.1038/ki.2013.138&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B29">
+<span class="label">29.</span><cite>Wall SM, Weinstein AM: Cortical distal nephron Cl(−) transport in volume homeostasis and blood pressure regulation. Am J Physiol Renal Physiol
+305: F427–F438, 2013</cite> [<a href="https://doi.org/10.1152/ajprenal.00022.2013" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC3891254/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/23637202/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Am%20J%20Physiol%20Renal%20Physiol&amp;title=Cortical%20distal%20nephron%20Cl(%E2%88%92)%20transport%20in%20volume%20homeostasis%20and%20blood%20pressure%20regulation&amp;author=SM%20Wall&amp;author=AM%20Weinstein&amp;volume=305&amp;publication_year=2013&amp;pages=F427-F438&amp;pmid=23637202&amp;doi=10.1152/ajprenal.00022.2013&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B30">
+<span class="label">30.</span><cite>Pham TD, Verlander JW, Wang Y, Romero CA, Yue Q, Chen C, Thumova M, Eaton DC, Lazo-Fernandez Y, Wall SM: Aldosterone regulates pendrin and epithelial sodium channel activity through intercalated cell mineralocorticoid receptor-dependent and -independent mechanisms over a wide range in serum potassium. J Am Soc Nephrol
+31: 483–499, 2020. 
+</cite> [<a href="https://doi.org/10.1681/ASN.2019050551" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC7062219/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/32054691/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Am%20Soc%20Nephrol&amp;title=Aldosterone%20regulates%20pendrin%20and%20epithelial%20sodium%20channel%20activity%20through%20intercalated%20cell%20mineralocorticoid%20receptor-dependent%20and%20-independent%20mechanisms%20over%20a%20wide%20range%20in%20serum%20potassium&amp;author=TD%20Pham&amp;author=JW%20Verlander&amp;author=Y%20Wang&amp;author=CA%20Romero&amp;author=Q%20Yue&amp;volume=31&amp;publication_year=2020&amp;pages=483-499&amp;pmid=32054691&amp;doi=10.1681/ASN.2019050551&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B31">
+<span class="label">31.</span><cite>Wagner CA, Finberg KE, Stehberger PA, Lifton RP, Giebisch GH, Aronson PS, Geibel JP: Regulation of the expression of the Cl-/anion exchanger pendrin in mouse kidney by acid-base status. Kidney Int
+62: 2109–2117, 2002. 
+</cite> [<a href="https://doi.org/10.1046/j.1523-1755.2002.00671.x" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/12427135/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Kidney%20Int&amp;title=Regulation%20of%20the%20expression%20of%20the%20Cl-/anion%20exchanger%20pendrin%20in%20mouse%20kidney%20by%20acid-base%20status&amp;author=CA%20Wagner&amp;author=KE%20Finberg&amp;author=PA%20Stehberger&amp;author=RP%20Lifton&amp;author=GH%20Giebisch&amp;volume=62&amp;publication_year=2002&amp;pages=2109-2117&amp;pmid=12427135&amp;doi=10.1046/j.1523-1755.2002.00671.x&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B42">
+<span class="label">32.</span><cite>Kleyman TR, Satlin LM, Hallows KR: Opening lines of communication in the distal nephron. J Clin Invest
+123: 4139–4141, 2013. 
+</cite> [<a href="https://doi.org/10.1172/JCI71944" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC3786722/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/24051382/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Clin%20Invest&amp;title=Opening%20lines%20of%20communication%20in%20the%20distal%20nephron&amp;author=TR%20Kleyman&amp;author=LM%20Satlin&amp;author=KR%20Hallows&amp;volume=123&amp;publication_year=2013&amp;pages=4139-4141&amp;pmid=24051382&amp;doi=10.1172/JCI71944&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B43">
+<span class="label">33.</span><cite>Soleimani M: The multiple roles of pendrin in the kidney. Nephrol Dial Transplant
+30: 1257–1266, 2015. 
+</cite> [<a href="https://doi.org/10.1093/ndt/gfu307" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC4513892/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/25281699/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Nephrol%20Dial%20Transplant&amp;title=The%20multiple%20roles%20of%20pendrin%20in%20the%20kidney&amp;author=M%20Soleimani&amp;volume=30&amp;publication_year=2015&amp;pages=1257-1266&amp;pmid=25281699&amp;doi=10.1093/ndt/gfu307&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B44">
+<span class="label">34.</span><cite>Pela I, Bigozzi M, Bianchi B: Profound hypokalemia and hypochloremic metabolic alkalosis during thiazide therapy in a child with Pendred syndrome. Clin Nephrol
+69: 450–453, 2008. 
+</cite> [<a href="https://doi.org/10.5414/cnp69450" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/18538122/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Clin%20Nephrol&amp;title=Profound%20hypokalemia%20and%20hypochloremic%20metabolic%20alkalosis%20during%20thiazide%20therapy%20in%20a%20child%20with%20Pendred%20syndrome&amp;author=I%20Pela&amp;author=M%20Bigozzi&amp;author=B%20Bianchi&amp;volume=69&amp;publication_year=2008&amp;pages=450-453&amp;pmid=18538122&amp;doi=10.5414/cnp69450&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B32">
+<span class="label">35.</span><cite>Patel AM, Goldfarb S: Got calcium? Welcome to the calcium-alkali syndrome. J Am Soc Nephrol
+21: 1440–1443, 2010. 
+</cite> [<a href="https://doi.org/10.1681/ASN.2010030255" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/20413609/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=J%20Am%20Soc%20Nephrol&amp;title=Got%20calcium?%20Welcome%20to%20the%20calcium-alkali%20syndrome&amp;author=AM%20Patel&amp;author=S%20Goldfarb&amp;volume=21&amp;publication_year=2010&amp;pages=1440-1443&amp;pmid=20413609&amp;doi=10.1681/ASN.2010030255&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B33">
+<span class="label">36.</span><cite>Huber L, Gennari FJ: Severe metabolic alkalosis in a hemodialysis patient. Am J Kidney Dis
+58: 144–149, 2011. 
+</cite> [<a href="https://doi.org/10.1053/j.ajkd.2011.03.016" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/21621890/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Am%20J%20Kidney%20Dis&amp;title=Severe%20metabolic%20alkalosis%20in%20a%20hemodialysis%20patient&amp;author=L%20Huber&amp;author=FJ%20Gennari&amp;volume=58&amp;publication_year=2011&amp;pages=144-149&amp;pmid=21621890&amp;doi=10.1053/j.ajkd.2011.03.016&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B34">
+<span class="label">37.</span><cite>Riddel MJ, Strong JA, Cameron D: The electrolyte concentration of human gastric secretion. Q J Exp Physiol
+65: 1–11, 1960</cite> [<a href="https://scholar.google.com/scholar_lookup?journal=Q%20J%20Exp%20Physiol&amp;title=The%20electrolyte%20concentration%20of%20human%20gastric%20secretion&amp;author=MJ%20Riddel&amp;author=JA%20Strong&amp;author=D%20Cameron&amp;volume=65&amp;publication_year=1960&amp;pages=1-11&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B36">
+<span class="label">38.</span><cite>Wall SM: Mechanisms of NH4+ and NH3 transport during hypokalemia. Acta Physiol Scand
+179: 325–330, 2003</cite> [<a href="https://doi.org/10.1046/j.0001-6772.2003.01212.x" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/14656369/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Acta%20Physiol%20Scand&amp;title=Mechanisms%20of%20NH4+%20and%20NH3%20transport%20during%20hypokalemia&amp;author=SM%20Wall&amp;volume=179&amp;publication_year=2003&amp;pages=325-330&amp;pmid=14656369&amp;doi=10.1046/j.0001-6772.2003.01212.x&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B37">
+<span class="label">39.</span><cite>DuBose TD Jr., Good DW: Effects of chronic Cl depletion alkalosis on proximal tubule transport and renal production of ammonium. Am J Physiol
+269: F508–F514, 1995. 
+</cite> [<a href="https://doi.org/10.1152/ajprenal.1995.269.4.F508" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/7485535/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Am%20J%20Physiol&amp;title=Effects%20of%20chronic%20Cl%20depletion%20alkalosis%20on%20proximal%20tubule%20transport%20and%20renal%20production%20of%20ammonium&amp;author=TD%20DuBose&amp;author=DW%20Good&amp;volume=269&amp;publication_year=1995&amp;pages=F508-F514&amp;pmid=7485535&amp;doi=10.1152/ajprenal.1995.269.4.F508&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B35">
+<span class="label">40.</span><cite>Kassirer JP, Schwartz WB: The response of normal man to selective depletion of hydrochloric acid. Factors in the genesis of persistent gastric alkalosis. Am J Med
+40: 10–18, 1966. 
+</cite> [<a href="https://doi.org/10.1016/0002-9343(66)90182-3" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/5901147/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Am%20J%20Med&amp;title=The%20response%20of%20normal%20man%20to%20selective%20depletion%20of%20hydrochloric%20acid.%20Factors%20in%20the%20genesis%20of%20persistent%20gastric%20alkalosis&amp;author=JP%20Kassirer&amp;author=WB%20Schwartz&amp;volume=40&amp;publication_year=1966&amp;pages=10-18&amp;pmid=5901147&amp;doi=10.1016/0002-9343(66)90182-3&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B38">
+<span class="label">41.</span><cite>Eiro M, Katoh T, Watanabe T: Use of a proton-pump inhibitor for metabolic disturbances associated with anorexia nervosa. N Engl J Med
+346: 140, 2002. 
+</cite> [<a href="https://doi.org/10.1056/NEJM200201103460218" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/11784888/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=N%20Engl%20J%20Med&amp;title=Use%20of%20a%20proton-pump%20inhibitor%20for%20metabolic%20disturbances%20associated%20with%20anorexia%20nervosa&amp;author=M%20Eiro&amp;author=T%20Katoh&amp;author=T%20Watanabe&amp;volume=346&amp;publication_year=2002&amp;pages=140&amp;pmid=11784888&amp;doi=10.1056/NEJM200201103460218&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B39">
+<span class="label">42.</span><cite>Stowasser M, Gordon RD: Primary aldosteronism: Changing definitions and new concepts of physiology and pathophysiology both inside and outside the kidney. Physiol Rev
+96: 1327–1384, 2016</cite> [<a href="https://doi.org/10.1152/physrev.00026.2015" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/27535640/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Physiol%20Rev&amp;title=Primary%20aldosteronism:%20Changing%20definitions%20and%20new%20concepts%20of%20physiology%20and%20pathophysiology%20both%20inside%20and%20outside%20the%20kidney&amp;author=M%20Stowasser&amp;author=RD%20Gordon&amp;volume=96&amp;publication_year=2016&amp;pages=1327-1384&amp;pmid=27535640&amp;doi=10.1152/physrev.00026.2015&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B40">
+<span class="label">43.</span><cite>Harrington JT, Hulter HN, Cohen JJ, Madias NE: Mineralocorticoid-stimulated renal acidification: The critical role of dietary sodium. Kidney Int
+30: 43–48, 1986. 
+</cite> [<a href="https://doi.org/10.1038/ki.1986.148" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/3018348/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Kidney%20Int&amp;title=Mineralocorticoid-stimulated%20renal%20acidification:%20The%20critical%20role%20of%20dietary%20sodium&amp;author=JT%20Harrington&amp;author=HN%20Hulter&amp;author=JJ%20Cohen&amp;author=NE%20Madias&amp;volume=30&amp;publication_year=1986&amp;pages=43-48&amp;pmid=3018348&amp;doi=10.1038/ki.1986.148&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+<li id="B41">
+<span class="label">44.</span><cite>Ellison DH: Clinical pharmacology in Diuretic use. Clin J Am Soc Nephrol
+14: 1248–1257, 2019. 
+</cite> [<a href="https://doi.org/10.2215/CJN.09630818" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">DOI</a>] [<a href="/articles/PMC6682831/" class="usa-link">PMC free article</a>] [<a href="https://pubmed.ncbi.nlm.nih.gov/30936153/" class="usa-link">PubMed</a>] [<a href="https://scholar.google.com/scholar_lookup?journal=Clin%20J%20Am%20Soc%20Nephrol&amp;title=Clinical%20pharmacology%20in%20Diuretic%20use&amp;author=DH%20Ellison&amp;volume=14&amp;publication_year=2019&amp;pages=1248-1257&amp;pmid=30936153&amp;doi=10.2215/CJN.09630818&amp;" class="usa-link usa-link--external" data-ga-action="click_feat_suppl" target="_blank" rel="noopener noreferrer">Google Scholar</a>]</li>
+</ul></section></section></section><footer class="p courtesy-note font-secondary font-sm text-center"><hr class="headless">
+<p>Articles from Clinical Journal of the American Society of Nephrology : CJASN are provided here courtesy of <strong>American Society of Nephrology</strong></p></footer></section></article>
+
+                      
+
+                    </main>
+                </div>
+            </div>
+        </div>
+
+        
+
+
+
+<!-- Secondary navigation placeholder -->
+<div class="pmc-sidenav desktop:grid-col-4 display-flex">
+    <section class="pmc-sidenav__container" aria-label="Article resources and navigation">
+        <button type="button" class="pmc-sidenav__container__close">
+            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/close.svg" role="img" alt="Close" />
+        </button>
+    <div class="display-none desktop:display-block">
+       <section class="margin-top-4 desktop:margin-top-0">
+              <h2 class="margin-top-0">ACTIONS</h2>
+           <ul class="usa-list usa-list--unstyled usa-list--actions">
+               
+               <li>
+                     <a
+                             href="https://doi.org/10.2215/CJN.16041219"
+                             class="usa-button usa-button--outline width-24 font-xs display-inline-flex flex-align-center flex-justify-start padding-left-1"
+                             target="_blank"
+                             rel="noreferrer noopener"
+                             data-ga-category="actions"
+                             data-ga-action="click"
+                             data-ga-label="publisher_link_desktop"
+                     >
+                         <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/launch.svg" alt="View on publisher site icon" class="usa-icon usa-icon--size-3 usa-icon--link"/>
+                         <span class="display-inline-flex flex-justify-center flex-1 padding-right-2">View on publisher site</span>
+                     </a>
+               </li>
+               
+               
+               <li>
+                    <a
+                            href="pdf/CJN.16041219.pdf"
+                            class="usa-button usa-button--outline width-24 display-inline-flex flex-align-center flex-justify-start padding-left-1"
+                            data-ga-category="actions"
+                            data-ga-action="click"
+                            data-ga-label="pdf_download_desktop"
+                    >
+                         <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/file_download.svg" alt="Download PDF icon" class="usa-icon usa-icon--size-3 usa-icon--link"/>
+                        <span class="display-inline-flex flex-justify-center flex-1">PDF (1.3 MB)</span>
+                    </a>
+               </li>
+               
+                
+               <li>
+                   <button role="button" class="usa-button width-24 citation-dialog-trigger display-inline-flex flex-align-center flex-justify-start padding-left-1"
+                        aria-label="Open dialog with citation text in different styles"
+                        data-ga-category="actions"
+                        data-ga-action="open"
+                        data-ga-label="cite_desktop"
+                        data-all-citations-url="/resources/citations/7769018/"
+                        data-citation-style="nlm"
+                        data-download-format-link="/resources/citations/7769018/export/"
+                    >
+                       <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/format_quote.svg" alt="Cite icon" class="usa-icon usa-icon--size-3 usa-icon--white"/>
+                       <span class="display-inline-flex flex-justify-center flex-1 button-label">Cite</span>
+                    </button>
+               </li>
+                
+               <li>
+
+                        <button class="usa-button width-24 collections-dialog-trigger collections-button display-inline-flex flex-align-center flex-justify-start padding-left-1 collections-button-empty"
+                              aria-label="Save article in MyNCBI collections."
+                              data-ga-category="actions"
+                              data-ga-action="click"
+                              data-ga-label="collections_button_desktop"
+                              data-collections-open-dialog-enabled="false"
+                              data-collections-open-dialog-url="https://account.ncbi.nlm.nih.gov/?back_url=https%3A%2F%2Fpmc.ncbi.nlm.nih.gov%2Farticles%2FPMC7769018%2F%3Freport%3Dxml%23open-collections-dialog"
+                              data-in-collections="false">
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/action-bookmark-full.svg" alt="Collections icon" class="usa-icon usa-icon--size-3 usa-icon--white usa-icon--bookmark-full" hidden />
+                            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/action-bookmark-empty.svg" alt="Collections icon" class="usa-icon usa-icon--size-3 usa-icon--white usa-icon--bookmark-empty" hidden />
+                            <span class="display-inline-flex flex-justify-center flex-1">Collections</span>
+                       </button>
+               </li>
+               <li class="pmc-permalink">
+                    <button
+                            type="button"
+                            class="usa-button width-24 display-inline-flex flex-align-center flex-justify padding-left-1 shadow-none"
+                            aria-label="Show article permalink"
+                            aria-expanded="false"
+                            aria-haspopup="true"
+                            data-ga-category="actions"
+                            data-ga-action="open"
+                            data-ga-label="permalink_desktop"
+                    >
+                        <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/share.svg" alt="Permalink icon" class="usa-icon usa-icon--size-3 usa-icon--white"/>
+                        <span class="display-inline-flex flex-justify-center flex-1 button-label">Permalink</span>
+                    </button>
+                   
+
+<div class="pmc-permalink__dropdown" hidden>
+    <div class="pmc-permalink__dropdown__container">
+          <h2 class="usa-modal__heading margin-top-0 margin-bottom-2 text-uppercase font-sans-xs">PERMALINK</h2>
+          <div class="pmc-permalink__dropdown__content">
+              <input type="text" class="usa-input" value="https://pmc.ncbi.nlm.nih.gov/articles/PMC7769018/" aria-label="Article permalink">
+              <button class="usa-button display-inline-flex pmc-permalink__dropdown__copy__btn margin-right-0" title="Copy article permalink" data-ga-category="save_share" data-ga-action="link" data-ga-label="copy_link">
+                  <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/content_copy.svg" alt="Copy icon" aria-hidden="true" class="usa-icon usa-icon--white" />
+                  <span class="margin-left-1">Copy</span>
+              </button>
+          </div>
+    </div>
+</div>
+               </li>
+           </ul>
+       </section>
+     </div>
+
+        <section class="pmc-resources margin-top-6 desktop:margin-top-4" data-page-path="/articles/PMC7769018/">
+            <h2 class="margin-top-0">RESOURCES</h2>
+            
+                <div class="usa-accordion usa-accordion--multiselectable" data-allow-multiple>
+                    <h3 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button"
+                        aria-expanded="false"
+                        aria-controls="resources-similar-articles"
+                        data-ga-category="resources_accordion"
+                        data-ga-action="open_similar_articles"
+                        data-ga-label="/articles/PMC7769018/"
+                        data-action-open="open_similar_articles"
+                        data-action-close="close_similar_articles"
+                        >
+                            Similar articles
+                        </button>
+                    </h3>
+                    <div
+                            id="resources-similar-articles"
+                            class="usa-accordion__content usa-prose"
+                            
+                                data-source-url="/resources/similar-article-links/32586924/"
+                            
+                    >
+                        
+                    </div>
+                    <h3 class="usa-accordion__heading">
+                        <button
+                        type="button"
+                        class="usa-accordion__button"
+                        aria-expanded="false"
+                        aria-controls="resources-cited-by-other-articles"
+                        data-ga-category="resources_accordion"
+                        data-ga-action="open_cited_by"
+                        data-ga-label="/articles/PMC7769018/"
+                        data-action-open="open_cited_by"
+                        data-action-close="close_cited_by"
+                        >
+                             Cited by other articles
+                        </button>
+                    </h3>
+                    <div
+                            id="resources-cited-by-other-articles"
+                            class="usa-accordion__content usa-prose"
+                            
+                                data-source-url="/resources/cited-by-links/32586924/"
+                            
+                    >
+                          
+                    </div>
+                    
+                        <h3 class="usa-accordion__heading">
+                            <button
+                            type="button"
+                            class="usa-accordion__button"
+                            aria-expanded="false"
+                            aria-controls="resources-links-to-ncbi-databases"
+                            data-ga-category="resources_accordion"
+                            data-ga-action="open_NCBI_links"
+                            data-ga-label="/articles/PMC7769018/"
+                            data-action-open="open_NCBI_links"
+                            data-action-close="close_NCBI_link"
+                            >
+                                 Links to NCBI Databases
+                            </button>
+                        </h3>
+                        <div
+                                id="resources-links-to-ncbi-databases"
+                                class="usa-accordion__content usa-prose"
+                                data-source-url="/resources/db-links/7769018/"
+                        >
+                        </div>
+                    
+                    
+                </div>
+            
+        </section>
+
+
+        <section
+        class="usa-in-page-nav usa-in-page-nav--wide margin-top-6 desktop:margin-top-4"
+        data-title-text="On this page"
+        data-title-heading-level="h2"
+        data-scroll-offset="0"
+        data-root-margin="-10% 0px -80% 0px"
+        data-main-content-selector="main"
+        data-threshold="1"
+        hidden
+        ></section>
+    </section>
+</div>
+
+        
+
+<div class="overlay" role="dialog" aria-label="Citation Dialog" hidden>
+    <div class="dialog citation-dialog" aria-hidden="true">
+        <div class="display-inline-flex flex-align-center flex-justify width-full margin-bottom-2">
+            <h2 class="usa-modal__heading margin-0">Cite</h2>
+             <button type="button" class="usa-button usa-button--unstyled close-overlay text-black width-auto"  tabindex="1">
+                 <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/close.svg" alt="Close icon" class="usa-icon usa-icon--size-3 usa-icon--button" />
+             </button>
+        </div>
+
+        
+
+<div class="citation-text-block">
+  <div class="citation-text margin-bottom-2"></div>
+  <ul class="usa-list usa-list--unstyled display-inline-flex flex-justify width-full flex-align-center">
+      <li>
+        <button
+          class="usa-button usa-button--unstyled text-no-underline display-flex flex-align-center copy-button dialog-focus"
+          data-ga-category="save_share"
+          data-ga-action="cite"
+          data-ga-label="copy"
+          tabindex="2">
+            <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/content_copy.svg" alt="Copy icon" class="usa-icon usa-icon--size-3 usa-icon--link" />
+            <span>Copy</span>
+        </button>
+      </li>
+      <li>
+          <a
+              href="#"
+              role="button"
+              class="usa-button usa-button--unstyled text-no-underline display-flex flex-align-center export-button"
+              data-ga-category="save_share"
+              data-ga-action="cite"
+              data-ga-label="download"
+              title="Download a file for external citation management software"
+              tabindex="3">
+                <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/file_download.svg" alt="Download icon" aria-hidden="true" class="usa-icon usa-icon--size-3 usa-icon--link" />
+                <span class="display-none mobile-lg:display-inline">Download .nbib</span>
+                <span class="display-inline mobile-lg:display-none">.nbib</span>
+            </a>
+      </li>
+      <li>
+          
+
+<div class="display-inline-flex flex-align-center">
+  <label class="usa-label margin-top-0">Format:</label>
+  <select aria-label="Format" class="usa-select citation-style-selector padding-1 margin-top-0 border-0 padding-right-4" tabindex="4" >
+    
+      <option data-style-url-name="ama"
+              value="AMA"
+              >
+        AMA
+      </option>
+    
+      <option data-style-url-name="apa"
+              value="APA"
+              >
+        APA
+      </option>
+    
+      <option data-style-url-name="mla"
+              value="MLA"
+              >
+        MLA
+      </option>
+    
+      <option data-style-url-name="nlm"
+              value="NLM"
+              selected="selected">
+        NLM
+      </option>
+    
+  </select>
+</div>
+      </li>
+  </ul>
+</div>
+    </div>
+</div>
+
+        <div class="overlay" role="dialog" hidden>
+  <div id="collections-action-dialog" class="dialog collections-dialog" aria-hidden="true">
+   <div class="display-inline-flex flex-align-center flex-justify width-full margin-bottom-2">
+        <h2 class="usa-modal__heading margin-0">Add to Collections</h2>
+    </div>
+    <div class="collections-action-panel action-panel">
+      
+
+
+<form id="collections-action-dialog-form"
+      class="usa-form maxw-full collections-action-panel-form action-panel-content action-form action-panel-smaller-selectors"
+      data-existing-collections-url="/list-existing-collections/"
+      data-add-to-existing-collection-url="/add-to-existing-collection/"
+      data-create-and-add-to-new-collection-url="/create-and-add-to-new-collection/"
+      data-myncbi-max-collection-name-length="100"
+      data-collections-root-url="https://www.ncbi.nlm.nih.gov/myncbi/collections/">
+
+    <input type="hidden" name="csrfmiddlewaretoken" value="5DUVeSP3S6EXMOWdxCiLmi3mC37nYjsQpyz48MMeDc5LoRjWLdbol5ovsnqIb8YX">
+
+    <fieldset class="usa-fieldset margin-bottom-2">
+        <div class="usa-radio">
+            <input type="radio"
+            id="collections-action-dialog-new"
+            class="usa-radio__input usa-radio__input--tile collections-new  margin-top-0"
+            name="collections"
+            value="new"
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="collections_radio_new" />
+            <label class="usa-radio__label" for="collections-action-dialog-new">Create a new collection</label>
+        </div>
+        <div class="usa-radio">
+            <input type="radio"
+            id="collections-action-dialog-existing"
+            class="usa-radio__input usa-radio__input--tile collections-existing"
+            name="collections"
+            value="existing"
+            checked="true"
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="collections_radio_existing" />
+            <label class="usa-radio__label" for="collections-action-dialog-existing">Add to an existing collection</label>
+        </div>
+    </fieldset>
+
+    <fieldset class="usa-fieldset margin-bottom-2">
+        <div class="action-panel-control-wrap new-collections-controls">
+           <label for="collections-action-dialog-add-to-new" class="usa-label margin-top-0">
+                Name your collection
+               <abbr title="required" class="usa-hint usa-hint--required text-no-underline">*</abbr>
+          </label>
+          <input
+            type="text"
+            name="add-to-new-collection"
+            id="collections-action-dialog-add-to-new"
+            class="usa-input collections-action-add-to-new"
+            pattern="[^&quot;&amp;=&lt;&gt;/]*" title="The following characters are not allowed in the Name field: &quot;&amp;=&lt;&gt;/"
+            maxlength=""
+            data-ga-category="collections_button"
+            data-ga-action="create_collection"
+            data-ga-label="non_favorties_collection"
+            required
+          />
+        </div>
+        <div class="action-panel-control-wrap existing-collections-controls">
+             <label for="collections-action-dialog-add-to-existing" class="usa-label margin-top-0">
+                Choose a collection
+              </label>
+              <select id="collections-action-dialog-add-to-existing"
+                      class="usa-select collections-action-add-to-existing"
+                      data-ga-category="collections_button"
+                      data-ga-action="select_collection"
+                      data-ga-label="($('.collections-action-add-to-existing').val() === 'Favorites') ? 'Favorites' : 'non_favorites_collection'">
+              </select>
+              <div class="collections-retry-load-on-error usa-input-error-message selection-validation-message">
+                Unable to load your collection due to an error<br>
+                <a href="#">Please try again</a>
+              </div>
+        </div>
+    </fieldset>
+
+    <div class="display-inline-flex">
+        <button class="usa-button margin-top-0 action-panel-submit"
+            type="submit"
+            data-loading-label="Adding..."
+            data-pinger-ignore
+            data-ga-category="collections_button"
+            data-ga-action="click"
+            data-ga-label="add">
+          Add
+        </button>
+        <button class="usa-button usa-button--outline margin-top-0 action-panel-cancel"
+                aria-label="Close 'Add to Collections' panel"
+                ref="linksrc=close_collections_panel"
+                data-ga-category="collections_button"
+                data-ga-action="click"
+                data-ga-label="cancel">
+          Cancel
+        </button>
+    </div>
+</form>
+    </div>
+  </div>
+</div>
+
+        
+
+      </div>
+    </div>
+  </div>
+
+
+
+        
+    
+    
+
+<footer class="ncbi-footer ncbi-dark-background " >
+    
+        <div class="ncbi-footer__icon-section">
+            <div class="ncbi-footer__social-header">
+                Follow NCBI
+            </div>
+
+            <div class="grid-container ncbi-footer__ncbi-social-icons-container">
+                
+                    <a href="https://twitter.com/ncbi"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="40"
+                             height="40"
+                             viewBox="0 0 40 40"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="m6.067 8 10.81 13.9L6 33.2h4.2l8.4-9.1 7.068 9.1H34L22.8 18.5 31.9 8h-3.5l-7.7 8.4L14.401 8H6.067Zm3.6 1.734h3.266l16.8 21.732H26.57L9.668 9.734Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on X (formerly known as Twitter)</span>
+                    </a>
+                
+
+                
+                    <a href="https://www.facebook.com/ncbi.nlm"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="16"
+                             height="29"
+                             focusable="false"
+                             aria-hidden="true"
+                             viewBox="0 0 16 29"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg">
+                            <path d="M3.8809 21.4002C3.8809 19.0932 3.8809 16.7876 3.8809 14.478C3.8809 14.2117 3.80103 14.1452 3.54278 14.1492C2.53372 14.1638 1.52334 14.1492 0.514288 14.1598C0.302626 14.1598 0.248047 14.0972 0.248047 13.8936C0.256034 12.4585 0.256034 11.0239 0.248047 9.58978C0.248047 9.37013 0.302626 9.30224 0.528931 9.3049C1.53798 9.31688 2.54837 9.3049 3.55742 9.31555C3.80103 9.31555 3.8809 9.26097 3.87957 9.00272C3.87158 8.00565 3.85428 7.00592 3.90753 6.00884C3.97142 4.83339 4.31487 3.73115 5.04437 2.78467C5.93095 1.63318 7.15699 1.09005 8.56141 0.967577C10.5582 0.79319 12.555 0.982221 14.5518 0.927641C14.7102 0.927641 14.7462 0.99287 14.7449 1.13664C14.7449 2.581 14.7449 4.02668 14.7449 5.47104C14.7449 5.67604 14.6517 5.68669 14.4946 5.68669C13.4523 5.68669 12.4113 5.68669 11.3703 5.68669C10.3506 5.68669 9.92057 6.10868 9.90593 7.13904C9.89661 7.7647 9.91525 8.39303 9.89794 9.01869C9.88995 9.26364 9.96583 9.31822 10.2015 9.31688C11.7204 9.30623 13.2393 9.31688 14.7595 9.3049C15.0257 9.3049 15.0723 9.3728 15.0444 9.62439C14.89 10.9849 14.7515 12.3467 14.6144 13.7085C14.5691 14.1571 14.5785 14.1585 14.1458 14.1585C12.8386 14.1585 11.5313 14.1665 10.2254 14.1518C9.95119 14.1518 9.89794 14.2317 9.89794 14.4899C9.90593 19.0799 9.89794 23.6752 9.91125 28.2612C9.91125 28.5674 9.8407 28.646 9.53186 28.6433C7.77866 28.6273 6.02414 28.6366 4.27094 28.634C3.82499 28.634 3.87158 28.6992 3.87158 28.22C3.87602 25.9472 3.87913 23.6739 3.8809 21.4002Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on Facebook</span>
+                    </a>
+                
+
+                
+                    <a href="https://www.linkedin.com/company/ncbinlm"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="25"
+                             height="23"
+                             viewBox="0 0 26 24"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="M14.6983 9.98423C15.6302 9.24808 16.5926 8.74754 17.6762 8.51991C19.673 8.09126 21.554 8.30824 23.1262 9.7526C24.2351 10.7723 24.7529 12.1115 25.0165 13.5612C25.1486 14.3363 25.2105 15.1218 25.2015 15.9081C25.2015 18.3043 25.2015 20.6898 25.2082 23.0806C25.2082 23.3468 25.1549 23.444 24.8621 23.4414C23.1297 23.4272 21.3992 23.4272 19.6704 23.4414C19.4041 23.4414 19.3429 23.3588 19.3442 23.1019C19.3535 20.5194 19.3442 17.9368 19.3442 15.3543C19.3442 14.0005 18.3258 12.9448 17.0266 12.9488C15.7273 12.9528 14.6983 14.0071 14.6983 15.361C14.6983 17.9328 14.6917 20.5047 14.6983 23.0753C14.6983 23.3708 14.6198 23.444 14.3296 23.4427C12.6185 23.4294 10.9079 23.4294 9.19779 23.4427C8.93155 23.4427 8.86099 23.3735 8.86232 23.1086C8.8783 19.7619 8.88628 16.4144 8.88628 13.066C8.88628 11.5688 8.87874 10.0708 8.86365 8.57182C8.86365 8.3575 8.90758 8.27896 9.14054 8.28029C10.9048 8.29094 12.6687 8.29094 14.4321 8.28029C14.6464 8.28029 14.6983 8.34818 14.6983 8.54653C14.6903 9.00047 14.6983 9.45441 14.6983 9.98423Z">
+                            </path>
+                            <path d="M6.55316 15.8443C6.55316 18.2564 6.55316 20.6699 6.55316 23.082C6.55316 23.3629 6.48127 23.4388 6.19906 23.4374C4.47737 23.4241 2.75568 23.4241 1.03399 23.4374C0.767751 23.4374 0.69986 23.3629 0.701191 23.1006C0.709178 18.2648 0.709178 13.4281 0.701191 8.59053C0.701191 8.34026 0.765089 8.27237 1.01669 8.2737C2.74991 8.28435 4.48048 8.28435 6.20838 8.2737C6.47462 8.2737 6.5465 8.33627 6.54517 8.6065C6.54783 11.0186 6.55316 13.4308 6.55316 15.8443Z">
+                            </path>
+                            <path d="M3.65878 0.243898C5.36804 0.243898 6.58743 1.45529 6.58743 3.1406C6.58743 4.75801 5.32145 5.95742 3.60819 5.96807C3.22177 5.97614 2.83768 5.90639 2.47877 5.76299C2.11985 5.61959 1.79344 5.40546 1.51897 5.13334C1.24449 4.86123 1.02755 4.53668 0.881058 4.17902C0.734563 3.82136 0.661505 3.43788 0.666231 3.05141C0.67555 1.42601 1.9362 0.242566 3.65878 0.243898Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on LinkedIn</span>
+                    </a>
+                
+
+                
+                    <a href="https://github.com/ncbi"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="28"
+                             height="27"
+                             viewBox="0 0 28 28"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="M16.7228 20.6334C17.5057 20.5527 18.2786 20.3944 19.0301 20.1608C21.3108 19.4193 22.5822 17.8259 22.963 15.4909C23.1228 14.5112 23.1814 13.5287 22.9883 12.5437C22.8106 11.6423 22.4013 10.8028 21.8007 10.1076C21.7526 10.0605 21.7197 10 21.7064 9.934C21.6931 9.86799 21.7 9.79952 21.7262 9.73748C22.0856 8.6206 21.9711 7.51969 21.601 6.42677C21.582 6.3497 21.5345 6.2827 21.468 6.23923C21.4016 6.19577 21.3211 6.17906 21.2429 6.19248C20.7329 6.21649 20.2313 6.33051 19.7611 6.52928C19.1103 6.7908 18.4899 7.12198 17.9104 7.51703C17.84 7.56996 17.7581 7.60551 17.6713 7.62078C17.5846 7.63605 17.4954 7.6306 17.4112 7.60489C15.2596 7.05882 13.0054 7.06203 10.8554 7.61421C10.7806 7.63586 10.7018 7.63967 10.6253 7.62534C10.5487 7.611 10.4766 7.57892 10.4148 7.53167C9.64788 7.03247 8.85171 6.58918 7.96368 6.33359C7.65781 6.24338 7.34123 6.19458 7.02239 6.18849C6.94879 6.17986 6.87462 6.19893 6.81432 6.242C6.75402 6.28507 6.71191 6.34904 6.69621 6.42145C6.32342 7.51437 6.2209 8.61527 6.56307 9.73348C6.59635 9.84264 6.64694 9.93316 6.54177 10.0516C5.47666 11.2604 5.09988 12.6834 5.19574 14.2676C5.2663 15.4244 5.46201 16.5466 6.01454 17.5769C6.84399 19.1171 8.21664 19.9119 9.85158 20.3352C10.3938 20.4706 10.9444 20.5698 11.4998 20.632C11.5384 20.7492 11.4506 20.7798 11.408 20.8291C11.1734 21.1179 10.9894 21.4441 10.8634 21.7942C10.7622 22.0458 10.8315 22.4039 10.6065 22.5516C10.263 22.7766 9.83827 22.8485 9.42421 22.8871C8.17936 23.0056 7.26471 22.4877 6.6283 21.4348C6.25552 20.8184 5.76956 20.3325 5.08523 20.0663C4.76981 19.9325 4.42139 19.8967 4.08537 19.9638C3.7898 20.029 3.73788 20.1901 3.93891 20.4111C4.03639 20.5234 4.14989 20.6207 4.27575 20.6999C4.9796 21.1318 5.51717 21.7884 5.80152 22.5636C6.37002 23.9973 7.48039 24.5697 8.93825 24.6323C9.43741 24.6575 9.93768 24.615 10.4254 24.5058C10.5892 24.4672 10.6531 24.4872 10.6517 24.6762C10.6451 25.4936 10.6637 26.3123 10.6517 27.131C10.6517 27.6635 10.1684 27.9297 9.58663 27.7393C8.17396 27.2671 6.84977 26.5631 5.66838 25.656C2.59555 23.2891 0.720966 20.1861 0.217704 16.3376C-0.357453 11.9127 0.911353 8.00824 3.98551 4.73881C6.11909 2.42656 8.99932 0.939975 12.1203 0.540191C16.5351 -0.0601815 20.4347 1.14323 23.7232 4.16373C26.2449 6.47869 27.724 9.37672 28.1048 12.7726C28.5828 17.0325 27.3686 20.7945 24.4768 23.9827C22.9762 25.6323 21.0956 26.8908 18.9982 27.6488C18.8783 27.6927 18.7585 27.738 18.636 27.7726C18.0356 27.9404 17.6189 27.6395 17.6189 27.0098C17.6189 25.7452 17.6308 24.4806 17.6295 23.2159C17.6329 22.9506 17.6128 22.6856 17.5696 22.4238C17.4325 21.6664 17.3419 21.484 16.7228 20.6334Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI on GitHub</span>
+                    </a>
+                
+
+                
+                    <a href="https://ncbiinsights.ncbi.nlm.nih.gov/"
+                       class="ncbi-footer__social-icon ncbi-footer__social-icon--gray"
+                       target="_blank"
+                       rel="noreferrer noopener">
+                        <svg width="26"
+                             height="26"
+                             viewBox="0 0 27 27"
+                             fill="none"
+                             xmlns="http://www.w3.org/2000/svg"
+                             focusable="false"
+                             aria-hidden="true">
+                            <path d="M23.7778 26.4574C23.1354 26.3913 22.0856 26.8024 21.636 26.3087C21.212 25.8444 21.4359 24.8111 21.324 24.0347C19.9933 14.8323 14.8727 8.80132 6.09057 5.85008C4.37689 5.28406 2.58381 4.99533 0.779072 4.99481C0.202773 4.99481 -0.0229751 4.83146 0.00455514 4.21479C0.0660406 3.08627 0.0660406 1.95525 0.00455514 0.826734C-0.0413285 0.0815827 0.259669 -0.0193618 0.896534 0.00266238C6.96236 0.222904 12.3693 2.24179 16.9889 6.16209C22.9794 11.2478 26.1271 17.7688 26.4372 25.648C26.4629 26.294 26.3179 26.5271 25.6609 26.4684C25.0827 26.417 24.4991 26.4574 23.7778 26.4574Z">
+                            </path>
+                            <path d="M14.8265 26.441C14.0924 26.441 13.2371 26.6795 12.6626 26.3786C12.0092 26.0372 12.3781 25.0644 12.246 24.378C11.1154 18.5324 6.6849 14.5497 0.74755 14.1001C0.217135 14.0615 -0.0104482 13.9422 0.0134113 13.3659C0.0519536 12.1454 0.0482829 10.9213 0.0134113 9.69524C-0.00127145 9.14464 0.196946 9.03268 0.703502 9.04736C9.21217 9.27128 16.5994 16.2511 17.2804 24.7231C17.418 26.4446 17.418 26.4446 15.6579 26.4446H14.832L14.8265 26.441Z">
+                            </path>
+                            <path d="M3.58928 26.4555C2.64447 26.4618 1.73584 26.0925 1.06329 25.4289C0.39073 24.7653 0.00933763 23.8617 0.0030097 22.9169C-0.00331824 21.9721 0.365937 21.0635 1.02954 20.3909C1.69315 19.7184 2.59675 19.337 3.54156 19.3306C4.48637 19.3243 5.39499 19.6936 6.06755 20.3572C6.7401 21.0208 7.1215 21.9244 7.12782 22.8692C7.13415 23.814 6.7649 24.7226 6.10129 25.3952C5.43768 26.0677 4.53409 26.4491 3.58928 26.4555Z">
+                            </path>
+                        </svg>
+                        <span class="usa-sr-only">NCBI RSS feed</span>
+                    </a>
+                
+            </div>
+        </div>
+    
+
+    <div data-testid="gridContainer"
+         class="grid-container ncbi-footer__container">
+        <div class="grid-row ncbi-footer__main-content-container"
+             data-testid="grid">
+            
+                <div class="ncbi-footer__column">
+                    
+                        <p class="ncbi-footer__circled-icons-heading">
+                            Connect with NLM
+                        </p>
+                    
+
+                    <div class="ncbi-footer__circled-icons-list">
+                        
+                            <a href=https://twitter.com/nlm_nih class="ncbi-footer__social-icon ncbi-footer__social-icon--circled" target="_blank" rel="noreferrer noopener">
+                                <svg width="32"
+                                     height="32"
+                                     viewBox="0 0 40 40"
+                                     fill="none"
+                                     xmlns="http://www.w3.org/2000/svg"
+                                     focusable="false"
+                                     aria-hidden="true">
+                                    <path d="m6.067 8 10.81 13.9L6 33.2h4.2l8.4-9.1 7.068 9.1H34L22.8 18.5 31.9 8h-3.5l-7.7 8.4L14.401 8H6.067Zm3.6 1.734h3.266l16.8 21.732H26.57L9.668 9.734Z">
+                                    </path>
+                                </svg>
+                                <span class="usa-sr-only">NLM on X (formerly known as Twitter)</span>
+                            </a>
+                        
+
+                        
+                            <a href=https://www.facebook.com/nationallibraryofmedicine class="ncbi-footer__social-icon ncbi-footer__social-icon--circled" target="_blank" rel="noreferrer noopener">
+                                <svg width="13"
+                                     height="24"
+                                     viewBox="0 0 13 24"
+                                     fill="none"
+                                     xmlns="http://www.w3.org/2000/svg"
+                                     focusable="false"
+                                     aria-hidden="true">
+                                    <path d="M4.11371 23.1369C4.11371 23.082 4.11371 23.0294 4.11371 22.9745V12.9411H0.817305C0.6709 12.9411 0.670898 12.9411 0.670898 12.8016C0.670898 11.564 0.670898 10.3287 0.670898 9.09341C0.670898 8.97903 0.705213 8.95158 0.815017 8.95158C1.8673 8.95158 2.91959 8.95158 3.97417 8.95158H4.12057V8.83263C4.12057 7.8055 4.12057 6.7738 4.12057 5.74897C4.1264 4.92595 4.31387 4.11437 4.66959 3.37217C5.12916 2.38246 5.94651 1.60353 6.95717 1.1921C7.64827 0.905008 8.3913 0.764035 9.13953 0.778051C10.0019 0.791777 10.8644 0.830666 11.7268 0.860404C11.8869 0.860404 12.047 0.894717 12.2072 0.90158C12.2964 0.90158 12.3261 0.940469 12.3261 1.02968C12.3261 1.5421 12.3261 2.05452 12.3261 2.56465C12.3261 3.16857 12.3261 3.7725 12.3261 4.37642C12.3261 4.48165 12.2964 4.51367 12.1912 4.51138C11.5369 4.51138 10.8804 4.51138 10.2261 4.51138C9.92772 4.51814 9.63058 4.5526 9.33855 4.61433C9.08125 4.6617 8.84537 4.78881 8.66431 4.97766C8.48326 5.16652 8.3662 5.40755 8.32972 5.66661C8.28476 5.89271 8.26027 6.1224 8.25652 6.35289C8.25652 7.19014 8.25652 8.02969 8.25652 8.86923C8.25652 8.89439 8.25652 8.91955 8.25652 8.95615H12.0219C12.1797 8.95615 12.182 8.95616 12.1614 9.10714C12.0768 9.76596 11.9876 10.4248 11.9029 11.0813C11.8312 11.6319 11.7626 12.1824 11.697 12.733C11.6719 12.9434 11.6787 12.9434 11.4683 12.9434H8.26338V22.899C8.26338 22.979 8.26338 23.0591 8.26338 23.1392L4.11371 23.1369Z">
+                                    </path>
+                                </svg>
+                                <span class="usa-sr-only">NLM on Facebook</span>
+                            </a>
+                        
+
+                        
+                            <a href=https://www.youtube.com/user/NLMNIH class="ncbi-footer__social-icon ncbi-footer__social-icon--circled" target="_blank" rel="noreferrer noopener">
+                                <svg width="21"
+                                     height="15"
+                                     viewBox="0 0 21 15"
+                                     fill="none"
+                                     xmlns="http://www.w3.org/2000/svg"
+                                     focusable="false"
+                                     aria-hidden="true">
+                                    <path d="M19.2561 1.47914C18.9016 1.15888 18.5699 0.957569 17.2271 0.834039C15.5503 0.678484 13.2787 0.655608 11.563 0.65332H9.43556C7.71987 0.65332 5.4483 0.678484 3.77151 0.834039C2.43098 0.957569 2.097 1.15888 1.74242 1.47914C0.813665 2.32097 0.619221 4.62685 0.598633 6.89384C0.598633 7.31781 0.598633 7.74101 0.598633 8.16345C0.626084 10.4121 0.827391 12.686 1.74242 13.521C2.097 13.8412 2.4287 14.0425 3.77151 14.1661C5.4483 14.3216 7.71987 14.3445 9.43556 14.3468H11.563C13.2787 14.3468 15.5503 14.3216 17.2271 14.1661C18.5676 14.0425 18.9016 13.8412 19.2561 13.521C20.1712 12.6929 20.3725 10.451 20.3999 8.22064C20.3999 7.74025 20.3999 7.25986 20.3999 6.77946C20.3725 4.54907 20.1689 2.30724 19.2561 1.47914ZM8.55942 10.5311V4.65201L13.5601 7.50005L8.55942 10.5311Z"
+                                          fill="white" />
+                                </svg>
+                                <span class="usa-sr-only">NLM on YouTube</span>
+                            </a>
+                        
+                    </div>
+                </div>
+            
+
+            
+                <address class="ncbi-footer__address ncbi-footer__column">
+                    
+        <p>
+            <a class="usa-link usa-link--external"
+            href="https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/%4038.9959508,
+            -77.101021,17z/data%3D!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb%3A0x19156f88b27635b8!8m2!3d38.9959508!
+            4d-77.0988323"
+            rel="noopener noreferrer" target="_blank">National Library of Medicine
+            <br/> 8600 Rockville Pike<br/> Bethesda, MD 20894</a>
+        </p>
+    
+                </address>
+            
+
+            
+                <ul class="usa-list usa-list--unstyled ncbi-footer__vertical-list ncbi-footer__column">
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/web_policies.html" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Web Policies
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            FOIA
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" class="usa-link usa-link--external usa-link--alt ncbi-footer__link" rel="noreferrer noopener" target='_blank' >
+        
+
+        
+            HHS Vulnerability Disclosure
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            
+
+            
+                <ul class="usa-list usa-list--unstyled ncbi-footer__vertical-list ncbi-footer__column">
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://support.nlm.nih.gov/" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Help
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/accessibility.html" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Accessibility
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__vertical-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/careers/careers.html" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            Careers
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            
+        </div>
+
+        
+            <div class="grid-row grid-col-12" data-testid="grid">
+                <ul class="ncbi-footer__bottom-links-list">
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nlm.nih.gov/" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            NLM
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.nih.gov/" class="usa-link  usa-link--alt ncbi-footer__link"  >
+        
+
+        
+            NIH
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.hhs.gov/" class="usa-link usa-link--external usa-link--alt ncbi-footer__link" rel="noreferrer noopener" target='_blank' >
+        
+
+        
+            HHS
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                        <li class="ncbi-footer__bottom-list-item">
+                            
+
+
+
+
+
+
+
+
+
+    <a href="https://www.usa.gov/" class="usa-link usa-link--external usa-link--alt ncbi-footer__link" rel="noreferrer noopener" target='_blank' >
+        
+
+        
+            USA.gov
+        
+
+        
+    </a>
+
+
+                        </li>
+                    
+                </ul>
+            </div>
+        
+    </div>
+</footer>
+
+    
+
+
+        
+        
+    
+  <script  type="text/javascript" src="https://cdn.ncbi.nlm.nih.gov/core/pinger/pinger.js"> </script>
+
+
+    
+        
+
+<button class="back-to-top" data-ga-category="pagination" data-ga-action="back_to_top">
+    <label>Back to Top</label>
+    <img src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/img/usa-icons/arrow_upward.svg" alt="back to top icon" class="usa-icon usa-icon--size-3 order-0 usa-icon--white" />
+</button>
+    
+
+
+        
+    
+    <div id="icon-container" style="display: none;"></div>
+    
+    
+        
+    <script type="application/javascript">
+    window.ncbi = window.ncbi || {};
+    window.ncbi.pmc = window.ncbi.pmc || {};
+    window.ncbi.pmc.options = {
+        logLevel: 'INFO',
+        
+        staticEndpoint: 'https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/',
+        
+        citeCookieName: 'pmc-cf',
+    };
+</script>
+    <script type="module" crossorigin="" src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/assets/base-Cp_Il6gk.js"></script>
+<link href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/assets/vendor-Co8Vdmw2.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+    
+    <script type="text/javascript" src="https://cdn.ncbi.nlm.nih.gov/core/jquery/jquery-3.6.0.min.js">&#xA0;</script>
+    <script type="text/javascript">
+        jQuery.getScript("https://cdn.ncbi.nlm.nih.gov/core/alerts/alerts.js", function () {
+            galert(['div.nav_and_browser', 'div.header', '#universal_header', '.usa-banner', 'body > *:nth-child(1)'])
+        });
+    </script>
+
+
+    <script type="text/javascript">var exports = {};</script>
+     <script src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/CACHE/js/output.4e25b6297b38.js"></script>
+
+    <script type="module" crossorigin="" src="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/assets/article-D47MIn9n.js"></script>
+<link href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/assets/vendor-Co8Vdmw2.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+<link href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/assets/index-DXSA0fsx.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+<link href="https://cdn.ncbi.nlm.nih.gov/pmc/pd-medc-pmc-cloudpmc-viewer/production/bb3d0162/var/data/static/assets/secure-cookie-Br6x5jtB.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+    
+    
+
+    </body>
+</html>

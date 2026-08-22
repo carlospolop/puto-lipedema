@@ -2,7 +2,7 @@
 
 **Carpeta:** `20260718-100121-diureticos-rebote-pseudobartter-lipedema`  
 **Cola Chack:** `lipedema-diureticos-20260718`  
-**Estado:** cerrada y revalidada el 2026-08-08; evidencia preservada y publicación en curso
+**Estado:** cerrada y revalidada el 2026-08-22; evidencia preservada, web actualizada y verificación de publicación en curso
 
 ## Pregunta central
 ¿Cuándo están indicados o contraindicados los diuréticos en una persona con lipedema y edema coexistente, qué evidencia existe sobre edema por diuréticos/rebote y pseudo-Bartter, y cómo explicar una revisión o retirada segura sin inducir a suspender tratamientos necesarios?
@@ -67,6 +67,9 @@
 - Cola Chack terminal sin trabajos activos. P05 y P06 fueron intentos diferenciados pero terminaron sin salida Pro utilizable; se preservan sus artefactos y no se cuentan como evidencia Pro.
 - El sitio ya contenía la actualización segura de diuréticos del commit previo; no se amplía con conclusiones nuevas de solicitudes fallidas.
 
-## Recuperación obligatoria 2026-08-15
-- Cola Chack terminal sin trabajos activos. P05 y P06 fueron intentos diferenciados pero terminaron sin salida Pro utilizable; se preservan sus artefactos y no se cuentan como evidencia Pro.
-- El sitio ya contenía la actualización segura de diuréticos del commit previo; no se amplía con conclusiones nuevas de solicitudes fallidas.
+## Recuperación obligatoria 2026-08-22
+- `researcher_queue_status` confirmó `processing_count=0`; se reutilizó la cola estable `lipedema-diureticos-20260718` y se preservó el resultado en `/tmp/chack-research-data/researcher-queues/lipedema-diureticos-20260718`.
+- P07 (`prochatgpt_researcher`, indicación/deprescripción y seguridad) terminó `FAILED` por `TimeoutError` tras 90 minutos; no cuenta como evidencia Pro. Se copiaron sus artefactos a `evidence/chack/pro-07-clinical-retry/` sin sobrescribir nada.
+- P08 (`prochatgpt_researcher`, pseudo-Bartter/diferencial) terminó con revisión científica/web/CLI extraída, pero Chack informó que `prochatgpt_researcher` no estaba expuesto en el mapa de capacidades; por tanto no se cuenta como respuesta Pro. Se preservó en `evidence/chack/pro-08-pseudobartter-retry/`.
+- P08 añadió una comprobación útil: no se encontró cohorte/caso publicado que atribuya pseudo-Bartter a lipedema; una caída de potasio tras liposucción no demuestra alcalosis ni mecanismo RAAS. También reforzó que los cribados urinarios dependen del panel, muestra y momento.
+- La web se actualizará solo con estos matices de seguridad, sin dosis ni pautas de retirada. La investigación complementaria OSINT/SerpAPI previa permanece terminal y preservada; no se sustituyen fallos Pro por snippets.
