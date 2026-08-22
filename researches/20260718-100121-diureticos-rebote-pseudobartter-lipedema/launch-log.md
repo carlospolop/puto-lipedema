@@ -53,10 +53,10 @@
 
 ## Cierre y verificación 2026-08-22
 
-- [x] `summary.md` existe y contiene la síntesis, límites y traducción web; `MANIFEST.md` inventaría 848 archivos y 98.265.829 bytes con SHA-256 verificable.
+- [x] `summary.md` existe y contiene la síntesis, límites y traducción web; `MANIFEST.md` inventaría 848 archivos y 98.267.724 bytes con SHA-256 verificable.
 - [x] Web en español actualizada en `efectos/edema-retencion.html`; novedades >30 días eliminadas de `anexos/ultimas-incorporaciones.html`; el índice se regeneró con `node .github/scripts/build-search-index.js` y cubre 99 páginas.
-- [x] Commit `b11b030` enviado a `main`: https://github.com/carlospolop/puto-lipedema/commit/b11b0301e00a61ca323c07b2f567eebe572c4654
-- [x] Search index: https://github.com/carlospolop/puto-lipedema/actions/runs/32565547028 — success.
-- [x] GitHub Pages: https://github.com/carlospolop/puto-lipedema/actions/runs/32565547037 — success.
+- [x] Commit de contenido `b11b030` y cierre documental `676b8f5` enviados a `main`: https://github.com/carlospolop/puto-lipedema/commit/676b8f5e13d5b42c8b3eadcd1b243d55964bb9c8
+- [x] Search index del commit de contenido: https://github.com/carlospolop/puto-lipedema/actions/runs/32565547028 — success.
+- [x] GitHub Pages del commit de contenido: https://github.com/carlospolop/puto-lipedema/actions/runs/32565547037 — success; el cierre documental también desplegó correctamente en https://github.com/carlospolop/puto-lipedema/actions/runs/32565627408.
 - [x] Producción: `https://putolipedema.com/anexos/ultimas-incorporaciones.html?v=b11b030` y `https://putolipedema.com/efectos/edema-retencion.html?v=b11b030` devolvieron HTTP 200 y contienen las frases nuevas.
 - [x] No se abrió ningún lote Chack al cerrar: el lote `batch-3-d1298d65` terminó `complete=true`; los fallos P07/P08 están documentados y no cuentan como respuestas Pro válidas.
