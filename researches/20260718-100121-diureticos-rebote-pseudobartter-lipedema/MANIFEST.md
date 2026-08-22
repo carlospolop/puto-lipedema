@@ -3,15 +3,15 @@
 **Regenerado el 2026-08-22**; se excluye este propio archivo. SHA-256 calculado sobre los bytes exactos.
 
 - Archivos inventariados: **848**
-- Bytes totales: **98265829**
+- Bytes totales: **98267724**
 - Cola Chack: `lipedema-diureticos-20260718`
 - Lote: `batch-3-d1298d65`
 - Barrera terminal: `complete=true`, `processing_count=0`; P07 `TimeoutError`; P08 sin capacidad `prochatgpt_researcher`; ambos fallos documentados y no contados como respuestas Pro.
 
 | Tipo | Ruta | Bytes | SHA-256 |
 |---|---|---:|---|
-| Archivo | `curent-research.md` | 10199 | `ce0b441ce02658854ae182457837a18151792db4be35e145ba91948533b9bb90` |
-| Archivo | `current-research.md` | 10199 | `ce0b441ce02658854ae182457837a18151792db4be35e145ba91948533b9bb90` |
+| Archivo | `curent-research.md` | 10186 | `af3f32ea442dab715cc9d9de89ca7effbebc37ef37ae7fcdce49b9390e753df9` |
+| Archivo | `current-research.md` | 10186 | `af3f32ea442dab715cc9d9de89ca7effbebc37ef37ae7fcdce49b9390e753df9` |
 | Archivo | `evidence/chack/batch-3-d1298d65-result.md` | 2594 | `a79e11b72218fd8104b9f7341358cab3169b2b8ea0d6b7909babacae348fd41a` |
 | Archivo | `evidence/chack/deep-01-admin.json` | 71928 | `964eb0a48d488659d43285048536192b96d87676905802fe9e30a4b2a2231e8a` |
 | Archivo | `evidence/chack/deep-01-internal-output-001.json` | 28297 | `95a9ea7e45dd2240dc6262f050e528a8ff5e03799f895495823030b5f565579c` |
@@ -851,10 +851,10 @@
 | Archivo | `evidence/subagents/serpapi-round1.stderr` | 36 | `658924fa8a59cba344db72d523987588998f6e4c2bf53514d2b00a98839026f4` |
 | Archivo | `evidence/subagents/source-verification-round2.md` | 35045 | `80f9ee44990138a68551fa0e9b3bf521c4ff18e0ea68870b7d9e3d1f549f2ecb` |
 | Archivo | `evidence/subagents/source-verification-round2.stderr` | 36 | `ec4262d62b018becfe5192fd74337be6b85ac15d9178b56e1c731c03b65cd6a6` |
-| Archivo | `launch-log.md` | 9194 | `c8dd7ca8651b543acb13bfae7a2f7c1faa4ebf3803d7ce41bc26620c15f7fcf7` |
+| Archivo | `launch-log.md` | 10367 | `8d70d978124dd572d508acb8a5f32e5e4b002b78b8f6cfa98cc3e4f8245464ba` |
 | Archivo | `prompts/falsation-round3.txt` | 3617 | `5bb3ca238e4d473acbffe2d18d5d2da3882a353c51c2608bd18e3daffc8e7263` |
 | Archivo | `prompts/osint-round1.txt` | 2661 | `93508b245c657184d9d9e014e9eab60347f69f414019a8b2375716767038c05d` |
 | Archivo | `prompts/scientific-round1.txt` | 2363 | `e10e8b02956cc5ea6151f15bc634f18cad546d2b66cfcc67341244fe2ffbdbea` |
 | Archivo | `prompts/serpapi-round1.txt` | 2463 | `30c6392546f8204c6fbbe887a12b956099178570ae9098cc3f7d55abfeb53278` |
 | Archivo | `prompts/source-verification-round2.txt` | 3116 | `f4583b26d2f2c23972ca2d0c44fc6947f83c9e33ab462a6567a3772c71bccf3a` |
-| Archivo | `summary.md` | 10804 | `a78da43f4da4efc81b3b856543f8b03636de2b8b25f16bd21fbec73aa318f358` |
+| Archivo | `summary.md` | 11552 | `0ca822f1a83a85f6ce0edc7b19796a6babf7c386d65cb42dff60e25509dbb16e` |

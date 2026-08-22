@@ -50,3 +50,13 @@
 - P08 | investigador solicitado `prochatgpt_researcher` | objetivo: fisiología, diferencial, cloro urinario, cribados y alertas de pseudo-Bartter | `terminal extracted`, pero el administrador informó que el investigador solicitado no estaba expuesto; respaldos terminales `scientific_research`, `websearcher_research` y `cli_research`, 372 operaciones | investigación `research-001-272a8ba8` | artefactos preservados en `evidence/chack/pro-08-pseudobartter-retry/` | no cuenta como respuesta Pro; se usa solo como evidencia de sus investigadores realmente ejecutados.
 - Resultado del lote: `complete=true`, `artifacts_preserved=true`, dos solicitudes mantenidas separadas; no quedaron trabajos abiertos. Se conservan también los fallos P01–P07 y no se afirma haber obtenido dos respuestas Pro válidas.
 - Smoke test 2026-08-22: SerpAPI Google Scholar y ForumScout Reddit devolvieron `SUCCESS`; el primero solo aportó snippets de descubrimiento y el segundo fue ruido no relacionado. `web_extract` no pudo abrir Nature porque el backend configurado es search-only; ninguna de esas salidas se usó como evidencia clínica. Raw outputs y clasificación: `evidence/live-helper/`.
+
+## Cierre y verificación 2026-08-22
+
+- [x] `summary.md` existe y contiene la síntesis, límites y traducción web; `MANIFEST.md` inventaría 848 archivos y 98.265.829 bytes con SHA-256 verificable.
+- [x] Web en español actualizada en `efectos/edema-retencion.html`; novedades >30 días eliminadas de `anexos/ultimas-incorporaciones.html`; el índice se regeneró con `node .github/scripts/build-search-index.js` y cubre 99 páginas.
+- [x] Commit `b11b030` enviado a `main`: https://github.com/carlospolop/puto-lipedema/commit/b11b0301e00a61ca323c07b2f567eebe572c4654
+- [x] Search index: https://github.com/carlospolop/puto-lipedema/actions/runs/32565547028 — success.
+- [x] GitHub Pages: https://github.com/carlospolop/puto-lipedema/actions/runs/32565547037 — success.
+- [x] Producción: `https://putolipedema.com/anexos/ultimas-incorporaciones.html?v=b11b030` y `https://putolipedema.com/efectos/edema-retencion.html?v=b11b030` devolvieron HTTP 200 y contienen las frases nuevas.
+- [x] No se abrió ningún lote Chack al cerrar: el lote `batch-3-d1298d65` terminó `complete=true`; los fallos P07/P08 están documentados y no cuentan como respuestas Pro válidas.

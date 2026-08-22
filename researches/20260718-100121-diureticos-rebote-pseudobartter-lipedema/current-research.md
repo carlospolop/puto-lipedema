@@ -2,7 +2,7 @@
 
 **Carpeta:** `20260718-100121-diureticos-rebote-pseudobartter-lipedema`  
 **Cola Chack:** `lipedema-diureticos-20260718`  
-**Estado:** cerrada y revalidada el 2026-08-22; evidencia preservada, web actualizada y verificación de publicación en curso
+**Estado:** cerrada y verificada el 2026-08-22; evidencia preservada, web publicada y barrera terminal confirmada
 
 ## Pregunta central
 ¿Cuándo están indicados o contraindicados los diuréticos en una persona con lipedema y edema coexistente, qué evidencia existe sobre edema por diuréticos/rebote y pseudo-Bartter, y cómo explicar una revisión o retirada segura sin inducir a suspender tratamientos necesarios?
