@@ -1,0 +1,285 @@
+Kidney Case Conference:
+Nephrology Quiz and Questionnaire
+Unexplained Metabolic Alkalosis in an Athlete
+Don’t Sweat It
+Roger Rodby and William Whittier
+CJASN 19: 924 –926, 2024. doi: https://doi.org/10.2215/CJN.0000000000000494
+Case Presentation
+An 18-year-old woman was referred for hypokalemia and
+metabolic alkalosis associated with cramps and myalgias
+after exercise. She had recently received a college scholar-
+ship for ﬁeld hockey and accelerated her exercise schedule
+to 3 –4 hours/d in the gym and ﬁeld, combining aerobic
+exercise and weight trainin g. She routinely consumed
+3–4Lo f “Liquid IV” (electrolyte packets mixed with water)
+throughout and after her workouts. She denied vomiting,
+pica, taking diuretics, laxatives, licorice, or health supple-
+ments. Her physical examination was notable for the fol-
+lowing: height 5 910,w e i g h t1 1 2l b s . ,b o d ym a s si n d e x
+23.5 kg/m
+2, BP 92/60 mm Hg, and heart rate 58 beats
+per minute. She was thin but muscular. There were no oral
+ulcerations, and her teeth wer e normal. Laboratory results
+showed the following: sodium 135 mmol/L, potassium 2.7
+mmol/L, chloride 83 mmol/L, bicarbonate 37 mmol/L,
+blood urea nitrogen 15 mg/dl, serum creatinine 0.9 mg/dl,
+glucose 81 mg/dl, and serum albumin 4.9 g/dl. The rest
+of the complete metabolic panel was normal. An arterial
+blood gas showed pH 7.47, PCO
+2 50 mm Hg, and bicar-
+bonate 36 mmol/L.
+Question 1: What would be the next step in
+your evaluation?
+A. Psychiatric evaluation.
+B. Urine diuretic (and laxative if available) screen.
+C. Urine Cl 2 concentration.
+D. Genetic testing for Gitelman.
+E. Serum renin and aldosterone.
+A complete discussion of metabolic alkalosis with hypo-
+kalemia is beyond the scope of this report. 1 Causes include
+genetic diseases, tumors, ingestions, pharmacologic agents,
+and surreptitious activities. With such a daunting and seem-
+ingly disparate list, it is hard to simplify the diagnostic
+approach. However, we present a straightforward system-
+atic pathway to answer Question 1. We would start with the
+presence or absence of hypertension which when present is
+further categorized by levels of renin and aldosterone.
+2 This
+patient was not hypertensive, leading us down an alternate
+diagnostic pathway.
+Metabolic alkalosis requires two fundamental processes:
+Generation and Maintenance.
+Generation: The serum bicarbonate concentration can in-
+crease through several mechanisms:
+1. Hydrogen ion loss from the upper gastrointestinal tract,
+such as vomiting, nasogastric suctioning, etc.
+2. Increased hydrogen ion loss in the urine, usually aldo-
+sterone mediated and commonly seen with diuretic use.
+3. Exogenous bicarbonate or bicarbonate precursor admin-
+istration, such as lactate, acetate, or citrate.
+4. “Contraction alkalosis” (an often-misleading term not to
+be confused with volume depletion) in which the serum
+bicarbonate increases from ﬂuid losses that are low in
+bicarbonate and rich in chloride often seen after diuresis
+and occasionally with lower gastrointestinal losses from a
+villous adenoma, infectious diarrhea rich in chloride
+(cholera), or laxative abuse.
+5. Hypokalemia: See below.
+Maintenance: As bicarbonate is ﬁltered and normally
+reabsorbed, excretion of elevated bicarbonate occurs easily
+through: ( 1) decreased reabsorption in the proximal tubule
+and ( 2) exchanging bicarbonate for chloride in the distal
+tubule (see 1 below). Therefore, for metabolic alkalosis to
+persist ( “maintained”), a process that limits kidney bicar-
+bonate excretion is required:
+1. Chloride Depletion. Pendrin is a sodium independent
+chloride/bicarbonate exchange protein located in the in-
+tercalated cells of the collecting duct but requires ade-
+quate chloride delivery to that nephron segment.
+3 In states
+of extrarenal chloride depletion or effective volume de-
+pletion, proximal chloride reabsorption is augmented and
+thus, distal chloride delivery is decreased. This impairs
+Rush University Medical Center, Chicago, Illinois
+Correspondence: Dr. Roger Rodby, email: rogerrodby@mac.com
+Published Online Ahead of Print: May 10, 2024
+924 Copyright © 2024 by the American Society of Nephrology CJASN 19: 924–926, July, 2024
+
+pendrin-mediated bicarbonate excretion, and metabolic
+alkalosis is “Maintained.”
+2. A signiﬁcant reduction in GFR, in which ﬁltration alone
+limits bicarbonate excretion
+3. A hyperaldosterone state, either:
+a. Primary or apparent hyperaldosteronism (hypertensive
+states not present here), or
+b. Secondary hyperaldosteronism associated with ab-
+normal sodium chloride reabsorption as seen in Bartter
+and Gitelman syndrome and active diuretic use. Sec-
+ondary hyperaldosteronism in effective circulating
+volume depletion will not lead to signiﬁcant electrolyte
+(bicarbonate and potassium) abnormalities because
+proximal sodium reabsorption is augmented, de-
+creasing distal sodium delivery and thus, limiting the
+substrate (sodium) for aldosterone activity. However,
+when distal sodium delivery is enhanced with di-
+uretics, secondary hyperaldosteronism can generate
+and maintain metabolic alkalosis.
+4. Hypokalemia plays a role in both generation and main-
+tenance of metabolic alkalosis involving:
+a. Transcellular potassium/hydrogen ion shifts,
+b. Preferential aldosterone-mediated hydrogen ion (over
+potassium) kidney excretion, and
+c. Increased bicarbonate production through augmented
+ammoniagenesis.
+Thus, hypokalemia can contribute to metabolic alkalosis,
+and metabolic alkalosis can contribute to hypokalemia.
+Understanding the role that pendrin activity and chloride
+delivery plays in the maintenance of metabolic alkalosis,
+gives us the answer to Question 1, option C: Urine chloride
+concentration.
+The urine chloride guides you to differentiate a nonhy-
+pertensive metabolic alkalosis to either:
+1. High ( .20 mmol/L) associated with tubulopathies (Bartter
+and Gitelman) and active diuretic use.
+2. Low ( ,20 mmol/L) associated with extrarenal chloride
+depletion or distal delivery.
+The patient’s urine chloride was ,10 mmol/L indicating
+2. Her urine diuretic and laxative screen were negative. In
+addition, her metabolic abnormalities resolved between
+workouts. This brings us to:
+Question 2: What would be the next step in
+your evaluation?
+A. Psychiatric evaluation.
+B. Serum renin and aldosterone.
+C. Genetic evaluation.
+D. Repeat urine diuretic and laxative screen.
+E. Phone a friend.
+This patient has a “low chloride ” metabolic alkalosis in
+which the generation and maintenance were a mystery.
+Diuretics, laxatives, and vomiting (bulimia) can each gen-
+erate and maintain a metabolic alkalosis. In vomiting and
+chloride-rich laxative abuse, the urine chloride would be
+expected to be low, but with recent use of diuretics, it would
+be high. The patient denied these activities, but as they
+would be surreptitious, this would be expected. These be-
+haviors usually accompany a body dysmorphic disorder,
+not apparent in her. Urine diuretic and laxative screening
+were negative, but a clever patient may time their use with
+blood and urine sampling. Without constant observation,
+these diagnoses are almost impossible to con ﬁdently rule
+out and this psychiatric evaluation and repeat urine screen-
+ing (options A and D) seem reasonable. Serum renin and
+aldosterone (option B) will not likely help in the diagnosis in
+this case as they will be elevated in both tubulopathies and
+effective volume depletion.
+So, what generates her metabolic alkalosis with exercise?
+She consumes several liters of “Liquid IV” during workouts.
+We contacted the company to determine if it contained any
+source of base but received: “We are unable to share exact
+values since this would be proprietary information. ” We
+sent a specimen of Liquid IV to Litholink (Itasca, IL), a
+company that specializes in evaluating urine stone risk
+analysis), which determined that there was approximately
+50 mmol net alkali/liter: Generation Solved.
+However, “maintenance” remained a mystery. She did
+not have any obvious kidney or gastrointestinal chloride
+losses, what was the source of her chloride de ﬁciency
+(“Phone a friend ” option E)? She sweats extensively during
+her workouts. While sweat contains sodium chloride, the
+amount is regulated by aldosterone through epithelial so-
+dium channels, similar to the kidney ( Figure 1B ). We then
+obtained a sweat chloride twice, which was approximately
+40 mmol/L. Patients with cystic ﬁbrosis (CF) have a
+sweat chloride .60 mmol/L with borderline values 40 –60
+mmol/L and only if ,30 mmol/L is CF unlikely. 4 No other
+clinical parameters suggested this diagnosis, but we sent her
+blood for CF genetic testing (correct option C) and deter-
+mined she was a heterozygote for the CF transmembrane
+conductance regulator (CFTR) gene c.2991 G .C p. (L997F).
+CF is an autosomal recessive di sease. Carriers (heterozy-
+gotes) of autosomal recessive conditions do not typically
+manifest the phenotype that is characteristic of homozy-
+gotes. However, there are over 50 different signs and
+symptoms in 10 different organ systems in CF carriers
+that while not at the same prevalence or severity as in
+CF homozygotes are not normal compared with individ-
+uals without a CF mutation.
+5 A recent cohort of 29,907 CF
+carriers and 299,070 controls found an increase in ﬂuid and
+electrolyte disorders in the C F carriers, including volume
+depletion, hypokalemia, and metabolic alkalosis. 6 Ac a s e
+similar to ours was reported in a CF homozygote, a chef
+and who developed severe hypokalemic metabolic alka-
+losis, but only in the summer when sweating excessively
+in a hot kitchen.
+7 There are other case reports of exercise-
+induced hypokalemic metabolic alkalosis, but CF has not
+been suggested. 8,9 One (asymptomatic) was identi ﬁed
+t h r o u g ha ne x e r c i s er e s e a r c hp r o j e c t .T h eo t h e rw a sap a -
+tient who had a seizure after a workout. The authors
+mentioned CF (but not trait) in the differential diagnosis
+and the possibility of high sweat chloride loss later but was
+not measured. In both cases, the patients were vegetarians,
+CJASN 19: 924–926, July, 2024 925
+Unexplained Metabolic Alkalosis, Rodby and Whittier
+
+which is a diet high in net alkali. This is similar to our
+patient who ingested an oral replacement ﬂuid high in
+alkali. We would posit that these previously reported un-
+usual cases may also represent a carrier state for CF and
+should alert providers to pursue genetic testing.
+The CF gene encodes for CFTR, a protein that allows
+chloride transport (in conjunc tion with epithelial sodium
+mediated sodium transport) from the sweat gland ductal
+lumen into the interstitium 10 (Figure 1 ). Interestingly, in
+some patients with CF, renal pendrin is downregulated
+(also from a relative de ﬁciency in CFTR), leading to
+excessive urinary chloride loss, cleverly termed “renal
+tubular alkalosis. ”11 With a low urine chloride, we felt her
+high sweat chloride alone explained her chloride deple-
+tion, leading to genetic testing: Diagnosis and Mainte-
+nance solved.
+Case Summary
+We believe that this patient ’s metabolic alkalosis was
+g e n e r a t e db yb a s ei n t a k ef r o mL i q u i dI Va l o n gw i t h“con-
+traction” from large volumes of sweat rich in chloride and
+low in bicarbonate. It was maintained by heterozygote CF –
+induced sweat chloride loss, leaving her total body chlo-
+ride de ﬁcient, thus rendering pendrin ineffective. She de-
+creased her training routine, replaced Liquid IV with
+potassium chloride, and her metabolic alkalosis has
+not recurred.
+Disclosures
+Disclosure forms, as provided by each author, are available with
+the online version of the article at http://links.lww.com/
+CJN/B908.
+Funding
+None.
+Author Contributions
+Writing – original draft: Roger Rodby.
+Writing – review & editing: William Whittier.
+References
+1. Emmett M. Metabolic alkalosis: a brief pathophysiologic review.
+Clin J Am Soc Nephrol. 2020;15(12):1848–1856. doi:10.2215/
+CJN.16041219
+2. Cely C, Contreras G. Approach to the patient with hyper-
+tension, unexplained hypokalemia and metabolic alkalosis.
+Am J Kidney Dis. 2001;37(3):E24. doi: 10.1053/ajkd.2001.
+22102
+3. Wall S, Lazo-Fernandez Y. The role of pendrin in renal physi-
+ology. Annu Rev Physiol. 2015;77:363–378. doi:10.1146/
+annurev-physiol-021014-071854
+4. Schmidt H, Sharma G. Sweat Testing. StatPearls [Internet] .
+StatPearls Publishing; 2023.
+5. Miller AC, Comellas AP, Hornick D, et al. Cystic ﬁbrosis carriers
+are at increased risk for a wide range of cystic ﬁbrosis-related
+conditions. Proc Natl Acad Sci U S A. 2020;117(3):1621–1627.
+doi:10.1073/pnas.1914912117
+6. Lee S, Harris LM, Miller AC, et al. Risk for dehydration and ﬂuid
+and electrolyte disorders among cystic ﬁbrosis carriers. Am J
+Kidney Dis.2024;83(5):695–697. doi:10.1053/j.ajkd.2023.09.011
+7. Cao Y, Donaldson R, Lee D. “Summer hypokalemia” as an initial
+presentation of cystic ﬁbrosis in a morbidly obese African
+American adult: case report. BMC Nephrol. 2020;21(1):462. doi:
+10.1186/s12882-020-02130-y
+8. Kamel KS, Ethier J, Levin A, Halperin ML. Hypokalemia in the
+beautiful people. Am J Med. 1990;88(5):534–536. doi:10.1016/
+0002-9343(90)90436-h
+9. Hoorn EJ, Bovee D, Geerse D, Visser W. Diet-exercise-induced
+hypokalemic metabolic alkalosis. Am J Med. 2020;133(11):
+e667–e669. doi:10.1016/j.amjmed.2020.04.019
+10. Rowe SM, Miller S, Sorscher E. Cystic ﬁbrosis. N Engl J Med.
+2005;352(19):1992–2001. doi:10.1056/NEJMra043184
+11. Varasteh Kia M, Barone S, McDonough AA, Zahedi K, Xu J,
+Soleimani M. Downregulation of the Cl-/HCO3-
+exchanger pendrin in kidneys of mice with cystic ﬁbrosis: role in
+the pathogenesis of metabolic alkalosis. Cell Physiol Biochem.
+2018;45(4):1551–1565. doi:10.1159/000487691
+Figure 1. Abnormal chloride transport in sweat glands of patients with cystic ﬁbrosis. Defective sweat chloride (Cl) transport in patients
+with CF: Sodium (Na) and Cl are normally reabsorbed from the sweat duct into the interstitium: Na through ENaC channel channels and Cl
+through a channel that requires CFTR as demonstrated in (A). CFTR is lacking in patients with CF (B) leading to excessive sweat Cl. This
+provides a sweat gland lumen negativity that limits Na transport (reabsorption) as well. These effects lead to excessive sweat Cl loss, which
+can affect the patient’s volume and acid base status. CF, cystic ﬁbrosis; CFTR, CF transmembrane conductance regulator; ENaC, epi-
+thelial sodium.
+KIDNEY CASE CONFERENCE: NEPHROLOGY QUIZ AND QUESTIONNAIRE www.cjasn.org
+926 CJASN

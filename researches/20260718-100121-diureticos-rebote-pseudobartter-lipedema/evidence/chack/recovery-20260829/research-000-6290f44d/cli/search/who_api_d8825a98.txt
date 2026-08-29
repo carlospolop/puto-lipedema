@@ -1,0 +1,103 @@
+{
+  "_embedded" : {
+    "collections" : [ {
+      "id" : "0b9c13cd-36f1-4158-a173-3a71b26507c4",
+      "uuid" : "0b9c13cd-36f1-4158-a173-3a71b26507c4",
+      "name" : "Regional Committee Meeting 78, Colombo, Sri Lanka, 13–15 October 2025",
+      "handle" : "10665/382499",
+      "metadata" : {
+        "dc.identifier.uri" : [ {
+          "value" : "https://iris.who.int/handle/10665/382499",
+          "language" : null,
+          "authority" : null,
+          "confidence" : -1,
+          "place" : 0
+        } ],
+        "dc.language.iso" : [ {
+          "value" : "en",
+          "language" : null,
+          "authority" : null,
+          "confidence" : -1,
+          "place" : 0
+        } ],
+        "dc.title" : [ {
+          "value" : "Regional Committee Meeting 78, Colombo, Sri Lanka, 13–15 October 2025",
+          "language" : "en",
+          "authority" : null,
+          "confidence" : -1,
+          "place" : 0
+        } ]
+      },
+      "archivedItemsCount" : -1,
+      "type" : "collection",
+      "_links" : {
+        "harvester" : {
+          "href" : "https://iris.who.int/server/api/core/collections/0b9c13cd-36f1-4158-a173-3a71b26507c4/harvester"
+        },
+        "itemtemplate" : {
+          "href" : "https://iris.who.int/server/api/core/collections/0b9c13cd-36f1-4158-a173-3a71b26507c4/itemtemplate"
+        },
+        "license" : {
+          "href" : "https://iris.who.int/server/api/core/collections/0b9c13cd-36f1-4158-a173-3a71b26507c4/license"
+        },
+        "logo" : {
+          "href" : "https://iris.who.int/server/api/core/collections/0b9c13cd-36f1-4158-a173-3a71b26507c4/logo"
+        },
+        "mappedItems" : {
+          "href" : "https://iris.who.int/server/api/core/collections/0b9c13cd-36f1-4158-a173-3a71b26507c4/mappedItems"
+        },
+        "parentCommunity" : {
+          "href" : "https://iris.who.int/server/api/core/collections/0b9c13cd-36f1-4158-a173-3a71b26507c4/parentCommunity"
+        },
+        "adminGroup" : {
+          "href" : "https://iris.who.int/server/api/core/collections/0b9c13cd-36f1-4158-a173-3a71b26507c4/adminGroup"
+        },
+        "submittersGroup" : {
+          "href" : "https://iris.who.int/server/api/core/collections/0b9c13cd-36f1-4158-a173-3a71b26507c4/submittersGroup"
+        },
+        "itemReadGroup" : {
+          "href" : "https://iris.who.int/server/api/core/collections/0b9c13cd-36f1-4158-a173-3a71b26507c4/itemReadGroup"
+        },
+        "bitstreamReadGroup" : {
+          "href" : "https://iris.who.int/server/api/core/collections/0b9c13cd-36f1-4158-a173-3a71b26507c4/bitstreamReadGroup"
+        },
+        "self" : {
+          "href" : "https://iris.who.int/server/api/core/collections/0b9c13cd-36f1-4158-a173-3a71b26507c4"
+        },
+        "workflowGroups" : [ {
+          "href" : "https://iris.who.int/server/api/core/collections/0b9c13cd-36f1-4158-a173-3a71b26507c4/workflowGroups/reviewer",
+          "name" : "reviewer"
+        }, {
+          "href" : "https://iris.who.int/server/api/core/collections/0b9c13cd-36f1-4158-a173-3a71b26507c4/workflowGroups/editor",
+          "name" : "editor"
+        }, {
+          "href" : "https://iris.who.int/server/api/core/collections/0b9c13cd-36f1-4158-a173-3a71b26507c4/workflowGroups/finaleditor",
+          "name" : "finaleditor"
+        } ]
+      }
+    } ]
+  },
+  "_links" : {
+    "first" : {
+      "href" : "https://iris.who.int/server/api/core/collections?page=0&size=1"
+    },
+    "self" : {
+      "href" : "https://iris.who.int/server/api/core/collections?size=1"
+    },
+    "next" : {
+      "href" : "https://iris.who.int/server/api/core/collections?page=1&size=1"
+    },
+    "last" : {
+      "href" : "https://iris.who.int/server/api/core/collections?page=718&size=1"
+    },
+    "search" : {
+      "href" : "https://iris.who.int/server/api/core/collections/search"
+    }
+  },
+  "page" : {
+    "size" : 1,
+    "totalElements" : 719,
+    "totalPages" : 719,
+    "number" : 0
+  }
+}

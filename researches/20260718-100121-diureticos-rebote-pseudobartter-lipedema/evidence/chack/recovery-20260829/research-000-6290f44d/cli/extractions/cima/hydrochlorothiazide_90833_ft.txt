@@ -1,0 +1,672 @@
+                                             FICHA TÉCNICA
+
+1. NOMBRE DEL MEDICAMENTO
+
+Hidroclorotiazida Normon 25 mg comprimidos EFG
+
+2. COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+
+Cada comprimido contiene 25 mg de hidroclorotiazida
+
+Excipientes con efecto conocido
+47,50 mg de lactosa (en forma de lactosa monohidrato) por comprimido.
+
+Para consultar la lista completa de excipientes, ver sección 6.1.
+
+
+3. FORMA FARMACÉUTICA
+
+Comprimido.
+
+Comprimidos blancos o casi blancos, redondos, biconvexos, grabados con“H 25” en una cara con barra de
+rotura y lisos en la otra con un diámetro de 7,1 mm ± 10 %.
+
+El comprimido se puede dividir en dosis iguales.
+
+
+4. DATOS CLÍNICOS
+
+4.1 Indicaciones terapéuticas
+
+Este medicamento está indicado para:
+     Tratamiento de la hipertensión arterial, como monoterapia o en combinación con otros agentes
+       antihipertensivos.
+     Tratamiento de edema de origen específico:
+          -    Edema debido a insuficiencia cardiaca crónica estable de grado leve a moderado (New
+               York Heart Association, NYHA, clases II y III).
+          -    Edema debido a insuficiencia renal.
+          -    Ascitis debida a cirrosis hepática en pacientes estables bajo estrecho control médico.
+
+        Prevención en adultos de cálculos de oxalato cálcico recurrentes en pacientes con hipercalciuria
+         idiopática, normocalcémica.
+        Tratamiento de diabetes nefrogénica insípida cuando no esté indicado el tratamiento con hormona
+         antidiurética.
+
+
+4.2 Posología y forma de administración
+
+Posología
+
+Como con todos los diuréticos, el tratamiento se debe iniciar con la menor dosis posible. La dosis se debe
+ajustar de acuerdo a la respuesta individual del paciente para obtener el máximo beneficio terapéutico
+mientras se mantienen los mínimos efectos adversos.
+
+
+                                                   1 de 13
+Población general
+
+Hipertensión
+El intervalo de dosificación clínicamente útil es de 12,5 a 50 mg/día.
+
+La dosis inicial recomendada es 12,5 mg o 25 mg una vez al día. Para una dosis determinada, el efecto
+completo se alcanza tras 3 o 4 semanas.
+
+Si la disminución en la presión sanguínea es inadecuada con 25 o 50 mg/día, no se deben aumentar las dosis
+de hidroclorotiazida, ya que no producen una mayor reducción de la presión arterial pero en cambio
+aumentan la pérdida de potasio, sino que se recomienda el tratamiento combinado con otros
+antihipertensivos. Se debe corregir la depleción de volumen o de sodio antes de utilizar hidroclorotiazida en
+combinación con un inhibidor ECA o un bloqueador de los receptores de angiotensina (ARB) o un inhibidor
+directo de la renina (ver sección 4.4). De otra manera, el tratamiento debe comenzar bajo estrecha
+supervisión médica.
+
+Edema de origen específico
+La dosis efectiva más baja debe ser identificada por valoración y administrada durante períodos limitados.
+La dosis no debe exceder los 50 mg/día.
+
+Profilaxis de cálculos recurrentes de oxalato cálcico en hipercalciuria normocalcémica
+La dosis diaria recomendada es de 25 a 50 mg.
+
+Diabetes nefrogénica insípida (DNI)
+En adultos, se han utilizado dosis iniciales de hasta 100 mg.
+
+Poblaciones especiales
+
+Insuficiencia renal
+No es necesario un ajuste de la dosis inicial en pacientes con insuficiencia renal de leve a moderada (ver
+sección 5.2). Utilizar con precaución en pacientes con enfermedad renal grave (IFG<30 ml/min) (ver
+sección 4.4). Hidroclorotiazida y otros diuréticos tiazídicos pueden perder su efecto diurético cuando el
+IFG es < 30 ml/min pero puede ser útil en estos pacientes, cuando se utilizan con precaución en
+combinación con diuréticos del asa. Hidroclorotiazida está contraindicada en pacientes con anuria (ver
+sección 4.3).
+
+Insuficiencia hepática
+No es necesario un ajuste de la dosis inicial en pacientes con insuficiencia hepática de media a moderada
+(ver sección 5.2). Las tiazidas, como otros diuréticos, pueden producir un desequilibrio electrolítico,
+encefalopatía hepática y síndrome hepato-renal, cuando se utiliza para tratar ascitis cirrótica.
+Hidroclorotiazida se debe utilizar con precaución particular en pacientes con insuficiencia hepática grave
+(ver sección 4.4).
+
+Población pediátrica
+     Tratamiento de la hipertensión arterial: de 1 a 2 mg/kg de peso corporal o de 30 a 60 mg/m2 de
+        superficie corporal 1 vez al día, como dosis única o en 2 tomas diarias, ajustando la dosificación
+        de acuerdo a la respuesta, pueden recibir hasta 3 mg/kg/día. Lactantes menores de 6 meses de edad
+        pueden recibir hasta 3 mg/kg de peso corporal al día.
+
+
+
+                                                   2 de 13
+       Tratamiento del edema: la dosis recomendada es de 2 mg/kg/día administrados en dos veces.
+        Pueden administrarse hasta 3 mg/kg/día. Lactantes menores de 6 meses de edad pueden recibir
+        hasta 3 mg/kg de peso corporal al día.
+       Tratamiento de la diabetes insípida: dado que la experiencia en niños es escasa, la posología se
+        determinará individualmente y en régimen hospitalario
+
+Forma de administración
+
+La dosis de hidroclorotiazida se puede administrar a diario como una dosis única o en dos dosis divididas.
+Se puede tomar con o sin alimento.
+
+Los comprimidos deben tomarse por vía oral. Los comprimidos pueden tomarse enteros, partidos o
+triturados, con la ayuda de un poco de agua u otra bebida no alcohólica.
+
+Cuando se prescriba una única dosis diaria, ésta se tomará por la mañana, junto al desayuno.
+
+
+4.3 Contraindicaciones
+
+
+       Hipersensibilidad al principio activo o a alguno de los excipientes incluidos en la sección 6.1
+       Anuria,
+       Hipertensión durante el embarazo.
+
+
+4.4 Advertencias y precauciones especiales de empleo
+
+Insuficiencia renal
+Utilizar con precaución en enfermedad renal grave (IFG< 30 ml/min). Los diuréticos tiazídicos pueden
+producir azoemia en pacientes con enfermedad renal crónica. Estos son ineficaces en monoterapia en
+enfermedad renal grave (IFG<30 ml/min) pero pueden ser útiles cuando se utilizan con la debida
+precaución en combinación con diuréticos del asa incluso en pacientes con IFG <30 ml/min. (Ver secciones
+4.2 y 5.2).
+
+Insuficiencia hepática
+No es necesario ajustar la dosis inicial en pacientes con insuficiencia hepática de leve a moderada (ver
+secciones 4.2 y 5.2) Las tiazidas, como otros diuréticos, pueden producir un desequilibrio electrolítico,
+encefalopatía hepática y síndrome hepato-renal, cuando se utilizan para tratar ascitis cirrótica.
+Hidroclorotiazida se debe utilizar con precaución particular en pacientes con insuficiencia hepática grave.
+
+Electrolitos
+Los diuréticos tiazídicos pueden producir un nuevo inicio de hipopotasemia o exacerbar la hipopotasemia
+pre-existente.
+
+Los diuréticos tiazídicos se deben administrar con precaución en pacientes en condiciones que implican un
+aumento de la pérdida de potasio, por ejemplo nefropatías con pérdida de sal e insuficiencia prerenal
+(cardiogénica) de la función renal. Se recomienda corregir la hipopotasemia y la hipomagnesemia
+coexistente antes de comenzar con las tiazidas. Las concentraciones en sangre de potasio y magnesio se
+deben controlar periódicamente. En todos los pacientes que reciben diuréticos tiazídicos se debe controlar
+el desequilibrio electrolítico, particularmente el de potasio.
+
+
+
+                                                   3 de 13
+Como con todos los diuréticos tiazídicos, la kaliuresis inducida por hidroclorotiazida es dosis dependiente.
+Para el tratamiento crónico, las concentraciones de potasio en sangre se deben comprobar inicialmente y
+luego tras 3 a 4 semanas. Por tanto, si el equilibrio de potasio no está alterado por factores adicionales (por
+ejemplo vómitos, diarrea, cambio en la función renal, etc.), las pruebas se deben realizar periódicamente.
+
+Se debe valorar la co-administración de una sal potásica oral (por ejemplo KCI) puede considerarse en
+pacientes que reciben digital (ver sección 4.5), en pacientes que muestran síntomas de enfermedad
+coronaria cardiaca, excepto si están recibiendo algún inhibidor ECA, en pacientes con altas dosis de un
+agonista β-adrenérgico, y en todos los casos en los que las concentraciones de potasio plasmático son < 3,0
+mmol/L. Si las preparaciones orales de potasio no se toleran, hidroclorotiazida se puede combinar con un
+diurético ahorrador de potasio.
+
+En todos los casos de tratamiento combinado, el mantenimiento o normalización del balance de potasio se
+debe controlar estrechamente. Si la hipopotasemia se ve acompañada por signos clínicos (por ejemplo
+debilidad muscular, paresia o alteración del ECG), se debe interrumpir el tratamiento con hidroclorotiazida.
+
+El tratamiento combinado consistente en hidroclorotiazida y una sal de potasio o un diurético ahorrador de
+potasio debe evitarse en pacientes que estén recibiendo inhibidores ECA, ARBs o DRIs.
+
+Los diuréticos tiazídicos pueden producir una nueva aparición de hiponatremia o exacerbar la hiponatremia
+pre-existente. En pacientes con depleción grave de sodio y/o pacientes con depleción de volumen, tales
+como aquellos que reciben altas dosis de diuréticos, se puede producir hipotensión sintomática en casos
+raros tras el inicio del tratamiento con hidroclorotiazida. Se ha observado en casos aislados hiponatremia,
+acompañada por síntomas neurológicos (náuseas, desorientación progresiva, apatía). Los diuréticos
+tiazídicos solo se deben utilizar tras la corrección de cualquier depleción pre-existente del volumen o de
+sodio. De otra manera, el tratamiento debe empezar bajo estricta supervisión médica. Se recomienda un
+control regular de las concentraciones de sodio en sangre.
+
+La monitorización de los electrolitos en sangre está indicada particularmente en pacientes de edad
+avanzada, en pacientes con ascitis debido a cirrosis hepática, y en pacientes con edema debido a síndrome
+nefrótico. En esta última condición, solo se debe utilizar hidroclorotiazida bajo estrecha supervisión en
+pacientes normocaliémicos sin síntomas de depleción de volumen o hipoalbuminemia grave.
+
+Como otros diuréticos, hidroclorotiazida puede aumentar los niveles de ácido úrico en sangre debido a una
+disminución del aclaramiento de ácido úrico y puede producir un aumento de hiperuricemia y producir gota
+en pacientes susceptibles.
+
+Efectos metabólicos
+Las tiazidas, incluyendo hidroclorotiazida, pueden alterar la tolerancia a la glucosa y aumentar los niveles
+de colesterol y triglicéridos en sangre.
+Las tiazidas disminuyen la excreción de calcio en orina y pueden producir un leve aumento de la
+concentración de calcio en ausencia de trastornos del metabolismo del calcio conocidos. Ya que
+hidroclorotiazida puede aumentar los niveles de calcio en sangre, debe utilizarse con precaución en
+pacientes con hipercalcemia. Una hipercalcemia marcada sin respuesta a la retirada de tiazidas o ≥ 12 mg/dl
+puede ser evidencia de un proceso subyacente de hipercalcemia independiente de tiazidas. Cambios
+patológicos en la glándula paratiroidea de los pacientes con hipercalcemia e hipofosfatemia se han
+observado en algunos pacientes en tratamiento con tiazidas prolongada. Si se produce hipercalcemia, es
+necesaria una clarificación adicional del diagnóstico.
+
+
+
+                                                    4 de 13
+Derrame coroideo, miopía aguda y glaucoma secundario de ángulo cerrado
+Los medicamentos con sulfonamida o medicamentos derivados de sulfonamida pueden causar una reacción
+idiosincrática que dé lugar a un derrame coroideo con defecto del campo visual, miopía transitoria o
+glaucoma agudo de ángulo cerrado. Los síntomas incluyen la aparición aguda de una agudeza visual
+disminuida o dolor ocular y ocurre normalmente entre unas horas hasta unas semanas después del
+comienzo del tratamiento. El glaucoma agudo de ángulo cerrado puede no tratado puede conducir a una
+pérdida de visión permanente.
+
+El tratamiento inicial es interrumpir el uso de hidroclorotiazida lo antes posible. Se debe considerar el
+tratamiento médico o quirúrgico inmediato si la presión intraocular permanece descontrolada. Entre los
+factores de riesgo para desarrollar glaucoma agudo de ángulo cerrado se incluyen antecedentes de alergias
+a sulfonamidas o penicilina.
+
+Otros
+El efecto antihipertensivo de los inhibidores ECA, ARBs o DRIs está potenciado por agentes que aumentan
+la actividad de la renina plasmática (diuréticos). Debe tener precaución cuando un inhibidor ECA (ARB o
+DRI) se añade a hidroclorotiazida particularmente en pacientes con depleción grave de sodio o depleción
+de volumen.
+
+Durante el tratamiento con tiazidas, se puede activar el lupus eritematoso.
+
+Las reacciones de hipersensibilidad son más frecuentes en pacientes con alergias y asma.
+
+Uso en deportistas
+Se debe advertir a los pacientes que este medicamento contiene hidroclorotiazida, que puede producir un
+resultado positivo en las pruebas de control del dopaje.
+
+Cáncer de piel no-melanoma
+Se ha observado un aumento del riesgo de cáncer de piel no-melanoma (CPNM) [carcinoma basocelular
+(CBC) y carcinoma de células escamosas (CEC)] con la exposición a dosis acumuladas crecientes de
+hidroclorotiazida (HCTZ) en dos estudios epidemiológicos, con base en el Registro Nacional Danés de
+cáncer. Los efectos fotosensibilizantes de la HCTZ podrían actuar como un posible mecanismo del CPNM.
+Se informará a los pacientes tratados con HCTZ del riesgo de CPNM y se les indicará que se revisen de
+manera periódica la piel en busca de lesiones nuevas y que informen de inmediato cualquier lesión de la
+piel sospechosa. Se indicarán a los pacientes las posibles medidas preventivas, como limitar la exposición a
+la luz solar y a los rayos UV y, en caso de exposición, utilizar protección adecuada para reducir al mínimo
+el riesgo de cáncer de piel. Las lesiones de piel sospechosas se deben evaluar de forma rápida, incluidos los
+análisis histológicos de biopsias. Además, puede ser necesario reconsiderar el uso de HCTZ en pacientes
+que hayan experimentado previamente un CPNM (ver también sección 4.8).
+
+Toxicidad respiratoria aguda
+Se han notificado casos graves muy raros de toxicidad respiratoria aguda, incluido síndrome de dificultad
+respiratoria aguda (SDRA), después de tomar hidroclorotiazida. El edema pulmonar suele aparecer entre
+unos minutos y unas horas después de la toma de hidroclorotiazida. Al inicio del tratamiento, los síntomas
+incluyen disnea, fiebre, insuficiencia pulmonar e hipotensión. Si se sospecha de un diagnóstico de SDRA,
+se debe retirar este medicamento y administrar el tratamiento adecuado. No se debe administrar
+hidroclorotiazida a pacientes que hayan experimentado previamente SDRA tras la ingesta de este fármaco.
+
+Lactosa
+
+                                                   5 de 13
+Este medicamento contiene lactosa. Los pacientes con intolerancia hereditaria a galactosa, deficiencia total
+de lactasa o problemas de absorción de glucosa o galactosa no deben tomar este medicamento.
+
+
+4.5 Interacción con otros medicamentos y otras formas de interacción
+
+La administración concomitante de los siguientes medicamentos puede interaccionar con hidroclorotiazida.
+
+Litio
+Debido a que los diuréticos aumentan los niveles de litio en sangre, éstos se deben monitorizar en pacientes
+en tratamiento con litio que estén tomando hidroclorotiazida al mismo tiempo. Cuando el litio induce
+poliuria los diuréticos pueden ejercer un efecto antidiurético paradójico.
+
+Otros medicamentos antihipertensivos
+Las tiazidas potencian la acción antihipertensiva de otros medicamentos antihipertensivos (por ej.:
+guanetidina, metildopa, beta-bloqueantes, vasodilatadores, bloqueantes de los canales de calcio, inhibidores
+ECA, ARBs y DRIs).
+
+Relajantes músculo-esqueléticos
+Las tiazidas, incluyendo hidroclorotiazida, potencian la acción de los relajantes de músculo esquelético
+tales como derivados de curares
+.
+Medicamentos que afectan los niveles de potasio
+El efecto hipocalémico de los diuréticos puede aumentar por la administración concomitante de diuréticos
+caliuréticos, corticosteroides, ACTH, anfotericina, carbenoxolona, penicilina G, derivados del ácido
+salicílico o antiarrítmicos (ver sección 4.4).
+
+Medicamentos que afectan a los niveles de sodio
+El efecto hiponatrémico de los diuréticos se puede ver intensificado por la administración concomitante de
+medicamentos tales como antidepresivos, antipsicóticos, antiepilépticos, etc. Se recomienda precaución en
+administración a largo plazo de estos medicamentos (ver también sección 4.4).
+
+Agentes antidiabéticos
+Puede ser necesario ajustar la dosis de insulina y de los agentes antidiabéticos.
+
+Glucósidos digitálicos
+La hipopotasemia o hipomagnesemia inducida por tiazidas posiblemente se producen como efecto no
+deseado y pueden favorecer la aparición de arritmias cardiacas inducidas por digital (ver sección 4.4).
+
+AINEs y agentes selectivos de la Cox-2
+La administración concomitante de AINES (por ejemplo derivados del ácido salicílico, indometacina)
+pueden debilitar la actividad antihipertensiva y diurética de hidroclorotiazida. La hipovolemia concurrente
+puede inducir a un fallo renal agudo.
+
+Alopurinol
+La coadministración de tiazidas diuréticas (incluyendo hidroclorotiazida) pueden aumentar la incidencia de
+reacciones de hipersensibilidad a alopurinol.
+
+Amantadina
+
+
+
+                                                   6 de 13
+La coadministración de diuréticos tiazídicos (incluyendo hidroclorotiazida) pueden aumentar el riesgo de
+efectos adversos producidos por amantadina.
+
+Agentes antineoplásicos (p. ej. ciclofosfamida, metotrexato)
+El uso concomitante de diuréticos tiazídicos puede reducir la excreción renal de agentes citotóxicos y
+aumentar los efectos mielosupresores.
+
+Agentes anticolinérgicos
+La biodisponibilidad de los diuréticos tiazídicos puede aumentar con los agentes anticolinérgicos (por
+ejemplo atropina, biperideno), aparentemente debido a una disminución de la motilidad gastrointestinal. A
+la inversa, los medicamentos procinéticos tales como cisaprida pueden disminuir la biodisponibilidad de
+diuréticos tiazídicos.
+
+Resinas de intercambio iónico
+La absorción de los diuréticos tiazídicos, incluyendo hidroclorotiazida, se ve disminuida por colestiramina
+y colestipol. Sin embargo, el escalonamiento de la dosis de hidroclorotiazida y de resina de tal manera que
+hidroclorotiazida se administra al menos 4 h antes o 4 a 6 horas después de la administración de resinas
+podría potencialmente minimizar la interacción.
+
+Vitamina D
+El uso concomitante de diuréticos tiazídicos puede disminuir la excreción urinaria de calcio, y la
+coadministración de vitamina D puede potenciar el aumento de calcio en sangre.
+
+Ciclosporina
+El tratamiento concomitante con diuréticos puede aumentar el riesgo de hiperuricemia y complicaciones
+del tipo de la gota.
+
+Sales de calcio
+El uso concomitante de diuréticos del tipo de las tiazidas puede conducir a hipercalcemia por aumento de la
+reabsorción de calcio tubular.
+
+Diazóxido
+Los diuréticos tiazídicos pueden aumentar el efecto hiperglucémico de diazóxido.
+
+Metildopa
+En la literatura se han notificado casos de aparición de anemia hemolítica con el uso concomitante de
+hidroclorotiazida y metildopa.
+
+Alcohol, barbitúricos o narcóticos
+La administración concomitante de diuréticos tiazídicos con alcohol, barbitúricos o narcóticos puede
+potenciar la hipotensión ortostática.
+
+Aminas presoras
+Hidroclorotiazida puede reducir la respuesta a las aminas presoras tales como noradrenalina, pero el
+significado clínico de este efecto no es suficiente para impedir su uso.
+
+
+4.6 Fertilidad, embarazo y lactancia
+
+Embarazo
+
+Hidroclorotiazida, como otros diuréticos, puede producir hipoperfusión placentaria. Las tiazidas pueden
+atravesar la placenta y el uso de tiazidas durante el embarazo está asociado con un riesgo de ictericia o
+trombocitopenia. Debido a que estos no previenen o alteran el curso de EPH (edema, proteinuria,
+
+
+                                                   7 de 13
+hipertensión) – gestosis (pre-eclampsia), estos medicamentos no se deben utilizar para tratar hipertensión
+en mujeres embarazadas. El uso de hidroclorotiazida para otras indicaciones (por ejemplo enfermedad
+cardiaca) en el embarazo se debe evitar.
+
+Lactancia
+
+Hidroclorotiazida se excreta por la leche y puede inhibir la lactancia. Evitar su uso en madres lactantes.
+
+Fertilidad
+
+No existen datos sobre fertilidad en humanos para hidroclorotiazida. En estudios realizados en animales,
+hidroclorotiazida no tuvo efectos sobre la fertilidad (ver sección 5.3).
+
+4.7 Efectos sobre la capacidad para conducir y utilizar máquinas
+
+Es poco probable que hidroclorotiazida afecte a la capacidad para conducir o utilizar máquinas. Sin
+embargo, como otros medicamentos antihipertensivos, hidroclorotiazida puede provocar mareos o
+somnolencia en algunas personas, especialmente al inicio del tratamiento, al cambiar de dosis o si se
+consume alcohol. Se debe advertir a los pacientes que reciben hidroclorotiazida de que no deben conducir
+ni manejar máquinas si presentan mareos o somnolencia.
+
+4.8 Reacciones adversas
+
+Para las reacciones adversas se ha utilizado la siguiente clasificación: muy frecuentes (≥1/10), frecuentes
+(≥1/100 a <1/10), poco frecuentes (≥1/1.000 a <1/100) y de frecuencia no conocida (no puede estimarse a
+partir de los datos disponibles). Las reacciones adversas se enumeran en orden decreciente de gravedad
+dentro de cada intervalo de frecuencia.
+
+Neoplasias benignas, malignas y no especificadas (incluidos quistes y pólipos)
+Frecuencia no conocida: Cáncer de piel no-melanoma* (carcinoma basocelular y carcinoma de células
+escamosas).
+
+Trastornos de la sangre y del sistema linfático
+Raras: trombocitopenia a veces con púrpura.
+Muy raras: leucopenia, agranulocitosis, insuficiencia de la médula ósea y anemia hemolítica.
+
+Trastornos del sistema inmunológico
+Muy raras: reacciones de hipersensibilidad, distrés respiratorio incluyendo neumonitis y edema pulmonar.
+
+Trastornos del metabolismo y de la nutrición
+Muy frecuentes: principalmente a dosis mayores, hipopotasemia, aumento de los lípidos en sangre.
+Frecuentes: hiponatremia, hipomagnesemia e hiperuricemia.
+Raras: hipercalcemia, hiperglucemia, glucosuria, empeoramiento del estado diabético metabólico.
+Muy raras: alcalosis hipoclorémica.
+
+Trastornos del sistema nervioso
+Raras: cefalea, mareo, trastornos del sueño, depresión, parestesia.
+
+Trastornos oculares
+Raras: insuficiencia visual especialmente en las primeras semanas de tratamiento.
+
+
+                                                   8 de 13
+Frecuencia no conocida: derrame coroideo.
+
+Trastornos de la piel y del tejido subcutáneo
+Frecuentes: urticaria y otras formas de erupción.
+Raras: reacción de fotosensibilidad.
+Muy raras: vasculitis necrotizante y necrólisis epidérmica tóxica, reacciones del tipo lupus eritematoso
+cutáneo, reactivación de lupus eritematoso cutáneo.
+
+Trastornos respiratorios, torácicos y mediastínicos
+Muy raras: Síndrome de dificultad respiratoria aguda (SDRA) (ver sección 4.4).
+
+Trastornos gastrointestinales
+Frecuentes: disminución del apetito, náuseas leves y vómitos.
+Raras: malestar abdominal, estreñimiento y diarrea.
+Muy raras: pancreatitis.
+
+Trastornos hepatobiliares
+Raras: colestasis o ictericia.
+
+Trastornos vasculares
+Frecuentes: hipotensión ortostática, que puede agravarse por alcohol, anestésicos o sedantes.
+
+Trastornos cardiacos
+Raras: arritmias.
+
+Trastornos del aparato reproductor y de la mama
+Frecuentes: impotencia.
+
+*Descripción de determinadas reacciones adversas
+Cáncer de piel no-melanoma: con base en los datos disponibles de estudios epidemiológicos, se ha
+observado una asociación dependiente de la dosis acumulada entre HCTZ y el CPNM (ver también las
+secciones 4.4 y 5.1).
+
+Experiencias de reacciones adversas tras la comercialización
+Se han identificado las siguientes reacciones adversas tras las experiencias post-comercialización. Debido a
+que estas reacciones han sido comunicadas voluntariamente por parte de una población de tamaño incierto,
+no es posible estimar la fiabilidad de su frecuencia.
+
+Frecuencia desconocida: fallo renal agudo, trastorno renal, anemia aplásica, eritema multiforme, pirexia,
+espasmos musculares, astenia, glaucoma de ángulo cerrado.
+
+Notificación de sospechas de reacciones adversas:
+Es importante notificar sospechas de reacciones adversas al medicamento tras su autorización. Ello permite
+una supervisión continuada de la relación beneficio/riesgo del medicamento. Se invita a los profesionales
+sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Español de
+Farmacovigilancia de Medicamentos de Uso Humano: https://www.notificaram.es.
+
+
+
+
+                                                  9 de 13
+4.9 Sobredosis
+
+Síntomas y signos
+En un envenenamiento debido a sobredosis se pueden producir los siguientes signos y síntomas: mareo,
+náuseas, somnolencia, hipovolemia, hipotensión, y trastornos electrolíticos asociados con arritmias
+cardiacas y calambres musculares.
+
+Tratamiento
+Se deben aplicar tratamientos de soporte en todos los casos de sobredosis.
+
+5. PROPIEDADES FARMACOLÓGICAS
+
+5.1 Propiedades farmacodinámicas
+
+Grupo farmacoterapéutico: diuréticos, código ATC: C03AA03
+
+Hidroclorotiazida es una benzotiadiazina (tiazida) diurética.
+
+Mecanismo de acción
+
+Las tiazidas diuréticas actúan principalmente en el túbulo contorneado distal renal inhibiendo la reabsorción
+de sodio y cloro.
+Se desconoce el mecanismo antihipertensivo de hidroclorotiazida. El mecanismo del efecto antihipertensivo
+de las tiazidas puede estar relacionado con la excreción y la redistribución del sodio del organismo.
+Usualmente, no afecta la presión arterial cuando ésta es normal. La presión sanguínea podría ser, en
+principio, reducida debido a una reducción del volumen plasmático y de los fluidos extracelulares, lo que a
+su vez, ocasionaría una reducción del gasto cardiaco. Cuando el gasto cardíaco retorna a la normalidad, y los
+volúmenes de plasma y fluidos extracelulares son ligeramente menores, las resistencias periféricas se
+encuentran reducidas y en consecuencia, la presión arterial también.
+
+Efectos farmacodinámicos
+
+Hidroclorotiazida aumenta la excreción de sodio, cloruro y agua en la orina y, en menor grado, la excreción
+de potasio, magnesio y bicarbonato, aumentando así la diuresis y ejerciendo un efecto antihipertensivo.
+Puede disminuir la eliminación de calcio y de ácido úrico.
+
+La hipopotasemia e hipocloremia inducidas por las tiazidas pueden ocasionar una ligera alcalosis metabólica,
+aunque la eficacia diurética no es afectada por el equilibrio ácido-base del paciente.
+
+El tiempo hasta que se produce la aparición de la actividad diurética es de aproximadamente 2 horas. La
+actividad diurética alcanza un máximo a las 4 horas y se mantiene durante 6 a 12 horas. Por encima de una
+determinada dosis, los diuréticos tiazídicos alcanzan una meseta en cuanto a efecto terapéutico, mientras que
+las reacciones adversas se multiplican.
+
+El tiempo hasta que se produce la aparición de la actividad hipotensora es de aproximadamente 3-4 días.
+
+Cáncer de piel no-melanoma
+Con base en los datos disponibles de estudios epidemiológicos, se ha observado una asociación
+dependiente de la dosis acumulada entre HCTZ y el CPNM. En un estudio se incluyó a una población
+formada por 71.533 casos de CBC y 8.629 casos de CCE emparejados con 1.430.833 y 172.462 controles
+
+
+                                                  10 de 13
+de la población, respectivamente. El uso de dosis altas de HCTZ (≥ 50.000 mg acumulados) se asoció a una
+OR ajustada de 1,29 (IC del 95%: 1,23-1,35) para el CBC y de 3,98 (IC del 95%: 3,68-4,31) para el CCE.
+Se observó una clara relación entre la dosis acumulada y la respuesta tanto en el CBC como en el CCE.
+Otro estudio mostró una posible asociación entre el cáncer de labio (CCE) y la exposición a HCTZ: 633
+casos de cáncer de labios se emparejaron con 63.067 controles de la población, utilizando una estrategia de
+muestreo basada en el riesgo. Se demostró una relación entre la dosis acumulada y la respuesta con una OR
+ajustada de 2,1 (IC del 95%: 1,7-2,6) que aumentó hasta una OR de 3,9 (3,0-4,9) con el uso de dosis altas
+(~25.000 mg) y una OR de 7,7 (5,7-10,5) con la dosis acumulada más alta (~100.000 mg) (ver también
+sección 4.4).
+
+5.2 Propiedades farmacocinéticas
+
+Absorción
+Hidroclorotiazida se absorbe en el tracto gastrointestinal, con una biodisponibilidad oral relativamente
+rápida, varia según los sujetos entre del 65 al 80%.
+
+Tras una administración oral de hidroclorotiazida a dosis de 12,5-100 mg, la concentración máxima
+plasmática de 70-490 ng/ml se observó a entre 1-5 horas.
+
+El comienzo de la acción diurética se observa a las dos horas, siendo los efectos máximos a las 4 horas,
+manteniéndose después 6-8 horas más.
+
+El alimento retrasa la velocidad y disminuye el grado de absorción de comprimidos de hidroclorotiazida
+sobre un 10 y un 20%, respectivamente.
+
+La absorción de hidroclorotiazida se ve reducida en pacientes con insuficiencia cardiaca congestiva
+
+Distribución
+Hidroclorotiazida se distribuye a los espacios extracelulares.
+
+La unión a proteínas plasmáticas es del orden del 40-68%. Hidroclorotiazida también se acumula en los
+eritrocitos en aproximadamente 1,8 veces el nivel en plasma.
+
+Hidroclorotiazida presenta una farmacocinética lineal. El volumen aparente de distribución es de 4-8 L/Kg.
+
+Eliminación
+Hidroclorotiazida no es metabolizada, sino eliminada rápidamente por los riñones.
+
+El aclaramiento renal de hidroclorotiazida representa un 90% del aclaramiento total.
+
+Hidroclorotiazida se elimina rápidamente por el riñón y un 95% es excretada de forma inalterada por la
+orina.
+
+Por lo menos el 61% de una dosis oral es eliminada inalterada por la orina en 24 horas.
+
+La semivida plasmática de la hidroclorotiazida es muy variable de un sujeto a otro, y está comprendida
+entre las 5 y 25 horas.
+
+Se ha observado que la semivida plasmática media en individuos en ayunas es de 5 a 15 horas.
+
+
+
+
+                                                  11 de 13
+La semivida de eliminación es de 2,5 horas en pacientes con la función renal normal, pero puede aumentar
+hasta 12-20 horas en pacientes con insuficiencia renal grave (Aclaramiento de creatinina <10 mol/min) y
+cardiaca.
+
+No se ha determinado el efecto de la hemodiálisis en la eliminación de la hidroclorotiazida.
+
+Hidroclorotiazida atraviesa la barrera placentaria pero no la barrera hematoencefálica y es excretada con la
+leche.
+
+5.3 Datos preclínicos sobre seguridad
+
+El potencial mutagénico fue evaluado en una serie de sistema de análisis in vivo e in vitro. Mientras
+algunos resultados positivos se obtuvieron in vitro, todos los estudios in vivo dieron resultados negativos.
+Por tanto, se concluye que no existe potencial mutagénico relevante in vivo.
+Se observaron signos de carcinogenicidad hepática en ratones macho pero no en hembras ni en ratas
+machos y hembras. Por tanto, los datos en animales no son suficientes para determinar el potencial
+carcinogénico de hidroclorotiazida en humanos
+Hidroclorotiazida no tuvo ningún efecto sobre la fertilidad en ratas. Sin embargo, las dosis utilizadas en
+este estudio no son suficientes para predecir el riesgo en humanos. No se ha revelado potencial teratogénico
+en ratón, rata ni conejo a dosis 145, 97 y 2 veces respectivamente, la máxima dosis recomendada en
+humanos, en base a mg/m2. Se observó una disminución en la ganancia de peso en crías de ratas lactantes a
+una dosis equivalente a la dosis terapéutica (en base a mg/m2) y se atribuyó a los efectos diuréticos de
+hidroclorotiazida, con efectos subsecuentes en la producción de leche (ver sección 4.6).
+
+6 . DATOS FARMACÉUTICOS
+
+6.1 Lista de excipientes
+
+Lactosa monohidrato
+Celulosa microcristalina
+Almidón de maíz
+Hidroxipropilcelulosa, baja sustitución
+Sílice coloidal anhidra
+Talco
+Estearato de magnesio
+
+
+6.2 Incompatibilidades
+
+No procede.
+
+6.3 Periodo de validez
+
+2 años.
+
+6.4 Precauciones especiales de conservación
+
+Conservar por debajo de 30 °C.
+
+6.5 Naturaleza y contenido del envase
+
+Blísteres de Aluminio-PVC/PVDC 120
+
+Hidroclorotiazida Normon 25 mg comprimidos EFG: 20 comprimidos.
+
+
+                                                  12 de 13
+6.6 Precauciones especiales de eliminación y otras manipulaciones
+
+Ninguna especial.
+
+7. TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+
+LABORATORIOS NORMON, S.A.
+Ronda de Valdecarrizo, 6 – 28760 Tres Cantos – Madrid (ESPAÑA)
+
+
+8. NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+
+90.833
+
+9. FECHA DE LA PRIMERA AUTORIZACIÓN/ RENOVACIÓN DE LA AUTORIZACIÓN
+
+Diciembre 2025
+
+10. FECHA DE LA REVISIÓN DEL TEXTO
+
+Diciembre 2025
+
+La información detallada de este medicamento está disponible en la página web de la Agencia Española de
+Medicamentos y Productos Sanitarios (AEMPS) (http://www.aemps.gob.es)
+
+
+
+
+                                               13 de 13
+

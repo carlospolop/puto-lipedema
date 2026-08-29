@@ -1,0 +1,165 @@
+FILE: labels/acetazolamide_4813b9dd-5f58-44bb-ad64-cdb331828080.xml
+
+Acetazolamide is a potent carbonic anhydrase inhibitor, effective in the control of fluid secretion (eg, some types of glaucoma), in the treatment of certain convulsive disorders (eg, epilepsy) and in the promotion of diuresis in instances of abnormal fluid retention (eg, cardiac edema).
+
+Acetazolamide is an enzyme inhibitor that acts specifically on carbonic anhydrase, the enzyme that catalyzes the reversible reaction involving the hydration of carbon dioxide and the dehydration of carbonic acid. In the eye, this inhibitory action of acetazolamide decreases the secretion of aqueous humor and results in a drop in intraocular pressure, a reaction considered desirable in cases of glaucoma and even in certain nonglaucomatous conditions. Evidence seems to indicate that acetazolamide has utility as an adjuvant in the treatment of certain dysfunctions of the central nervous system (eg, epilepsy). Inhibition of carbonic anhydrase in this area appears to retard abnormal, paroxysmal, excessive discharge from central nervous system neurons. The diuretic effect of acetazolamide is due to its action in the kidney on the reversible reaction involving hydration of carbon dioxide and dehydration of carbonic acid. The result is renal loss of HCO 3 ion, which carries out sodium, water, and potassium. Alkalinization of the urine and promotion of diuresis are thus affected. Alteration in ammonia metabolism occurs due to increased reabsorption of ammonia by the renal tubules as a result of urinary alkalinization.
+
+Acetazolamide therapy is contraindicated in situations in which sodium and/or potassium blood serum levels are depressed, in cases of marked kidney and liver disease or dysfunction, in suprarenal gland failure, and in hyperchloremic acidosis. It is contraindicated in patients with cirrhosis because of the risk of development of hepatic encephalopathy.
+
+Caution is advised for patients receiving concomitant high-dose aspirin and acetazolamide, as anorexia, tachypnea, lethargy, metabolic acidosis, coma, and death have been reported.
+
+Increasing the dose does not increase the diuresis and may increase the incidence of drowsiness and/or paresthesia. Increasing the dose often results in a decrease in diuresis. Under certain circumstances, however, very large doses have been given in conjunction with other diuretics in order to secure diuresis in complete refractory failure.
+
+Adverse reactions common to all sulfonamide derivatives may occur: anaphylaxis, fever, rash (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis), crystalluria, renal calculus, bone marrow depression, thrombocytopenic purpura, hemolytic anemia, leukopenia, pancytopenia, and agranulocytosis. Caution is advised for early detection of such reactions and the drug should be discontinued and appropriate therapy instituted.
+
+Caution is advised for patients receiving concomitant high-dose aspirin and acetazolamide, as anorexia, tachypnea, lethargy, metabolic acidosis, coma, and death have been reported (see WARNINGS ).
+
+Acetazolamide treatment may cause electrolyte imbalances, including hyponatremia and hypokalemia, as well as metabolic acidosis. Therefore, periodic monitoring of serum electrolytes is recommended. Particular caution is recommended in patients with conditions that are associated with, or predispose a patient to, electrolyte and acid/base imbalances, such as patients with impaired renal function (including elderly patients; see PRECAUTIONS, Geriatric Use ), patients with diabetes mellitus, and patients with impaired alveolar ventilation.
+
+Acetazolamide decreases urinary excretion of amphetamine and may enhance the magnitude and duration of their effect.
+
+Acetazolamide reduces urinary excretion of quinidine and may enhance its effect.
+
+Acetazolamide increases lithium excretion and the lithium may be decreased.
+
+Acetazolamide and sodium bicarbonate used concurrently increases the risk of renal calculus formation.
+
+Metabolic acidosis, which can be severe, may occur in the elderly with reduced renal function.
+
+Clinical studies of acetazolamide did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+
+Metabolic/Nutritional: Metabolic acidosis, electrolyte imbalance, including hypokalemia, hyponatremia, osteomalacia with long-term phenytoin therapy, loss of appetite, taste alteration, hyper/hypoglycemia
+
+Urogenital: Crystalluria, increased risk of nephrolithiasis with long-term therapy, hematuria, glycosuria, renal failure, polyuria
+
+Supportive measures are required to restore electrolyte and pH balance. The acidotic state can usually be corrected by the administration of bicarbonate.
+
+Despite its high intraerythrocytic distribution and plasma protein binding properties, acetazolamide is dialyzable. This may be particularly important in the management of acetazolamide overdosage when complicated by the presence of renal failure.
+
+Congestive Heart Failure: For diuresis in congestive heart failure, the starting dose is usually 250 to 375 mg once daily in the morning (5 mg/kg). If, after an initial response, the patient fails to continue to lose edema fluid, do not increase the dose but allow for kidney recovery by skipping medication for a day. Acetazolamide tablets yield best diuretic results when given on alternate days, or for two days alternating with a day of rest.
+
+Sulfonamides may give false negative or decreased values for urinary phenolsulfonphthalein and phenol red elimination values for urinary protein, serum non-protein and for serum uric acid. Acetazolamide may produce an increased level of crystals in the urine.
+
+
+
+FILE: labels/furosemide_3ba730ab-90d4-478a-80b3-1ea3edb03e4d.xml
+
+Furosemide is a potent diuretic which, if given in excessive amounts, can lead to a profound diuresis with water and electrolyte depletion. Therefore, careful medical supervision is required and dose and dose schedule must be adjusted to the individual patient's needs (see DOSAGE AND ADMINISTRATION ).
+
+The onset of diuresis following oral administration is within 1 hour. The peak effect occurs within the first or second hour. The duration of diuretic effect is 6 to 8 hours.
+
+In fasted normal men, the mean bioavailability of furosemide from furosemide tablets and furosemide oral solution is 64% and 60%, respectively, of that from an intravenous injection of the drug. Although furosemide is more rapidly absorbed from the oral solution (50 minutes) than from the tablet (87 minutes), peak plasma levels and area under the plasma concentration-time curves do not differ significantly. Peak plasma concentrations increase with increasing dose but times-to-peak do not differ among doses. The terminal half-life of furosemide is approximately 2 hours.
+
+Significantly more furosemide is excreted in urine following the IV injection than after the tablet or oral solution. There are no significant differences between the two oral formulations in the amount of unchanged drug excreted in urine.
+
+Furosemide binding to albumin may be reduced in elderly patients. Furosemide is predominantly excreted unchanged in the urine. The renal clearance of furosemide after intravenous administration in older healthy male subjects (60 to 70 years of age) is statistically significantly smaller than in younger healthy male subjects (20 to 35 years of age). The initial diuretic effect of furosemide in older subjects is decreased relative to younger subjects (see PRECAUTIONS: Geriatric Use ).
+
+Furosemide tablets are indicated in adults and pediatric patients for the treatment of edema associated with congestive heart failure, cirrhosis of the liver, and renal disease, including the nephrotic syndrome. Furosemide tablets are particularly useful when an agent with greater diuretic potential is desired.
+
+In patients with hepatic cirrhosis and ascites, furosemide therapy is best initiated in the hospital. In hepatic coma and in states of electrolyte depletion, therapy should not be instituted until the basic condition is improved. Sudden alterations of fluid and electrolyte balance in patients with cirrhosis may precipitate hepatic coma; therefore, strict observation is necessary during the period of diuresis. Supplemental potassium chloride and, if required, an aldosterone antagonist are helpful in preventing hypokalemia and metabolic alkalosis.
+
+If increasing azotemia and oliguria occur during treatment of severe progressive renal disease, furosemide should be discontinued.
+
+Cases of tinnitus and reversible or irreversible hearing impairment and deafness have been reported. Reports usually indicate that furosemide ototoxicity is associated with rapid injection, severe renal impairment, the use of higher than recommended doses, hypoproteinemia or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs. If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg furosemide per minute has been used) (see PRECAUTIONS: Drug Interactions ).
+
+Excessive diuresis may cause dehydration and blood volume reduction with circulatory collapse and possibly vascular thrombosis and embolism, particularly in elderly patients. As with any effective diuretic, electrolyte depletion may occur during furosemide therapy, especially in patients receiving higher doses and a restricted salt intake. Hypokalemia may develop with furosemide, especially with brisk diuresis, inadequate oral electrolyte intake, when cirrhosis is present, or during concomitant use of corticosteroids, ACTH, licorice in large amounts, or prolonged use of laxatives. Digitalis therapy may exaggerate metabolic effects of hypokalemia, especially myocardial effects.
+
+All patients receiving furosemide therapy should be observed for these signs or symptoms of fluid or electrolyte imbalance (hyponatremia, hypochloremic alkalosis, hypokalemia, hypomagnesemia or hypocalcemia): dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, arrhythmia, or gastrointestinal disturbances such as nausea and vomiting. Increases in blood glucose and alterations in glucose tolerance tests (with abnormalities of the fasting and 2-hour postprandial sugar) have been observed, and rarely, precipitation of diabetes mellitus has been reported.
+
+In patients with severe symptoms of urinary retention (because of bladder emptying disorders, prostatic hyperplasia, urethral narrowing), the administration of furosemide can cause acute urinary retention related to increased production and retention of urine. Thus, these patients require careful monitoring, especially during the initial stages of treatment.
+
+In patients at high risk for radiocontrast nephropathy, furosemide can lead to a higher incidence of deterioration in renal function after receiving radiocontrast compared to high-risk patients who received only intravenous hydration prior to receiving radiocontrast.
+
+Patients receiving furosemide should be advised that they may experience symptoms from excessive fluid and/or electrolyte losses. The postural hypotension that sometimes occurs can usually be managed by getting up slowly. Potassium supplements and/or dietary measures may be needed to control or avoid hypokalemia.
+
+Patients with diabetes mellitus should be told that furosemide may increase blood glucose levels and thereby affect urine glucose tests. The skin of some patients may be more sensitive to the effects of sunlight while taking furosemide.
+
+Serum electrolytes (particularly potassium), CO 2 , creatinine and BUN should be determined frequently during the first few months of furosemide therapy and periodically thereafter. Serum and urine electrolyte determinations are particularly important when the patient is vomiting profusely or receiving parenteral fluids. Abnormalities should be corrected or the drug temporarily withdrawn. Other medications may also influence serum electrolytes.
+
+Reversible elevations of BUN may occur and are associated with dehydration, which should be avoided, particularly in patients with renal insufficiency.
+
+Urine and blood glucose should be checked periodically in diabetics receiving furosemide, even in those suspected of latent diabetes.
+
+In premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed (see PRECAUTIONS: Pediatric Use ).
+
+Furosemide may increase the ototoxic potential of aminoglycoside antibiotics, especially in the presence of impaired renal function. Except in life-threatening situations, avoid this combination.
+
+Furosemide should not be used concomitantly with ethacrynic acid because of the possibility of ototoxicity. Patients receiving high doses of salicylates concomitantly with furosemide, as in rheumatic disease, may experience salicylate toxicity at lower doses because of competitive renal excretory sites.
+
+There is a risk of ototoxic effects if cisplatin and furosemide are given concomitantly. In addition, nephrotoxicity of nephrotoxic drugs such as cisplatin may be enhanced if furosemide is not given in lower doses and with positive fluid balance when used to achieve forced diuresis during cisplatin treatment.
+
+Lithium generally should not be given with diuretics because they reduce lithium's renal clearance and add a high risk of lithium toxicity.
+
+Furosemide combined with angiotensin-converting enzyme inhibitors or angiotensin II receptor blockers may lead to severe hypotension and deterioration in renal function, including renal failure. An interruption or reduction in the dosage of furosemide, angiotensin-converting enzyme inhibitors, or angiotensin receptor blockers may be necessary.
+
+In isolated cases, intravenous administration of furosemide within 24 hours of taking chloral hydrate may lead to flushing, sweating attacks, restlessness, nausea, increase in blood pressure, and tachycardia. Use of furosemide concomitantly with chloral hydrate is therefore not recommended.
+
+Phenytoin interferes directly with renal action of furosemide. There is evidence that treatment with phenytoin leads to decreased intestinal absorption of furosemide, and consequently to lower peak serum furosemide concentrations.
+
+Methotrexate and other drugs that, like furosemide, undergo significant renal tubular secretion may reduce the effect of furosemide. Conversely, furosemide may decrease renal elimination of other drugs that undergo tubular secretion. High-dose treatment of both furosemide and these other drugs may result in elevated serum levels of these drugs and may potentiate their toxicity as well as the toxicity of furosemide.
+
+Furosemide can increase the risk of cephalosporin-induced nephrotoxicity even in the setting of minor or transient renal impairment.
+
+Concomitant use of cyclosporine and furosemide is associated with increased risk of gouty arthritis secondary to furosemide-induced hyperurecemia and cyclosporine impairment of renal urate excretion.
+
+One study in six subjects demonstrated that the combination of furosemide and acetylsalicylic acid temporarily reduced creatinine clearance in patients with chronic renal insufficiency. There are case reports of patients who developed increased BUN, serum creatinine and serum potassium levels, and weight gain when furosemide was used in conjunction with NSAIDs.
+
+Literature reports indicate that co-administration of indomethacin may reduce the natriuretic and antihypertensive effects of furosemide in some patients by inhibiting prostaglandin synthesis. Indomethacin may also affect plasma renin levels, aldosterone excretion, and renin profile evaluation. Patients receiving both indomethacin and furosemide should be observed closely to determine if the desired diuretic and/or antihypertensive effect of furosemide is achieved.
+
+Furosemide was devoid of mutagenic activity in various strains of Salmonella typhimurium when tested in the presence or absence of an in vitro metabolic activation system, and questionably positive for gene mutation in mouse lymphoma cells in the presence of rat liver S9 at the highest dose tested. Furosemide did not induce sister chromatid exchange in human cells in vitro , but other studies on chromosomal aberrations in human cells in vitro gave conflicting results. In Chinese hamster cells it induced chromosomal damage but was questionably positive for sister chromatid exchange. Studies on the induction by furosemide of chromosomal aberrations in mice were inconclusive. The urine of rats treated with this drug did not induce gene conversion in Saccharomyces cerevisiae .
+
+The results of the mouse study and one of the three rabbit studies also showed an increased incidence and severity of hydronephrosis (distention of the renal pelvis and, in some cases, of the ureters) in fetuses derived from the treated dams as compared with the incidence in fetuses from the control group.
+
+In premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis. Nephrocalcinosis/nephrolithiasis has also been observed in children under 4 years of age with no history of prematurity who have been treated chronically with furosemide. Monitor renal function, and renal ultrasonography should be considered, in pediatric patients receiving furosemide.
+
+Controlled clinical studies of furosemide did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects. Other reported clinical experience has not identified differences in responses between the elderly and younger patients. In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
+
+This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function (see PRECAUTIONS: General and DOSAGE AND ADMINISTRATION ).
+
+The principal signs and symptoms of overdose with furosemide are dehydration, blood volume reduction, hypotension, electrolyte imbalance, hypokalemia and hypochloremic alkalosis, and are extensions of its diuretic action.
+
+The usual initial dose of furosemide tablets is 20 to 80 mg given as a single dose. Ordinarily a prompt diuresis ensues. If needed, the same dose can be administered 6 to 8 hours later or the dose may be increased. The dose may be raised by 20 or 40 mg and given not sooner than 6 to 8 hours after the previous dose until the desired diuretic effect has been obtained. The individually determined single dose should then be given once or twice daily (e.g., at 8 am and 2 pm). The dose of furosemide tablets may be carefully titrated up to 600 mg/day in patients with clinically severe edematous states.
+
+
+
+FILE: labels/hydrochlorothiazide_8e0683e2-5473-4246-97ae-b71c21c39ac7.xml
+
+Hydrochlorothiazide affects the distal renal tubular mechanism of electrolyte reabsorption. At maximal therapeutic dosage all thiazides are approximately equal in their diuretic efficacy.
+
+Hydrochlorothiazide increases excretion of sodium and chloride in approximately equivalent amounts. Natriuresis may be accompanied by some loss of potassium and bicarbonate.
+
+After oral use diuresis begins within 2 hours, peaks in about 4 hours and lasts about 6 to 12 hours.
+
+Hydrochlorothiazide is not metabolized but is eliminated rapidly by the kidney. When plasma levels have been followed for at least 24 hours, the plasma half-life has been observed to vary between 5.6 and 14.8 hours. At least 61 percent of the oral dose is eliminated unchanged within 24 hours. Hydrochlorothiazide crosses the placental but not the blood-brain barrier and is excreted in breast milk.
+
+Hydrochlorothiazide tablets have also been found useful in edema due to various forms of renal dysfunction such as nephrotic syndrome, acute glomerulonephritis, and chronic renal failure.
+
+Use with caution in severe renal disease. In patients with renal disease, thiazides may precipitate azotemia. Cumulative effects of the drug may develop in patients with impaired renal function.
+
+All patients receiving diuretic therapy should be observed for evidence of fluid or electrolyte imbalance: namely, hyponatremia, hypochloremic alkalosis, and hypokalemia. Serum and urine electrolyte determinations are particularly important when the patient is vomiting excessively or receiving parenteral fluids. Warning signs or symptoms of fluid and electrolyte imbalance, irrespective of cause, include dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, confusion, seizures, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting.
+
+Hypokalemia may develop, especially with brisk diuresis, when severe cirrhosis is present or after prolonged therapy.
+
+Interference with adequate oral electrolyte intake will also contribute to hypokalemia. Hypokalemia may cause cardiac arrhythmia and may also sensitize or exaggerate the response of the heart to the toxic effects of digitalis (e.g., increased ventricular irritability). Hypokalemia may be avoided or treated by use of potassium sparing diuretics or potassium supplements such as foods with a high potassium content.
+
+Although any chloride deficit is generally mild and usually does not require specific treatment except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis.
+
+If progressive renal impairment becomes evident, consider withholding or discontinuing diuretic therapy.
+
+Thiazides have been shown to increase the urinary excretion of magnesium; this may result in hypomagnesemia.
+
+Thiazides may decrease urinary calcium excretion. Thiazides may cause intermittent and slight elevation of serum calcium in the absence of known disorders of calcium metabolism. Marked hypercalcemia may be evidence of hidden hyperparathyroidism. Thiazides should be discontinued before carrying out tests for parathyroid function.
+
+Intensified electrolyte depletion, particularly hypokalemia.
+
+Generally should not be given with diuretics. Diuretic agents reduce the renal clearance of lithium and add a high risk of lithium toxicity. Refer to the package insert for lithium preparations before use of such preparations with hydrochlorothiazide.
+
+Thiazides are excreted in breast milk. Because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue hydrochlorothiazide, taking into account the importance of the drug to the mother.
+
+Renal: Renal failure, renal dysfunction, interstitial nephritis (see WARNINGS ).
+
+The most common signs and symptoms observed are those caused by electrolyte depletion (hypokalemia, hypochloremia, hyponatremia) and dehydration resulting from excessive diuresis. If digitalis has also been administered, hypokalemia may accentuate cardiac arrhythmias.
+
+For Diuresis and for Control of Hypertension
+
+

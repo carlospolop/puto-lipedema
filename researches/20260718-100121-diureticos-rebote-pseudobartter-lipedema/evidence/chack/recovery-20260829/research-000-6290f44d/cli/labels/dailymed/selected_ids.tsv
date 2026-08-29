@@ -1,0 +1,13 @@
+drug	setid	product	reason
+furosemide	dba00759-87b4-4ecf-998e-ba03ed3d2f1a	FUROSEMIDE TABLET [REMEDYREPACK INC.]	current DailyMed tablet SPL returned by API
+torsemide	1c755d94-b846-4336-a968-aa1b92dc0ac0	TORSEMIDE TABLET [REMEDYREPACK INC.]	current DailyMed tablet SPL returned by API
+hydrochlorothiazide	8e0683e2-5473-4246-97ae-b71c21c39ac7	HYDROCHLOROTHIAZIDE TABLET [REMEDYREPACK INC.]	current DailyMed tablet SPL returned by API
+chlorthalidone	2de92cea-8f03-4af0-9d91-d4578510cc53	CHLORTHALIDONE TABLET [MAJOR PHARMACEUTICALS]	current DailyMed monotherapy tablet SPL returned by API
+indapamide	59cd3331-7afe-432a-8b50-39533fd5f392	INDAPAMIDE TABLET FILM COATED [PREFERRED PHARMACEUTICALS]	current DailyMed monotherapy tablet SPL returned by API
+spironolactone	59d86d3a-0f94-0b04-e063-6294a90a83f3	SPIRONOLACTONE TABLET [REDPHARM DRUG]	current DailyMed tablet SPL returned by API
+eplerenone	bcd7595f-700f-48ba-bf83-05a995ce0731	EPLERENONE TABLET FILM COATED [BRYANT RANCH PREPACK]	current DailyMed tablet SPL returned by API
+amiloride	e0cc2d44-436a-47e8-a890-589882fff4c4	AMILORIDE HYDROCHLORIDE TABLET [PAR HEALTH USA]	current DailyMed monotherapy tablet SPL returned by API
+triamterene	4bc374e2-8650-41bc-8ce6-92062661bf8a	TRIAMTERENE AND HYDROCHLOROTHIAZIDE CAPSULE [PROFICIENT RX]	current U.S. combination SPL; triamterene monotherapy not returned
+acetazolamide	4813b9dd-5f58-44bb-ad64-cdb331828080	ACETAZOLAMIDE TABLET [STRIDES PHARMA SCIENCE]	current DailyMed tablet SPL returned by API
+dagliflozin	72ad22ae-efe6-4cd6-a302-98aaee423d69	FARXIGA (DAPAGLIFLOZIN) TABLET [ASTRAZENECA]	current FDA sponsor SPL returned by API
+empagliflozin	faf3dd6a-9cd0-39c2-0d2e-232cb3f67565	JARDIANCE (EMPAGLIFLOZIN) TABLET [BOEHRINGER INGELHEIM]	current FDA sponsor SPL returned by API

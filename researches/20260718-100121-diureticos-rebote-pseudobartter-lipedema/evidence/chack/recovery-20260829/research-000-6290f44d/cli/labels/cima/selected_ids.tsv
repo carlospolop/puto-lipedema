@@ -1,0 +1,13 @@
+class	drug	product	nregistro
+loop	furosemide	FUROSEMIDA CINFA 40 mg COMPRIMIDOS EFG	64140
+loop	torasemide	TORASEMIDA CINFA 10 mg COMPRIMIDOS EFG	66315
+thiazide	hydrochlorothiazide	HIDROCLOROTIAZIDA NORMON 25 MG COMPRIMIDOS EFG	90833
+thiazide	chlorthalidone	HIGROTONA 50 mg comprimidos	45843
+thiazide	indapamide	INDAPAMIDA NORMON 2,5 mg COMPRIMIDOS RECUBIERTOS EFG	63368
+potassium-sparing	spironolactone	ALDACTONE 25 mg COMPRIMIDOS RECUBIERTOS CON PELICULA	39059
+potassium-sparing	eplerenone	ELECOR 25 mg COMPRIMIDOS RECUBIERTOS CON PELICULA	66756
+potassium-sparing	amiloride	AMERIDE 5 mg/50 mg COMPRIMIDOS (amiloride/HCTZ combination)	53265
+potassium-sparing	triamterene	SALIDUR 77,6 MG / 25 MG COMPRIMIDOS (triamterene/HCTZ combination)	53542
+carbonic-anhydrase	acetazolamide	EDEMOX 250 mg COMPRIMIDOS	24408
+SGLT2	dapagliflozin	FORXIGA 10 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	112795007
+SGLT2	empagliflozin	JARDIANCE 10 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	114930014

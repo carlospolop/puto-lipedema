@@ -1,0 +1,858 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Agencia EspaÃ±ola de Medicamentos y Productos Sanitarios">
+    <meta name=ârobotsâ content="noindex,nofollow">
+	<link rel="canonical" href="/cima/publico/home.html" />
+
+    <title>.:: CIMA ::. Buscador avanzado de medicamentos</title>
+
+    <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+	<link href="/cima/resources/bootstrap3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+	<link id="favicon" rel="shortcut icon"  href="/cima/resources/images/favicon.ico" />
+    <!-- Custom CSS -->
+    <link href="/cima/resources/css/cima.css" rel="stylesheet">
+    <link href="/cima/resources/css/login.css" rel="stylesheet">
+    <link href="/cima/resources/css/lista.css" rel="stylesheet">
+	<link href="/cima/resources/css/jquery-ui.css" rel="stylesheet">
+	<!-- Cookies Msg -->
+    <link rel="stylesheet" type="text/css" href="/cima/resources/css/cookies.min.css" />
+    <!-- Custom Fonts -->
+	<link href="/cima/resources/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    
+    <script type="text/javascript" src="/cima/resources/js/jquery-3.1.1.min.js"></script>        	
+	<script type="text/javascript" src="/cima/resources/bootstrap3.3.7/js/bootstrap.min.js"></script>
+	
+	<script type="text/javascript" src="/cima/resources/js/loadingoverlay.min.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/jquery-ui.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/mensajes.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/header.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/errordialog.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/avanzado.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/configparametros.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/footer.js"></script>
+	
+
+</head>
+
+<body id="page-top" class="index">
+
+<div id="header2" class="banner col-md-10 col-md-offset-1 topnav" style="position:fixed; z-index: 10; ">
+	
+</div>
+
+
+<div class="boxlist buscaavanza">
+	<div class="container movPaddingOut" style="padding-bottom:40px;">
+		<div class="row col-md-12 col-xs-12 col-sm-12" style="padding:0;margin:0" >
+			<div class="col-md-12 lastlist col-sm-12">
+				<div class="col-md-12" style="padding:0;margin:0;">
+							<span id="m_buscadorprofesionales" class="whitebXL"></span>
+						</div>	
+			</div>
+			<div class="col-md-12 lastlistwhite" style="margin-top:0; padding-top:0" >
+			
+				<div class="row advContainer">
+					
+				<div class="col-md-4" >
+		        	
+		        	<div class="row card card-container cardAdjustMov" >
+		            <ul class="nav nav-pills nav-stacked admin-menu" style="text-align:left;" >
+		                <li id="tabMedi" onclick="setCurrentTab('medi')" class="active" style="float: left;margin-right:10px;width:100%;" >
+		                	<a href="#" data-target-id="buscaMedicamentos">
+		                		<i class="fa fa-medkit fa-1x" style="margin-right:10px;margin-bottom:8px;"></i> 
+		                		<span id="m_buscadormedicamentos" style="margin-right:20px;margin-bottom:25px;"></span>
+		                	</a>
+		                </li>
+		                <li id="tabClinica" onclick="setCurrentTab('clinica')"  style="float: left;margin-right:10px; width:100%;" >
+		                	<a href="#" data-target-id="buscaClinica">
+		                		<i class="fa fa-file-text fa-1x" style="margin-right:10px;margin-bottom:8px;"></i> 
+		                		<span id="m_descripcionclinica" style="margin-right:20px;margin-bottom:25px;"></span>
+		                	</a>
+		                </li>
+		                 <li id="tabFicha" onclick="setCurrentTab('ft')" style="float: left;margin-right:10px;width:100%;" >
+		                	<a href="#" data-target-id="buscaTecnica">
+		                		<i class="fa fa-file-text-o fa-1x" style="margin-right:10px;margin-bottom:8px;"></i> 
+		                		<span id="m_buscadorfichatecnica" style="margin-right:20px;margin-bottom:25px;"></span>
+		                	</a>
+		                </li>
+		                <li id="tabCambios" onclick="setCurrentTab('cambios')" style="float: left;margin-right:10px;width:100%;" >
+		                	<a href="#" data-target-id="buscaCambios">
+		                		<i class="fa fa-exchange fa-1x" style="margin-right:10px;margin-bottom:8px;"></i> 
+		                		<span id="m_registrocambios" style="margin-right:20px;margin-bottom:25px;"></span>
+		                	</a>
+		                </li>
+		                
+		            </ul>
+		            </div>
+		            
+		            <div class="row hidden-xs" style="padding:0 20px; text-align:justify;" >
+		            <span id="m_seleccionabuscador" style="text-align:right;font-zise:11pt;font-weight:regular;color:#3072AB"></span>
+		           <br/><br/>
+		            <span id="m_buscadordistinto" style="text-align:right;font-zise:11pt;font-weight:bold;color:#3072AB"></span>
+		            
+		            </div>
+		        </div>
+		        
+		        <div class="col-md-8 admin-content" id="buscaMedicamentos" >
+			        	<div class="row  card card-container" >
+				        	<h4 id="m_buscadormedicamentostitulo" style="text-align: left;font-weight:bold;color:#3072AB"></h4>
+				        	<h5 id="m_criteriosbuscadormedicamentos" style="text-align: left;font-weight:bold;"></h5>
+				        	<hr>	           
+					        <div class="col-md-12 movPaddingOut" style="border-right:0;">
+					            <form class="form-signin">
+					                <span id="reauth-email" class="reauth-email"></span>
+					                <input type="text" aria-label="buscar medicamento" id="inputBuscarMedicamento"  class="form-control paramMedicamento" placeholder="" />					           
+					                <input type="text" aria-label="buscar principio activo" id="inputBuscarPrincipioActivo" class="form-control paramMedicamento" placeholder="" />
+					                <input type="text" aria-label="buscar otro pp" id="inputBuscarOtroPrincipioActivo" class="form-control paramMedicamento" placeholder="" />
+					                <div class="input-group"> 
+					 				     <span id="m_numeroprincipios" class="input-group-addon" style="width: 100%;text-align: left;"></span>
+					 				    <select aria-label="numero principios" class="form-control paramMedicamento" id="selNumeroPrincipios">
+					 					    <option id="numpadefault" class="selectdefault" selected></option>
+					 					    <option>1</option>
+					 					    <option>2</option>
+					 					    <option>3</option>
+					 					    <option>4</option>
+					 					    <option>5</option>
+					 					    <option>6</option>
+					 					    <option>7</option>
+					 					    <option>8</option>
+					 					    <option>9</option>
+					 				    </select> 
+				 				    </div>
+      								<br/>
+					                <input type="text" aria-label="buscar laboratorio" id="inputBuscarLaboratorio" class="form-control paramMedicamento" placeholder="" />
+					                <input type="text" aria-label="buscar atc" id="inputBuscarATC" class="form-control paramMedicamento" placeholder=""/>
+					                
+					                <hr>
+					                <div class="row" style="margin:5px">
+								       	<div class="col-md-10 col-xs-12 col-sm-12">
+								       	<h5 id="m_avisomedicamentos" style="text-align: center;font-weight:bold;color:red"></h5>
+								       	</div>
+								        <div class="col-md-2 col-xs-7 col-sm-7" style="padding:0;margin:0">
+<!-- 								        	<form class="form-signin">   -->
+								              	<button id="btnBuscarMedicamentos" class="btn btn-lg btn-primary btn-block btn-signin" type="button"></button>
+<!-- 								            </form> -->
+								        </div>
+								    </div>
+								    
+					              	
+					            </form>
+					        </div>
+				        </div>
+		        </div>
+
+				<div class="col-md-8 admin-content" id="buscaClinica" >
+			        	<div class="row  card card-container" >
+				        	<h4 id="m_buscadordesclinica" style="text-align: left;font-weight:bold;color:#5385c1"></h4>
+				        	<h5 id="m_criteriosbuscadordesclinica" style="text-align: left;font-weight:bold;"></h5>
+				        	<hr>	           
+					        <div class="col-md-12 movPaddingOut" style="border-right:0;">
+					            <form class="form-signin">
+					                <span id="reauth-email" class="reauth-email"></span>
+					                <input type="text" id="inputClinicaNombrecomercial" class="form-control paramClinica" placeholder=""/>
+					                <input type="text" id="inputClinicaPrincipio" class="form-control paramClinica" placeholder="" />
+					                <input type="text" id="inputClinicaDosis" class="form-control paramClinica" placeholder="" />
+					                <input type="text" id="inputClinicaForma" class="form-control paramClinica" placeholder="" />
+					                <input type="text" id="inputClinicaAtc" class="form-control paramClinica" placeholder=""/>
+					                
+					                <hr>
+					                <div class="row" style="margin:5px">		
+					                	<div class="col-md-10 col-xs-12 col-sm-12">
+					                	<h5 id="m_avisoclinica" style="text-align: center;font-weight:bold;color:red"></h5>
+					                	</div>						       
+								        <div class="col-md-2 col-xs-7 col-sm-7" style="padding:0;margin:0">
+<!-- 								        	<form class="form-signin">              			                -->
+								              	<button id="btnBuscarDescClinica" class="btn btn-lg btn-primary btn-block btn-signin" type="button"></button>
+<!-- 								            </form> -->
+								        </div>
+								    </div>
+								    
+								    
+					              	
+					            </form><!-- /form -->
+					        </div><!-- /card-container -->
+				        </div>
+		        </div>
+
+
+				<div class="col-md-8 admin-content" id="buscaCambios" >
+	        	<div class="row  card card-container" >
+		        	<h4 id="m_registrocambios" style="text-align: left;font-weight:bold;color:#5385c1"></h4>
+		        	<h5 id="m_criteriosregistrocambios" style="text-align: left;font-weight:bold;"></h5>
+		        	<hr>	           
+			        <div class="col-md-12 " style="border-right:0;">
+			            <form class="form-signin">
+					        <div class="input-group"> 
+			 				    <span id="m_situacionautorizacion" class="input-group-addon" ></span>
+			 				    <select class="form-control paramCambios" id="selSituacion">
+			 					    <option id="sitnone" class="selectdefault" selected></option>
+			 					    <option id="aut">Autorizado</option>
+			 					    <option id="susp">Suspendido</option>
+			 					    <option id="rev">Anulado</option>
+			 				    </select> 
+		 				    </div>
+		 				    <br/>
+		 				    <div class="input-group"> 
+			 				    <span id="m_anno" class="input-group-addon" ></span>				         
+			 				    <select class="form-control paramCambios" id="selAno">
+				 				    <script language="JavaScript" type="text/javascript">
+								        document.write(rellenaAnyos(2010));
+								    </script>
+			 				    </select> 
+ 				    		</div>	
+ 				    		 <br/>
+ 				    		<div class="input-group"> 
+			 				    <span id="m_mes" class="input-group-addon" ></span>				         
+			 				    <select class="form-control paramCambios" id="selMes">
+			 					    <option id="1" selected></option> 
+			 					    <option id="2"></option> 
+			 					    <option id="3"></option> 
+			 					    <option id="4"></option> 
+			 					    <option id="5"></option> 
+			 					    <option id="6"></option> 
+								    <option id="7"></option> 
+								    <option id="8"></option> 
+								    <option id="9"></option> 
+								    <option id="10"></option> 
+								    <option id="11"></option> 
+								    <option id="12"></option> 
+			 				    </select> 
+ 				    		</div>		
+ 				    		 <br/>	               
+			                <input type="text" id="inputCambiosLaboratorio" class="form-control paramCambios" placeholder=""/>
+			                
+			                <hr>
+			                <div class="row" style="margin:5px">
+						        <div class="col-md-10 col-xs-12 col-sm-12">
+						        	<h5 id="m_avisocambios" style="text-align: center;font-weight:bold;color:red"></h5>
+						        </div>
+						        <div class="col-md-2 col-xs-7 col-sm-7" style="padding:0;margin:0">
+<!-- 						        	<form class="form-signin">              			                -->
+						              	<button id="btnBuscarCambios" class="btn btn-lg btn-primary btn-block btn-signin" type="button"></button>
+<!-- 						            </form> -->
+						        </div>
+						    </div>
+			                
+			              	
+			            </form>
+			        </div>
+		        </div>
+        </div>  
+        
+        
+        
+        <div class="col-md-8 admin-content" id="buscaTecnica" >
+	        	<div class="row  card card-container" >
+		        	<h4 id="m_buscadorfichatecnicatitulo" style="text-align: left;font-weight:bold;color:#5385c1"></h4>
+		        	<h5 id="m_criteriosbuscadorfichatecnica1" style="text-align: left;font-weight:bold;"></h5>
+		        	<h5 id="m_criteriosbuscadorfichatecnica2" style="text-align: left;font-weight:bold;color:#d9534f"></h5>
+		        	<hr>	           
+			        <div class="col-md-12 col-sm-12 col-xs-12" style="text-align:left;">
+			         <div  class="row sectecnica" style="margin-bottom:5px">
+			         	<p class="paramTecnica" hidden>1</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTNombre" class="form-control paramTecnica" placeholder="" />
+				        </div>
+			        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+				          <label class="lblContiene" style="font-size:9pt;" >
+				            <input class="paramTecnica" type="checkbox" value="" checked />
+				            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+				          </label>
+				        </div>
+				    </div>
+				    
+				     <hr class="hidden-md hidden-sm hidden-lg">
+				     
+				     <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>2. ComposiciÃ³n cualitativa y cuantitativa</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>2</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+<!-- 				        	<input type="text" id="queryDosis" class="form-control"  /> -->
+				        	<input type="text" id="inputFTComposicion" class="form-control paramTecnica" placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				     
+				     <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>2. ComposiciÃ³n cualitativa y cuantitativa</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>2.1</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+<!-- 				        	<input type="text" id="queryDosis" class="form-control"  /> -->
+				        	<input type="text" id="inputFTCompodesc" class="form-control paramTecnica" placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label  class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				     
+				     <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>2. ComposiciÃ³n cualitativa y cuantitativa</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>2.2</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+<!-- 				        	<input type="text" id="queryDosis" class="form-control"  /> -->
+				        	<input type="text" id="inputFTCompocuali" class="form-control paramTecnica" placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label  class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				     <hr class="hidden-md hidden-sm hidden-lg">
+				     
+				     <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>3. Forma farmacÃ©utica</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>3</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+<!-- 				        	<input type="text" id="queryDosis" class="form-control"  /> -->
+				        	<input type="text" id="inputFTForma" class="form-control paramTecnica" placeholder=""  />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label  class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				     <hr class="hidden-md hidden-sm hidden-lg">
+				     
+				     <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>4. Datos clinicos</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>4</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+<!-- 				        	<input type="text" id="queryDosis" class="form-control"  /> -->
+				        	<input type="text" id="inputFTDatosclinicos" class="form-control paramTecnica"  placeholder=""/>
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label  class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				     <hr class="hidden-md hidden-sm hidden-lg">
+				     
+				     
+			        <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>4.1. Indicaciones terapÃ©uticas</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>4.1</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+<!-- 				        	<input type="text" id="queryDosis" class="form-control"  /> -->
+				        	<input type="text" id="inputFTIndicaciones" class="form-control paramTecnica" placeholder=""/>
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label  class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    <hr class="hidden-md hidden-sm hidden-lg">
+			        <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>4.2. PosologÃ­a y forma de administraciÃ³n</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>4.2</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+<!-- 				        	<input type="text" id="queryDosis" class="form-control"  /> -->
+				        	<input type="text" id="inputFTPosologia" class="form-control paramTecnica"  placeholder=""/>
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label  class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					           
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				    <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>4.3. Contraindicaciones</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>4.3</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+<!-- 				        	<input type="text" id="queryDosis" class="form-control"  /> -->
+				        	<input type="text" id="inputFTContraindicaciones" class="form-control paramTecnica"  placeholder=""/>
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+			        
+			        <hr class="hidden-md hidden-sm hidden-lg">
+				    <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>4.4. Advertencias y precauciones especiales de empleo</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>4.4</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTAdvertencias" class="form-control paramTecnica"  placeholder=""/>
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label  class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				    <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>4.5. InteracciÃ³n con otros medicamentos y otras formas de interacciÃ³n</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>4.5</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTInteraccion" class="form-control paramTecnica"   placeholder=""/>
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label  class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				    <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>4.6. Fertilidad, embarazo y lactancia</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>4.6</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTFertilidad" class="form-control paramTecnica" placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label  class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				    <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>4.7. Efectos sobre la capacidad para conducir y utilizar mÃ¡quinas</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>4.7</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTEfectos" class="form-control paramTecnica"  placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label  class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				    <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>4.8. Reacciones adversas</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>4.8</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTReacciones" class="form-control paramTecnica"  placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label  class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				    <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>4.9. Sobredosis</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>4.9</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTSobredosis" class="form-control paramTecnica"  placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label  class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				    <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-12 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h6>5. Propiedades farmacolÃ³gicas</h6> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>5</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTPropiedades" class="form-control paramTecnica"  placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label  class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				    <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>5.1. Propiedades farmacodinÃ¡micas</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>5.1</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTFarmacodinamicas" class="form-control paramTecnica"   placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label  class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				    <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>5.2. Propiedades farmacocinÃ©ticas</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>5.2</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTFarmacocineticas" class="form-control paramTecnica"   placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label  class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				    <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>5.3. Datos preclÃ­nicos sobre seguridad</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>5.3</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTPreclinico" class="form-control paramTecnica"  placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				    <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>6.Â Datos farmacÃ©uticos</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>6</p>
+				       <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTfarmaceuticos" class="form-control paramTecnica"  placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				    <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>6.1. Lista de excipientes</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>6.1</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTExcipientes" class="form-control paramTecnica"  placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				    <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>6.2. Incompatibilidades</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>6.2</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTIncompatibilidades" class="form-control paramTecnica"  placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				    <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>6.3. Periodo de validez</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>6.3</p>
+				       <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTValidez" class="form-control paramTecnica"  placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				    <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>6.4. Precauciones especiales de conservaciÃ³n</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>6.4</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTPrecauciones" class="form-control paramTecnica"  placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				    <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>6.5. Naturaleza y contenido del envase</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>6.5</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTNaturaleza" class="form-control paramTecnica"  placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				     <hr class="hidden-md hidden-sm hidden-lg">
+				    <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>6.6. Precauciones especiales de eliminaciÃ³n y otras manipulaciones</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>6.6</p>
+				       <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTManipulaciones" class="form-control paramTecnica"  placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				     <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>7. Titular de la autorizaciÃ³n de comercializaciÃ³n</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>7</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTTitular" class="form-control paramTecnica"  placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				     <hr class="hidden-md hidden-sm hidden-lg">
+				     
+				     <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>8. NÃºmero(s) de autorizaciÃ³n de comercializaciÃ³n</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>8</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTNumero" class="form-control paramTecnica"  placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				     <hr class="hidden-md hidden-sm hidden-lg">
+				     
+				       <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>9. Fecha de la primera autorizaciÃ³n y renovaciÃ³n</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>9</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTFechaauto" class="form-control paramTecnica"  placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				     <hr class="hidden-md hidden-sm hidden-lg">
+				     
+				     <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>10. Fecha de la revisiÃ³n de texto</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>10</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTFecharevision" class="form-control paramTecnica"  placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>				    
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				     
+				     <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>11. Fecha de la revisiÃ³n de texto</h5> -->
+<!-- 				        </div> -->
+						<p class="paramTecnica" hidden>11</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTDosimetria" class="form-control paramTecnica"  placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				     
+				     <div class="row sectecnica" style="margin-bottom:5px">
+<!-- 				        <div class="col-md-7 col-xs-12 col-sm-12"> -->
+<!-- 				        	<h5>12.Instrucciones para la preparacion de radiofarmacos</h5> -->
+<!-- 				        </div> -->
+					  <p class="paramTecnica" hidden>12</p>
+				        <div class="col-md-10 col-xs-12 col-sm-12" style="padding:0;margin:0">
+				        	<input type="text" id="inputFTRadiofarmacos" class="form-control paramTecnica"  placeholder="" />
+				        </div>
+				        	 <div class="checkbox col-md-2 col-xs-5 col-sm-5" style="padding:0;margin:0;padding-top:6px">
+					          <label class="lblContiene" style="font-size:9pt;">
+					            <input class="paramTecnica" type="checkbox" value="" checked>					            
+					            <span class="cr"><i class="cr-icon fa fa-check"></i></span>
+					          </label>
+					        </div>
+				    </div>
+				    
+				    <hr class="hidden-md hidden-sm hidden-lg">
+				    <hr>
+				    <div class="row" style="margin:5px">
+				        <div class="col-md-10 col-xs-12 col-sm-12">
+				        	<h5 id="m_avisoficha" style="text-align: center;font-weight:bold;color:red"></h5>
+				        </div>
+				        <div class="col-md-2 col-xs-7 col-sm-7" style="padding:0;margin:0">
+				        	<form class="form-signin">              			               
+				              	<button id="btnBuscarFichaTecnica" class="btn btn-lg btn-primary btn-block btn-signin" type="button" style="width:100px;">Buscar</button>
+				            </form>
+				        </div>
+				    </div>
+			            
+			        </div>
+		        </div>
+        </div>  
+				</div>					
+			</div>
+			  
+		</div>
+
+		</div>
+	</div>
+	
+	
+	
+<div id="dialogerror"></div>	
+	
+<footer id="footer">
+	
+</footer>
+<!-- Google/Cookies -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDG3588" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script src="/cima/resources/js/cookies.min.js" data-cfasync="false"></script>
+<script>cookiesCheck();</script>
+<!-- end Google/Cookies -->
+
+</body>
+</html>

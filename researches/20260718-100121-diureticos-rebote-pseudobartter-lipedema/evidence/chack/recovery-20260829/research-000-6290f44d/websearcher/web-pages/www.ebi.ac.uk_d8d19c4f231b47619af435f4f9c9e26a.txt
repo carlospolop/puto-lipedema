@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?><article xml:lang="en" article-type="review-article"><front><journal-meta><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-title-group><journal-title>British Journal of Clinical Pharmacology</journal-title><abbrev-journal-title>Br J Clin Pharmacol</abbrev-journal-title></journal-title-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC11671325</article-id><article-id pub-id-type="pmcaid">11671325</article-id><article-id pub-id-type="pmcaiid">11671325</article-id><article-id pub-id-type="pmid">39117602</article-id><article-id pub-id-type="doi">10.1111/bcp.16189</article-id><title-group><article-title>The effects of diuretic deprescribing in adult patients: A systematic review to inform an evidence‐based diuretic deprescribing guideline</article-title></title-group><contrib-group content-type="author"><contrib><name name-style="western"><surname>van Poelgeest</surname><given-names initials="E">Eveline</given-names></name><xref ref-type="aff" rid="bcp16189-aff-0001">1</xref><xref ref-type="aff" rid="bcp16189-aff-0002">2</xref><xref ref-type="author-notes" rid="_fncrsp93pmc__">✉</xref></contrib><contrib><name name-style="western"><surname>Paoletti</surname><given-names initials="L">Luca</given-names></name><xref ref-type="aff" rid="bcp16189-aff-0003">3</xref></contrib><contrib><name name-style="western"><surname>Özkök</surname><given-names initials="S">Serdar</given-names></name><xref ref-type="aff" rid="bcp16189-aff-0004">4</xref></contrib><contrib><name name-style="western"><surname>Pinar</surname><given-names initials="E">Ezgi</given-names></name><xref ref-type="aff" rid="bcp16189-aff-0004">4</xref></contrib><contrib><name name-style="western"><surname>Bahat</surname><given-names initials="G">Gülistan</given-names></name><xref ref-type="aff" rid="bcp16189-aff-0004">4</xref></contrib><contrib><name name-style="western"><surname>Vuong</surname><given-names initials="V">Vincent</given-names></name><xref ref-type="aff" rid="bcp16189-aff-0005">5</xref><xref ref-type="aff" rid="bcp16189-aff-0006">6</xref></contrib><contrib><name name-style="western"><surname>Topinková</surname><given-names initials="E">Eva</given-names></name><xref ref-type="aff" rid="bcp16189-aff-0007">7</xref><xref ref-type="aff" rid="bcp16189-aff-0008">8</xref><xref ref-type="aff" rid="bcp16189-aff-0009">9</xref></contrib><contrib><name name-style="western"><surname>Daams</surname><given-names initials="J">Joost</given-names></name><xref ref-type="aff" rid="bcp16189-aff-0010">10</xref></contrib><contrib><name name-style="western"><surname>McCarthy</surname><given-names initials="L">Lisa</given-names></name><xref ref-type="aff" rid="bcp16189-aff-0005">5</xref><xref ref-type="aff" rid="bcp16189-aff-0006">6</xref></contrib><contrib><name name-style="western"><surname>Thompson</surname><given-names initials="W">Wade</given-names></name><xref ref-type="aff" rid="bcp16189-aff-0011">11</xref></contrib><contrib><name name-style="western"><surname>van der Velde</surname><given-names initials="N">Nathalie</given-names></name><xref ref-type="aff" rid="bcp16189-aff-0001">1</xref><xref ref-type="aff" rid="bcp16189-aff-0002">2</xref></contrib></contrib-group><aff id="bcp16189-aff-0001"><label>
+<sup>1</sup>
+</label>Department of Internal Medicine/Geriatrics, Amsterdam University Medical Center, University of Amsterdam, Meibergdreef 9, Amsterdam, The Netherlands</aff><aff id="bcp16189-aff-0002"><label>
+<sup>2</sup>
+</label>Aging and Later Life, Amsterdam Public Health Research Institute, Amsterdam, The Netherlands</aff><aff id="bcp16189-aff-0003"><label>
+<sup>3</sup>
+</label>Pharmacy Department, IRCCS San Raffaele Hospital, Milan, Italy</aff><aff id="bcp16189-aff-0004"><label>
+<sup>4</sup>
+</label>Istanbul Medical Faculty, Department of Internal Medicine, Division of Geriatrics, Capa, Istanbul University, Istanbul, Turkey</aff><aff id="bcp16189-aff-0005"><label>
+<sup>5</sup>
+</label>Trillium Health Partners, Mississauga, Ontario, Canada</aff><aff id="bcp16189-aff-0006"><label>
+<sup>6</sup>
+</label>Leslie Dan Faculty of Pharmacy, University of Toronto, Toronto, Ontario, Canada</aff><aff id="bcp16189-aff-0007"><label>
+<sup>7</sup>
+</label>Department of Geriatrics, 1st Faculty of Medicine Charles University, Prague, Czech Republic</aff><aff id="bcp16189-aff-0008"><label>
+<sup>8</sup>
+</label>General Faculty Hospital, Prague, Czech Republic</aff><aff id="bcp16189-aff-0009"><label>
+<sup>9</sup>
+</label>Faculty of Health and Social Sciences, University of South Bohemia, České Budějovice, Czech Republic</aff><aff id="bcp16189-aff-0010"><label>
+<sup>10</sup>
+</label>Medical Library, Amsterdam University Medical Center, University of Amsterdam, Amsterdam, The Netherlands</aff><aff id="bcp16189-aff-0011"><label>
+<sup>11</sup>
+</label>Department of Anesthesiology, Pharmacology, and Therapeutics, Faculty of Medicine, University of British Columbia, Vancouver, Canada</aff><author-notes><fn id="correspondenceTo"><label>*</label><p>
+
+<bold>Correspondence</bold>
+, 
+Eveline P. van Poelgeest, MD PhD, internist‐geriatrician and clinical pharmacologist, Amsterdam University Medical Centers, Amsterdam, The Netherlands. 
+Email: <email>e.p.vanpoelgeest@amsterdamumc.nl</email>
+
+</p></fn><fn id="_fncrsp93pmc__"><label>✉</label><p>Corresponding author.</p></fn></author-notes><pub-date><day>8</day><month>8</month><year>2024</year></pub-date><volume>91</volume><issue>1</issue><fpage>38</fpage><page-range>38–54</page-range><pub-history><event event-type="pmc-release"><date><day>28</day><month>12</month><year>2024</year></date></event></pub-history><permissions><copyright-statement>© 2024 The Author(s). British Journal of Clinical Pharmacology published by John Wiley &amp; Sons Ltd on behalf of British Pharmacological Society.</copyright-statement><license><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/" ext-link-type="uri">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BCP-91-38.pdf" content-type="pmc-pdf"><?cloudpmc-path c116/11671325/ead80630503b/BCP-91-38.pdf?><?cloudpmc-bucket app?><?size 2761019?></self-uri><abstract id="abstract1"><title>Abstract</title><p>In this systematic review, we report on the effects of diuretic deprescribing compared to continued diuretic use. We included clinical studies reporting on outcomes such as mortality, heart failure recurrence, tolerability and feasibility. We assessed risk of bias and certainty of the evidence using the GRADE framework. We included 25 publications from 22 primary studies (15 randomized controlled trials; 7 nonrandomized studies). The mean number of participants in the deprescribing groups was 35, and median/mean age 64 years. In patients with heart failure, there was no clear evidence that diuretic deprescribing was associated with increased mortality compared to diuretic continuation (low certainty evidence). The risk of cardiovascular composite outcomes associated with diuretic deprescribing was inconsistent (studies showing lower risk for diuretic deprescribing, or comparable risk with diuretic continuation; very low certainty evidence). The effect on heart failure recurrence after diuretic deprescribing in patients with diuretics for heart failure, and of hypertension in patients with diuretics for hypertension was inconsistent across the included studies (low certainty evidence). In patients with diuretics for hypertension, diuretic deprescribing was well tolerated (moderate certainty evidence), while in patients with diuretics for heart failure, deprescribing diuretics can result in complaints of peripheral oedema (very low certainty evidence). The overall risk of bias was generally high. In summary, this systematic review suggests that diuretic discontinuation could be a safe and feasible treatment option for carefully selected patients. However, there isa lack of high‐quality evidence on its feasibility, safety and tolerability of diuretic deprescribing, warranting further research.</p><sec id="kwd-group1" sec-type="kwd-group" disp-level="2"><p><bold>Keywords:</bold> deprescribing, diuretics, heart failure, hypertension, patient‐relevant outcomes, systematic review</p></sec></abstract><trans-abstract id="trans-abstract1" xml:lang="nl" abstract-type="graphical"><title>Abstract</title>
+<boxed-text id="bcp16189-blkfxd-0001" position="anchor"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="jats-graphic-1" xlink:href="BCP-91-38-g001.jpg"><?cloudpmc-path blobs/c116/11671325/0b0de4d1c8d8/BCP-91-38-g001.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEVER_LOAD?><?original-height 132?><?original-width 250?><?scaled-height 132?><?scaled-width 250?></graphic></boxed-text>
+</trans-abstract><custom-meta-group><custom-meta><meta-name>status</meta-name><meta-value>released</meta-value></custom-meta><custom-meta><meta-name>display-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-in-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>is-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-journal-matter</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-scanned</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>is-retracted</meta-name><meta-value>no</meta-value></custom-meta></custom-meta-group></article-meta><notes notes-type="article-notes"><sec id="historyarticle-meta1" sec-type="history" disp-level="2"><p>Revised 2024 Jul 1; Received 2024 Mar 21; Accepted 2024 Jul 3; Issue date 2025 Jan.</p></sec></notes></front><body><sec id="bcp16189-sec-0001" disp-level="1"><label>1.</label><title>INTRODUCTION</title><p>Diuretics have been a fundamental component in the treatment of heart failure (HF) and hypertension (HT) for several decades.<xref rid="bcp16189-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>, <xref rid="bcp16189-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> Despite their established efficacy in treating acute decompensated HF, chronic and prolonged diuretic use in the absence of fluid retention is not supported by high‐quality evidence, and is associated with potentially life‐threatening adverse events,<xref rid="bcp16189-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="bcp16189-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="bcp16189-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref> especially in older patients.<xref rid="bcp16189-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> Notably, diuretics consistently rank among the drug classes with the highest rates of medication‐related hospital admissions.<xref rid="bcp16189-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="bcp16189-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="bcp16189-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Continuation of cardiovascular medications when no longer necessary or posing greater potential risks <italic>vs</italic>. benefits may adversely affect quality of life (QoL), induce adverse drug reactions (ADRs), escalate healthcare costs and increase mortality.<xref rid="bcp16189-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref> Further, chronic diuretic use may impede the guideline‐directed up‐titration of evidence‐based medications<xref rid="bcp16189-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="bcp16189-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> and contribute to neurohumoral hyperactivation, particularly in older patients living with frailty.<xref rid="bcp16189-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> Observational data suggest that prognosis in HF patients without chronically using a loop diuretic is generally good and comparable to those receiving low or standard doses of diuretics.<xref rid="bcp16189-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="bcp16189-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref> As such, reassessment of the benefits and harms of diuretics is good practice, and may bring up consideration of dose reduction or stopping of diuretics (deprescribing).</p><p>Since 2016, the European Society of Cardiology guidelines,<xref rid="bcp16189-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> advocate for the de‐escalation of diuretics in stable HF patients. In addition, deprescribing antihypertensives is recommended in older and frail individuals with symptomatic low blood pressure (BP).<xref rid="bcp16189-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> Despite these recommendations, diuretics are frequently overused and excessively dosed.<xref rid="bcp16189-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="bcp16189-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> However, there are good reasons to deprescribe diuretics; for example, if there is no valid indication (anymore) for diuretic use, or if the diuretic is prescribed as part of a prescribing cascade.<xref rid="bcp16189-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> In these settings, deprescribing should be considered. In addition, diuretic deprescribing may be appropriate if alternatives with more favourable benefit/risk ratios are available. The imperative to reassess the appropriateness of prolonged diuretic therapy and contemplate diuretic deprescribing is particularly pertinent in the context of HF, given the advent of innovative drugs such as sodium–glucose cotransporter 2 (SGLT‐2) inhibitors and angiotensin receptor neprilysin inhibitors.<xref rid="bcp16189-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="bcp16189-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="bcp16189-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="bcp16189-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref>
+</p><p>In routine practice, however, deprescribing remains underutilized, as evidenced by the limited implementation of guideline‐recommended loop diuretic dose reductions in specialized HF clinics across 33 European and European Society of Cardiology‐affiliated countries.<xref rid="bcp16189-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> Various barriers to deprescribing related to patients, healthcare providers and healthcare systems have been identified,<xref rid="bcp16189-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> which includes uncertainties in the benefits and harms of stopping or reducing medications compared to continuing. Guidelines and tools have been proposed as strategies to increase uptake of deprescribing in practice. To support healthcare providers in judicious decision‐making regarding when and how to safely taper or withdraw diuretics, our research group is presently developing an evidence‐based diuretic deprescribing clinical practice guideline. To inform the guideline, we conducted a systematic review to assess the advantages and drawbacks of diuretic deprescribing in comparison to the continued use of diuretics, and the feasibility of diuretic deprescribing in clinical practice.</p></sec><sec id="bcp16189-sec-0002" disp-level="1"><label>2.</label><title>METHODS</title><p>This systematic review was registered with PROSPERO, the International Prospective Register of Systematic Reviews (CRD42022371658) and reported according to the Preferred Reporting Items for Systematic reviews and Meta‐Analyses‐network meta‐analysis (PRISMA) 2020 guidelines<xref rid="bcp16189-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> (Table <xref rid="bcp16189-supitem-0001" ref-type="supplementary-material">S1</xref>).</p><sec id="bcp16189-sec-0003" disp-level="2"><label>2.1.</label><title>Literature search</title><p>The search strategy was developed in consultation with an experienced medical librarian. We searched Ovid Medline, Embase and the Cochrane Database of Systematic Reviews (via Cochrane Library). Key concepts were (i) diuretics and (ii) deprescribing. The search covered studies from inception of each database until 16 December 2022. We updated the search on 28 May 2024. We employed a backward snowballing approach from the reference lists of the included publications to identify potential additional relevant studies. The initial search strategy, and the search update are presented in Tables <xref rid="bcp16189-supitem-0001" ref-type="supplementary-material">S2 and S3</xref>.</p><p>We imported the references identified through the search into EndNote X9 reference management software (Clarivate) and deduplicated them. Next, we exported the references to the Covidence program to facilitate the next steps in the systematic review process (Covidence systematic review software, Veritas Health Innovation, Melbourne, Australia. Available at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.covidence.org" ext-link-type="uri">www.covidence.org</ext-link>).</p></sec><sec id="bcp16189-sec-0004" disp-level="2"><label>2.2.</label><title>Criteria for considering studies for the review</title><p>We considered studies for inclusion if they reported effects of a diuretic deprescribing intervention, irrespective of study population, reasons for diuretic use or study follow‐up duration. We excluded studies published in non‐English language and studies reporting on deprescribing diuretic in temporary and/or acute conditions (e.g., perioperatively). Our outcomes of interest included, but were not limited to all‐cause mortality, cardiovascular mortality, cardiovascular events (e.g., myocardial infarction, stroke), adverse diuretic withdrawal events (e.g., recurrence of HF or HT), health‐related QoL, and improvement/resolution of medication side effects or pill burden after diuretic withdrawal. For all in‐ and exclusion criteria, see Table <xref rid="bcp16189-tbl-0001" ref-type="table">1</xref>.</p><table-wrap id="bcp16189-tbl-0001" position="float"><?disp-level 3?><label>TABLE 1</label><caption><p>PICOS table with in and exclusion criteria.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">P (Patient or population)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic>Inclusion:</italic>
+</p>
+<p>Adults (≥18 years), living in and/or recruited from any setting (i.e. hospital, community/primary care, outpatient clinics, residential aged care facilities, hospice and palliative care).</p>
+<p>
+<italic>Exclusion:</italic>
+</p>
+<p>Individuals aged &lt;18 years, never prescribed a diuretic, healthy volunteers.</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">I (Intervention)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic>Inclusion:</italic>
+</p>
+<p>Stopping, reducing dose, or gradual tapering of at least 1 diuretic medication. Temporary cessation of diuretics, e.g. relating to <italic>sick day rules</italic>, will be included. Diuretic medication: all medicines listed as diuretics in the World Health Organization Anatomical Therapeutic Chemical code list.</p>
+<p>
+<italic>Exclusion:</italic>
+</p>
+<p>Studies on medicines combining a diuretic with a nondiuretic (e.g., an angiotensin receptor blocker) in a combination pill.</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">C (Comparison)</td><td align="left" valign="top" rowspan="1" colspan="1">Continuation of the diuretic.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">O (Outcome)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic>Inclusion:</italic>
+</p>
+<p>Benefits and harms of diuretic deprescribing in chronic use.</p>
+<p>
+<italic>Exclusion:</italic>
+</p>
+<p>Effects of diuretic deprescribing in temporary and/or acute settings (e.g., perioperatively).</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">S (Study design)</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<italic>Inclusion:</italic>
+</p>
+<p>Randomized controlled trials, controlled before‐after studies, interrupted time series, case–control studies, prospective and retrospective cohort studies.</p>
+<p>
+<italic>Exclusion:</italic>
+</p>
+<p>Case reports, narrative reviews, multi‐intervention trials, before–after studies without comparator group, conference abstracts.</p>
+</td></tr></tbody></table><table-wrap-foot><fn id="bcp16189-note-1002"><p>Abbreviations: ATC: Anatomical Therapeutic Chemical; WHO: World Health Organization.</p></fn></table-wrap-foot></table-wrap></sec><sec id="bcp16189-sec-0005" disp-level="2"><label>2.3.</label><title>Data collection and analysis</title><sec id="bcp16189-sec-0006" disp-level="3"><label>2.3.1.</label><title>Selection of studies</title><p>After training sessions of the reviewer team by the project leader (E.v.P.) and piloting the title/abstract screening and full‐text review processes for refinement, title/abstract screening and full‐text review were performed by 2 independent reviewers (E.v.P., L.P., E.P., S.Ö., G.B.). The 2 independent reviewers discussed their conflicts until reaching consensus. When consensus was not reached, a third reviewer (N.v.d.V.) was involved in the discussion.</p></sec><sec id="bcp16189-sec-0007" disp-level="3"><label>2.3.2.</label><title>Data collection and management</title><p>Relevant data from the included publications were extracted into a data collection form by 2 independent reviewers (E.v.P., L.P., E.P., S.Ö., G.B.). Data collection included information on the study characteristics, diuretic deprescribing approach, primary and secondary outcomes. The 2 independent reviewers discussed their conflicts until reaching consensus. When consensus was not reached, a third reviewer (N.v.d.V.) was involved in the discussion.</p></sec><sec id="bcp16189-sec-0008" disp-level="3"><label>2.3.3.</label><title>Data synthesis and measures of the treatment effect</title><p>We focused on outcomes that we deemed are most important to patients, such as HF‐related hospital admissions, all‐cause mortality and QoL. Due to considerable heterogeneity in study design, patient characteristics, deprescribing interventions and/or outcomes reporting, it was not appropriate to combine the studies into a meta‐analysis. We narratively summarized the data by grouping outcome data based on patient population/condition: (i) adults taking diuretics for HF; (ii) adults taking diuretics for HT; and (iii) adults taking diuretics for other (e.g., peripheral oedema) or not specified indications. We did not perform subgroup or sensitivity analyses due to the limited number of studies for each outcome.</p><p>In addition, we narratively summarized the effects of diuretic deprescribing on other clinical outcomes (including effects on postprandial hypotension), biochemistry and cardiac ultrasonography measurements, and on the success‐rate of diuretic deprescribing attempts. Moreover, we narratively summarized the patient characteristics associated with successful diuretic deprescribing attempts.</p></sec><sec id="bcp16189-sec-0009" disp-level="3"><label>2.3.4.</label><title>Risk of bias assessment of included studies and certainty of evidence</title><p>The assessment of the quality of eligible studies was conducted by 2 independent reviewers (W.T., L.M., V.V.) using the revised Cochrane Risk of Bias (RoB 2) tool<xref rid="bcp16189-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> for randomized trials, and the Risk Of Bias In Non‐Randomized Studies—of Interventions (ROBINS‐I) tool<xref rid="bcp16189-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> for nonrandomized trials and observational studies having a control group. Each potential source of bias was ranked as high, low or unclear, with quotes provided from the study to justify the bias grade. We used RoB only as a descriptive measure (we did not exclude eligible studies based on the RoB assessment). Disagreements in scoring were resolved by discussion between the 2 independent reviewers, and further discussed with a third independent reviewer (E.v.P.) to reach consensus. We visualized the results using the RoBVis web application (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/mcguinlu/robvis" ext-link-type="uri">https://github.com/mcguinlu/robvis</ext-link>). We assessed certainty of the evidence based on guidance provided in the GRADE (Grading of Recommendations, Assessment, Development, and Evaluations) handbook (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://gdt.gradepro.org/app/handbook/handbook.html" ext-link-type="uri">https://gdt.gradepro.org/app/handbook/handbook.html</ext-link>) and an evidence‐based medicine primer article.<xref rid="bcp16189-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+</p></sec></sec></sec><sec id="bcp16189-sec-0010" disp-level="1"><label>3.</label><title>RESULTS</title><sec id="bcp16189-sec-0011" disp-level="2"><label>3.1.</label><title>Description of studies</title><p>A total of 7449 unique records were retrieved from databases and other sources (PRISMA flow‐chart, Figure <xref rid="bcp16189-fig-0001" ref-type="fig">1</xref>). We reviewed 78 full text articles for eligibility. We included 25 reports from 22 studies. The details of the included studies are summarized in Table <xref rid="bcp16189-supitem-0001" ref-type="supplementary-material">S4</xref>. The studies were published between 1977 and 2023. Deprescribing approaches included complete withdrawal and/or dose reduction. Fourteen trials were conducted in Europe, 6 in the Americas (North America, South America, Central America, Caribbean) and 2 in Asia Pacific (Central and South Asia, Northeastern Asia, Southeastern Asia, Australia, and Oceania). Fifteen studies were randomized controlled trials; 7 were nonrandomized studies. Study follow‐up duration ranged from 2 weeks to 6 years. Most studies (10/22 = 45%) included participants with HF, 27% (6/22) with HT, 9% (2/22) peripheral oedema and 18% (4/22) included participants with diuretics for HF, HT, peripheral oedema and/or unknown reasons. The mean number of participants in the diuretic deprescribing groups was 35 (range 13–671). The median/mean age of the participants in the diuretic deprescribing groups was 64 years (range 56–82 years), and the median percentage of females was 36% (range 0–88%). Fifteen studies were in outpatient hospital populations, 1 in hospital in‐ or outpatients, 4 in primary care populations, and 2 studies were in a nursing home population.</p><fig id="bcp16189-fig-0001" position="float"><?disp-level 3?><label>FIGURE 1</label><caption><p>PRISMA flow‐chart.</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="jats-graphic-3" xlink:href="BCP-91-38-g006.jpg"><?cloudpmc-path blobs/c116/11671325/c208779e48d2/BCP-91-38-g006.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 1245?><?original-width 1064?><?scaled-height 830?><?scaled-width 709?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="BCP-91-38-g006.gif"><?cloudpmc-path blobs/c116/11671325/8163cf0cf40b/BCP-91-38-g006.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig></sec><sec id="bcp16189-sec-0012" disp-level="2"><label>3.2.</label><title>Risk of bias in included studies</title><p>The results of the critical appraisal of the outcomes in the included studies are shown in Tables <xref rid="bcp16189-tbl-0002" ref-type="table">2</xref> and <xref rid="bcp16189-tbl-0003" ref-type="table">3</xref>. The overall RoB of outcomes (Figures <xref rid="bcp16189-fig-0002" ref-type="fig">2</xref> and <xref rid="bcp16189-fig-0003" ref-type="fig">3</xref>) in the randomized trials was high in 10/18 (56%) studies. There were some concerns in 1 (6%) and in low concern in 7/18 (39%) studies. The overall RoB in the nonrandomized studies was critical in 1 study (1/7 = 20%), serious in 4 studies (57%) and moderate for 2 studies (29%). The RoB assessment was based on the analysis of the primary outcome for each study; analyses of both primary and secondary outcomes were included in the summary of findings analyses (Tables <xref rid="bcp16189-tbl-0004" ref-type="table">4</xref>, <xref rid="bcp16189-tbl-0005" ref-type="table">5</xref>, <xref rid="bcp16189-tbl-0006" ref-type="table">6</xref>).</p><table-wrap id="bcp16189-tbl-0002" position="float"><?disp-level 3?><label>TABLE 2</label><caption><p>Risk of bias assessment of randomized diuretic deprescribing studies (RoB2 tool).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" xlink:href="BCP-91-38-g002.jpg"><?cloudpmc-path blobs/c116/11671325/94cbbb12271b/BCP-91-38-g002.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEVER_LOAD?></graphic>
+</p>
+</td></tr></tbody></table></table-wrap><table-wrap id="bcp16189-tbl-0003" position="float"><?disp-level 3?><label>TABLE 3</label><caption><p>Risk of bias assessment of nonrandomized diuretic deprescribing studies (ROBINS‐I tool).</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" xlink:href="BCP-91-38-g004.jpg"><?cloudpmc-path blobs/c116/11671325/0476bbd13ab5/BCP-91-38-g004.jpg?><?cloudpmc-bucket cdn?><?image-server-status NEVER_LOAD?></graphic>
+</p>
+</td></tr></tbody></table></table-wrap><fig id="bcp16189-fig-0002" position="float"><?disp-level 3?><label>FIGURE 2</label><caption><p>Summary plot risk of bias assessment of randomized diuretic deprescribing studies (RoB2 tool).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="jats-graphic-5" xlink:href="BCP-91-38-g003.jpg"><?cloudpmc-path blobs/c116/11671325/b05ac7445e33/BCP-91-38-g003.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 308?><?original-width 1064?><?scaled-height 205?><?scaled-width 709?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="BCP-91-38-g003.gif"><?cloudpmc-path blobs/c116/11671325/212babf4994e/BCP-91-38-g003.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><fig id="bcp16189-fig-0003" position="float"><?disp-level 3?><label>FIGURE 3</label><caption><p>Summary plot risk of bias assessment of nonrandomized diuretic deprescribing studies (ROBINS‐I tool).</p></caption><alternatives><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="image" id="jats-graphic-7" xlink:href="BCP-91-38-g005.jpg"><?cloudpmc-path blobs/c116/11671325/6ea2941571cc/BCP-91-38-g005.jpg?><?cloudpmc-bucket cdn?><?image-server-status LOAD_COMPLETED?><?original-height 307?><?original-width 1064?><?scaled-height 205?><?scaled-width 709?></graphic><graphic xmlns:xlink="http://www.w3.org/1999/xlink" content-type="thumb" xlink:href="BCP-91-38-g005.gif"><?cloudpmc-path blobs/c116/11671325/b1067f11cad3/BCP-91-38-g005.gif?><?cloudpmc-bucket cdn?></graphic></alternatives></fig><table-wrap id="bcp16189-tbl-0004" position="float"><?disp-level 3?><label>TABLE 4</label><caption><p>Summary of findings, HF studies.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Outcome</th><th align="left" valign="bottom" rowspan="1" colspan="1">Effect</th><th align="left" valign="bottom" rowspan="1" colspan="1">Number of participants in diuretic deprescribing intervention groups (studies)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Certainty in the evidence<xref rid="bcp16189-note-0001" ref-type="table-fn"><sup>*</sup></xref>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Mortality</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>No clear effect on mortality for deprescribing <italic>vs</italic>. continuation.</bold>
+</p>
+<p>One trial reported no (cardiovascular) deaths in the diuretic deprescribing group, whereas 7% of patients in the diuretic continuation group died.<xref rid="bcp16189-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref>
+</p>
+<p>One large registry study showed that diuretic dose reduction <italic>vs</italic>. no change was associated with a borderline lower risk of cardiovascular (HR 0.62; 95% CI 0.38–1.00; <italic>P =</italic> .052), but comparable risk of HF‐related mortality (HR 0.59, 95% CI 0.33–1.07; <italic>P</italic> = .083).<xref rid="bcp16189-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>
+</p>
+<p>One trial showed that mortality rates did not differ between diuretic deprescribing and continuation groups.<xref rid="bcp16189-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>
+</p>
+<p>In all other trials, no deaths were reported in the deprescribing, nor in the continuation groups. In 1 trial, this was explicitly mentioned.<xref rid="bcp16189-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>876</p>
+<p>(1 randomized and 3 nonrandomized studies)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Low</p>
+<p>⊕ ⊕ ◯◯</p>
+<p>(due to moderate risk of bias and inconsistency)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Diuretic deprescribing may have no effect on, or possibly decrease the incidence of composite cardiovascular outcomes including mortality.</bold>
+</p>
+<p>In 3 trials, the primary endpoint was a composite including (cardiac and all‐cause) mortality combined with HF‐related hospitalization and/or heart transplantation or durable ventricular assist device implantation.<xref rid="bcp16189-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="bcp16189-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="bcp16189-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> In 2 clinical trials among patients with stable HF with reduced ejection fraction, diuretic deprescribing was associated with (borderline) significantly better outcomes than the control intervention (<italic>P =</italic> .047 at 1 year and <italic>P =</italic> .053 at 2 years, and <italic>P =</italic> .012, respectively).<xref rid="bcp16189-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>, <xref rid="bcp16189-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> In patients with dilated cardiomyopathy, loop diuretic withdrawal was associated with a reduced risk of the composite outcome of all‐cause mortality, heart transplantation, durable ventricular‐assist device implantation and HF hospitalization (HR 0.37; 95% CI 0.29–0.48; <italic>P &lt;</italic> .001).<xref rid="bcp16189-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>
+</p>
+<p>In a registry study, the risk of a composite outcome (all‐cause mortality or HF hospitalization) was comparable between the diuretic deprescribing and stable dose groups (17.7% and 19%, respectively).<xref rid="bcp16189-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>1080</p>
+<p>(1 randomized, 3 nonrandomized studies)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Very low</p>
+<p>⊕◯◯◯</p>
+<p>(due to serious risk of bias and inconsistency; the risk of publication bias cannot be ruled out)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Adverse drug withdrawal effects and feasibility of deprescribing attempt</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Inconsistent effect on treatment emergent recurrent HF episodes for deprescribing <italic>vs</italic>. continuation.</bold>
+</p>
+<p>In 6 trials, recurrent congestive HF episodes after diuretic deprescribing was observed, occurring in 10–58% of patients.<xref rid="bcp16189-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="bcp16189-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="bcp16189-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="bcp16189-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="bcp16189-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="bcp16189-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref> In 2 of the trials, (treatment emergent) HF episodes were significantly more frequent in the deprescribing than in the control group,<xref rid="bcp16189-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="bcp16189-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> whereas in 4 other trials, the frequencies between groups were comparable.<xref rid="bcp16189-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="bcp16189-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="bcp16189-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="bcp16189-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>351</p>
+<p>(4 randomized, 2 nonrandomized studies)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Low</p>
+<p>⊕ ⊕ ◯◯</p>
+<p>(due to moderate risk of bias and inconsistency)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>Blood pressure</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Increased risk of blood pressure increase for deprescribing <italic>vs</italic>. continuation.</bold>
+</p>
+<p>In 3 reports of the same research group, blood pressure increase was observed after diuretic deprescribing, occurring in 2–10% of participants.<xref rid="bcp16189-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="bcp16189-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="bcp16189-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>114</p>
+<p>(2 randomized, 1 nonrandomized study)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Very low</p>
+<p>⊕◯◯◯</p>
+<p>(due to high risk of bias, not reproduced by other research groups)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>Ankle oedema</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Increased risk of ankle oedema for deprescribing <italic>vs</italic>. continuation.</bold>
+</p>
+<p>In 2 trials, ankle oedema was observed after diuretic withdrawal, occurring in 6 and 11% of the patients, respectively.<xref rid="bcp16189-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="bcp16189-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>101</p>
+<p>(1 randomized, 1 nonrandomized study)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Low</p>
+<p>⊕ ⊕ ◯◯</p>
+<p>(due to high risk of bias)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>Heart failure symptoms</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>No effect on HF patient symptom scores for deprescribing <italic>vs</italic>. continuation.</bold>
+</p>
+<p>Two trials demonstrated that HF symptoms (measured by visual analogue scale and Kansas City Cardiomyopathy Questionnaire) were comparable between diuretic deprescribing and diuretic continuation groups.<xref rid="bcp16189-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="bcp16189-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>174</p>
+<p>(1 randomized, 1 nonrandomized study)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Low</p>
+<p>⊕ ⊕ ◯◯</p>
+<p>(due to moderate risk of bias)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Tolerability of deprescribing attempt</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Increased risk of intolerability of deprescribing attempt.</bold>
+</p>
+<p>One randomized study showed that 10% of participants in the diuretic withdrawal group restarted the diuretic at their request because of ankle oedema.<xref rid="bcp16189-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>21</p>
+<p>(1 randomized study)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Very low</p>
+<p>⊕◯◯◯</p>
+<p>(due to high risk of bias and serious imprecision)</p>
+</td></tr></tbody></table><table-wrap-foot><fn id="bcp16189-note-0001"><label>*</label><p>Low certainty ⊕ ⊕ ◯◯: the true effect might be markedly different from our estimate of the effect; Very low certainty ⊕◯◯◯: we have very little confidence in our estimate of the effect; the true effect is probably markedly different from our estimate of the effect.</p></fn><fn id="bcp16189-note-0002"><p>Abbreviations: CI, confidence interval; HF: heart failure; HR, hazard ratio.</p></fn></table-wrap-foot></table-wrap><table-wrap id="bcp16189-tbl-0005" position="float"><?disp-level 3?><label>TABLE 5</label><caption><p>Summary of findings, hypertension studies.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Outcome</th><th align="left" valign="bottom" rowspan="1" colspan="1">Effect</th><th align="left" valign="bottom" rowspan="1" colspan="1">Number of participants in diuretic deprescribing intervention groups (studies)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Certainty in the evidence<xref rid="bcp16189-note-0003" ref-type="table-fn"><sup>*</sup></xref>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Mortality</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td><td align="left" valign="top" rowspan="1" colspan="1">N/A</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Adverse drug withdrawal effects and feasibility of deprescribing attempt</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Inconsistent effect on hypertension recurrence for deprescribing <italic>vs</italic>. continuation.</bold>
+</p>
+<p>In 4 trials, recurrence of hypertension after diuretic withdrawal was studied.<xref rid="bcp16189-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="bcp16189-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="bcp16189-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="bcp16189-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref> In 1 trial, the percentage of patients in whom hypertension recurred was 59%.<xref rid="bcp16189-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref> In another trial, the percentage of patients reversing to hypertension was significantly higher in the deprescribing group compared to the continuation group, and amounted to 21 mmHg systolic and 7 mmHg diastolic pressure over the 1‐year follow‐up.<xref rid="bcp16189-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref> One trial studied blood pressure control after stepwise dose‐lowering (high‐dose) or discontinuing (low‐dose) hydrochlorothiazide compared to control.<xref rid="bcp16189-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> The percentages of patients with controlled blood pressure was comparable between the groups. In 1 trial, there was no difference in systolic or diastolic blood pressures between the diuretic deprescribing and continuation groups up to 3 months of follow‐up.<xref rid="bcp16189-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>376</p>
+<p>(4 randomized studies)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Low</p>
+<p>⊕ ⊕ ◯◯</p>
+<p>(due to moderate risk of bias and inconsistency)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>Heart failure episodes</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Increased risk of treatment emergent heart failure episodes for deprescribing <italic>vs</italic>. continuation.</bold>
+</p>
+<p>In a <italic>posthoc</italic> analysis of the Systolic blood PRessure INtervention Trial (SPRINT), acute decompensated heart failure episodes after diuretic deprescribing were observed, occurring in 4% of the patients in the standard treatment arm, <italic>vs</italic>. 1% in the intensive treatment arm.<xref rid="bcp16189-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>391</p>
+<p>(1 randomized study)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Low</p>
+<p>⊕ ⊕ ◯◯</p>
+<p>(due to high risk of bias and indirectness)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>Recovery from orthostatic hypotension</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>No effect on orthostatic hypotension for deprescribing <italic>vs</italic>. continuation.</bold>
+</p>
+<p>In the diuretic deprescribing group, 26/45 (58%) recovered from orthostatic hypotension, compared to 21/46 (46%) in the diuretic continuation group (risk ratio 1.27; 95% confidence interval 0.85 to 1.89; <italic>P =</italic> .25).<xref rid="bcp16189-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>
+</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">45 (1 randomized study)</td><td align="left" valign="top" rowspan="1" colspan="1">Moderate ⊕ ⊕ ⊕◯ (due to indirectness)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Tolerability of deprescribing attempt</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>No effect on tolerability of deprescribing attempt.</bold>
+</p>
+<p>In 2 trials, patient feelings of well‐being and the frequency of side effects between diuretic deprescribing groups and control groups was reported.<xref rid="bcp16189-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="bcp16189-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref> In both trials, there were no significant differences between both groups.</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>267</p>
+<p>(2 randomized studies)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Moderate ⊕ ⊕ ⊕◯</p>
+<p>(due to indirectness)</p>
+</td></tr></tbody></table><table-wrap-foot><fn id="bcp16189-note-0003"><label>*</label><p>Moderate certainty ⊕ ⊕ ⊕◯: we believe the true effect is probably close to our estimate of the effect; Low certainty ⊕ ⊕ ◯◯: the true effect might be markedly different from our estimate of the effect; Very low certainty ⊕◯◯◯: we have very little confidence in our estimate of the effect, the true effect is probably markedly different from our estimate of the effect.</p></fn></table-wrap-foot></table-wrap><table-wrap id="bcp16189-tbl-0006" position="float"><?disp-level 3?><label>TABLE 6</label><caption><p>Summary of findings, studies in patients using diuretics for indications other than heart failure or hypertension (e.g., for peripheral oedema), or for nonspecified indications.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Outcome</th><th align="left" valign="bottom" rowspan="1" colspan="1">Effect</th><th align="left" valign="bottom" rowspan="1" colspan="1">Number of participants in diuretic deprescribing intervention groups (studies)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Certainty in the evidence<xref rid="bcp16189-note-0004" ref-type="table-fn"><sup>*</sup></xref>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Mortality</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>No effect on mortality for deprescribing <italic>vs</italic>. continuation.</bold>
+</p>
+<p>In a study among older patients in geriatric long‐stay wards,<xref rid="bcp16189-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> 4 (4%) died of conditions unrelated to a need for diuretic therapy.</p>
+<p>In a placebo‐controlled diuretic withdrawal study in a geriatric long‐term care facility,<xref rid="bcp16189-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> death from noncardiac causes was more frequent in the placebo group, but according to the authors, diuretics did not appear to be a factor in any of these cases. One patient in the discontinuation group had fatal stroke, but no evidence of heart failure or hypertension at the visits prior to stroke.</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>72</p>
+<p>(2 randomized studies)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Very low ⊕◯◯◯</p>
+<p>(due to high risk of bias)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Adverse drug withdrawal effects and feasibility of deprescribing attempt</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Inconsistent effect on ankle oedema for deprescribing <italic>vs</italic>. continuation.</bold>
+</p>
+<p>One trial studied the recurrence in peripheral oedema after withdrawal of diuretics.<xref rid="bcp16189-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> The risk of oedema recurrence was significantly higher in the withdrawal group than the continuation group, and was temporary in nature.</p>
+<p>In a study among older patients in geriatric long‐stay wards,<xref rid="bcp16189-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> withdrawal of diuretics led to a tendency for increasing oedema “but in most cases the change was only slight”. 8/52 (15%) of patients in the diuretic deprescribing group (placebo) required re‐initiation of diuretics.</p>
+<p>In another study in older people residing in long‐term care facilities,<xref rid="bcp16189-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> significant reductions in ankle oedema were noted in both diuretic continuation and withdrawal groups.</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>124</p>
+<p>(3 randomized studies)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Very low ⊕◯◯◯</p>
+<p>(due to high risk of bias and imprecision)</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Tolerability of deprescribing attempt</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>
+<bold>Increased risk of intolerability of deprescribing attempt.</bold>
+</p>
+<p>One trial reported on patient well‐being after deprescribing.<xref rid="bcp16189-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> One of 34 patients (3%) reported feeling unwell and complained of urinary incontinence.</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>34</p>
+<p>(1 randomized study)</p>
+</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>Very low ⊕◯◯◯</p>
+<p>(due to high risk of bias and imprecision)</p>
+</td></tr></tbody></table><table-wrap-foot><fn id="bcp16189-note-0004"><label>*</label><p>Very low certainty ⊕◯◯◯: we have very little confidence in our estimate of the effect, the true effect is probably markedly different from our estimate of the effect.</p></fn></table-wrap-foot></table-wrap></sec><sec id="bcp16189-sec-0013" disp-level="2"><label>3.3.</label><title>Outcomes</title><sec id="bcp16189-sec-0014" disp-level="3"><label>3.3.1.</label><title>Effects of diuretic deprescribing in patients using diuretics for HF</title><p>In studies among patients with diuretics for HF (Table <xref rid="bcp16189-tbl-0004" ref-type="table">4</xref>), there were inconsistent results regarding the effect on mortality for diuretic deprescribing <italic>vs</italic>. continuation (low certainty evidence): in 1 trial,<xref rid="bcp16189-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> (cardiovascular) mortality was lower in the diuretic deprescribing group compared to the diuretic continuation group. In a large European registry cohort, there was a trend toward lower cardiovascular mortality in the diuretic deprescribing group compared to the stable dose group, whereas the risk of HF‐related mortality was comparable between both groups.<xref rid="bcp16189-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> In another trial,<xref rid="bcp16189-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> mortality rates were comparable between the diuretic deprescribing and continuation groups. In none of the studies, mortality was higher in diuretic deprescribing groups compared to diuretic continuation groups. In all other trials, there were no deaths in the deprescribing nor in the continuation groups. In 3 studies, the primary endpoint was a composite including (cardiac and all‐cause) mortality combined with HF‐related hospitalization and/or heart transplantation or durable ventricular assist device implantation.<xref rid="bcp16189-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="bcp16189-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="bcp16189-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> In the 2 studies among patients with stable HF with reduced ejection fraction (HFrEF),<xref rid="bcp16189-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="bcp16189-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> diuretic deprescribing was associated with (borderline) significantly better outcomes than the control intervention: 25% in the continuation group <italic>vs</italic>. none in the deprescribing group experienced cardiac death or HF‐related hospitalization at 1 year of follow‐up; <italic>P =</italic> .047), and at 2 years 55% for the continuation group <italic>vs</italic>. 25% in the deprescribing group (<italic>P =</italic> .053).<xref rid="bcp16189-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> In the other trial, patients in the diuretic down‐titration group had a lower risk for the composite clinical end point of HF readmissions and all‐cause mortality compared to patients in the unchanged dose or uptitration group (adjusted hazard ratio 0.43; confidence interval [CI] 0.22 to 0.83; <italic>P =</italic> .012).<xref rid="bcp16189-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> Likewise, in patients with dilated cardiomyopathy, loop diuretic withdrawal was associated with a reduced risk of the composite outcome of all‐cause mortality, heart transplantation, durable ventricular‐assist device implantation and HF hospitalization (HR 0.37; 95% CI 0.29–0.48; <italic>P &lt;</italic> .001).<sup>34</sup> However, in a large European registry study, the risk of a composite outcome (all‐cause mortality or HF hospitalization) was comparable between the diuretic deprescribing and stable dose groups (17.7 and 19%, respectively).<sup>24</sup>
+</p><p>The effects on treatment emergent recurrent HF episodes for diuretic deprescribing <italic>vs</italic>. continuation was inconsistent (low certainty evidence): recurrent congestive HF episodes after deprescribing was observed in 6 trials, occurring in 10–58% of patients.<xref rid="bcp16189-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="bcp16189-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="bcp16189-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="bcp16189-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="bcp16189-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="bcp16189-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> In 2 of the trials, (treatment emergent) HF episodes were significantly more frequent in the deprescribing group compared to the control group.<xref rid="bcp16189-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref>, <xref rid="bcp16189-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> In 4 other trials, the frequencies between groups were comparable between both groups.<xref rid="bcp16189-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="bcp16189-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="bcp16189-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="bcp16189-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref>
+</p><p>In 3 reports of a single trial population, an increase in BP was observed after deprescribing diuretics (very low certainty evidence), occurring in 2–10% of participants.<xref rid="bcp16189-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="bcp16189-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="bcp16189-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="bcp16189-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> In 2 of these reports, ankle oedema was observed after diuretic deprescribing (low certainty evidence), occurring in 6 and 11% of the patients, respectively.<xref rid="bcp16189-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="bcp16189-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+</p><p>In both studies reporting on HF symptoms as the primary outcome, effects on Kansas City Cardiomyopathy Questionnaire, 6‐min walking distance and/or patient‐reported assessment of dyspnoea based on a visual analogue scale were comparable between the diuretic deprescribing and continuation groups (<italic>P =</italic> .94; low certainty evidence).<xref rid="bcp16189-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>, <xref rid="bcp16189-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>
+</p><p>In the only study reporting on tolerability of the deprescribing attempt as primary outcome in older adults with HF with preserved ejection fraction (HFpEF),<xref rid="bcp16189-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> 10% of participants restarted the diuretic on their explicit request because of peripheral oedema, suggesting that diuretic deprescribing may not be tolerated well in this population (very low certainty evidence). In both studies reporting on the tolerability of the deprescribing intervention (secondary outcomes), there was evidence of an increased risk of adverse effects following diuretic deprescribing. In 1 study,<xref rid="bcp16189-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> 10% (2/20) of participants were not willing to continue the deprescribing intervention, but details were not provided. In 2 trials, patient feelings of well‐being and the frequency of side effects between diuretic deprescribing groups and control groups were reported.<xref rid="bcp16189-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="bcp16189-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> In both trials, there were no significant differences between both groups. One study reported that patients after spironolactone withdrawal experienced more HF symptom aggravation than in the continuation group.<xref rid="bcp16189-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> A recent double‐blind, multicentre, randomized trial on short‐term diuretic withdrawal in stable outpatients with mild HF and no fluid retention receiving optimal therapy reported adverse events in detail. The frequency of most common reported complaints (dyspnoea/tiredness, and dizziness or symptoms related to hypotension) were comparable between the diuretic deprescribing and continuation groups. Facial and limb oedema were reported by 7 patients in the withdrawal group <italic>vs</italic>. none of the continuation group.<xref rid="bcp16189-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+</p><p>In 2 separate publications by a Dutch research group,<xref rid="bcp16189-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>, <xref rid="bcp16189-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> diuretic deprescribing was associated with statistically significant improvements in BP homeostasis on active standing (<italic>n =</italic> 21 participants; <italic>P &lt;</italic> .001), and in postprandial hypotension compared to diuretic continuation (<italic>n =</italic> 13 participants; <italic>P =</italic> .01).</p><p>The percentage of adults in whom the diuretic deprescribing attempt was successful at last follow‐up ranged from 5<xref rid="bcp16189-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> to 100%.<xref rid="bcp16189-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> The most reported reason for failure of the deprescribing attempt was recurrence of HF or HT. Incidentally, diuretics were reinitiated for peripheral oedema.</p></sec><sec id="bcp16189-sec-0015" disp-level="3"><label>3.3.2.</label><title>Effects of diuretic deprescribing in patients using diuretics for hypertension</title><p>In 4 trials among patients using diuretics for HT<xref rid="bcp16189-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="bcp16189-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="bcp16189-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>, <xref rid="bcp16189-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> (Table <xref rid="bcp16189-tbl-0005" ref-type="table">5</xref>), effects on recurrence of HT after diuretic withdrawal were conflicting (low certainty evidence): in 2 studies, the percentage of patients with treatment emergent HT was higher in the diuretic deprescribing groups compared to the diuretic continuation groups.<xref rid="bcp16189-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="bcp16189-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> In 2 other studies, the percentage of patients with controlled BP<xref rid="bcp16189-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> and systolic or diastolic BPs<xref rid="bcp16189-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> were comparable between both groups.</p><p>A <italic>posthoc</italic> analysis of the SPRINT (Systolic blood PRessure INtervention) trial<xref rid="bcp16189-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> demonstrated that diuretic deprescribing is associated with an increased risk of acute decompensated HF episodes (4% of the patients in the standard treatment arm, <italic>vs</italic>. 1% in the intensive treatment arm; low certainty evidence). In a randomized study among older adults with mild cognitive impairment, diuretic deprescribing had no favourable effect on reducing orthostatic hypotension compared to diuretic continuation (risk ratio 1.27; 95% CI 0.85 to 1.89; <italic>P =</italic> .25; moderate certainty evidence).<xref rid="bcp16189-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> In both studies evaluating patient feelings of well‐being and the frequency of side effects between diuretic deprescribing and control interventions, no differences were observed between both groups,<xref rid="bcp16189-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="bcp16189-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> demonstrating that the deprescribing intervention is well‐tolerated (moderate certainty evidence). The percentage of individuals who remained free of diuretics until last follow‐up after diuretic withdrawal in HT trials ranged from 23 to 99%. If treatment‐emergent HT occurred, this was generally within 3 months of deprescribing.</p></sec><sec id="bcp16189-sec-0016" disp-level="3"><label>3.3.3.</label><title>Effects of diuretic deprescribing in patients using diuretics for indications other than HF or HT, or for nonspecified indications</title><p>In 3 trials among patients using diuretics for indications other than HF and HT, or for nonspecified indications<xref rid="bcp16189-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>, <xref rid="bcp16189-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="bcp16189-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> (Table <xref rid="bcp16189-tbl-0006" ref-type="table">6</xref>), no effect of diuretic deprescribing on mortality was observed (very low certainty evidence). The effect of diuretic deprescribing on ankle oedema was inconsistent between the studies<xref rid="bcp16189-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>, <xref rid="bcp16189-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="bcp16189-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> (very low certainty evidence). The only study reporting on patient well‐being after diuretic deprescribing<xref rid="bcp16189-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref> demonstrated that this intervention may not be tolerated well diuretic deprescribing (very low certainty evidence): 3% reported feeling unwell and complained of urinary incontinence.</p><p>In a retrospective cohort study among individuals who were admitted to a long‐term care facility,<xref rid="bcp16189-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> diuretics (irrespective of indication) were successfully withdrawn up to 1 year of follow‐up in 58% of the population. In case diuretic withdrawal was not feasible, this was apparent within the first 3 months after withdrawal attempt in the majority (88%) of individuals, and was related to HF (<italic>n =</italic> 26, 76%), ankle oedema (<italic>n =</italic> 5, 15%), HT (<italic>n =</italic> 2, 6%) and unclear (<italic>n =</italic> 1, 3%). In this study, diuretics were successfully withdrawn in almost half (49%) of individuals who had used diuretics for a previous diagnosis of HF. The authors calculated that the probability of remaining free from diuretics for at least 1 year in individuals using diuretics for an unknown indication was 0.53.</p></sec><sec id="bcp16189-sec-0017" disp-level="3"><label>3.3.4.</label><title>Effects of diuretic deprescribing on biochemical and cardiac ultrasonography measurements</title><p>The majority (4/5) of included trials demonstrated that diuretic deprescribing was associated with better renal function tests (e.g., serum creatinine and blood urea nitrogen) compared to patients who continued using diuretics.<xref rid="bcp16189-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="bcp16189-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="bcp16189-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>, <xref rid="bcp16189-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>, <xref rid="bcp16189-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> In a randomized study in stable HFrEF patients, renal function worsened in 2/18 (11%) of the patients in the deprescribing group <italic>vs</italic>. 12/18 (67%) of patients in the continuation group (<italic>P</italic> = .005).<xref rid="bcp16189-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> One of these publications reported a significant increase in creatinine clearance in individuals in whom diuretics were withdrawn successfully (from 63 ± 3 mL/min to 69 ± 4 mL/min; <italic>P =</italic> .01).<xref rid="bcp16189-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> However, a more recent publication, performed in a cohort of stable HF patients receiving optimal HF therapy did not confirm a beneficial effect of diuretic deprescribing on renal function (creatinine and blood urea nitrogen levels were comparable between both groups).<xref rid="bcp16189-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+</p><p>In publications on a trial in patients with HT, withdrawal of diuretics significantly reduced plasma renin activity, while not affecting plasma aldosterone, norepinephrine and epinephrine levels compared with continued diuretic use.<xref rid="bcp16189-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>, <xref rid="bcp16189-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> A study in older HFpEF patients showed that successful diuretic deprescribing was associated with decreased renin–angiotensin–aldosterone system activation, an effect persisting until last follow‐up at 3 months.<xref rid="bcp16189-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>
+</p><p>The included studies consistently showed that fasting or postprandial serum glucose, serum uric acid and lipid profiles were comparable in diuretic deprescribing and continuation groups.<xref rid="bcp16189-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref>, <xref rid="bcp16189-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref>, <xref rid="bcp16189-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> A recent publication demonstrated that median change in levels of N‐terminal pro‐brain natriuretic peptide (NT‐pro‐BNP) was comparable between diuretic deprescribing and continuation groups.<xref rid="bcp16189-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref>
+</p><p>Few included trials evaluated the effect of diuretic deprescribing compared to diuretic continuation on cardiac ultrasonography measurements. One study reported no difference in left ventricular hypertrophy.<xref rid="bcp16189-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> Another study demonstrated a significant increase in early/late atrial ventricular filling velocity in individuals in whom diuretics were withdrawn successfully (from 0.696 ± 0.05 to 0.796 ± 0.06; <italic>P &lt;</italic> .02).<xref rid="bcp16189-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref> In a retrospective study in a cohort of HFrEF patients, no echocardiographic parameters worsened after diuretic withdrawal at regular follow‐up during a median follow‐up duration of 24 ± 9 months.<xref rid="bcp16189-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> In a cohort of older people with HFpEF, diuretic deprescribing was shown to improve postprandial hypotension: in the withdrawal group, maximum postprandial declines in stroke volume and cardiac output decreased from −9 ± 1 to −4 ± 2 mL (<italic>P =</italic> .01), and from −0.6 ± 0.2 to −0.2 ± 0.1 L/min (<italic>P =</italic> .04), respectively.<xref rid="bcp16189-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref>
+</p></sec><sec id="bcp16189-sec-0018" disp-level="3"><label>3.3.5.</label><title>Patient characteristics associated with successful diuretic deprescribing attempts</title><p>In 2 Dutch studies aiming to evaluate diuretic deprescribing possibilities, 1 in a general practice<xref rid="bcp16189-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> and the other in a nursing home population<xref rid="bcp16189-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> found that successful diuretic deprescribing is linked to the absence of a valid indication for diuretic use or a history/diagnosis of HF.</p><p>Romano <italic>et al</italic>. stated that diuretic withdrawal was safe in patients with HFrEF and NT‐pro‐BNP values &lt;550 pg/mL and tricuspid annular plane systolic excursion &gt;20 mm and/or left ventricular end‐diastolic diameter &lt;60 mm on echocardiography, regardless of their baseline diuretic dose.<xref rid="bcp16189-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> Rohde <italic>et al</italic>.<xref rid="bcp16189-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> found that successful diuretic attempts in stable mild HF patients were probably relatively young, having mild and stable symptoms, and no or minimal clinical signs of congestion. There was a trend to unsuccessful deprescribing if the baseline furosemide dose was 80 mg compared to those on 40 mg. Baseline NT‐pro‐BNP with a cut‐off of 652 pg/mL appeared not predictive of the success of the deprescribing attempt. In patients with HFrEF after cardiac resynchronization therapy. Loop diuretic deprescribing was most likely in patients with nonischaemic cardiomyopathy, higher baseline diuretic dose, higher ejection fraction and lower right ventricular systolic pressure at 6 weeks.<xref rid="bcp16189-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>
+</p><p>A large European multicentre registry study<xref rid="bcp16189-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref> demonstrated that in patients with chronic HF, higher systolic BP (OR per 10 mmHg change 1.11; 95% CI 1.01 to 1.22; <italic>P =</italic> .032), absence of sleep apnoea (OR 0.24, 95% CI 0.09 to 0.69; <italic>P =</italic> .008), absence of moderate/severe mitral valve regurgitation (OR 0.57; 95% CI 0.37 to 0.87; <italic>P =</italic> .008) and absence of peripheral congestion (OR 0.48; 95% CI 0.29 to 0.80; <italic>P =</italic> .005) were associated with successful loop diuretic dose reduction. In an Italian registry study among outpatients with dilated cardiomyopathy,<xref rid="bcp16189-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> younger age, absence of moderate to severe mitral regurgitation and higher doses of β‐blockers were independently associated with stopping loop diuretic therapy within 24 months in multivariate analysis. Compared to those who had successfully withdrawn their loop diuretic, those who continued loop diuretics were older, had a lower left ventricular ejection fraction, a larger left atrium and were more likely to have moderate–severe mitral regurgitation, a restrictive filling pattern and atrial fibrillation.<xref rid="bcp16189-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>
+</p><p>In a study in patients with mild HT, lower pre‐treatment systolic and diastolic BP values predicted diuretic deprescribing success.<xref rid="bcp16189-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> In another study in patients with HT, lower diastolic BP at baseline and medication compliance were linked to successful diuretic deprescribing (<italic>P =</italic> .003 and <italic>P =</italic> .053, respectively).<xref rid="bcp16189-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>
+</p></sec></sec></sec><sec id="bcp16189-sec-0019" disp-level="1"><label>4.</label><title>DISCUSSION</title><p>This is the first systematic review to investigate the benefits and harms of diuretic deprescribing. Our findings underscore the paucity of high‐quality evidence on the feasibility, safety and tolerability of diuretic deprescribing: most studies included in this review exhibited limitations such as small sample sizes, short follow‐up durations and overall low to moderate quality, with a heightened susceptibility to bias. Heterogeneity among the trials was substantial. Although based on data from a limited set of clinical trials with a low grade of evidence, we found that diuretic therapy discontinuation could be a safe and feasible treatment option that deserves consideration for carefully selected patients. In patients with HF, mortality risk associated with diuretic deprescribing was comparable to the risk with diuretic continuation (low certainty evidence). The risk of cardiovascular composite outcomes including mortality associated with diuretic deprescribing was inconsistent, with studies showing lower risk for diuretic deprescribing, or comparable with diuretic continuation (very low certainty evidence). The effect on recurrence of HF after diuretic deprescribing in patients with diuretics for HF, and of HT in patients with diuretics for HT was inconsistent across the included studies (low certainty evidence). In patients with diuretics for HT, diuretic deprescribing was well tolerated (moderate certainty evidence), while in patients with diuretics for HF, deprescribing diuretics can result in complaints of peripheral oedema (very low certainty evidence). In patients with diuretics for HT, however, the risk of developing peripheral oedema was comparable in the diuretic deprescribing compared to the continuation group (moderate quality evidence).</p><p>Across the studies included in this review, the feasibility of diuretic deprescribing varied considerably with success percentages ranging from 5 to 100%. Patient characteristics associated with successful deprescribing included the absence of valid diuretic indications or a history/diagnosis of HF, and left ventricular ejection fraction deprescribing failures were mostly attributed to (recurrent) congestive HF episodes or HT recurrence. Mortality outcomes in HF trials showed inconsistent results, which is in line with the findings of several reviews on the effects of deprescribing of medications.<xref rid="bcp16189-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref>, <xref rid="bcp16189-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref> Data from the included studies suggested that diuretic deprescribing compared to diuretic continuation improves renal function. Biochemical (cardiometabolic and neurohumoral biomarkers) and cardiac ultrasonography measurements were comparable between diuretic deprescribing and continuation groups. Tolerability was generally acceptable, but the available evidence pertaining to the tolerability and effects on well‐being or QoL associated with diuretic deprescribing was notably limited. This discrepancy is noteworthy given that deprescribing inherently embodies a patient‐centred approach, with the explicit goal of optimizing pharmacotherapy to enhance patient outcomes.<xref rid="bcp16189-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref>
+</p><p>There has been a limited number of prior systematic reviews investigating the safety and feasibility of antihypertensive withdrawal including diuretics. One such review, encompassing 66 publications, indicated that approximately 25% of individuals using antihypertensives could safely discontinue the medication without experiencing a recurrence of HT.<xref rid="bcp16189-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref> Notably, systematic reviews focusing on older adults observed an increase in systolic and diastolic BP following withdrawal, but no statistically significant difference in mortality.<xref rid="bcp16189-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref>, <xref rid="bcp16189-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref>
+</p><p>The evidence derived from the data included in our review has several limitations. First, we judged the certainty of the evidence to be low or very low for all outcomes considered. Therefore, we are uncertain in the overall evidence on diuretic deprescribing. Methodological and reporting limitations were prevalent across the majority of included studies, and unexpected observations in randomized studies raised concerns about small study effects, selection bias and publication bias. Because there were too few studies to establish asymmetry visually in funnel plots, we were not able to assess publication bias. We downgraded certainty primarily due to the RoB related to imprecision, inconsistency and indirectness. Furthermore, it is challenging to determine the applicability of our findings to contemporary clinical practice: the majority of the HF trials were performed decades ago in relatively healthy, young and predominantly male HFrEF patients. In contrast, contemporary real‐world HF populations are characterized by patients who are predominantly older, frail and multimorbid,<xref rid="bcp16189-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref> with a large proportion of female patients with HFpEF.<xref rid="bcp16189-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref> However, none of the trials included in our review measured or reported frailty, and only 1 nonrandomized study was performed in a nursing home population,<xref rid="bcp16189-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> with residents who were likely to be frail. Frailty is associated with an increased risk of adverse outcomes and ADRs in older HF patients.<xref rid="bcp16189-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref> The paucity of studies underscores the exclusion of vulnerable populations from HF clinical trials.<xref rid="bcp16189-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref> The association between frailty and adverse outcomes, coupled with the increased risk of ADRs in older HF patients, underscores the importance of considering frailty status in diuretic deprescribing decision‐making.<xref rid="bcp16189-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref> Based on their increased risk of both acute decompensated HF episodes and adverse drug events in pre‐frail and frail individuals (Clinical Frailty Scale ≥ 4), the decision to deprescribe should be weighed carefully and repeatedly over time, and with greater vigilance compared to individuals with a lower Clinical Frailty Scale score. In addition, it should be emphasized that HF standards of care at time of the majority of studies were of notoriously lower quality compared to contemporary care, characterized by evidence‐based disease‐modifying drugs and multidisciplinary HF outpatient programmes.<xref rid="bcp16189-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref> Literature suggests that patients treated for HF according to the current guidelines are less likely to develop HF after deprescribing diuretics.<xref rid="bcp16189-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref>, <xref rid="bcp16189-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref>
+</p><p>There are limitations to our review process. First, the term <italic>deprescribing</italic> is relatively new,<xref rid="bcp16189-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref> even though the concept and clinical practice have existed for a long time. Additionally, given the rapid evolution in the field, we may have missed potentially relevant studies. By developing a comprehensive literature search by an experienced medical librarian and using a variety of different search terms for deprescribing/withdrawal, however, we mitigated this risk. Second, it is important to consider that we excluded observational studies reporting on the effects of diuretic deprescribing in individuals both before and after deprescribing. Data from these observations may be valuable for real‐world clinical practice. By contrast, the scope of our review was broad (we did not exclude based on the indication for diuretic use), aligning with real‐life clinical practice needs. Third, we excluded studies in which diuretics were deprescribed after initiating a medication from another drug class, for example SGLT‐2 inhibitors. In the currently rapidly evolving landscape of HF treatment, with the newer medication classes such as angiotensin receptor neprilysin inhibitors and SGLT‐2 inhibitors, this is a shortcoming. In addition, we grouped the studies based on the indication for diuretic use (HF, HT and peripheral oedema). The reason for this approach was pragmatic, and to facilitate data synthesis. However, we realize that it is likely that 1 or more indicator conditions occurred concomitantly in individuals included in the trials. The strengths of our systematic review process include the methodological rigour and the comprehensive literature search. Search limitations of animal and non‐English studies were performed manually rather than relying on automatic limitations to reduce retrieval loss.</p><p>This systematic review has several implications for clinical practice and future research. With regard to clinical practice, we intend to incorporate the findings of this review into an evidence‐based diuretic deprescribing clinical practice guideline that we are currently developing. While recognizing the imperfect nature of the available evidence from this systematic review, our findings compile the best available evidence on the clinical effects of diuretic deprescribing. With this clinical practice guideline, we aim to support healthcare providers in judicious decision‐making regarding when and how to safely taper or withdraw diuretics. In terms of future research, our review underscores the need for well‐designed clinical trials targeting representative contemporary patient populations. The scarcity of literature on diuretic deprescribing in older, frail individuals warrants future studies incorporating frailty subgroups. Defining a core outcome set for diuretic deprescribing studies, including frailty assessment and relevant outcomes such as falls, urinary incontinence, and functionality will enhance result synthesis and contribute to a more substantial body of evidence. Emphasis on patient‐centred outcomes, including preferences for communication about diuretic deprescribing proposals and changes in health‐related QoL, is crucial.<xref rid="bcp16189-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref> Moreover, investigations into the relationship between diuretic deprescribing and economic outcomes are needed.</p></sec><sec id="bcp16189-sec-0020" disp-level="1"><label>5.</label><title>CONCLUSIONS</title><p>In conclusion, our systematic review provides valuable insights into the challenges and opportunities associated with diuretic deprescribing. Although based on data from a limited set of clinical trials with a low grade of evidence, we conclude that diuretic therapy discontinuation could be a safe and feasible treatment option that deserves consideration for carefully selected patients: successful deprescribing attempts were associated with specific patient characteristics. Additionally, we demonstrated that the benefit/risk balance of diuretic deprescribing compared to continued use may vary dependent on the clinical setting. For example, the risk of recurrent HF was comparable between diuretic deprescribing and diuretic continuation in HF patients, whereas the risk was higher patients with HT who discontinued diuretics. This underscores the need for individualized diuretic deprescribing approaches. Nevertheless, there is a paucity of high‐certainty evidence applicable to current practice, and particularly in situations where deprescribing is often considered clinically, such as frailty and falls. There is also a lack of data on key outcomes crucial to older adults, including functional independence,<xref rid="bcp16189-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref> falls and QoL. Future research efforts are crucial to address these knowledge gaps, particularly in understanding the safety and potential harms of diuretic deprescribing in older and multimorbid adults. Standardization in future diuretic deprescribing interventions and consistent reporting of outcomes in relevant patient categories are essential to enhance our understanding and refine diuretic deprescribing in clinical practice.</p><p>In the meanwhile, the insights from this systematic review represent the best available evidence on clinical experience with diuretic deprescribing. As such, our findings will contribute to the formulation of diuretic deprescribing recommendations within the evidence‐based diuretic deprescribing clinical practice guideline currently under development by our group.</p></sec><sec id="bcp16189-sec-0021" disp-level="1"><title>AUTHOR CONTRIBUTIONS</title><p>Eveline van Poelgeest was involved in the conception and design of the study, acquisition of data, data analysis and interpretation, drafting and revising the article. Luca Paoletti was involved in acquisition of data and revising the article. Serdar Özkök was involved in acquisition of data and revising the article. Ezgi Pinar was involved in acquisition of data and revising the article. Gülistan Bahat was involved in acquisition of data and revising the article. Vincent Vuong was involved in quality assessment of included papers and revising the article. Eva Topinková was involved in revising the article. Joost Daams developed the literature search. Lisa McCarthy was involved in quality assessment of included papers and revising the article. Wade Thompson was involved in quality assessment of included papers, assessment of the certainty in the body of evidence and revising the article. Nathalie van der Velde was involved in the conception and design of the study, data analysis and interpretation, and revising the article. All authors approved the final version of the manuscript.</p></sec><sec id="bcp16189-sec-0022" disp-level="1"><title>CONFLICT OF INTEREST STATEMENT</title><p>E.T. was supported by the project New Technologies for Translational Research in Pharmaceutical Sciences/NETPHARM, project ID CZ.02.01.01/00/22_008/0004607 cofunded by the EU. W.T. has received grants for deprescribing research from Health Canada and the National Institute on Aging (US), is supported by a salary award from Michael Smith Health Research British Columbia; and receives an honorarium for writing an article on deprescribing in Pharmacy Practice Plus magazine. All other authors have no conflict of interest to declare.</p></sec><sec id="bcp16189-sec-0023" disp-level="1"><title>PROTOCOL REGISTRATION</title><p>PROSPERO 2022 CRD42022371658 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42022371658" ext-link-type="uri">https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42022371658</ext-link>).</p></sec><sec id="sec24" disp-level="1"><title>Supporting information</title><supplementary-material id="bcp16189-supitem-0001" position="float"><caption><p>
+<bold>TABLE S1</bold> Preferred Reporting Items for Systematic reviews and Meta‐Analyses‐network meta‐analysis (PRISMA) checklist.</p><p>
+<bold>TABLE S2</bold> Initial literature search strategy (15 December 2022).</p><p>
+<bold>TABLE S3</bold> Literature search strategy (update 28 May 2024).</p><p>
+<bold>TABLE S4</bold> Characteristics of included studies.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BCP-91-38-s001.docx" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.wordprocessingml.document"><?cloudpmc-path c116/11671325/109018ed9170/BCP-91-38-s001.docx?><?cloudpmc-bucket app?><?size 33926?></media></supplementary-material></sec><sec id="notes1" disp-level="1"><p>
+
+van Poelgeest E, Paoletti L, Özkök S, et al. The effects of diuretic deprescribing in adult patients: A systematic review to inform an evidence‐based diuretic deprescribing guideline. Br J Clin Pharmacol. 2025;91(1):38‐54. doi: 10.1111/bcp.16189
+
+
+</p></sec><sec id="bcp16189-sec-1026" disp-level="1"><title>DATA AVAILABILITY STATEMENT</title><p>N/A.</p></sec><sec id="bcp16189-bibl-0001" sec-type="ref-list" disp-level="1"><title>REFERENCES</title><sec id="bcp16189-bibl-0001_sec2" disp-level="2"><ref-list><ref id="bcp16189-bib-0001"><label>1.</label><mixed-citation id="bcp16189-cit-0002"><named-content content-type="citation-string">
+Savarese G, Becher PM, Lund LH, Seferovic P, Rosano GMC, Coats AJS. Global burden of heart failure: a comprehensive and updated review of epidemiology. Cardiovasc Res. 2022;118(17):3272‐3287. doi: 10.1093/cvr/cvac013
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/cvr/cvac013"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35150240"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cardiovasc Res&amp;title=Global burden of heart failure: a comprehensive and updated review of epidemiology&amp;author=G Savarese&amp;author=PM Becher&amp;author=LH Lund&amp;author=P Seferovic&amp;author=GMC Rosano&amp;volume=118&amp;issue=17&amp;publication_year=2022&amp;pages=3272-3287&amp;pmid=35150240&amp;doi=10.1093/cvr/cvac013&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0002"><label>2.</label><mixed-citation id="bcp16189-cit-0003"><named-content content-type="citation-string">
+Sheppard JP, Koshiaris C, Stevens R, et al. The association between antihypertensive treatment and serious adverse events by age and frailty: a cohort study. PLoS Med. 2023;20(4):e1004223. doi: 10.1371/journal.pmed.1004223
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1371/journal.pmed.1004223"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10155987"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37075078"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=PLoS Med&amp;title=The association between antihypertensive treatment and serious adverse events by age and frailty: a cohort study&amp;author=JP Sheppard&amp;author=C Koshiaris&amp;author=R Stevens&amp;volume=20&amp;issue=4&amp;publication_year=2023&amp;pages=e1004223&amp;pmid=37075078&amp;doi=10.1371/journal.pmed.1004223&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0003"><label>3.</label><mixed-citation id="bcp16189-cit-0004"><named-content content-type="citation-string">
+Simonavicius J, Knackstedt C, Brunner‐La Rocca HP. Loop diuretics in chronic heart failure: how to manage congestion?
+Heart Fail Rev. 2019;24(1):17‐30. doi: 10.1007/s10741-018-9735-7
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s10741-018-9735-7"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30194516"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Heart Fail Rev&amp;title=Loop diuretics in chronic heart failure: how to manage congestion?&amp;author=J Simonavicius&amp;author=C Knackstedt&amp;author=HP Brunner‐La Rocca&amp;volume=24&amp;issue=1&amp;publication_year=2019&amp;pages=17-30&amp;pmid=30194516&amp;doi=10.1007/s10741-018-9735-7&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0004"><label>4.</label><mixed-citation id="bcp16189-cit-0005"><named-content content-type="citation-string">
+Ravioli S, Bahmad S, Funk GC, Schwarz C, Exadaktylos A, Lindner G. Risk of electrolyte disorders, syncope, and falls in patients taking thiazide diuretics: results of a cross‐sectional study. Am J Med. 2021;134(9):1148‐1154. doi: 10.1016/j.amjmed.2021.04.007
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.amjmed.2021.04.007"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33974908"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Am J Med&amp;title=Risk of electrolyte disorders, syncope, and falls in patients taking thiazide diuretics: results of a cross‐sectional study&amp;author=S Ravioli&amp;author=S Bahmad&amp;author=GC Funk&amp;author=C Schwarz&amp;author=A Exadaktylos&amp;volume=134&amp;issue=9&amp;publication_year=2021&amp;pages=1148-1154&amp;pmid=33974908&amp;doi=10.1016/j.amjmed.2021.04.007&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0005"><label>5.</label><mixed-citation id="bcp16189-cit-0006"><named-content content-type="citation-string">
+Barber J, McKeever TM, McDowell SE, et al. A systematic review and meta‐analysis of thiazide‐induced hyponatraemia: time to reconsider electrolyte monitoring regimens after thiazide initiation?
+Brit J Clin Pharmacol. 2015;79(4):566‐577. doi: 10.1111/bcp.12499
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/bcp.12499"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4386942"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="25139696"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Brit J Clin Pharmacol&amp;title=A systematic review and meta‐analysis of thiazide‐induced hyponatraemia: time to reconsider electrolyte monitoring regimens after thiazide initiation?&amp;author=J Barber&amp;author=TM McKeever&amp;author=SE McDowell&amp;volume=79&amp;issue=4&amp;publication_year=2015&amp;pages=566-577&amp;pmid=25139696&amp;doi=10.1111/bcp.12499&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0006"><label>6.</label><mixed-citation id="bcp16189-cit-0007"><named-content content-type="citation-string">
+Sztramko R, Chau V, Wong R. Adverse drug events and associated factors in heart failure therapy among the very elderly. Can Geriatr J. 2011;14(4):79‐92. doi: 10.5770/cgj.v14i4.19
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.5770/cgj.v14i4.19"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3516232"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23251319"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Can Geriatr J&amp;title=Adverse drug events and associated factors in heart failure therapy among the very elderly&amp;author=R Sztramko&amp;author=V Chau&amp;author=R Wong&amp;volume=14&amp;issue=4&amp;publication_year=2011&amp;pages=79-92&amp;pmid=23251319&amp;doi=10.5770/cgj.v14i4.19&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0007"><label>7.</label><mixed-citation id="bcp16189-cit-0008"><named-content content-type="citation-string">
+Mertens B, Hias J, Hellemans L, et al. Drug‐related hospital admissions in older adults: comparison of the Naranjo algorithm and an adjusted version of the Kramer algorithm. Eur Geriatr Med. 2022;13(3):567‐577. doi: 10.1007/s41999-022-00623-7
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s41999-022-00623-7"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35312975"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Eur Geriatr Med&amp;title=Drug‐related hospital admissions in older adults: comparison of the Naranjo algorithm and an adjusted version of the Kramer algorithm&amp;author=B Mertens&amp;author=J Hias&amp;author=L Hellemans&amp;volume=13&amp;issue=3&amp;publication_year=2022&amp;pages=567-577&amp;pmid=35312975&amp;doi=10.1007/s41999-022-00623-7&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0008"><label>8.</label><mixed-citation id="bcp16189-cit-0009"><named-content content-type="citation-string">
+Aubert CE, Rodondi N, Netzer S, et al. Predictors of 1‐year drug‐related admissions in older multimorbid hospitalized adults. J Am Geriatr Soc. 2022;70(5):1510‐1516. doi: 10.1111/jgs.17667
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/jgs.17667"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9305949"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35064571"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Am Geriatr Soc&amp;title=Predictors of 1‐year drug‐related admissions in older multimorbid hospitalized adults&amp;author=CE Aubert&amp;author=N Rodondi&amp;author=S Netzer&amp;volume=70&amp;issue=5&amp;publication_year=2022&amp;pages=1510-1516&amp;pmid=35064571&amp;doi=10.1111/jgs.17667&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0009"><label>9.</label><mixed-citation id="bcp16189-cit-0010"><named-content content-type="citation-string">
+Hendriksen LC, van der Linden PD, Lagro‐Janssen ALM, et al. Sex differences associated with adverse drug reactions resulting in hospital admissions. Biol Sex Differ. 2021;12(1):34. doi: 10.1186/s13293-021-00377-0
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1186/s13293-021-00377-0"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8091530"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33941259"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Biol Sex Differ&amp;title=Sex differences associated with adverse drug reactions resulting in hospital admissions&amp;author=LC Hendriksen&amp;author=PD van der Linden&amp;author=ALM Lagro‐Janssen&amp;volume=12&amp;issue=1&amp;publication_year=2021&amp;pages=34&amp;pmid=33941259&amp;doi=10.1186/s13293-021-00377-0&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0010"><label>10.</label><mixed-citation id="bcp16189-cit-0011"><named-content content-type="citation-string">
+Hill‐Taylor B, Walsh KA, Stewart S, Hayden J, Byrne S, Sketris IS. Effectiveness of the STOPP/START (screening tool of older Persons' potentially inappropriate prescriptions/screening tool to alert doctors to the right treatment) criteria: systematic review and meta‐analysis of randomized controlled studies. J Clin Pharm Ther. 2016;41(2):158‐169. doi: 10.1111/jcpt.12372
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/jcpt.12372"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26990017"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Clin Pharm Ther&amp;title=Effectiveness of the STOPP/START (screening tool of older Persons' potentially inappropriate prescriptions/screening tool to alert doctors to the right treatment) criteria: systematic review and meta‐analysis of randomized controlled studies&amp;author=B Hill‐Taylor&amp;author=KA Walsh&amp;author=S Stewart&amp;author=J Hayden&amp;author=S Byrne&amp;volume=41&amp;issue=2&amp;publication_year=2016&amp;pages=158-169&amp;pmid=26990017&amp;doi=10.1111/jcpt.12372&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0011"><label>11.</label><mixed-citation id="bcp16189-cit-0012"><named-content content-type="citation-string">
+ter Maaten JM, Martens P, Damman K, et al. Higher doses of loop diuretics limit uptitration of angiotensin‐converting enzyme inhibitors in patients with heart failure and reduced ejection fraction. Clin Res Cardiol. 2020;109(8):1048‐1059. doi: 10.1007/s00392-020-01598-w
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s00392-020-01598-w"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7375987"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32002631"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin Res Cardiol&amp;title=Higher doses of loop diuretics limit uptitration of angiotensin‐converting enzyme inhibitors in patients with heart failure and reduced ejection fraction&amp;author=JM ter Maaten&amp;author=P Martens&amp;author=K Damman&amp;volume=109&amp;issue=8&amp;publication_year=2020&amp;pages=1048-1059&amp;pmid=32002631&amp;doi=10.1007/s00392-020-01598-w&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0012"><label>12.</label><mixed-citation id="bcp16189-cit-0013"><named-content content-type="citation-string">
+Mullens W, Verbrugge FH, Nijst P, Tang WHW. Renal sodium avidity in heart failure: from pathophysiology to treatment strategies. Eur Heart J. 2017;38(24):1872‐1882. doi: 10.1093/eurheartj/ehx035
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/eurheartj/ehx035"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28329085"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Eur Heart J&amp;title=Renal sodium avidity in heart failure: from pathophysiology to treatment strategies&amp;author=W Mullens&amp;author=FH Verbrugge&amp;author=P Nijst&amp;author=WHW Tang&amp;volume=38&amp;issue=24&amp;publication_year=2017&amp;pages=1872-1882&amp;pmid=28329085&amp;doi=10.1093/eurheartj/ehx035&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0013"><label>13.</label><mixed-citation id="bcp16189-cit-0014"><named-content content-type="citation-string">
+Okoye C, Mazzarone T, Cargiolli C, Guarino D. Discontinuation of loop diuretics in older patients with chronic stable heart failure: a narrative review. Drugs Aging. 2023;40(11):981‐990. doi: 10.1007/s40266-023-01061-1
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s40266-023-01061-1"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10600299"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37620655"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Drugs Aging&amp;title=Discontinuation of loop diuretics in older patients with chronic stable heart failure: a narrative review&amp;author=C Okoye&amp;author=T Mazzarone&amp;author=C Cargiolli&amp;author=D Guarino&amp;volume=40&amp;issue=11&amp;publication_year=2023&amp;pages=981-990&amp;pmid=37620655&amp;doi=10.1007/s40266-023-01061-1&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0014"><label>14.</label><mixed-citation id="bcp16189-cit-0015"><named-content content-type="citation-string">
+Oshima K, Kohsaka S, Koide K, Yoshikawa T. Reducing the dose of diuretics for heart failure patients: how low can it Go?
+Cardiology. 2009;114(2):89. doi: 10.1159/000216583
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1159/000216583"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="19420935"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cardiology&amp;title=Reducing the dose of diuretics for heart failure patients: how low can it Go?&amp;author=K Oshima&amp;author=S Kohsaka&amp;author=K Koide&amp;author=T Yoshikawa&amp;volume=114&amp;issue=2&amp;publication_year=2009&amp;pages=89&amp;pmid=19420935&amp;doi=10.1159/000216583&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0015"><label>15.</label><mixed-citation id="bcp16189-cit-0016"><named-content content-type="citation-string">
+Ponikowski P, Voors AA, Anker SD, et al. 2016 ESC guidelines for the diagnosis and treatment of acute and chronic heart failure: the task force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC). Developed with the special contribution of the heart failure association (HFA) of the ESC. Eur J Heart Fail. 2016;18(8):891‐975. doi: 10.1002/ejhf.592
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/ejhf.592"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27207191"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Eur J Heart Fail&amp;title=2016 ESC guidelines for the diagnosis and treatment of acute and chronic heart failure: the task force for the diagnosis and treatment of acute and chronic heart failure of the European Society of Cardiology (ESC). Developed with the special contribution of the heart failure association (HFA) of the ESC&amp;author=P Ponikowski&amp;author=AA Voors&amp;author=SD Anker&amp;volume=18&amp;issue=8&amp;publication_year=2016&amp;pages=891-975&amp;pmid=27207191&amp;doi=10.1002/ejhf.592&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0016"><label>16.</label><mixed-citation id="bcp16189-cit-0017"><named-content content-type="citation-string">
+Mancia G, Kreutz R, Brunström M, et al. 2023 ESH guidelines for the management of arterial hypertension the task force for the management of arterial hypertension of the European Society of Hypertension Endorsed by the International Society of Hypertension (ISH) and the European renal association (ERA). J Hypertens. 2023;41(12):1874‐2071. doi: 10.1097/HJH.0000000000003480
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1097/HJH.0000000000003480"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37345492"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Hypertens&amp;title=2023 ESH guidelines for the management of arterial hypertension the task force for the management of arterial hypertension of the European Society of Hypertension Endorsed by the International Society of Hypertension (ISH) and the European renal association (ERA)&amp;author=G Mancia&amp;author=R Kreutz&amp;author=M Brunström&amp;volume=41&amp;issue=12&amp;publication_year=2023&amp;pages=1874-2071&amp;pmid=37345492&amp;doi=10.1097/HJH.0000000000003480&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0017"><label>17.</label><mixed-citation id="bcp16189-cit-0018"><named-content content-type="citation-string">
+Fosnight S, Soric MM, Smearman J, et al. Investigation into potentially inappropriate prescribing patterns of loop diuretics in a nationally representative outpatient population. Am J Ther. 2023;31(4):e347‐e355. doi: 10.1097/MJT.0000000000001644
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1097/MJT.0000000000001644"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37820082"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Am J Ther&amp;title=Investigation into potentially inappropriate prescribing patterns of loop diuretics in a nationally representative outpatient population&amp;author=S Fosnight&amp;author=MM Soric&amp;author=J Smearman&amp;volume=31&amp;issue=4&amp;publication_year=2023&amp;pages=e347-e355&amp;pmid=37820082&amp;doi=10.1097/MJT.0000000000001644&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0018"><label>18.</label><mixed-citation id="bcp16189-cit-0019"><named-content content-type="citation-string">
+Damoiseaux‐Volman BA, Medlock S, Raven K, et al. Potentially inappropriate prescribing in older hospitalized Dutch patients according to the STOPP/START criteria v2: a longitudinal study. Eur J Clin Pharmacol. 2021;77(5):777‐785. doi: 10.1007/s00228-020-03052-2
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s00228-020-03052-2"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8032616"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33269418"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Eur J Clin Pharmacol&amp;title=Potentially inappropriate prescribing in older hospitalized Dutch patients according to the STOPP/START criteria v2: a longitudinal study&amp;author=BA Damoiseaux‐Volman&amp;author=S Medlock&amp;author=K Raven&amp;volume=77&amp;issue=5&amp;publication_year=2021&amp;pages=777-785&amp;pmid=33269418&amp;doi=10.1007/s00228-020-03052-2&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0019"><label>19.</label><mixed-citation id="bcp16189-cit-0020"><named-content content-type="citation-string">
+Anderson TS, Steinman MA. Antihypertensive prescribing cascades as high‐priority targets for deprescribing. JAMA Intern Med. 2020;180(5):651‐652. doi: 10.1001/jamainternmed.2019.7082
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1001/jamainternmed.2019.7082"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC11215943"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32091534"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=JAMA Intern Med&amp;title=Antihypertensive prescribing cascades as high‐priority targets for deprescribing&amp;author=TS Anderson&amp;author=MA Steinman&amp;volume=180&amp;issue=5&amp;publication_year=2020&amp;pages=651-652&amp;pmid=32091534&amp;doi=10.1001/jamainternmed.2019.7082&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0020"><label>20.</label><mixed-citation id="bcp16189-cit-0021"><named-content content-type="citation-string">
+Vardeny O, Claggett B, Kachadourian J, et al. Reduced loop diuretic use in patients taking sacubitril/valsartan compared with enalapril: the PARADIGM‐HF trial. Eur J Heart Fail. 2019;21(3):337‐341. doi: 10.1002/ejhf.1402
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/ejhf.1402"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6607492"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30741494"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Eur J Heart Fail&amp;title=Reduced loop diuretic use in patients taking sacubitril/valsartan compared with enalapril: the PARADIGM‐HF trial&amp;author=O Vardeny&amp;author=B Claggett&amp;author=J Kachadourian&amp;volume=21&amp;issue=3&amp;publication_year=2019&amp;pages=337-341&amp;pmid=30741494&amp;doi=10.1002/ejhf.1402&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0021"><label>21.</label><mixed-citation id="bcp16189-cit-0022"><named-content content-type="citation-string">
+Wachter R, Fonseca AF, Balas B, et al. Real‐world treatment patterns of sacubitril/valsartan: a longitudinal cohort study in Germany. Eur J Heart Fail. 2019;21(5):588‐597. doi: 10.1002/ejhf.1465
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/ejhf.1465"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6607491"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30972918"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Eur J Heart Fail&amp;title=Real‐world treatment patterns of sacubitril/valsartan: a longitudinal cohort study in Germany&amp;author=R Wachter&amp;author=AF Fonseca&amp;author=B Balas&amp;volume=21&amp;issue=5&amp;publication_year=2019&amp;pages=588-597&amp;pmid=30972918&amp;doi=10.1002/ejhf.1465&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0022"><label>22.</label><mixed-citation id="bcp16189-cit-0023"><named-content content-type="citation-string">
+Shirakabe A, Matsushita M, Kiuchi K, et al. Empagliflozin administration can decrease the dose of loop diuretics and prevent the exacerbation of renal tubular injury in patients with compensated heart failure complicated by diabetes. Circulation Rep. 2020;2(10):565‐575. doi: 10.1253/circrep.CR-20-0041
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1253/circrep.CR-20-0041"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7932847"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33693182"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Circulation Rep&amp;title=Empagliflozin administration can decrease the dose of loop diuretics and prevent the exacerbation of renal tubular injury in patients with compensated heart failure complicated by diabetes&amp;author=A Shirakabe&amp;author=M Matsushita&amp;author=K Kiuchi&amp;volume=2&amp;issue=10&amp;publication_year=2020&amp;pages=565-575&amp;pmid=33693182&amp;doi=10.1253/circrep.CR-20-0041&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0023"><label>23.</label><mixed-citation id="bcp16189-cit-0024"><named-content content-type="citation-string">
+Kim SJ, Kim BJ, Im SI, Kim HS, Heo JH. Effects of empagliflozin on diuretics reduction in outpatient heart failure patients. Int J Heart Fail. 2022;4(4):183‐192. doi: 10.36628/ijhf.2022.0009
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.36628/ijhf.2022.0009"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9634028"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36381017"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Int J Heart Fail&amp;title=Effects of empagliflozin on diuretics reduction in outpatient heart failure patients&amp;author=SJ Kim&amp;author=BJ Kim&amp;author=SI Im&amp;author=HS Kim&amp;author=JH Heo&amp;volume=4&amp;issue=4&amp;publication_year=2022&amp;pages=183-192&amp;pmid=36381017&amp;doi=10.36628/ijhf.2022.0009&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0024"><label>24.</label><mixed-citation id="bcp16189-cit-0025"><named-content content-type="citation-string">
+Kapelios CJ, Laroche C, Crespo‐Leiro MG, et al. Association between loop diuretic dose changes and outcomes in chronic heart failure: observations from the ESC‐EORP heart failure Long‐term registry. Eur J Heart Fail. 2020;22(8):1424‐1437. doi: 10.1002/ejhf.1796
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/ejhf.1796"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32237110"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Eur J Heart Fail&amp;title=Association between loop diuretic dose changes and outcomes in chronic heart failure: observations from the ESC‐EORP heart failure Long‐term registry&amp;author=CJ Kapelios&amp;author=C Laroche&amp;author=MG Crespo‐Leiro&amp;volume=22&amp;issue=8&amp;publication_year=2020&amp;pages=1424-1437&amp;pmid=32237110&amp;doi=10.1002/ejhf.1796&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0025"><label>25.</label><mixed-citation id="bcp16189-cit-0026"><named-content content-type="citation-string">
+van Poelgeest E, Seppala L, Bahat G, et al. Optimizing pharmacotherapy and deprescribing strategies in older adults living with multimorbidity and polypharmacy: EuGMS SIG on pharmacology position paper. Eur Geriatr Med. 2023;14(6):1195‐1209. doi: 10.1007/s41999-023-00872-0
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s41999-023-00872-0"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC10754739"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37812379"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Eur Geriatr Med&amp;title=Optimizing pharmacotherapy and deprescribing strategies in older adults living with multimorbidity and polypharmacy: EuGMS SIG on pharmacology position paper&amp;author=E van Poelgeest&amp;author=L Seppala&amp;author=G Bahat&amp;volume=14&amp;issue=6&amp;publication_year=2023&amp;pages=1195-1209&amp;pmid=37812379&amp;doi=10.1007/s41999-023-00872-0&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0026"><label>26.</label><mixed-citation id="bcp16189-cit-0027"><named-content content-type="citation-string">
+Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. PLoS Med. 2021;18(3):e1003583. doi: 10.1371/journal.pmed.1003583
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1371/journal.pmed.1003583"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8007028"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33780438"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=PLoS Med&amp;title=The PRISMA 2020 statement: an updated guideline for reporting systematic reviews&amp;author=MJ Page&amp;author=JE McKenzie&amp;author=PM Bossuyt&amp;volume=18&amp;issue=3&amp;publication_year=2021&amp;pages=e1003583&amp;pmid=33780438&amp;doi=10.1371/journal.pmed.1003583&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0027"><label>27.</label><mixed-citation id="bcp16189-cit-0028"><named-content content-type="citation-string">
+Sterne JAC, Savovic J, Page MJ, et al. RoB 2: a revised tool for assessing risk of bias in randomised trials. BMJ‐Brit Med J. 2019;366. doi: 10.1136/bmj.l4898
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/bmj.l4898"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="31462531"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=BMJ‐Brit Med J&amp;title=RoB 2: a revised tool for assessing risk of bias in randomised trials&amp;author=JAC Sterne&amp;author=J Savovic&amp;author=MJ Page&amp;publication_year=2019&amp;pages=366&amp;pmid=31462531&amp;doi=10.1136/bmj.l4898&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0028"><label>28.</label><mixed-citation id="bcp16189-cit-0029"><named-content content-type="citation-string">
+Sterne JAC, Hernán MA, Reeves BC, et al. ROBINS‐I: a tool for assessing risk of bias in non‐randomised studies of interventions. BMJ‐Brit Med J. 2016;355. doi: 10.1136/bmj.i4919
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/bmj.i4919"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5062054"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27733354"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=BMJ‐Brit Med J&amp;title=ROBINS‐I: a tool for assessing risk of bias in non‐randomised studies of interventions&amp;author=JAC Sterne&amp;author=MA Hernán&amp;author=BC Reeves&amp;publication_year=2016&amp;pages=355&amp;pmid=27733354&amp;doi=10.1136/bmj.i4919&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0029"><label>29.</label><mixed-citation id="bcp16189-cit-0030"><named-content content-type="citation-string">
+Murad MH, Mustafa RA, Schunemann HJ, Sultan S, Santesso N. Rating the certainty in evidence in the absence of a single estimate of effect. Evid Based Med. 2017;22(3):85‐87. doi: 10.1136/ebmed-2017-110668
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/ebmed-2017-110668"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5502230"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28320705"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Evid Based Med&amp;title=Rating the certainty in evidence in the absence of a single estimate of effect&amp;author=MH Murad&amp;author=RA Mustafa&amp;author=HJ Schunemann&amp;author=S Sultan&amp;author=N Santesso&amp;volume=22&amp;issue=3&amp;publication_year=2017&amp;pages=85-87&amp;pmid=28320705&amp;doi=10.1136/ebmed-2017-110668&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0030"><label>30.</label><mixed-citation id="bcp16189-cit-0031"><named-content content-type="citation-string">
+Romano G, Vitale G, Bellavia D, Agnese V, Clemenza F. Is diuretic withdrawal safe in patients with heart failure and reduced ejection fraction? A retrospective analysis of our outpatient cohort. Eur J Intern Med. 2017;42:E11‐E13. doi: 10.1016/j.ejim.2017.03.025
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ejim.2017.03.025"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28390780"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Eur J Intern Med&amp;title=Is diuretic withdrawal safe in patients with heart failure and reduced ejection fraction? A retrospective analysis of our outpatient cohort&amp;author=G Romano&amp;author=G Vitale&amp;author=D Bellavia&amp;author=V Agnese&amp;author=F Clemenza&amp;volume=42&amp;publication_year=2017&amp;pages=E11-E13&amp;pmid=28390780&amp;doi=10.1016/j.ejim.2017.03.025&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0031"><label>31.</label><mixed-citation id="bcp16189-cit-0032"><named-content content-type="citation-string">
+van Kraaij DJW, Jansen RWMM, Gribnau FWJ, Hoefnagels WHL. Use of diuretics and opportunities for withdrawal in a Dutch nursing home population. Neth J Med. 1998;53(1):20‐26. doi: 10.1016/S0300-2977(98)00053-9
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/S0300-2977(98)00053-9"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="9718938"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Neth J Med&amp;title=Use of diuretics and opportunities for withdrawal in a Dutch nursing home population&amp;author=DJW van Kraaij&amp;author=RWMM Jansen&amp;author=FWJ Gribnau&amp;author=WHL Hoefnagels&amp;volume=53&amp;issue=1&amp;publication_year=1998&amp;pages=20-26&amp;pmid=9718938&amp;doi=10.1016/S0300-2977(98)00053-9&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0032"><label>32.</label><mixed-citation id="bcp16189-cit-0033"><named-content content-type="citation-string">
+Kapelios CJ, Kaldara E, Ntalianis A, et al. Lowering furosemide dose in stable chronic heart failure patients with reduced ejection fraction is not accompanied by decompensation: a randomized study. Int J Cardiol. 2014;177(2):690‐692. doi: 10.1016/j.ijcard.2014.09.156
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ijcard.2014.09.156"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="25304067"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Int J Cardiol&amp;title=Lowering furosemide dose in stable chronic heart failure patients with reduced ejection fraction is not accompanied by decompensation: a randomized study&amp;author=CJ Kapelios&amp;author=E Kaldara&amp;author=A Ntalianis&amp;volume=177&amp;issue=2&amp;publication_year=2014&amp;pages=690-692&amp;pmid=25304067&amp;doi=10.1016/j.ijcard.2014.09.156&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0033"><label>33.</label><mixed-citation id="bcp16189-cit-0034"><named-content content-type="citation-string">
+Martens P, Verbrugge FH, Nijst P, Dupont M, Mullens W. Changes in loop diuretic dose and outcome after cardiac resynchronization therapy in patients with heart failure and reduced left ventricular ejection fractions. Am J Cardiol. 2017;120(2):267‐273. doi: 10.1016/j.amjcard.2017.04.021
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.amjcard.2017.04.021"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28532770"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Am J Cardiol&amp;title=Changes in loop diuretic dose and outcome after cardiac resynchronization therapy in patients with heart failure and reduced left ventricular ejection fractions&amp;author=P Martens&amp;author=FH Verbrugge&amp;author=P Nijst&amp;author=M Dupont&amp;author=W Mullens&amp;volume=120&amp;issue=2&amp;publication_year=2017&amp;pages=267-273&amp;pmid=28532770&amp;doi=10.1016/j.amjcard.2017.04.021&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0034"><label>34.</label><mixed-citation id="bcp16189-cit-0035"><named-content content-type="citation-string">
+Nuzzi V, Cannatà A, Pellicori P, et al. Diuretic dose trajectories in dilated cardiomyopathy: prognostic implications. Clin Res Cardiol. 2023;112(3):454. doi: 10.1007/s00392-022-02133-9
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s00392-022-02133-9"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9998567"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="36472647"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Clin Res Cardiol&amp;title=Diuretic dose trajectories in dilated cardiomyopathy: prognostic implications&amp;author=V Nuzzi&amp;author=A Cannatà&amp;author=P Pellicori&amp;volume=112&amp;issue=3&amp;publication_year=2023&amp;pages=454&amp;pmid=36472647&amp;doi=10.1007/s00392-022-02133-9&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0035"><label>35.</label><mixed-citation id="bcp16189-cit-0036"><named-content content-type="citation-string">
+Walma EP, Hoes AW, van Dooren C, Prins A, van der Does E. Withdrawal of long term diuretic medication in elderly patients: a double blind randomised trial. BMJ‐Brit Med J. 1997;315(7106):464‐468. doi: 10.1136/bmj.315.7106.464
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/bmj.315.7106.464"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2127314"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="9284668"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=BMJ‐Brit Med J&amp;title=Withdrawal of long term diuretic medication in elderly patients: a double blind randomised trial&amp;author=EP Walma&amp;author=AW Hoes&amp;author=C van Dooren&amp;author=A Prins&amp;author=E van der Does&amp;volume=315&amp;issue=7106&amp;publication_year=1997&amp;pages=464-468&amp;pmid=9284668&amp;doi=10.1136/bmj.315.7106.464&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0036"><label>36.</label><mixed-citation id="bcp16189-cit-0037"><named-content content-type="citation-string">
+van Kraaij DJW, Jansen RWMM, Sweep FCGJ, Hoefnagels WHL. Neurohormonal effects of furosemide withdrawal in elderly heart failure patients with normal systolic function. Eur J Heart Fail. 2003;5(1):47‐53. doi: 10.1016/S1388-9842(02)00205-2
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/S1388-9842(02)00205-2"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="12559215"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Eur J Heart Fail&amp;title=Neurohormonal effects of furosemide withdrawal in elderly heart failure patients with normal systolic function&amp;author=DJW van Kraaij&amp;author=RWMM Jansen&amp;author=FCGJ Sweep&amp;author=WHL Hoefnagels&amp;volume=5&amp;issue=1&amp;publication_year=2003&amp;pages=47-53&amp;pmid=12559215&amp;doi=10.1016/S1388-9842(02)00205-2&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0037"><label>37.</label><mixed-citation id="bcp16189-cit-0038"><named-content content-type="citation-string">
+van Kraaij DJW, Jansen RWMM, Bouwels LHR, Hoefnagels WHL. Furosemide withdrawal improves postprandial hypotension in elderly patients with heart failure and preserved left ventricular systolic function. Arch Intern Med. 1999;159(14):1599‐1605. doi: 10.1001/archinte.159.14.1599
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1001/archinte.159.14.1599"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="10421283"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Arch Intern Med&amp;title=Furosemide withdrawal improves postprandial hypotension in elderly patients with heart failure and preserved left ventricular systolic function&amp;author=DJW van Kraaij&amp;author=RWMM Jansen&amp;author=LHR Bouwels&amp;author=WHL Hoefnagels&amp;volume=159&amp;issue=14&amp;publication_year=1999&amp;pages=1599-1605&amp;pmid=10421283&amp;doi=10.1001/archinte.159.14.1599&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0038"><label>38.</label><mixed-citation id="bcp16189-cit-0039"><named-content content-type="citation-string">
+Rohde LE, Rover MM, Neto JAF, et al. Short‐term diuretic withdrawal in stable outpatients with mild heart failure and no fluid retention receiving optimal therapy: a double‐blind, multicentre, randomized trial. Eur Heart J. 2019;40(44):3605‐3612. doi: 10.1093/eurheartj/ehz554
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/eurheartj/ehz554"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="31424503"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Eur Heart J&amp;title=Short‐term diuretic withdrawal in stable outpatients with mild heart failure and no fluid retention receiving optimal therapy: a double‐blind, multicentre, randomized trial&amp;author=LE Rohde&amp;author=MM Rover&amp;author=JAF Neto&amp;volume=40&amp;issue=44&amp;publication_year=2019&amp;pages=3605-3612&amp;pmid=31424503&amp;doi=10.1093/eurheartj/ehz554&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0039"><label>39.</label><mixed-citation id="bcp16189-cit-0040"><named-content content-type="citation-string">
+Chen YJ, Qiu ZP, Jiang J, et al. Outcomes of spironolactone withdrawal in dilated cardiomyopathy with improved ejection fraction. Front Cardiovasc Med. 2021;8:8. doi: 10.3389/fcvm.2021.725399
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3389/fcvm.2021.725399"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8481596"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34604354"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Front Cardiovasc Med&amp;title=Outcomes of spironolactone withdrawal in dilated cardiomyopathy with improved ejection fraction&amp;author=YJ Chen&amp;author=ZP Qiu&amp;author=J Jiang&amp;volume=8&amp;publication_year=2021&amp;pages=8&amp;pmid=34604354&amp;doi=10.3389/fcvm.2021.725399&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0040"><label>40.</label><mixed-citation id="bcp16189-cit-0041"><named-content content-type="citation-string">
+van Kraaij DJ, Jansen RW, Bouwels LH, Go RI, Verheugt FW, Hoefnagels WH. Use of Valsalva's maneuver to detect early recurrence of congestive heart failure in a randomized trial of furosemide withdrawal in older patients. J am Geriatr Soc. 1999;47(11):1384‐1385. doi: 10.1111/j.1532-5415.1999.tb07448.x
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/j.1532-5415.1999.tb07448.x"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="10573455"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J am Geriatr Soc&amp;title=Use of Valsalva's maneuver to detect early recurrence of congestive heart failure in a randomized trial of furosemide withdrawal in older patients&amp;author=DJ van Kraaij&amp;author=RW Jansen&amp;author=LH Bouwels&amp;author=RI Go&amp;author=FW Verheugt&amp;volume=47&amp;issue=11&amp;publication_year=1999&amp;pages=1384-1385&amp;pmid=10573455&amp;doi=10.1111/j.1532-5415.1999.tb07448.x&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0041"><label>41.</label><mixed-citation id="bcp16189-cit-0042"><named-content content-type="citation-string">
+Fudim M, O'Connor CM, Mulder H, et al. Loop diuretic adjustments in patients with chronic heart failure: Insights from HF‐ACTION. Am Heart J. 2018;205:133‐141. doi: 10.1016/j.ahj.2018.06.017
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ahj.2018.06.017"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC6283675"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="30158057"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Am Heart J&amp;title=Loop diuretic adjustments in patients with chronic heart failure: Insights from HF‐ACTION&amp;author=M Fudim&amp;author=CM O'Connor&amp;author=H Mulder&amp;volume=205&amp;publication_year=2018&amp;pages=133-141&amp;pmid=30158057&amp;doi=10.1016/j.ahj.2018.06.017&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0042"><label>42.</label><mixed-citation id="bcp16189-cit-0043"><named-content content-type="citation-string">
+van Kraaij DJW, Jansen RWMM, Bouwels LHR, Gribnau FWJ, Hoefnagels WHL. Furosemide withdrawal in elderly heart failure patients with preserved left ventricular systolic function. Am J Cardiol. 2000;85(12):1461‐1466. doi: 10.1016/S0002-9149(00)00795-5
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/S0002-9149(00)00795-5"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="10856393"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Am J Cardiol&amp;title=Furosemide withdrawal in elderly heart failure patients with preserved left ventricular systolic function&amp;author=DJW van Kraaij&amp;author=RWMM Jansen&amp;author=LHR Bouwels&amp;author=FWJ Gribnau&amp;author=WHL Hoefnagels&amp;volume=85&amp;issue=12&amp;publication_year=2000&amp;pages=1461-1466&amp;pmid=10856393&amp;doi=10.1016/S0002-9149(00)00795-5&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0043"><label>43.</label><mixed-citation id="bcp16189-cit-0044"><named-content content-type="citation-string">
+Brijker F, Heijdra YF, van den Elshout FJJ, Folgering HTM. Discontinuation of furosemide decreases Pacoin patients with COPD. Chest. 2002;121(2):377‐382. doi: 10.1378/chest.121.2.377
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1378/chest.121.2.377"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="11834646"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Chest&amp;title=Discontinuation of furosemide decreases Pacoin patients with COPD&amp;author=F Brijker&amp;author=YF Heijdra&amp;author=FJJ van den Elshout&amp;author=HTM Folgering&amp;volume=121&amp;issue=2&amp;publication_year=2002&amp;pages=377-382&amp;pmid=11834646&amp;doi=10.1378/chest.121.2.377&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0044"><label>44.</label><mixed-citation id="bcp16189-cit-0045"><named-content content-type="citation-string">
+Maland LJ, Lutz LJ, Castle CH. Effects of withdrawing diuretic therapy on blood‐pressure in mild hypertension. Hypertension. 1983;5(4):539‐544. doi: 10.1161/01.HYP.5.4.539
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1161/01.HYP.5.4.539"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="6862579"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Hypertension&amp;title=Effects of withdrawing diuretic therapy on blood‐pressure in mild hypertension&amp;author=LJ Maland&amp;author=LJ Lutz&amp;author=CH Castle&amp;volume=5&amp;issue=4&amp;publication_year=1983&amp;pages=539-544&amp;pmid=6862579&amp;doi=10.1161/01.HYP.5.4.539&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0045"><label>45.</label><mixed-citation id="bcp16189-cit-0046"><named-content content-type="citation-string">
+Freis ED, Thomas JR, Fisher SG, et al. Effects of reduction in drugs or dosage after Long‐term control of systemic hypertension. Am J Cardiol. 1989;63(11):702‐708. doi: 10.1016/0002-9149(89)90255-5
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/0002-9149(89)90255-5"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="2646896"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Am J Cardiol&amp;title=Effects of reduction in drugs or dosage after Long‐term control of systemic hypertension&amp;author=ED Freis&amp;author=JR Thomas&amp;author=SG Fisher&amp;volume=63&amp;issue=11&amp;publication_year=1989&amp;pages=702-708&amp;pmid=2646896&amp;doi=10.1016/0002-9149(89)90255-5&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0046"><label>46.</label><mixed-citation id="bcp16189-cit-0047"><named-content content-type="citation-string">
+Sheppard JP, Lown M, Burt J, et al. Blood pressure changes following antihypertensive medication reduction, by drug class and dose chosen for withdrawal. Exploratory Analysis of Data from the OPTiMISE Trial Front Pharmacol. 2021;12:12. doi: 10.3389/fphar.2021.619088
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.3389/fphar.2021.619088"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8093867"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="33959004"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Exploratory Analysis of Data from the OPTiMISE Trial Front Pharmacol&amp;title=Blood pressure changes following antihypertensive medication reduction, by drug class and dose chosen for withdrawal&amp;author=JP Sheppard&amp;author=M Lown&amp;author=J Burt&amp;volume=12&amp;publication_year=2021&amp;pages=12&amp;pmid=33959004&amp;doi=10.3389/fphar.2021.619088&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0047"><label>47.</label><mixed-citation id="bcp16189-cit-0048"><named-content content-type="citation-string">
+Takata Y. Which antihypertensive drug to withdraw and when. Cardiol Board Rev. 1993;10:50.</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cardiol Board Rev&amp;title=Which antihypertensive drug to withdraw and when&amp;author=Y Takata&amp;volume=10&amp;publication_year=1993&amp;pages=50&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0048"><label>48.</label><mixed-citation id="bcp16189-cit-0049"><named-content content-type="citation-string">
+Upadhya B, Lovato LC, Rocco M, et al. Heart failure prevention in older patients using intensive blood pressure reduction potential role of diuretics. Jacc‐Heart Fail. 2019;7(12):1032‐1041. doi: 10.1016/j.jchf.2019.08.018
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.jchf.2019.08.018"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7927202"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="31779925"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Jacc‐Heart Fail&amp;title=Heart failure prevention in older patients using intensive blood pressure reduction potential role of diuretics&amp;author=B Upadhya&amp;author=LC Lovato&amp;author=M Rocco&amp;volume=7&amp;issue=12&amp;publication_year=2019&amp;pages=1032-1041&amp;pmid=31779925&amp;doi=10.1016/j.jchf.2019.08.018&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0049"><label>49.</label><mixed-citation id="bcp16189-cit-0050"><named-content content-type="citation-string">
+Moonen JE, Foster‐Dingley JC, de Ruijter W, van der Grond J, de Craen AJ, van der Mast RC. Effect of discontinuation of antihypertensive medication on orthostatic hypotension in older persons with mild cognitive impairment: the DANTE study Leiden. Age Ageing. 2016;45(2):249‐255. doi: 10.1093/ageing/afv199
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/ageing/afv199"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="26758532"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Age Ageing&amp;title=Effect of discontinuation of antihypertensive medication on orthostatic hypotension in older persons with mild cognitive impairment: the DANTE study Leiden&amp;author=JE Moonen&amp;author=JC Foster‐Dingley&amp;author=W de Ruijter&amp;author=J van der Grond&amp;author=AJ de Craen&amp;volume=45&amp;issue=2&amp;publication_year=2016&amp;pages=249-255&amp;pmid=26758532&amp;doi=10.1093/ageing/afv199&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0050"><label>50.</label><mixed-citation id="bcp16189-cit-0051"><named-content content-type="citation-string">
+de Jonge JW, Knottnerus JA, van Zutphen WM, de Bruijne GA, Struijker Boudier HA. Short term effect of withdrawal of diuretic drugs prescribed for ankle oedema. BMJ. 1994;308(6927):511‐513. doi: 10.1136/bmj.308.6927.511
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1136/bmj.308.6927.511"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC2542786"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="8136670"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=BMJ&amp;title=Short term effect of withdrawal of diuretic drugs prescribed for ankle oedema&amp;author=JW de Jonge&amp;author=JA Knottnerus&amp;author=WM van Zutphen&amp;author=GA de Bruijne&amp;author=HA Struijker Boudier&amp;volume=308&amp;issue=6927&amp;publication_year=1994&amp;pages=511-513&amp;pmid=8136670&amp;doi=10.1136/bmj.308.6927.511&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0051"><label>51.</label><mixed-citation id="bcp16189-cit-0052"><named-content content-type="citation-string">
+Burr ML, King S, Davies HE, Pathy MS. The effects of discontinuing long‐term diuretic therapy in the elderly. Age Ageing. 1977;6(1):38‐45. doi: 10.1093/ageing/6.1.38
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/ageing/6.1.38"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="402800"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Age Ageing&amp;title=The effects of discontinuing long‐term diuretic therapy in the elderly&amp;author=ML Burr&amp;author=S King&amp;author=HE Davies&amp;author=MS Pathy&amp;volume=6&amp;issue=1&amp;publication_year=1977&amp;pages=38-45&amp;pmid=402800&amp;doi=10.1093/ageing/6.1.38&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0052"><label>52.</label><mixed-citation id="bcp16189-cit-0053"><named-content content-type="citation-string">
+Myers MG, Weingert ME, Fisher RH, Gryfe CI, Shulman HS. Unnecessary diuretic therapy in the elderly. Age Ageing. 1982;11(4):213‐221. doi: 10.1093/ageing/11.4.213
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1093/ageing/11.4.213"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="7180724"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Age Ageing&amp;title=Unnecessary diuretic therapy in the elderly&amp;author=MG Myers&amp;author=ME Weingert&amp;author=RH Fisher&amp;author=CI Gryfe&amp;author=HS Shulman&amp;volume=11&amp;issue=4&amp;publication_year=1982&amp;pages=213-221&amp;pmid=7180724&amp;doi=10.1093/ageing/11.4.213&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0053"><label>53.</label><mixed-citation id="bcp16189-cit-0054"><named-content content-type="citation-string">
+Takata Y, Yoshizumi T, Ito Y, et al. Comparison of withdrawing antihypertensive therapy between diuretics and angiotensin converting enzyme‐inhibitors in essential hypertensives. Am Heart J. 1992;124(6):1574‐1580. doi: 10.1016/0002-8703(92)90075-7
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/0002-8703(92)90075-7"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="1462917"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Am Heart J&amp;title=Comparison of withdrawing antihypertensive therapy between diuretics and angiotensin converting enzyme‐inhibitors in essential hypertensives&amp;author=Y Takata&amp;author=T Yoshizumi&amp;author=Y Ito&amp;volume=124&amp;issue=6&amp;publication_year=1992&amp;pages=1574-1580&amp;pmid=1462917&amp;doi=10.1016/0002-8703(92)90075-7&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0054"><label>54.</label><mixed-citation id="bcp16189-cit-0055"><named-content content-type="citation-string">
+Page AT, Clifford RM, Potter K, Schwartz D, Etherton‐Beer CD. The feasibility and effect of deprescribing in older adults on mortality and health: a systematic review and meta‐analysis. Brit J Clin Pharmacol. 2016;82(3):583‐623. doi: 10.1111/bcp.12975
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/bcp.12975"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5338123"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27077231"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Brit J Clin Pharmacol&amp;title=The feasibility and effect of deprescribing in older adults on mortality and health: a systematic review and meta‐analysis&amp;author=AT Page&amp;author=RM Clifford&amp;author=K Potter&amp;author=D Schwartz&amp;author=CD Etherton‐Beer&amp;volume=82&amp;issue=3&amp;publication_year=2016&amp;pages=583-623&amp;pmid=27077231&amp;doi=10.1111/bcp.12975&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0055"><label>55.</label><mixed-citation id="bcp16189-cit-0056"><named-content content-type="citation-string">
+Sirois C, Gosselin M, Laforce C, Gagnon ME, Talbot D. How does deprescribing (not) reduce mortality? A review of a meta‐analysis in community‐dwelling older adults casts uncertainty over claimed benefits. Basic Clin Pharmacol Toxicol. 2023;134(1):51‐62. doi: 10.1111/bcpt.13921
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/bcpt.13921"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="37376746"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Basic Clin Pharmacol Toxicol&amp;title=How does deprescribing (not) reduce mortality? A review of a meta‐analysis in community‐dwelling older adults casts uncertainty over claimed benefits&amp;author=C Sirois&amp;author=M Gosselin&amp;author=C Laforce&amp;author=ME Gagnon&amp;author=D Talbot&amp;volume=134&amp;issue=1&amp;publication_year=2023&amp;pages=51-62&amp;pmid=37376746&amp;doi=10.1111/bcpt.13921&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0056"><label>56.</label><mixed-citation id="bcp16189-cit-0057"><named-content content-type="citation-string">
+Reeve E, Shakib S, Hendrix I, Roberts MS, Wiese MD. Review of deprescribing processes and development of an evidence‐based, patient‐centred deprescribing process. Br J Clin Pharmacol. 2014;78(4):738‐747. doi: 10.1111/bcp.12386
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/bcp.12386"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4239968"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="24661192"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Br J Clin Pharmacol&amp;title=Review of deprescribing processes and development of an evidence‐based, patient‐centred deprescribing process&amp;author=E Reeve&amp;author=S Shakib&amp;author=I Hendrix&amp;author=MS Roberts&amp;author=MD Wiese&amp;volume=78&amp;issue=4&amp;publication_year=2014&amp;pages=738-747&amp;pmid=24661192&amp;doi=10.1111/bcp.12386&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0057"><label>57.</label><mixed-citation id="bcp16189-cit-0058"><named-content content-type="citation-string">
+van der Wardt V, Harrison JK, Welsh T, Conroy S, Gladman J. Withdrawal of antihypertensive medication: a systematic review. J Hypertens. 2017;35(9):1742‐1749. doi: 10.1097/HJH.0000000000001405
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1097/HJH.0000000000001405"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC5548513"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="28486271"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Hypertens&amp;title=Withdrawal of antihypertensive medication: a systematic review&amp;author=V van der Wardt&amp;author=JK Harrison&amp;author=T Welsh&amp;author=S Conroy&amp;author=J Gladman&amp;volume=35&amp;issue=9&amp;publication_year=2017&amp;pages=1742-1749&amp;pmid=28486271&amp;doi=10.1097/HJH.0000000000001405&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0058"><label>58.</label><mixed-citation id="bcp16189-cit-0059"><named-content content-type="citation-string">
+Reeve E, Jordan V, Thompson W, et al. Withdrawal of antihypertensive drugs in older people. Cochrane Database Syst Rev. 2020;6(6):CD012572. doi: 10.1002/14651858.CD012572.pub2
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/14651858.CD012572.pub2"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC7387859"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="32519776"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Cochrane Database Syst Rev&amp;title=Withdrawal of antihypertensive drugs in older people&amp;author=E Reeve&amp;author=V Jordan&amp;author=W Thompson&amp;volume=6&amp;issue=6&amp;publication_year=2020&amp;pages=CD012572&amp;pmid=32519776&amp;doi=10.1002/14651858.CD012572.pub2&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0059"><label>59.</label><mixed-citation id="bcp16189-cit-0060"><named-content content-type="citation-string">
+McNallan SM, Singh M, Chamberlain AM, et al. Frailty and healthcare utilization among patients with heart failure in the community. Jacc‐Heart Fail. 2013;1(2):135‐141. doi: 10.1016/j.jchf.2013.01.002
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.jchf.2013.01.002"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC3743559"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="23956958"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Jacc‐Heart Fail&amp;title=Frailty and healthcare utilization among patients with heart failure in the community&amp;author=SM McNallan&amp;author=M Singh&amp;author=AM Chamberlain&amp;volume=1&amp;issue=2&amp;publication_year=2013&amp;pages=135-141&amp;pmid=23956958&amp;doi=10.1016/j.jchf.2013.01.002&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0060"><label>60.</label><mixed-citation id="bcp16189-cit-0061"><named-content content-type="citation-string">
+Kapelios CJ, Malliaras K, Nanas JN. Dosing of loop diuretics in chronic heart failure: it's time for evidence. Eur J Heart Fail. 2016;18(10):1298. doi: 10.1002/ejhf.619
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/ejhf.619"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27492733"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Eur J Heart Fail&amp;title=Dosing of loop diuretics in chronic heart failure: it's time for evidence&amp;author=CJ Kapelios&amp;author=K Malliaras&amp;author=JN Nanas&amp;volume=18&amp;issue=10&amp;publication_year=2016&amp;pages=1298&amp;pmid=27492733&amp;doi=10.1002/ejhf.619&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0061"><label>61.</label><mixed-citation id="bcp16189-cit-0062"><named-content content-type="citation-string">
+Duong MH, Gnjidic D, McLachlan AJ, Sakiris MA, Goyal P, Hilmer SN. The prevalence of adverse drug reactions and adverse drug events from heart failure medications in frail older adults: a systematic review. Drugs Aging. 2022;39(8):631‐643. doi: 10.1007/s40266-022-00957-8
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1007/s40266-022-00957-8"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9355931"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35761118"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Drugs Aging&amp;title=The prevalence of adverse drug reactions and adverse drug events from heart failure medications in frail older adults: a systematic review&amp;author=MH Duong&amp;author=D Gnjidic&amp;author=AJ McLachlan&amp;author=MA Sakiris&amp;author=P Goyal&amp;volume=39&amp;issue=8&amp;publication_year=2022&amp;pages=631-643&amp;pmid=35761118&amp;doi=10.1007/s40266-022-00957-8&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0062"><label>62.</label><mixed-citation id="bcp16189-cit-0063"><named-content content-type="citation-string">
+de Boer AR, Vaartjes I, Gohar A, et al. Heart failure with preserved, mid‐range, and reduced ejection fraction across health care settings: an observational study. ESC Heart Fail. 2022;9(1):363‐372. doi: 10.1002/ehf2.13742
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1002/ehf2.13742"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC8787985"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="34889076"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=ESC Heart Fail&amp;title=Heart failure with preserved, mid‐range, and reduced ejection fraction across health care settings: an observational study&amp;author=AR de Boer&amp;author=I Vaartjes&amp;author=A Gohar&amp;volume=9&amp;issue=1&amp;publication_year=2022&amp;pages=363-372&amp;pmid=34889076&amp;doi=10.1002/ehf2.13742&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0063"><label>63.</label><mixed-citation id="bcp16189-cit-0064"><named-content content-type="citation-string">
+Martens P, Verbrugge FH, Boonen L, Nijst P, Dupont M, Mullens W. Value of routine investigations to predict loop diuretic down‐titration success in stable heart failure. Int J Cardiol. 2018;250:171‐175. doi: 10.1016/j.ijcard.2017.10.018
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1016/j.ijcard.2017.10.018"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="29056238"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Int J Cardiol&amp;title=Value of routine investigations to predict loop diuretic down‐titration success in stable heart failure&amp;author=P Martens&amp;author=FH Verbrugge&amp;author=L Boonen&amp;author=P Nijst&amp;author=M Dupont&amp;volume=250&amp;publication_year=2018&amp;pages=171-175&amp;pmid=29056238&amp;doi=10.1016/j.ijcard.2017.10.018&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0064"><label>64.</label><mixed-citation id="bcp16189-cit-0065"><named-content content-type="citation-string">
+Williamson JD, Supiano MA, Applegate WB, et al. Intensive vs standard blood pressure control and cardiovascular disease outcomes in adults aged ≥75 years a randomized clinical trial. JAMA‐J Am Med Assoc. 2016;315(24):2673‐2682. doi: 10.1001/jama.2016.7050
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1001/jama.2016.7050"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4988796"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27195814"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=JAMA‐J Am Med Assoc&amp;title=Intensive vs standard blood pressure control and cardiovascular disease outcomes in adults aged ≥75 years a randomized clinical trial&amp;author=JD Williamson&amp;author=MA Supiano&amp;author=WB Applegate&amp;volume=315&amp;issue=24&amp;publication_year=2016&amp;pages=2673-2682&amp;pmid=27195814&amp;doi=10.1001/jama.2016.7050&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0065"><label>65.</label><mixed-citation id="bcp16189-cit-0066"><named-content content-type="citation-string">
+Reeve E, Gnjidic D, Long J, Hilmer S. A systematic review of the emerging definition of 'deprescribing' with network analysis: implications for future research and clinical practice. Brit J Clin Pharmacol. 2015;80(6):1254‐1268. doi: 10.1111/bcp.12732
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/bcp.12732"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4693477"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="27006985"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Brit J Clin Pharmacol&amp;title=A systematic review of the emerging definition of 'deprescribing' with network analysis: implications for future research and clinical practice&amp;author=E Reeve&amp;author=D Gnjidic&amp;author=J Long&amp;author=S Hilmer&amp;volume=80&amp;issue=6&amp;publication_year=2015&amp;pages=1254-1268&amp;pmid=27006985&amp;doi=10.1111/bcp.12732&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0066"><label>66.</label><mixed-citation id="bcp16189-cit-0067"><named-content content-type="citation-string">
+Bayliss EA, Albers K, Gleason K, et al. Recommendations for outcome measurement for deprescribing intervention studies. J Am Geriatr Soc. 2022;70(9):2487‐2497. doi: 10.1111/jgs.17894
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1111/jgs.17894"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC9489620"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="35648465"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=J Am Geriatr Soc&amp;title=Recommendations for outcome measurement for deprescribing intervention studies&amp;author=EA Bayliss&amp;author=K Albers&amp;author=K Gleason&amp;volume=70&amp;issue=9&amp;publication_year=2022&amp;pages=2487-2497&amp;pmid=35648465&amp;doi=10.1111/jgs.17894&amp;"/></mixed-citation></ref><ref id="bcp16189-bib-0067"><label>67.</label><mixed-citation id="bcp16189-cit-0068"><named-content content-type="citation-string">
+Fried TR, Tinetti ME, Iannone L, O'Leary JR, Towle V, Van Ness PH. Health outcome prioritization as a tool for decision making among older persons with multiple chronic conditions. Arch Intern Med. 2011;171(20):1854‐1856. doi: 10.1001/archinternmed.2011.424
+
+</named-content><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="doi" xlink:href="10.1001/archinternmed.2011.424"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmcid" xlink:href="PMC4036681"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmid" xlink:href="21949032"/><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="google-scholar" xlink:href="journal=Arch Intern Med&amp;title=Health outcome prioritization as a tool for decision making among older persons with multiple chronic conditions&amp;author=TR Fried&amp;author=ME Tinetti&amp;author=L Iannone&amp;author=JR O'Leary&amp;author=V Towle&amp;volume=171&amp;issue=20&amp;publication_year=2011&amp;pages=1854-1856&amp;pmid=21949032&amp;doi=10.1001/archinternmed.2011.424&amp;"/></mixed-citation></ref></ref-list></sec></sec><sec id="_ad93_" xml:lang="en" sec-type="associated-data" disp-level="1"><title>Associated Data</title><sec id="_adsm93_" xml:lang="en" sec-type="supplementary-materials" disp-level="2"><title>Supplementary Materials</title><supplementary-material id="db_ds_supplementary-material1_reqid_" position="float"><caption><p>
+<bold>TABLE S1</bold> Preferred Reporting Items for Systematic reviews and Meta‐Analyses‐network meta‐analysis (PRISMA) checklist.</p><p>
+<bold>TABLE S2</bold> Initial literature search strategy (15 December 2022).</p><p>
+<bold>TABLE S3</bold> Literature search strategy (update 28 May 2024).</p><p>
+<bold>TABLE S4</bold> Characteristics of included studies.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="BCP-91-38-s001.docx" mimetype="application" mime-subtype="vnd.openxmlformats-officedocument.wordprocessingml.document"><?cloudpmc-path c116/11671325/109018ed9170/BCP-91-38-s001.docx?><?cloudpmc-bucket app?><?size 33926?></media></supplementary-material></sec><sec id="_adda93_" xml:lang="en" sec-type="data-availability-statement" disp-level="2"><title>Data Availability Statement</title><p>N/A.</p></sec></sec></body></article>

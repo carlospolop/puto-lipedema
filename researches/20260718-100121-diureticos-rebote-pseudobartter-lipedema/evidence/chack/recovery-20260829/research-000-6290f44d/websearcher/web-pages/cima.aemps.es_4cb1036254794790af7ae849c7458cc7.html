@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Agencia EspaÃ±ola de Medicamentos y Productos Sanitarios">
+    <meta name=ârobotsâ content="noindex,nofollow">
+	<link rel="canonical" href="/cima/publico/home.html" />
+
+    <title>.:: CIMA ::. Resultados de la bÃºsqueda de medicamentos</title>
+
+    <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+	<link href="/cima/resources/bootstrap3.3.7/css/bootstrap.min.css" rel="stylesheet" />
+
+	<link id="favicon" rel="shortcut icon"  href="/cima/resources/images/favicon.ico" />
+    <!-- Custom CSS -->
+    <link href="/cima/resources/css/cima.css" rel="stylesheet" />
+    <link href="/cima/resources/css/filtro.css" rel="stylesheet" />
+    <link href="/cima/resources/css/lista.css" rel="stylesheet" />
+    <!-- Cookies Msg -->
+    <link rel="stylesheet" type="text/css" href="/cima/resources/css/cookies.min.css" />
+    <!-- Custom Fonts -->
+	<link href="/cima/resources/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+    
+    <script type="text/javascript" src="/cima/resources/js/jquery-3.1.1.min.js"></script>
+	<script type="text/javascript" src="/cima/resources/bootstrap3.3.7/js/bootstrap.min.js"></script>	
+	<script type="text/javascript" src="/cima/resources/js/jquery-dateFormat.min.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/mensajes.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/setuptoken.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/loadingoverlay.min.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/header.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/excel.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/errordialog.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/configparametros.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/lista.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/pintado.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/footer.js"></script>
+</head>
+
+<body >
+
+<div id="users-device-size">
+  <div id="xs" class="visible-xs"></div>
+  <div id="sm" class="visible-sm"></div>
+  <div id="md" class="visible-md"></div>
+  <div id="lg" class="visible-lg"></div>
+</div>
+
+
+<div id="header2" class="banner col-md-10 col-md-offset-1 topnav" style=" z-index: 10;position:fixed">
+	
+</div>
+
+
+
+<div class="boxlist" >
+	<div class="container">
+		
+		<div class="lastlistwhite col-lg-12">
+				<div class="col-sm-6 col-xs-12 pull-left">
+					<p id="m_busquedamedicamentos" class="whiteblue text-left"></p>
+				</div>
+				<div id="boxfiltrotext" class="col-sm-6 col-xs-12 pull-right">
+					<p id="m_nuevabusqueda" class="pull-left"
+						style="font-size: 12pt; margin-top: 4px; text-align: right"></p>
+					<div class="input-group col-md-8 col-xs-6 pull-right">
+
+						<input style="height: 30px;" aria-label="filtro" id="inputtextofiltro" type="text"
+							class="search-query form-control" placeholder="" /> <span
+							class="input-group-btn">
+							<button id="filtrotexto" aria-label="buscar" class="btn btn-primary datafiltro"
+								type="button" style="height: 30px;"
+								onclick="actualizarBusquedaText()">
+								<i class="fa fa-search" aria-hidden="true"></i>
+							</button>
+						</span>
+					</div>
+				</div>
+		</div>		
+		<div class="row col-lg-12 lastlist top_listado_azul">
+					<div class="pull-left results1" >						
+						<div class=""><span id="numResultados" class="whitebXXL pull-left"></span></div>
+						<div class=""><span id="m_resultados" class="white pull-left"></span></div>
+					</div>
+					<div class="pull-left results2" >						
+						<div class=""><span id="m_paralabusqueda" class="white pull-left"></span></div>
+						<div class="text_busq"><span id="titulobuscar" class="whiteb pull-left"></span></div>
+					</div>
+					<div class="pull-right results3a movOut">
+						<button id="btnRamList" type="button" class="btn btn-default buttonRAM" ></button>					
+					</div>
+					<div class="pull-right lastlist results3  ">
+						<button id="btnGuardarBusqueda" type="button" class="btn btn-default btn-circle " 					
+						onclick="inicioGuardar()" data-toggle='modal' data-target='#guardarBusqueda'><span id="m_guardar"></span>
+						</button>
+						<span class="whitelinevert"></span>
+						<button id="btnExportar" type="button" class="btn btn-default btn-circle movOut" 						
+						data-toggle='modal' data-target='#genXLS'><span id="m_exportar"></span>
+						</button>
+					</div>
+					
+		</div>		
+		
+		<div class="row" >
+			<div class="navbar-header menulat col-xs-12">
+				<div class="menulat_in">
+					<button type="button" class="navbar-toggle boton_despl" data-toggle="collapse" data-target=".desplega">
+						<span class="filtroMsg"></span> <i class="fa fa-sliders"></i>
+					</button>		
+				</div>		
+			</div>
+			<div class="col-md-3 col-sm-4 col-xs-12 desplega panel-collapse collapse out" >
+				<div>
+				<div class="panel-group" >
+			    	<div class="panel panel-default funkyradio divshadow">                
+			            <div>
+			            	<div class="panel-body" id="menuleft">
+			            	<div style="margin:0 auto;padding-bottom:3px;margin-top:-5px;margin-bottom:10px;border-bottom:1px solid #adcdec;">
+					        	<span id="m_titulofiltro" style="text-align:center;font-size:9pt;font-weight:bold;color:#265a98;"></span>
+					        						        	
+					        </div>
+			            
+			            				        
+					        <div style="display:flex">
+					        	<label id="m_si" class="label3b"></label>
+					        	<label id="m_no" class="label3b"></label>					        	
+					        </div>
+							<div  id="filtroreceta"  style="display:flex">				        
+						        <div class="funkyradio-primary">
+						            <input class="datafiltro"  type="checkbox" name="checkbox" id="filtroRecetaSi" onchange="actualizarBusqueda()"/>
+						            <label class="label2" for="filtroRecetaSi">SI</label>
+						        </div>
+						        <div class="funkyradio-primary">
+						            <input class="datafiltro" type="checkbox" name="checkbox" id="filtroRecetaNo" onchange="actualizarBusqueda()"/>
+						            <label class="label2" for="filtroRecetaNo">NO</label>
+						        </div>
+						       <label id="m_conreceta" class="label3"></label>	
+					        </div>
+					        
+					        <div  id="filtrotriangulo"  style="display:flex">				        
+						        <div class="funkyradio-primary" >
+						            <input class="datafiltro" type="checkbox" name="checkbox" id="filtroTrianguloSi" onchange="actualizarBusqueda()"/>
+						            <label class="label2" for="filtroTrianguloSi">SI</label>
+						        </div>
+						        <div class="funkyradio-primary">
+						            <input class="datafiltro" type="checkbox" name="checkbox" id="filtroTrianguloNo" onchange="actualizarBusqueda()"/>
+						            <label class="label2" for="filtroTrianguloNo">NO</label>
+						        </div>
+						        <label id="m_triangulonegro" class="label3"></label>		
+					        </div>
+					        	
+					         <div id="filtrohuerfano" style="display:flex">					        
+						        <div class="funkyradio-primary" >
+						            <input class="datafiltro" type="checkbox" name="checkbox" id="filtroHuerfanoSi" onchange="actualizarBusqueda()"/>
+						            <label class="label2" for="filtroHuerfanoSi">SI</label>
+						        </div>
+						        <div class="funkyradio-primary">
+						            <input class="datafiltro" type="checkbox" name="checkbox" id="filtroHuerfanoNo" onchange="actualizarBusqueda()"/>
+						            <label class="label2" for="filtroHuerfanoNo">NO</label>
+						        </div>
+						        <label id="m_huerfano" class="label3"></label>	
+					        </div>
+					        				       
+					        <div id="filtrobiosimilar" style="display:flex">					        
+						        <div class="funkyradio-primary" >
+						            <input class="datafiltro" type="checkbox" name="checkbox" id="filtroBiosimilarSi" onchange="actualizarBusqueda()"/>
+						            <label class="label2" for="filtroBiosimilarSi">SI</label>
+						        </div>
+						        <div class="funkyradio-primary">
+						            <input class="datafiltro" type="checkbox" name="checkbox" id="filtroBiosimilarNo" onchange="actualizarBusqueda()"/>
+						            <label class="label2" for="filtroBiosimilarNo">NO</label>
+						        </div>
+						        <label id="m_biosimilar" class="label3"></label>	
+					        </div>
+					        
+					        <div id="divComercializados" style="display:flex">					        
+						        <div class="funkyradio-primary" >
+						            <input class="datafiltro" type="checkbox" name="checkbox" id="filtroComercializadoSi" onchange="actualizarBusqueda()"/>
+						            <label class="label2" for="filtroComercializadoSi">SI</label>
+						        </div>
+						        <div class="funkyradio-primary">
+						            <input class="datafiltro" type="checkbox" name="checkbox" id="filtroComercializadoNo" onchange="actualizarBusqueda()"/>
+						            <label class="label2" for="filtroComercializadoNo">NO</label>
+						        </div>
+						        <label id="m_comercializado" class="label3"></label>	
+					        </div>
+					        
+					        <div  id="filtroimpparalelas"  style="display:flex">					        
+						        <div class="funkyradio-primary" >
+						            <input class="datafiltro" type="checkbox" name="checkbox" id="filtroImpParalelasSi" onchange="actualizarBusqueda()"/>
+						            <label class="label2" for="filtroImpParalelasSi">SI</label>
+						        </div>
+						        <div class="funkyradio-primary">
+						            <input class="datafiltro" type="checkbox" name="checkbox" id="filtroImpParalelasNo" onchange="actualizarBusqueda()"/>
+						            <label class="label2" for="filtroImpParalelasNo">NO</label>
+						        </div>
+						        <label id="m_impparalelas" class="label3"></label>	
+					        </div>
+					        <div style="margin-top:2px;border-top:1px solid #adcdec;"></div>
+					        	
+						  	<h5 id="m_estados"></h5>
+				    		<div id="filtroAut" class="funkyradio-primary">
+			            		<input type="checkbox" name="checkbox" id="filtroAutorizado" class="datafiltro" onchange="actualizarBusqueda()"/><label id="m_autorizado" for="filtroAutorizado">Autorizado</label>
+			        		</div>
+			        		<div id="filtroSusp" class="funkyradio-primary">
+			            		<input type="checkbox" name="checkbox" id="filtroSuspendido" class="datafiltro" onchange="actualizarBusqueda()"/><label id="m_suspendido" for="filtroSuspendido">Suspendido</label>
+			        		</div>
+			        		<div id="filtroRev" class="funkyradio-primary">
+			            		<input type="checkbox" name="checkbox" id="filtroRevocado" class="datafiltro" onchange="actualizarBusqueda()"/><label id="m_revocado" for="filtroRevocado">Revocado</label>
+			        		</div>
+					        					       
+								<div style="margin-top:2px;border-top:1px solid #adcdec;"></div>
+								
+				        		<h5 id="m_mednosustituibles"></h5>
+<!-- 				        	<div class="funkyradio-primary"> -->
+<!-- 					            <input class="datafiltro" type="checkbox" name="radio" id="filtroNoAplica" onchange="actualizarBusqueda()"/> -->
+<!-- 					            <label id="m_noaplica" for="filtroNoAplica"></label> -->
+<!-- 					        </div> -->
+ 				    		<div id="filtrobiologico" class="funkyradio-primary">
+					            <input class="datafiltro" type="checkbox" name="radio" id="filtroBiologicos" onchange="actualizarBusqueda()"/>
+					            <label id="m_biologicos" for="filtroBiologicos"></label>
+					        </div>
+					        <div id="filtroprincipio" class="funkyradio-primary">
+					            <input class="datafiltro" type="checkbox" name="radio" id="filtroPactivos" onchange="actualizarBusqueda()"/>
+					            <label id="m_conprincipio" for="filtroPactivos"></label>
+					        </div>
+					        <div id="filtrorespiratorio" class="funkyradio-primary">
+					            <input class="datafiltro" type="checkbox" name="radio" id="filtroApRespiratorio" onchange="actualizarBusqueda()"/>
+					            <label id="m_aparatorespitarorio" for="filtroApRespiratorio"></label>
+					        </div>
+					        <br/>
+
+<!-- 							<div class="funkyradio-primary">					        		 -->
+<!-- 					       		<button id="btnLimpiarFiltro" type="button" class="btn btn-default"></button>			        -->
+<!-- 						  	</div> -->
+		                	</div>
+		                	       <div id="boxSecciones" class="col-md-12 detallelistwhite" style="text-align:left;">
+		                	         <div style="margin-top:2px;border-top:1px solid #adcdec;"></div>
+				<div class="row" style="text-align:left;"> 
+					<div class="col-md-12" style="text-align:left;">
+						<h4 id="m_criteriosfichatecnica"></h4>
+	                 	<div id="seccioneslist" class="col-md-12 col-xs-12" style="padding:0;margin:0 auto;color: #5385c1;font-size:8pt;font-size:regular;">
+	                 	</div>
+					</div>
+				</div>
+			</div>          
+			           </div>
+			     
+			      </div> 
+			     
+			  </div>			   
+			  </div>
+			 
+			</div>
+						
+							
+    		
+   			<div id="boxNoResult"  class="col-md-9 col-sm-8 col-xs-12" style="margin-top:5px;">
+		      <div class='list-group'>
+	         	<div class='list-group-item row'  style='border:0px solid #FF0000;'>
+		            <div class='col-md-12 col-xs-12' style='padding:2px;border:0px solid #FF0000;'>
+		            	<div id="m_boxnoresult" class='col-md-12 list-group-item-med' style="padding:0;text-align:center;margin-top: 50px;"></div>
+		            </div>						
+		       </div>
+		      </div>
+		   </div> 
+			   
+			   
+			<div id="resultlist" class="col-md-9 col-sm-8 col-xs-12"></div>
+
+		</div>
+		<br/><br/>
+		</div>
+	</div>
+
+
+
+
+
+ 
+ 
+ <div class="modal fade" id="guardarBusqueda" tabindex="-1" role="dialog" aria-labelledby="edit" aria-hidden="true">
+      <div class="modal-dialog">
+    <div class="modal-content panel panel-default">
+          <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fa fa-times"></i></button>
+        <i class="fa fa-floppy-o fa-3x" style="color:#286090;" ></i>
+        <span id="m_guardarbusqueda" style="color:#286090; font-size:20pt; font-weight:bold; text-transform: uppercase; font-family: Montserrat,Helvetica Neue,Helvetica,Arial,sans-serif;"></span>
+      </div>
+          <div class="modal-body">    
+          <div class="col-md-12" style="padding:1;margin:0;"><b id="m_definanombrebusqueda"></b></div> 
+          <br>         		   
+		       <div class="modal-body">  
+		        <div class="row">
+					<div class="col-md-12 col-md-offset-0 col-xs-12">
+ 						<form class="form-signin">				               
+			                <input type="text" id="inputGuardarBusqueda" class="form-control" placeholder="" />			                               
+			            </form>				            
+					</div>	
+	 			</div>  
+		
+			</div>
+        <div class="modal-footer" >
+        <div class="col-md-6"><b id="m_avisoguardar" style="font-size:10pt;color:red; font-weight:bold;"></b></div>
+        <button id="btnConfirmarBusqueda" type="button" class="btn btn-primary" onclick="guardarBusqueda()"></button>
+        <button id="btnCancelBusqueda" type="button" class="btn btn-default" data-dismiss="modal"></button>
+      </div>
+        </div> 
+  	</div> 
+ </div>
+ </div>
+ 
+ <div class="modal fade" id="avisofavorito" tabindex="-1" role="dialog" aria-labelledby="edit" aria-hidden="true" >
+	<div class="modal-dialog" >
+	    <div class="modal-content panel panel-default" >
+	    	<div class="modal-header">
+			        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fa fa-times"></i></button>
+			        <span id="m_titulofavorito" style="color:#286090; font-size:20pt; font-weight:bold; text-transform: uppercase; font-family: Montserrat,Helvetica Neue,Helvetica,Arial,sans-serif;"></span>
+			</div>
+			<div class="modal-body">           		   
+				<div class="row">
+					<div class="col-md-12 col-md-offset-0 col-xs-12">
+	 					<h4 id="m_descavisofavorito"></h4>
+					</div>	
+		 		</div>  
+			</div>
+			<div class="modal-footer" >
+	        	<button id="btnCancelAvisoFavorito" type="button" class="btn btn-default" data-dismiss="modal"></button>
+			</div> 
+	  	</div> 
+	</div>
+</div>
+ 
+ <div id="dialogerror"></div>
+
+<footer id="footer">
+
+</footer>
+<!-- Google/Cookies -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDG3588" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script src="/cima/resources/js/cookies.min.js" data-cfasync="false"></script>
+<script>cookiesCheck();</script>
+<!-- end Google/Cookies -->
+
+</body>
+
+<div class="modal fade" id="genXLS" tabindex="-1" role="dialog" aria-labelledby="edit" aria-hidden="true">
+   
+ </div>
+
+</html>

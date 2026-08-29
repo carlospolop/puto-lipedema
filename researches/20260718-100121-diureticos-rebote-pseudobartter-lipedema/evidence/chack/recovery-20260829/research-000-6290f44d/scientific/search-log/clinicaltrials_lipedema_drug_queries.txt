@@ -1,0 +1,23 @@
+ClinicalTrials.gov v2 lipedema drug-intervention coverage log
+Run date: 2026-08-29
+Search endpoint: https://clinicaltrials.gov/api/v2/studies
+
+Exact query -> result
+lipedema diuretic -> no clinical trials found (studies=[])
+lipedema furosemide -> no clinical trials found (studies=[])
+lipedema hydrochlorothiazide -> no clinical trials found (studies=[])
+lipedema chlorthalidone -> no clinical trials found (studies=[])
+lipedema spironolactone -> no clinical trials found (studies=[])
+lipedema amiloride -> no clinical trials found (studies=[])
+lipedema acetazolamide -> no clinical trials found (studies=[])
+lipedema SGLT2 -> no clinical trials found (studies=[])
+lipedema empagliflozin -> no clinical trials found (studies=[])
+lipedema dapagliflozin -> no clinical trials found (studies=[])
+lipedema herbal diuretic -> no clinical trials found (studies=[])
+lipedema diuretic deprescribing -> no clinical trials found (studies=[])
+
+Broader checks:
+lipedema edema drug -> NCT06180850, Building Lipedema Research Resources; completed observational case-control biorepository, not a drug trial.
+lipedema edema treatment -> 10 non-drug studies, including NCT04492046 (complex decongestive physiotherapy; observational case-only, n=23); no diuretic intervention.
+
+Interpretation: registry searches do not prove that no unpublished, unregistered, or differently indexed study exists; they document the registry results for the stated queries and date.

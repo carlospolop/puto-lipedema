@@ -1,0 +1,939 @@
+                                                                                                             3
+
+Lymphology 53 (2020) 3-19
+
+
+
+
+                 THE DIAGNOSIS AND TREATMENT OF
+         PERIPHERAL LYMPHEDEMA: 2020 CONSENSUS DOCUMENT
+           OF THE INTERNATIONAL SOCIETY OF LYMPHOLOGY
+
+
+
+
+     This International Society of Lymphology               the XXVI ICL in Barcelona, Spain; and [G]
+(ISL) Consensus Document is the latest revi-                discussions at a dedicated, focused Post-Con-
+sion of the 1995 Document for the evaluation                gress session at the XXVII ICL in Iguazú,
+and management of peripheral lymphedema                     Argentina (2019) followed by additional written
+(1). It is based upon modifications: [A] sug-               comments from the Executive Committee and
+gested and published following the 1997 XVI                 others.
+International Congress of Lymphology (ICL)                        The document attempts to amalgamate
+in Madrid, Spain (2), discussed at the 1999                 the broad spectrum of protocols and practices
+XVII ICL in Chennai, India (3), and consid-                 advocated worldwide for the diagnosis and
+ered confirmed at the 2000 (ISL) Executive                  treatment of peripheral lymphedema into a
+Committee meeting in Hinterzarten, Germany                  coordinated proclamation representing a "Con-
+(4); [B] derived from integration of discussions            sensus" of the international community based
+and written comments obtained during and                    on various levels of evidence. The document
+following the 2001 XVIII ICL in Genoa, Italy                is not meant to override individual clinical
+as modified at the 2003 ISL Executive Commit-               considerations for complex patients nor to
+tee meeting in Cordoba, Argentina (5); [C] sug-             stifle progress. It is also not meant to be a legal
+gested from comments, criticisms, and rebuttals             formulation from which variations define med-
+as published in the December 2004 issue of                  ical malpractice. The Society understands that
+Lymphology (6); [D] discussed in both the 2005              in some clinics the method of treatment derives
+XX ICL in Salvador, Brazil and the 2007 XXI                 from national standards while in others access
+ICL in Shanghai, China and modified at the                  to medical equipment, technical expertise, and
+2008 Executive Committee meeting in Naples,                 supplies is limited; therefore, the suggested
+Italy (7,8); [E] modified from discussions and              treatments might be impractical. Adaptability
+written comments from the 2009 XXII ICL                     and inclusiveness does come at the price that
+in Sydney, Australia, the 2011 XXIII ICL in                 members can rightly be critical of what they
+Malmö, Sweden, the 2012 Executive Commit-                   see as vagueness or imprecision in definitions,
+tee Meetings (9); [F] discussions at the 2013               qualifiers in the choice of words (e.g., the use of
+XXIV ICL in Rome, Italy, and the 2015 XXV                   "may... perhaps... unclear", etc.) and mentions
+ICL in San Francisco, USA, as well as multiple              (albeit without endorsement) of treatment
+written comments and feedback from Execu-                   options supported by limited hard data. Most
+tive Committee and other ISL members during                 members are frustrated by the reality that
+the 2016 drafting (10); informal discussions at             NO treatment method has really undergone a
+
+
+
+Permission granted for single print for individual use.
+Reproduction not permitted without permission of Journal LYMPHOLOGY.
+4
+
+satisfactory meta-analysis (let alone rigorous,             Diseases from the World Health Organization.
+randomized, stratified, long-term, controlled               Lymphedema may be an isolated phenomenon
+study). With this understanding, the absence                or associated with a multitude of other dis-
+of definitive answers and optimally conducted               abling local sequelae or even life-threatening
+clinical trials, and with emerging technologies             systemic syndromes. Its nature may be acute,
+and new approaches and discoveries on the                   transitory, or chronic. In its purest form, the
+horizon, some degree of uncertainty, ambiguity,             central disturbance is a low output failure
+and flexibility along with dissatisfaction with             (mechanical insufficiency, low flow edema, low
+current lymphedema evaluation and manage-                   volume insufficiency) of the lymphvascular
+ment is appropriate and to be expected. We                  system; that is, overall lymphatic transport
+continue to struggle to keep the document                   is reduced. This derangement arises either
+concise while balancing the need for depth and              from congenital lymphatic dysplasia (primary
+details. With these considerations in mind, we              lymphedema) or acquired obliteration, such as
+believe that this 2020 version presents a Con-              after radical operative dissection (e.g., exten-
+sensus that embraces the entire ISL member-                 sive axillary or retroperitoneal node removal).
+ship, rises above national standards, identifies            These examples may be confusing for they
+and stimulates promising areas for future                   may not be radical (just node sampling),
+research, and represents the best judgment                  even though they may cause lymphedema,
+of the ISL membership on how to approach                    such as from irradiation, trauma, or repeated
+patients with peripheral lymphedema in the                  lymphangitis with lymphangiosclerosis (sec-
+light of currently available evidence. Therefore,           ondary lymphedema) or as a consequence of
+the document has been and should continue                   functional deficiency (e.g., inadequate lym-
+to be challenged and debated in the pages of                phatic growth or regrowth, lymphangiospasm,
+Lymphology (e.g., as Letters to the Editor) and             stasis, and valvular insufficiency in primary or
+ideally will remain a continued focal point for             secondary lymphedema. Nonetheless, the com-
+robust discussion at local, national and inter-             mon denominator is that the lymphatic system
+national conferences in lymphology and related              (whether vessels, nodes, interstitium, etc., or
+disciplines. We further anticipate as experience            combinations) transport has fallen below the
+evolves and new ideas and technologies emerge               capacity needed to handle the presented load
+that this "living document" will undergo further            of microvascular filtrate including plasma
+periodic revision and refinement as the practice            protein and cells that normally leak from the
+and conceptual foundations of medicine and                  bloodstream into the interstitium. Recent work
+specifically lymphology change and advance.                 has highlighted and reinforced that almost
+                                                            all interstitial fluid eventually becomes and is
+Keywords: 2020 consensus, lymphedema,                       transported as lymph. Swelling is produced
+diagnosis, treatment, research agenda, ISL,                 by accumulation in the extracellular space of
+International Society of Lymphology                         excess water, filtered/diffused plasma proteins,
+                                                            extravascular blood cells and parenchymal/
+I.       GENERAL CONSIDERATIONS                             stromal cell products. This process culmi-
+                                                            nates in proliferation of parenchymal and
+     As a fundamental starting point, lymph-                stromal elements with excessive deposition of
+edema is an external (and/or internal) man-                 extracellular matrix substances and adipose
+ifestation of lymphatic system insufficiency                tissue (which starts early). High output failure
+and deranged lymph transport. Some mem-                     (dynamic insufficiency, high flow edema, high
+bers prefer to define peripheral lymphedema                 volume insufficiency) of the lymph circulation,
+as a symptom or sign resulting from under-                  on the other hand, occurs when a normal or
+lying lymphatic disease. It is defined as an                increased transport capacity of intact lym-
+illness by the International Classification of              phatics is overwhelmed by an excessive burden
+
+
+
+Permission granted for single print for individual use.
+Reproduction not permitted without permission of Journal LYMPHOLOGY.
+                                                                                                              5
+
+of blood capillary filtrate. Examples include               achieved by non-operative therapy. Because
+hepatic cirrhosis (ascites), hypoalbuminemia                lymphedema most often becomes a chronic,
+associated with nephrotic syndrome (anasar-                 generally incurable condition, it typically
+ca), right heart failure, and venous insufficien-           requires, as do other chronic disorders, lifelong
+cy of the leg (peripheral edema). Although the              care and attention along with psychosocial
+final pathway is the manifestation of tissue                support. The continued need for therapy does
+edema whenever lymph formation exceeds                      not mean a priori that treatment is unsatis-
+lymph absorption, the latter entities should                factory, although often it is less than optimal.
+properly be distinguished from lymphedema,                  For example, patients with diabetes mellitus
+which is characterized by decreased lymphat-                continue to need drugs (insulin) or special diet
+ic transport. In some syndromes where high                  (low calorie, low sugar) in order to maintain
+output lymphatic transport failure is long-                 metabolic homeostasis. Similarly, patients with
+standing, a gradual functional deterioration                chronic venous insufficiency require lifelong
+of the draining lymphatics may supervene                    external compression therapy to minimize
+and thereby reduce overall transport capaci-                edema, lipodermatosclerosis and skin ul-
+ty. A reduced lymphatic circulatory capacity                ceration (treatments may be preventative if
+then develops in the face of increased blood                initiated early). Compliance and adherence
+capillary filtration. Examples include recur-               of the patient is also essential to an improved
+ring infection, thermal burns, and repeated                 outcome. With chronic venous insufficiency,
+allergic reactions. These latter conditions are             poor patient compliance may be causally
+associated with "safety valve insufficiency" of             associated with progressive skin ulceration,
+the lymphatic system where the lymph load                   hyperpigmentation, and other trophic changes
+increases beyond "normal" flow eventually to                in the lower leg. Similarly, failure to control
+become overwhelmed and this can be consid-                  lymphedema may lead to repeated infections
+ered a mixed form of edema/ lymphedema and                  (cellulitis/lymphangitis), progressive elephan-
+as such is particularly troublesome to treat.               tine trophic changes in the skin, sometimes
+     Peripheral lymphedema associated with                  crippling invalidism and on rare occasions,
+chylous and non-chylous reflux syndromes is                 the development of a highly lethal lymphan-
+an infrequent but complex condition that re-                giosarcoma (widely known as Stewart-Treves
+quires specific diagnostic measures and treat-              syndrome).
+ment methods. There are other complicating                       The particular setting of examination, di-
+diagnoses (e.g., genetic with Turner or Noonan              agnosis, and treatment (clinic, hospital, prop-
+syndromes and an expanding spectrum of                      erly designed teams, etc.) as well as patient
+hereditary lymphedemas due to specific patho-               condition (ambulation, portability, fragility,
+genic genetic variants, or arterial/venous mal-             etc.) can all impact individualized patient care
+formations) which require special attention.                and treatment.
+     Another consideration in differential diag-
+nosis is lipedema. This condition of abnormal               Prevention/Early Identification and Treatment
+fat accumulation is not a lymphatic-related
+disease (at least in the early stages) and con-                  The promulgation of lists of risk factors
+ventional imaging results demonstrate normal                for secondary lymphedema has become a
+lymphatic function. In later stages (and with               highlighted issue due to publications of "do's
+morbid obesity), lymphedema can become a                    and don'ts." These are largely anecdotal and
+complicating comorbidity and lymphedema                     not sufficiently investigated. While some pre-
+treatments can be helpful.                                  cautions rest on solid physiological principles
+     In the treatment of "classical" lymphede-              (e.g., avoiding excessive heat on an "at risk"
+ma of the limbs (that is, peripheral lymphede-              limb, not having chemotherapy administered
+ma), improvement in swelling can usually be                 into the limb unless medically necessary, or
+
+
+
+Permission granted for single print for individual use.
+Reproduction not permitted without permission of Journal LYMPHOLOGY.
+6
+
+trying to avoid infections), others are less sup-           secondary damage. Further research is need-
+ported. Consistently, higher BMI (particularly              ed, and all such approaches and techniques
+>25), more extensive lymph node dissection,                 will have to be tempered by actual reductions
+more extensive surgical procedures, receipt of              in risk of developing lymphedema in specif-
+adjuvant therapy (including radiotherapy or                 ic populations based on emerging incidence
+chemotherapy) and being insufficiently active               evidence.
+are more firmly supported as risk factors for                    The question of when to monitor a patient
+the development of lymphedema. It must be                   has emerged for patients undergoing cancer
+noted that most published studies on incidence              treatment. Prospective surveillance models
+of secondary lymphedema of the extremities                  (PSM) have been developed to address early
+report less than 50% chance of developing                   detection of lymphedema leading to earlier
+lymphedema with nodal basin operations,                     and more efficacious treatment. The prospec-
+irradiation, and taxane-based chemotherapy                  tive surveillance model involves a preoperative
+(substantially less with more conservative                  cancer treatment assessment where baseline
+treatments, e.g., lumpectomy with sentinel                  limb volume and functional mobility mea-
+lymph node biopsy). Therefore, standard use                 surements are established. Some clinics with
+of some of these "don'ts" for risk reduction of             the availability of bioimpedance spectroscopy
+lymphedema may not be appropriate and pos-                  (BIS), bioimpedance analysis (BIA), tissue
+sibly subjects patients to therapies which are              dielectric constant (TDC), or other measur-
+unsupported until a point in the future when                ing devices may utilize these to detect early
+evaluation and prognostication evidence have                changes in tissue fluid accumulation. Patients
+demonstrated more clearly specific risks and                are then followed in a prospective manner
+the corresponding preventative measures.                    (e.g., 3-month intervals for the first year
+     The concepts of "primary" and "second-                 during and post- cancer treatment and then
+ary" prevention (including risk reduction) are              less frequently). Visits include psychosocial
+receiving increased attention with an emerging              support and reassessment of limb volume and
+new concept of "tertiary" prevention: "prima-               functional mobility to offer a comparison to
+ry" prevention to avoid lymphedema before                   baseline measures to enable identification of
+its onset; "secondary" prevention for lymph-                meaningful change associated with subclinical
+edema treatment at early stage; and "tertiary"              onset of lymphedema. Subclinical lymphede-
+prevention for lymphedema treatment at                      ma is measurable at low diagnostic thresholds
+late stage. Operative imaging techniques to                 (3-5% excess volume change from baseline
+lessen lymphatic system impact by identifying               in swelling not due to weight change – i.e.,
+lymphatic vessels to avoid during procedures                determined by measuring both limbs) and may
+are being carefully applied (also known as                  initially present in only one segment of the
+lymph vessel sparing procedures). Operative                 limb (which may be identified using TDC).
+preventative prophylactic lymphatic-venous                  Identifying subclinical lymphedema facilitates
+shunts (LYMPHA) as preventative measures                    early, conservative intervention and will likely
+in high-risk patients have been shown to                    reduce the chances that the condition will
+reduce incidence of post-operative lymphede-                progress to a chronic advanced stage. Identify-
+ma. Exercise, weight loss, self-manual lymph                ing and treating lymphedema at an early stage
+drainage (MLD), and education for prevention                offers greater treatment success and potential
+of secondary lymphedema continue to un-                     cost savings with conservative management
+dergo investigation and implementation with                 programs including compression garments,
+evidence from RCTs suggesting potential for                 education for self-care (brief anatomy, skin
+exercise to reduce risk of secondary lymph-                 care, weight control, etc.), self-MLD (and/
+edema. Radiation treatment techniques are                   or partner/care giver-MLD), psychosocial
+continually improving to reduce and isolate                 support, and exercise. Early identification may
+
+
+
+Permission granted for single print for individual use.
+Reproduction not permitted without permission of Journal LYMPHOLOGY.
+                                                                                                           7
+
+also offer the opportunity for lymphatic-ve-                are gradually being elucidated. Publications
+nous shunts or other surgical approaches in                 combining both physical (phenotypic) findings
+appropriate situations to offer a potential life-           with functional lymphatic imaging as well as
+long avoidance of further treatment.                        those classifications which propose inclusion
+                                                            of disability grading, assessment of inflamma-
+II.      STAGING OF LYMPHEDEMA                              tion, and even immunohistochemical changes
+                                                            determined by biopsy of nodes/vessels are
+     Most ISL members rely on a three stage                 forecasting the future evolution of staging. In
+scale for classification of a lymphedematous                addition, incorporation of genotypic informa-
+limb with recognition of Stage 0, which refers              tion, expanded from what is available in cur-
+to a latent or subclinical condition where                  rent screening, would further advance staging
+swelling is not yet evident despite impaired                and classification of patients with peripheral
+lymph transport, subtle alterations in tissue               (and other) lymphedemas.
+fluid/composition, and changes in subjective                     Within each Stage, a limited but nonethe-
+symptoms. It can be transitory and may exist                less functional severity assessment has utilized
+months or years before overt edema occurs                   simple excess volume differences assessed as
+(Stages I-III). Assessment of early fluid                   minimal (>5<20% increase in limb volume),
+changes can be accomplished using BIS, BIA                  moderate (20-40% increase), or severe (>40%
+or TDC analysis. Stage I represents an early                increase). Some clinics prefer to use >5-10%
+accumulation of fluid relatively high in protein            as minimal and >10-<20% as mild. Volume
+content (e.g., in comparison with "venous" ede-             differentials are most commonly determined
+ma) which subsides with limb elevation. Pit-                using circumferential measurement due to
+ting may occur. An increase in various types                wide availability and low cost. A flexible non-
+of proliferating cells may also be seen. Stage II           stretch tape is preferred and the truncated
+involves more changes in solid structures, limb             cone formula is utilized for calculating vol-
+elevation alone rarely reduces tissue swelling,             ume. Water displacement volumetry is used in
+and pitting is manifest. Later in Stage II, the             some clinics for arm or whole or lower leg vol-
+limb may not pit as excess subcutaneous fat                 umes although there are some practical limits
+and fibrosis develop. Stage III encompasses                 (e.g., size of limb, measuring areas near the
+lymphostatic elephantiasis where pitting can                root of the limb, and hygiene issues). Perom-
+be absent and trophic skin changes such as                  etry provides high accuracy by using infrared
+acanthosis, alterations in skin character and               light beams to estimate limb volume but the
+thickness, further deposition of fat and fibro-             equipment cost is significant for smaller clinics
+sis, and warty overgrowths have developed. It               and the hand and foot are not included. Prop-
+should be noted that a limb may exhibit more                er use requires that the limb is perpendicular
+than one stage, which may reflect alterations               when measuring since an oblique position will
+in different lymphatic territories.                         give incorrect volume. Finally, where bilateral
+     These Stages only refer to the physical                lymphedema is present, volume differences
+condition of the extremities. A more detailed               between the limbs should be interpreted with
+and inclusive classification needs to be for-               caution.
+mulated in accordance with improved un-                          Clinicians also incorporate factors such
+derstanding of the pathogenic mechanisms                    as extensiveness, occurrence of erysipelas
+of lymphedema (e.g., nature and degree of                   attacks, inflammation, and other descriptors
+lymphangiodysplasia, lymph flow perturba-                   or complications into their own individual
+tions, lymphatic valve maldevelopment, and                  severity determinations. Some clinics incor-
+nodal dysfunction as defined by anatomic                    porate physical measures using tonometry
+features and physiologic imaging and testing)               or fibrometry to help stage tissue changes in
+and underlying genetic disturbances, which                  lymphedema.
+
+
+
+Permission granted for single print for individual use.
+Reproduction not permitted without permission of Journal LYMPHOLOGY.
+8
+
+     Some healthcare professionals focus on                 is also used in some centers to assess lymph-
+disability rating utilizing the World Health                edema and associated tissue alterations).
+Organization's guidelines for the International             The diagnostic tool of isotope lymphography
+Classification of Functioning, Disability, and              (also termed lymphoscintigraphy) – for both
+Health (ICF). Quality of Life issues (psycho-               superficial and deep lymphatic vessels and
+social, social, emotional, physical disabilities,           lymph nodes – or more commonly lymphan-
+etc.) have demonstrated good reliability and                gioscintigraphy (despite its reference only to
+reproducibility in studies and are also utilized            the vessels) has proved extremely useful for
+by individual clinicians and groups, and note               depicting the specific lymphatic abnormal-
+that these can positively or negatively impact              ities. Where specialists in nuclear medicine
+therapy and compliance (maintenance).                       are available, lymphangioscintigraphy (LAS)
+                                                            has largely replaced conventional oil contrast
+III.     DIAGNOSIS                                          lymphography for visualizing the lymphatic
+                                                            network. Although LAS has not been strict-
+     An accurate diagnosis of lymphedema                    ly standardized (various radiotracers and
+is essential for appropriate therapy. In most               radioactivity doses, different injection vol-
+patients, the diagnosis of lymphedema can be                umes, intracutaneous versus subcutaneous or
+readily determined from clinical history and                subfascial injections, one or more injections,
+physical examination. In other patients, con-               different protocols of passive and active physi-
+founding conditions such as morbid obesity, li-             cal activity, varying imaging times, static and/
+podystrophy, lipedema, endocrine dysfunction,               or dynamic techniques, and the use of pro-
+venous insufficiency, unrecognized trauma,                  tocols for deep system imaging), the images,
+and repeated infection may complicate the                   which can be easily repeated, offer remarkable
+clinical picture. Moreover, in considering the              insight into lymphatic structural abnormal-
+basis of unilateral extremity lymphedema, es-               ities and (dys)function. The etiology is not
+pecially in adults, solid organ tumors (primary             necessarily determined from the image alone
+and/or metastatic), lymphomas, and soft tissue              but specific patterns are characteristic, e.g.,
+sarcomas which may obstruct or invade more                  lymphatic aplasia/hypoplasia vs. hyperplasia
+proximal lymphatics need to be considered.                  in primary lymphedema. LAS has been used
+For these reasons, a thorough medical eval-                 frequently in newborns and children obtaining
+uation is indispensable before embarking on                 reproducible, pre-clinical diagnostic images.
+lymphedema treatment. Co-morbid conditions                  When LAS is combined with single photon
+such as congestive heart failure, hypertension,             emission computed tomography (LAS-SPECT-
+thyroid abnormalities, cerebrovascular disease              CT), much higher resolution sequential 3-D
+including stroke, and vascular malformations                images are displayed with greater sensitivity
+may also influence the diagnosis and thera-                 and improved spatial localization.
+peutic approach undertaken.                                      LAS provides dynamic images of both
+                                                            lymphatics and lymph nodes in the peripheral
+A.       Imaging                                            and central system as well as semi-quantita-
+                                                            tive data on radiotracer (lymph) transport,
+     If the diagnosis of lymphedema or its                  and it does not require dermal injections of
+cause is unclear or in need of better definition            blue-dye (as often used for example in axillary
+for prognostic or therapeutic considerations,               or groin sentinel node visualization- correctly
+consultation with a clinical lymphologist or                termed lymphadenoscintigraphy). Blue dye
+referral to a lymphologic center if accessible              injection is occasionally complicated by an
+is recommended. Commonly, ultrasound                        allergic skin reaction or serious anaphylaxis.
+techniques are first used to assess and rule out            Moreover, clinical interpretation of lymphatic
+venous disease in many centers (although this               function after vital dye injection alone ("the
+
+
+
+Permission granted for single print for individual use.
+Reproduction not permitted without permission of Journal LYMPHOLOGY.
+                                                                                                           9
+
+blue test") can be misleading. Direct oil con-              precise evaluation of superficial lymphatic
+trast lymphography, which is cumbersome and                 flow in real-time without radiation exposure.
+occasionally associated with minor and even                 Prospective comparative studies demonstrate
+major albeit rare complications, is usually re-             that early changes in ICG lymphography find-
+served for more precise delineation and local-              ings predict lymphedema development and
+ization of complex conditions such as chylous               progression risk in cancer survivors.
+reflux syndromes and thoracic duct injury,                       DXA (also known as DEXA- dual-energy
+where LAS can provide at least preliminary                  X-ray absorptiometry) may help classify and
+diagnostic images for screening and later for               define a lymphedematous limb but its greatest
+monitoring treatment efficacy. Non-invasive                 potential use may be to assess the chemi-
+duplex-Doppler studies and occasionally phle-               cal composition of limb swelling (especially
+bography are useful for examining the deep                  increased fat deposition, which by its added
+venous system and supplement or complement                  weight can lead to muscle hypertrophy). US
+the evaluation of extremity edema.                          has found practical value in depicting the
+     Newer diagnostic, investigational, and po-             "dance" of the living adult worms in scrotal
+tentially interventional tools used to elucidate            lymphatic filariasis, and it is also increasingly
+lymphangiodysplasia/lymphedema syndromes                    used to highlight tissue alterations.
+(including in newborns and children) and
+structural alterations in the lymphatic system              B.         Genetics
+include magnetic resonance imaging (MRI).
+The MR repertoire encompasses MR lymphog-                        Genetic testing has become practical and
+raphy (MRL) and MR angiography (MRA)                        commercially available to screen for a number
+techniques both with (peripheral and intran-                of specific hereditary syndromes with discrete
+odal injections) and non-invasively without                 gene mutations such as lymphedema-distichi-
+contrast, which are continually being refined               asis (FOXC2), some forms of Milroy disease
+and utilized increasingly in specialized centers            [FLT-4 (VEGFR-3) VEGF-C] and hypotricho-
+around the world. These techniques and                      sislymphedema-telangiectasia (SOX18) as well
+special protocols provide images with high                  as a variety of chromosomal abnormalities,
+spatial resolution including structures deep in             notably Turner and Klinefelter syndromes and
+the body (i.e., thoracic duct). Other techniques            Trisomy 21. Other genes identified include
+utilized include computed tomography (CT),                  (not exhaustive list): generalized lymphatic
+CT lymphograms, 3-D oil contrast lymphog-                   dysplasia (Hennekam syndrome) (CCBE1,
+raphy, ultrasonography (US), indirect (water                FAT4), inherited lymphedema types 1C
+soluble) lymphography (IL), and fluorescent                 (GJC2) and 1D (VEGFC), lymphedema- cho-
+microlymphangiography (FM).                                 anal atresia (PTPN14), Emberger (GATA2),
+     Another technique gaining expanded use                 oculodento-digital syndrome (GJA1), lymph-
+around the world is near infrared fluorescent               edema-lymphangiectasia (HGF), hereditary
+imaging (NIRF) (also known as ICG lym-                      lymphedema III (PIEZO1), microcephaly
+phography). NIRF has been increasingly used                 lymphoedema chorioretinal dysplasia syn-
+in multiple centers for examining the superfi-              drome (KIF11), and mutations in CELSR1.
+cial peripheral lymphatic system and partic-                The future holds promise that such testing
+ularly in assisting identification of functional            for other known pathogenic mutations and
+lymphatic vessels for lymphatic bypass oper-                chromosomal defects as well as newly discov-
+ations; visualizing lymph nodes for mapping                 ered ones, combined with careful phenotypic
+and reverse mapping in the operative setting                descriptions including lymphatic imaging, will
+in cancer patients; and to minimize lymphat-                become routine to classify familial lymph-
+ic injuries during suction-assisted lipectomy               angiodysplastic (more correctly, lymphan-
+for lymphedema at late stage. NIRF allows                   gioadenodysplastic since nodes can also be
+
+
+
+Permission granted for single print for individual use.
+Reproduction not permitted without permission of Journal LYMPHOLOGY.
+10
+
+involved) syndromes and other congenital/                   system. These more refined classifications may
+genetic-dysmorphogenic disorders character-                 impact diagnosis (perhaps allowing proactive
+ized by lymphedema, lymphangiectasia, and                   rather than reactive care), future treatments
+lymphangiomatosis. Algorithms have been                     (targeted therapy), and enhanced quality
+developed and published to assist clinicians in             of life as precision personalized medicine is
+phenotyping and directing genetic analysis.                 applied to lymphatic diseases. These newer
+      There are many other clinical syndromes               techniques will also contribute to prenatal
+with lymphedema as a component. Some of                     diagnosis and, combined with multimodal
+these have genes identified [Noonan (PTPN11,                imaging, to the early diagnosis and potential
+KRAS, SOS1, and others); Proteus syndrome                   treatment of congenital lymphatic disorders.
+(AKT1); CLOVES syndrome (congenital
+lipomatosis overgrowth, vascular malforma-                  C.         Biopsy/Lymph Node Exam
+tion, epidermal nevi, scoliosis/skeletal/spinal
+abnormalities) (PIK3CA); Parkes-Weber syn-                       Caution should be exercised before remov-
+drome (capillary malformation-arteriovenous                 ing enlarged regional lymph nodes in the set-
+malformation) (RASA1); and lymphatic re-                    ting of longstanding peripheral lymphedema
+lated hydrops fetalis (LRHG) (EPHB4)] while                 as the histologic information is seldom helpful,
+others still have no known associated genes.                and such excision may aggravate distal swell-
+It is important to consider that the number of              ing. Fine needle aspiration with cytological
+de novo germinal variations in these genes is               examination by a skilled pathologist is a useful
+increasing.                                                 alternative if malignancy is suspected. Use of
+      Genetic testing is generally focused on pri-          sentinel node biopsy in the axilla or groin for
+mary lymphedema. However, recent and ongo-                  staging malignancies such as breast and mela-
+ing limited investigations in secondary lymph-              noma has substantially lessened the incidence
+edema have suggested genetic (and epigenetic)               of peripheral lymphedema by discouraging
+predispositions underlying increased risk                   removal of normal lymph nodes; however, an
+of developing secondary lymphedema after                    increased number of sentinel nodes taken may
+treatments injuring or otherwise compromis-                 reduce this protective effect.
+ing the lymphatic system. Genetic information
+can be useful in counseling patients (modes of              IV.        TREATMENT
+inheritance and potential to pass on defect to
+future generations), for prognosis and other                     Therapy of peripheral lymphedema is
+potential complications (e.g. GATA2), and for               divided into conservative (non-operative) and
+development of targeted therapies.                          operative methods. Applicable to both meth-
+      Advances in genetic techniques such as                ods is an understanding that meticulous skin
+genome-wide association studies (GWA study,                 hygiene and care (cleansing, low pH lotions,
+or GWAS), whole genome sequencing (WGS),                    emollients) is of the utmost importance to the
+and whole exome sequencing (WES) are                        success of virtually all treatment approaches,
+rapidly accelerating genetic analysis literally             as is patient education and training. Basic
+on a daily basis. A targeted Next Generation                motion exercises of the extremities (muscle
+Sequencing panel examining all known genes                  pumping exercises), preferably performed as
+associated with lymphedema is currently the                 daily life activities (such as, walking, using
+most common choice for analyzing heredi-                    stairs over escalators, hanging clothes on the
+tary forms of lymphedema. As costs decrease,                line rather than using the dryer), are useful
+more patients will undergo such analysis and                and could further support external limb com-
+more single, multiple, and interacting variants             pression. However, for cancer patients with
+will be identified to help classify individuals             lymphedema it may also be important that
+with genetic defects related to the lymphatic               exercise at least on a moderate level (increas-
+
+
+
+Permission granted for single print for individual use.
+Reproduction not permitted without permission of Journal LYMPHOLOGY.
+                                                                                                             11
+
+ing pulse frequency), is performed daily. Limb              care, continued exercise, and MLD as needed.
+elevation (specifically bed rest if indicated                         Prerequisites of successful combined
+for patients needing intensive rehabilitation)              physiotherapy are the availability of phy-
+may also be helpful to the appropriate patient              sicians (i.e., clinical lymphologists), nurses,
+undergoing treatment.                                       physiotherapists, occupational and other
+     As previously stated, even widely used                 therapists specifically trained, educated, and
+treatment methods have yet to undergo                       experienced in this method. In addition, fac-
+sufficient meta-analysis of multiple studies                tors such as the acceptance of health insurers
+which have been rigorous, well-controlled, and              to underwrite the cost of treatment, willing-
+with sufficient followup. Satisfactory studies              ness of biomaterials industry to produce and
+comparing different methods of treatment do                 provide high quality affordable products, and
+not exist, and advocates of all methods report              an understanding of the holistic needs of each
+that earlier treatment is optimal for the best              patient impact success. Compressive bandag-
+results. It is also worth considering that a                es, when applied incorrectly, can be harmful
+combination of therapies may be best for some               and/or useless. Accordingly, such multilayer
+patients but these combinations are even less               wrapping should be carried out only by profes-
+frequently studied in comparison trials. Use of             sionally trained personnel. Multiple manufac-
+various treatment options is appropriate for                tured devices/garments to assist in compres-
+neonates and children with careful consider-                sion (i.e., pull on, velcro-assisted, quilted, etc.)
+ation from the care team. Treatments can take               may relieve some patients of the bandaging
+place in the outpatient setting, a day hospital,            burden and facilitate compliance with the full
+or during hospitalization as judged appropri-               treatment program by offering compression
+ate by the medical team for each patient.                   alternatives. Some clinics find that patient
+                                                            self-care and risk reduction strategies help
+A.        Non-Operative Treatment                           maintain edema reduction (although neither
+                                                            of these has undergone rigorous study). These
+1.        Physical therapy and adjuvants                    strategies can be provided by patient educa-
+                                                            tion including brief anatomy and physiology,
+     a.   Complex Decongestive Therapy                      compression treatment (care and aids), meth-
+                                                            ods for self-check of status, skincare, self-mas-
+          CDT also known as Complete                        sage, weight control, and exercise.
+Decongestive Therapy (CDT) or Combined                                CDT may also be of use for palliation
+Physical Therapy (CPT) or Complex Decon-                    as, for example, to control secondary lymphede-
+gestive Physiotherapy (CDP) (among others)                  ma from tumor-blocked lymphatics. Treatment
+is backed by longstanding experience and gen-               is typically performed in conjunction with
+erally involves a two-stage treatment program               chemo- or radiotherapy directed specifically at
+that can be applied to both children and adults             producing tumor regression. Only theoretically,
+for most areas of the body. The first phase                 massage and mechanical compression could
+consists of skin care, a specific light manual              mobilize dormant tumor cells; however lymph
+massage (manual lymphatic drainage-MLD)                     flow does not stop after a cancer diagnosis and
+and sometimes deeper techniques with pa-                    only diffuse carcinomatous infiltrates which
+tients classified above Stage I, using muscle               have already spread to lymph collectors as
+pumping exercises, and compression typically                tumor thrombi might be mobilized by such
+applied with multilayered bandage wrap-                     treatment. Because the long-term prognosis
+ping. Phase 2 (initiated promptly after Phase               for such an advanced patient is usually dismal,
+1) aims to conserve and optimize the results                any reduction in morbid swelling is nonetheless
+obtained in Phase 1. It consists of compression             decidedly palliative.
+by a low-stretch elastic stocking or sleeve, skin                     A prescription for elastic garments
+
+
+
+Permission granted for single print for individual use.
+Reproduction not permitted without permission of Journal LYMPHOLOGY.
+12
+
+(custom made with correctly-obtained specific               robust studies to generate convincing evidence
+measurement if needed) to maintain lymph-                   of benefit. This is disputed by several sys-
+edema reduction after CDT is essential for                  tematic reviews with meta-analysis conclud-
+long-term care. Preferably, a physician (some-              ing that MLD (in breast cancer-related arm
+times with assistance of highly-skilled special-            lymphedema) has no or very little additive
+ists) should prescribe the compression garment              effect on compression therapy.
+to avoid inappropriate usage in a patient with                       There are some published reports
+medical contraindications such as arterial                  supporting the use of manual lymph drainage
+disease, painful postphlebitic syndrome, occult             as a monotherapy for lymphedema preven-
+neoplasia, and acute infections and some skin               tion after cancer surgery while others do not
+disorders. Generally the highest compression                support its value.
+level tolerated (~20-60 mmHg) by the patient                     d. Intermittent pneumatic compres-
+is likely to be the most beneficial. More clinics           sion. Pneumomassage is usually a two-phase
+prefer to use only flat-knit garments while oth-            program. After external compression therapy
+ers use both flat and round-knit garments (and              is applied, preferably by a sequential gradient
+combinations). Sometimes patient selection,                 "pump," form-fitting low-stretch elastic stock-
+choice, physical ability as well as cost need               ings or sleeves are used to maintain edema
+to be taken into consideration particularly                 reduction. Newer devices that simulate manu-
+when assessing mobility and future compli-                  al massage and design improvements for area
+ance (including use of alternative compression              of coverage, ease of use, and sequence/actions
+devices).                                                   may increase patient compliance particularly
+          Failure of CDT should be confirmed                for those who cannot complete both phases
+only when intensive non-operative treatment                 of CDT (e.g., exercise with compression).
+in a clinic specializing in management of                   Displacement of edema more proximally in
+peripheral lymphedema and directed by an                    the limb and genitalia and the development of
+experienced clinical lymphologist has been                  a fibrosclerotic ring at the root of the extremity
+unsuccessful.                                               with exacerbated obstruction of lymph flow
+      b. Compression garments alone have                    need to be assiduously avoided by careful
+been successfully used for treatment partic-                observation. Some compression options now
+ularly in breast cancer-related lymphedema                  include treating the root of the limb as part of
+and for prevention at first indication of fluid             the individual protocols/devices. Combining
+buildup and minimal volume change as well                   pneumatic compression with manual lymph
+as in early Stage I. Data on the garment alone              drainage has been suggested but not sufficient-
+use for later stages are very limited.                      ly evaluated.
+      c. Massage alone. Performed as an iso-                     e. Exercise programs. Exercise as a form
+lated technique, classical massage or effleu-               of treatment for lymphedema has received
+rage generally does not appear to be of benefit.            increasing attention over the past decade and
+Moreover, if performed overly vigorously,                   particularly for women with unilateral breast
+massage (classical or others, not MLD) may                  cancer-related lymphedema. Pre-post and
+damage lymphatic vessels or their attachment                randomized, controlled trials have evaluated
+to surrounding tissues.                                     the effect of a range of exercises [aerobic exer-
+          There are several published studies               cise including walking (normal, Nordic, pole),
+demonstrating the utility of MLD monother-                  aquatic exercise, exercise using ergometer; re-
+apy in specific populations (i.e., early breast             sistance exercise using free, body and machine
+cancer-related lymphedema and newly estab-                  weights and therabands; other including yoga
+lished and/or mild lymphedema particularly                  and tai chi] and intensities (including moder-
+in younger children without adipose or fibrous              ate and vigorous), conducted under supervised
+tissue deposition) but there is a need for more             and unsupervised conditions on lymphedema
+
+
+
+Permission granted for single print for individual use.
+Reproduction not permitted without permission of Journal LYMPHOLOGY.
+                                                                                                           13
+
+status and lymphedema- associated outcomes.                 sion have been advocated for and successfully
+While the evidence base is unable to show                   used by practitioners in Europe and Asia for
+declines in lymphedema through exercise, the                thousands of patients, the role and value of
+evidence consistently supports that participa-              thermotherapy alone without compression in
+tion in physical activity including exercise is             the management of lymphedema remains un-
+safe and will likely improve lymphedema-as-                 clear and further rigorous studies are needed.
+sociated symptoms as well as function, fitness              Studies have shown that under bandaging the
+and quality of life.                                        skin temperature slowly rises, and it is pro-
+     f. Kinesiotaping: Kinesiotaping shows                  posed that this lower level thermal therapy is
+promise as a form of lymphedema treatment,                  helpful. Some centers use far infrared light as
+with studies involving women with breast can-               an adjunct to bandaging and report improved
+cer-related lymphedema showing volume de-                   outcomes.
+clines following use. However, when compared                    l. Wringing out. "Tuyautage" or wring-
+with other forms of lymphedema treatment,                   ing out performed with bandages or rubber
+the benefit is less clear.                                  tubes is probably injurious to lymph vessels
+     g. Elevation. Simple elevation (partic-                and should seldom if ever be performed.
+ularly by bed rest) of a lymphedematous limb
+often reduces swelling in specific patients,                2.         Drug therapy
+particularly in Stage I of lymphedema. If
+swelling is reduced by antigravimetric means,                    a. Diuretics. Diuretic agents are of
+the effect should be maintained by wearing of               limited use during the initial treatment phase
+a low-stretch, elastic compression garment.                 of CDT and should be reserved for patients
+Some centers use bed rest for intensive vas-                with specific co-morbid conditions or compli-
+cular rehabilitation for: advanced stages with              cations. Long-term administration of diuretics,
+comorbidity, those in need of 24 hour monitor-              however, is discouraged for it is of marginal
+ing, patients lacking the ability for transport,            benefit in treatment of peripheral lymph-
+and patients without a social support network.              edema and potentially may induce fluid and
+     h. Low level laser. Reports with small                 electrolyte imbalance. Diuretic drugs may be
+numbers and limited meta-analysis have                      helpful to treat effusions in body cavities (e.g.,
+demonstrated efficacy of low level laser use                ascites, hydrothorax) and in protein-losing
+for patients with lymphedema. More robust                   enteropathy as well as in those patients un-
+changes are noted with reduction of pain and                dergoing palliative care. Patients with periph-
+mobility of tissue rather than just pure lymph-             eral lymphedema from malignant lymphatic
+edema volume reduction.                                     blockage may also derive benefit from a short
+     i. Aquatic therapy/water-based exercise                course of diuretic drug treatment.
+programs have shown some success due to the                      b. Benzopyrones. Oral benzopyrones,
+natural compression of water when exercising                which have been reported to hydrolyze tissue
+and improvements to skin condition. Not all                 proteins and facilitate their absorption while
+patients (particularly those with wounds or                 stimulating lymphatic collectors, are neither
+skin conditions) are candidates for aquatic                 an alternative nor substitute for CDT. The
+therapy.                                                    exact role for benzopyrones (which include
+     j. For appropriate patients, adjuvant                  those termed rutosides and bioflavonoids) as
+devices such as ultrasound or shockwaves                    an adjunct is still not definitively determined
+may be useful to help break up fibrous tissue               including appropriate formulations and dose
+although no large patient series have been                  regimens. Coumarin, one such benzopyrone,
+published.                                                  in higher doses has been linked to liver toxicity
+     k. Thermal therapy. Although combina-                  particularly in some patients with specific liver
+tions of heat, skin care, and external compres-             enzyme defects.
+
+
+
+Permission granted for single print for individual use.
+Reproduction not permitted without permission of Journal LYMPHOLOGY.
+14
+
+     c. Antimicrobials. Antibiotics should be               tered long-term.
+administered for bona fide superimposed acute                    g. Diet. No special diet has proved to be
+lymph stasis-related inflammations (cellulitis/             of therapeutic value for most uncomplicated
+lymphangitis or erysipelas). Typically, these               peripheral lymphedema. While higher body
+episodes are characterized by erythema, pain,               mass index has been consistently associated
+high fever and, less commonly, even septic                  with increased risk of developing lymphedema,
+shock. Mild skin erythema without systemic                  to date, there is only very limited evidence to
+signs and symptoms does not necessarily signi-              support that weight loss may improve lymph-
+fy bacterial infection. If repeated limb "sepsis"           edema. Nonetheless, weight loss is likely to
+recurs despite optimal CDT, the administra-                 contribute to improvements in lymphedema-as-
+tion of a prophylactic penicillin or broad spec-            sociated symptoms as well as other benefits
+trum antibiotic is recommended (continuance                 (e.g., improved body image, insulin control)
+depends on medical risk/benefit assessment).                which would be relevant to the majority of
+Fungal infection, a common complication of                  those with primary or secondary lymphedema.
+extremity lymphedema, can be treated with                   Restricted fluid intake is not of demonstrated
+antimycotic drugs. In most instances, washing               benefit for peripheral lymphedema. In chylous
+the skin using a mild disinfectant followed by              reflux syndromes (e.g., protein/lymph-losing
+antibiotic-antifungal cream is helpful. Short-              enteropathy as in intestinal lymphangiectasia),
+term use of anti-histamines and steroids in                 a diet as low as possible or even free of long-
+selected patients with inflammation has also                chain triglycerides (absorbed via intestinal
+been utilized by some practitioners.                        lacteals) and high in short and medium chain
+     d. Filariasis. To eliminate microfilariae              triglycerides (e.g., MCT absorbed via the portal
+from the bloodstream in patients with lym-                  vein) is of benefit especially in children. Specific
+phatic filariasis, the drugs diethylcarbamazine,            vitamin supplements may be needed in very
+albendazole, or ivermectin are recommended.                 low or no fat diets.
+Killing of the adult nematodes by these drugs                    h. In complex patients with lymphat-
+(macrofilaricidal effect) is variable and may               ic system and segmental body or specific
+be associated with an inflammatory-immune                   soft tissue overgrowth (e.g., Proteus, Klip-
+response by the host with aggravation of                    pel-Trenaunay, and other syndromes) asso-
+lymphatic blockage. Short- and long-term                    ciated with lymphedema, specialized centers
+efficacy of antibiotics (e.g., penicillin or doxy-          may utilize an array of pharmacotherapeutic
+cycline) separate from vigorous skin hygiene                options such as octreotide, sirolimus, OK432,
+in patients with lymphatic filariasis to prevent            rapamycin and other anti-proliferative agents
+elephantine trophic changes is gaining wider                (these treatments are particularly used in
+acceptance, and some work has demonstrated                  newborns and children). There have been
+that doxycycline can reduce the incidence of                some reports of patients developing lymphede-
+lymphedema.                                                 ma after use of rapamycin and sirolimus, and
+     e. Mesotherapy. The injection of hyal-                 serious side effects can be seen.
+uronidase or similar agents to loosen the extra-                 i. Curcumin. Some centers are exam-
+cellular matrix is of unclear benefit and may               ining the use of curcumin. There are some
+actually be harmful.                                        studies that report its inflammatory protective
+     f. Immunological therapy. Efficacy of                  effect when sirolimus is administered.
+boosting immunity by intraarterial injection of
+autologous lymphocytes is unclear and needs                 3.         Psychosocial Rehabilitation
+independent, reproducible evidence.
+         Recent trials of anti-inflammatory                     The magnitude of the relationships
+pharmaceuticals have not yet demonstrated                   between negative psychological and psy-
+efficacy and may face drawbacks if adminis-                 chosocial factors and lymphedema has been
+
+
+
+Permission granted for single print for individual use.
+Reproduction not permitted without permission of Journal LYMPHOLOGY.
+                                                                                                         15
+
+documented as a cause of non-adherence to                   treatment within specific guidelines is now a
+self-management as well as diminution in                    preferred approach depending on the treat-
+quality of life. Psychosocial support, quality of           ment team's training and the availability of
+life assessment- improvement programs, and                  various treatments. As is the case with any
+patient self-efficacy assessments are integral              category of surgery, differences in surgical
+components of sound lymphedema treatment.                   treatment will exist among different centers
+                                                            and patients are strictly selected.
+B.       Operative Treatment
+                                                            1.         Microsurgical Procedures
+     Operations designed to alleviate pe-
+ripheral lymphedema by enhancing lymph                           This operative approach is designed to
+return have gained increasing acceptance and                augment the rate of return of lymph to the
+application worldwide but in advanced stages                blood circulation. The surgeon should be well-
+usually require long-term combined physio-                  schooled in both microsurgery and lymphol-
+therapy and/or other compression after the                  ogy and utilize appropriate imaging tools to
+procedure to maintain edema reduction and                   document efficacy short and longer term. In
+ensure vascular/shunt patency. These micro-                 general, microsurgical procedures must be
+surgical and supermicrosurgical procedures                  performed with special caution in children
+currently provide the closest chance for a cure             and some forms of primary lymphedema. Ex-
+of lymph flow disorders. In carefully selected              perience with these procedures suggests that
+patients following full evaluation, these pro-              improved and longer lasting benefit is forth-
+cedures act as an adjunct to CDT (typically                 coming if performed early in the course of
+after the fluid component has been removed                  lymphedema before damage to the lymphatic
+and pitting is absent) or are undertaken                    wall and impaired lymphatic contractility
+when CDT has clearly been unsuccessful.                     have occurred.
+Liposuction, lymphaticovenous anastomosis                        a. Derivative methods. Lymphatic-ve-
+and lymph node transfer operations coupled                  nous (or lymphovenous) anastomoses (LVA)
+with appropriate lymphedema therapy and                     are currently in use at many centers around
+compression are effective when used to treat                the world. These procedures have undergone
+properly selected lymphedema patients and                   confirmation of long-term patency (in some
+performed by an experienced lymphedema                      cases more than 25 years) and demonstration
+surgeon. Recent research has also focused on                of improved lymphatic transport (by objective
+preventive use in high risk patients. Imaging is            physiologic measurements of long-term effica-
+indispensable to identify functional lymphatic              cy). Multiple lymphatic-venous anastomoses
+vessels or nodes to manipulate. As with the                 in a single surgical site, with both the super-
+physical methods described above, proponents                ficial and deep lymphatics, allow the creation
+report that greater success is found in patients            of a positive pressure gradient (lymphatic-ve-
+with early (Stage I) lymphedema (with the no-               nous) and evade the phenomenon of gravita-
+table exception of liposuction, which is usually            tional reflux without interrupting the distal
+performed in later stages).                                 peripheral superficial lymphatic pathways.
+     Worldwide, surgical resection (in sever-               Some centers particularly in areas of endemic
+al forms) is the most widely used operative                 filariasis also practice lymph nodal-venous
+technique to reduce the bulk of lymphedema                  shunts as a derivative method. Multiple cen-
+(especially in genitalia cases). Liposuction to             ters are using LVA (LYMPHA) as a preventa-
+reduce excess fat deposition is becoming more               tive measure in high risk patients.
+widespread with surgeons in multiple coun-                       b. Reconstructive methods. These
+tries now performing the procedure.                         sophisticated techniques involve the use of a
+     In some specialized centers, operative                 lymphatic collector (LLA) or an interposition
+
+
+
+Permission granted for single print for individual use.
+Reproduction not permitted without permission of Journal LYMPHOLOGY.
+16
+
+vein segment (LVLA) to restore lymphatic                    liposuction, which facilitates breaking down
+continuity in lymphedema conditions due to a                fibrosis especially in leg lymphedema. Similar
+locally interrupted lymphatic system. Autolo-               to conservative treatment, long- term manage-
+gous lymph vessel transplantation mimics the                ment requires strict patient adherence with
+normal physiology and has shown long-term                   dedicated continuous wearing of low-stretch,
+patencies of more than 20 years. This proce-                flat-knitted elastic compression garments,
+dure generally has been restricted to unilateral            which may be challenging in warmer cli-
+peripheral lymphedema of the leg due to the                 mates and pose financial considerations. This
+need for one healthy leg to harvest the graft               surgical technique and followup are very
+but it has also been utilized for bilateral upper           different from cosmetic liposuction and should
+extremity lymphedema where two healthy legs                 be performed by an experienced team of
+are available for lymphatic harvesting. The                 surgeons, nurses, occupational therapists and
+LVLA method is especially indicated in selected             physiotherapists to obtain and sustain optimal
+patients with phlebolymphedema characterized                outcomes.
+by stable and persistent venous hypertension,                    Liposuction for lymphedema does not
+contraindicating derivative methods.                        alter the need for compression therapy beyond
+                                                            appropriate garment after surgery. Rather,
+2.       Vascularized Lymph Node Transplan-                 continued patient compliance with conserva-
+tation                                                      tive treatment and compression both before
+                                                            and after lymphedema liposuction are essen-
+     Transplantation of superficial lymph                   tial for successful results. Lymphedema sur-
+nodes from an uninvolved area together                      gery options may now include the possibility
+with the vascular supply (VLNT) to the site                 of combining microsurgery with lymph vessel
+of lymphadenectomy for cancer has been                      sparing liposuction in an effort to decrease the
+proposed both as a preventive and therapeutic               need for continual compression.
+approach to limb lymphedema.                                     As far as treatment of peripheral lymph-
+     There have been several reports of lymph-              edema at late stage is concerned, an effective
+edema developing in the donor area. Surgeon                 lymph vessel sparing procedure, by intraop-
+experience and the use of reverse lymphatic                 erative mapping of the superficial-subdermic
+mapping may decrease this risk. Vascularized                lymphatic network through ICG lymphog-
+lymph node transfer procedures have been                    raphy, defined fibro-lipo-lymph-aspiration,
+shown to improve patient outcomes in several                without tourniquet and previous tumescent
+studies but the effect may also depend on pro-              infiltration of an appropriate solution to min-
+nounced scar release in the axilla increasing               imize the bleeding, is showing some promise,
+the venous outflow.                                         especially after microsurgical reconstruction.
+
+3.       Liposuction                                        4.         Surgical Resection
+
+    Liposuction (or suction-assisted lipec-                      A much less used operation these days is
+tomy) using a variety of methods has been                   "debulking," that is, removal of excess skin and
+shown to completely reduce non-pitting,                     subcutaneous tissue of the lymphedematous
+primarily non- fibrotic, extremity lymphede-                limb. The major disadvantage is that superfi-
+ma due to excess fat deposition (which has                  cial skin lymphatic collaterals are removed or
+not responded to non-operative therapy) in                  further obliterated. It can also be associated
+both primary and secondary lymphedema                       with significant scarring, risk of infection, and
+(and more limited studies in lipedema). Even                difficult wound healing. After intensive CDT,
+patients with signs of fibrosis can benefit from            redundant skin folds may require excision.
+the procedure when using power-assisted                     Debulking has been reported to be useful
+
+
+
+Permission granted for single print for individual use.
+Reproduction not permitted without permission of Journal LYMPHOLOGY.
+                                                                                                        17
+
+mainly in treatment of the most severe forms                venous malformations) are often treated with a
+of fibrosclerotic lymphedema (elephantiasis)                variety of surgical procedures (as well as with
+and in cases of advanced genital lymphede-                  pharmacotherapy) in highly specialized centers.
+ma. In the case of filariasis (Grade 3 and 4),                  Rehabilitation and even habilitation are
+reduction surgery in one or two stages (with-               particularly necessary components of care.
+out skin grafting) may be performed after nod-
+al-venous shunts if needed. Caution should be               C.         Treatment Assessment/Followup
+exercised in removing enlarged lymph nodes
+or soft-tissue masses (e.g., lymphangiomas)                      In each patient undergoing therapy, an
+in the affected extremity as lymphedema may                 assessment of limb volumes should be made
+worsen thereafter. Operations including the                 before, during and after treatment. This vol-
+Charles and Thompson procedures are seldom                  ume can be measured by water displacement,
+used now that other options are available.                  derived from circumferential measurements
+                                                            using the truncated cone formula, or by per-
+5.      Tissue Engineering/Lymphatic (Re)                   ometry. The excess volume (affected limb - un-
+Vascularization                                             affected limb) should be measured since limb
+                                                            volumes vary with weight increase/decrease of
+     The implantation of silicone tubes as arti-            the patient as well as whether measurements
+ficial lymphatics to transport lymph or engi-               are made in the morning or afternoon. Only
+neered tubes/devices to promote new substitute              measuring the affected extremity can lead
+lymphatic growth have not yet documented                    to unreliable values. However, in lower limb
+long-term value in large studies, and these tech-           lymphedema following cancer treatment,
+niques are continuing to undergo investigation.             both limbs may be affected and therefore each
+     Omental transposition, enteromesenteric                limb needs to be followed individually. It is
+bridge operations, and implantation of threads              desirable, however, that treatment outcomes
+to promote perilymphatic spaces (substitute                 be reported in a standardized manner in order
+lymphatics) have not shown long-term value                  to compare and contrast the effectiveness of
+and should be avoided since convincing pub-                 various treatment protocols.
+lished evidence is lacking.                                      Additional assessments by imaging
+                                                            modalities such as LAS and NIRF to docu-
+6.      Other Specialized Considerations                    ment functional changes in lymphatic drain-
+Including Interventional Therapy                            age, DXA, US, or MR imaging to determine
+                                                            volume and tissue compositional changes,
+     Chylous and non-chylous reflux syn-                    tonometry/indurometry, BIS or BIA, and
+dromes are special disorders, which may                     tissue dielectric constant to examine tissue
+manifest as peripheral lymphedema. These                    alterations and fluid changes add scientific
+conditions may benefit from CT- or MR-guid-                 rigor to analysis of the outcomes of different
+ed sclerosis, other interventional radiology                treatment approaches.
+techniques, or operative ligation of visceral                    Health Related Quality of Life (HRQOL)
+dysplastic lymphatics, and/or lymphatic to ve-              and patient perceptions of self-efficacy
+nous diversion to close and decompress leak-                assessed by a variety of validated disease
+ing lymphatic vessels including the thoracic                specific instruments and visual analog scales
+duct after delineation by multimodal imaging.               of patients with lymphedema should be used
+Assessment in children and even pre-natally is              in conjunction with physiological measures to
+an expanding area of interest.                              evaluate effects of treatment.
+     Extratruncal disease (i.e., lymphatic mal-                  Pinpointing timing and longevity of
+formations outside of the main trunks which                 assessments is an area that is recognized as a
+may or may not be associated with arterial/                 need but there are no good guidelines or model
+
+
+
+Permission granted for single print for individual use.
+Reproduction not permitted without permission of Journal LYMPHOLOGY.
+18
+
+systems in place. Pre-treatment and pre-oper-               translating new discoveries and potentially
+ative assessment (in the Prospective surveil-               improved approaches more rapidly into the
+lance model- see Section I) should continue                 clinical arena. Ongoing epidemiologic studies
+after treatment and likely should be life-long              on the incidence and prevalence of lymphede-
+to include HRQOL, self-efficacy, and self-reg-              ma regionally and worldwide will benefit from
+ulation measures. Data on long-term results                 the further development and establishment
+will be useful in comparing treatment options               of standardized, secure, intercommunicating
+and success as well as enable patients to have              database-registries. Assessment of lymph-
+the opportunity to participate in best-practice             edema risk and steps for lymphedema pre-
+decisions.                                                  vention in different groups of at risk patients
+                                                            need to be determined. Studies might include
+D.       Molecular Therapy                                  research on: minimizing or preventing second-
+                                                            ary lymphedema through revised operative/
+      Despite ongoing basic research and clin-              nodal sampling protocols (e.g., advances in
+ical trials, molecular treatments (e.g., admin-             sentinel node biopsy or precise anatomical
+istration of VEGF-C or other lymphatic-tar-                 delineation of derivative pathways); vec-
+geting molecules by various methods) have not               tor control (as demonstrated in China) and
+yet been significantly translated to the clinic.            prophylactic drugs for filariasis; identification
+While the addition of lymphatic growth (or                  of patients with heritable genetic defects for
+inhibitory) factors is attractive, the applica-             lymphangiodysplasia (lymphedema); and use
+bility of these treatments is uncertain at this             of massage or compression where lymphatic
+time and should be examined carefully in the                drainage is subclinically impaired as clinically
+context of co-morbid conditions (e.g., presence             documented by palpated increased skinfold
+of cancer, cancer treatments, drug regimens).               thickness, small amounts of excess volume,
+It is also apparent when examining the growth               and BIS and TDC values outside normal
+of new lymphatics in the laboratory that for                range, as well as imaging techniques (e.g.,
+all but the smallest microlymphatics, a milieu              LAS-SPECT-CT, MR, and NIRF). Research
+of growth (and other) factors may be needed                 in molecular lymphology including lymphatic
+for initiation and development of functional                system genomics, proteomics, metabolemics,
+macrolymphatics (and even more for the de                   and "systemomics" should be greatly expand-
+novo development of lymph nodes).                           ed. With the cellular and molecular basis of
+                                                            lymphedema-associated syndromes better
+V.       RESEARCH AGENDA                                    defined, an array of specific biologically-based
+                                                            treatments including modulators of lymphatic
+     While recognizing and encouraging indi-                growth and function should become available.
+vidual investigators to pursue many different               Improved imaging techniques and physio-
+avenues of research including those specifical-             logical tests need to be devised to allow more
+ly suggested in this document, some general                 precise non-invasive methods to measure
+directions can be formulated. Diagnostic                    lymph flow dynamics and lymphangion activ-
+techniques need to be continually explored,                 ity. Advances in imaging including molecular
+developed, and standardized. Treatment                      imaging techniques as well as development of
+options need confirmation and improvements                  new and improved technologies (e.g., pho-
+with a particular focus on personalization, and             toacoustics) to visualize the superficial and
+better delineation of prognosis. Multinational              deep lymphatic system and soft tissues need
+collaborative studies and innovative adaptive               to continue. These may become point- of-care
+clinical research designs in addition to ran-               devices available to all or even encompass
+domized controlled trials need to be carried                wearable sensors for both early detection and
+out and further encouraged with the aim of                  treatment assessment sent digitally through
+
+
+
+Permission granted for single print for individual use.
+Reproduction not permitted without permission of Journal LYMPHOLOGY.
+                                                                                                          19
+
+a mobile phone or over the internet. Telelym-               REFERENCES
+phology consultations and followup linkage
+of specialized centers to remote areas should               1.  International Society of Lymphology Executive
+enhance future care delivery. As knowledge                      Committee. The Diagnosis and Treatment
+                                                                of Peripheral Lymphedema. Lymphology 28
+accrues, the current crude classification of                    (1995), 113-117.
+lymphedema should be revisited and modified                 2. Witte MH, CL Witte, and M Bernas for the Ex-
+to include more encompassing clinical geno-                     ecutive Committee. ISL Consensus Document
+type-phenotype correlations based on anatom-                    Revisited: Suggested Modifications. Lympholo-
+                                                                gy 31 (1998), 138-140.
+ic and functional alterations in the lymphatic
+                                                            3. International Congress of Lymphology, Chen-
+or associated affected systems. Accordingly,                    nai, India. General Assembly discussion. ISL
+treatment, whether by designer drugs, gene or                   Consensus Document Revisited. September 25,
+stem cell therapy, tissue engineering, physical                 1999.
+methods or new operative approaches, should                 4. ISL Executive Committee Meeting, Földi
+                                                                Klinik, Hinterzarten, Germany. Discussions on
+be directed at preventing, reversing or ame-                    modification of the ISL Consensus Document.
+liorating the specific lymphatic defects and                    August 30, 2000.
+restoring function and quality of life.                     5. Discussions at the XVIII ICL in Genoa, Italy,
+                                                                September 2001 and over 50 written and verbal
+VI.      CONCLUSION                                             comments submitted to Executive Commit-
+                                                                tee members. Changes discussed, modified,
+                                                                deleted, and confirmed at 2002 ISL Executive
+      Lymphedema may be uncomplicated or                        Committee meeting, May 2002, Cordoba,
+complex but should not be neglected. Accurate                   Argentina.
+early diagnosis and effective therapy is now                6. Consensus and dissent on the ISL Consensus
+available which should be able to shift the                     Document on the diagnosis and treatment
+                                                                of peripheral lymphedema (M. Bernas and
+focus to a more proactive rather than reactive                  M.H. Witte); Remarks (M Földi); Liposuction
+approach. Randomized trials need to take                        and the Consensus Document (H. Brorson);
+place. Lymphology itself is now recognized                      Adipose tissue in lymphedema (H. Brorson);
+as an important and distinct discipline in                      Liposuction in the Concensus Document (S.
+                                                                Slavin); A search for consensus on staging
+which clinicians from diverse specialties can
+                                                                and lymphedema (T.J. Ryan); and Guidelines
+be carefully trained and collaborate to unravel                 of the Societá Italiana Di Linfangiologia:
+the intricacies of the lymphatic system, lymph                  Excerpted sections (C. Campisi, S. Michelini,
+circulation, and related disorders. The emerg-                  F. Boccardo). Lymphology 37 (2004), 165- 184.
+ing era of molecular lymphology and precision               7. Changes discussed, modified, deleted, and
+                                                                confirmed at 2008 ISL Executive Committee
+medicine tailored to the individual patient                     meeting, June 2008, Naples, Italy.
+is likely to result in earlier recognition of a             8. The Diagnosis and Treatment of Peripheral
+potential problem, improved understanding,                      Lymphedema: 2009 Consensus Document of
+evaluation, and treatment in the lymphology                     the International Society of Lymphology. Lym-
+clinic, and in the larger context of clinical                   phology 42 (2009), 51-60.
+                                                            9. The Diagnosis and Treatment of Peripheral
+medicine.                                                       Lymphedema: 2013 Consensus Document of
+                                                                the International Society of Lymphology. Lym-
+                                                                phology 46 (2013), 1-11.
+                                                            10. The Diagnosis and Treatment of Peripheral
+                                                                Lymphedema: 2016 Consensus Document of
+                                                                the International Society of Lymphology. Lym-
+                                                                phology 49 (2016) 170-184.
+
+
+
+
+Permission granted for single print for individual use.
+Reproduction not permitted without permission of Journal LYMPHOLOGY.
+

@@ -1,0 +1,629 @@
+2:Leitlinie Lipödem 
+7:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+72:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+76:Deutsche Gesellschaft für Phlebologie und Lymphologie e.V.: S2K-Lipödem, 5.0, 2024, 
+95:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+118:2.2.1 Abgrenzung Lipödem / Lymphödem ............................................................................. 28 
+122:2.2.5 Indirekte Funktionslymphszintigraphie: ........................................................................ 30 
+124:Imaging (NIRF-LI) in der Lipödem-Diagnostik ................................................................................ 31 
+130:4 Kompressionstherapie beim Lipödem ........................................................................................... 38 
+134:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+139:5 Lipödem und IPK ............................................................................................................................ 44 
+143:7 Physiotherapie des Lipödems ........................................................................................................ 48 
+150:7.2 Therapiemöglichkeiten des Lipödems mit additiven Ödemen anderer Genese mit dem Ziel 
+151:der Ödemreduktion ........................................................................................................................... 52 
+155:7.3 Therapiemöglichkeiten des Lipödems zur Reduktion hypertropher Gewebsanteilen ......... 53 
+158:7.4 Therapiemöglichkeit zur Verbesserung der Lebensqualität  von Lipödempatientinnen ...... 53 
+159:7.4.1 Therapiemöglichkeit zur Reduktion eines erhöhten Natriumspiegels im 
+160:Lipödemgewebe ............................................................................................................................ 54 
+162:7.5.1 Therapiemöglichkeit zur Reduktion einer Kapillarfragilität im Lipödem ...................... 54 
+165:8.1 Lipödem und psychosoziale Belastung .................................................................................. 57 
+174:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+180:9.3.2 Selbstmanagement-Programme beim Lipödem ........................................................... 68 
+184:10.2 Spezielle Ernährungsformen beim Lipödem ......................................................................... 73 
+186:11 Stellenwert der bariatrischen Therapie in der Behandlung von Patienten mit Lipödem ......... 80 
+188:12 Operative Therapie des Lipödems ............................................................................................. 84 
+197:13.1.1 Screening für Lipödem-assoziierte Schmerzen: ............................................................ 93 
+203:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+210:Das Lipödem soll als eine schmerzhafte, disproportionale 
+221: Das Lipödem ist immer schmerzhaft. Eine nicht schmerzhafte disproportionale symmetrische 
+224: Das Lipödem ist eine disproportionale Fettverteilungsstörung, die nur die Extremitäten 
+226: Das Lipödem ist eine symmetrische Fettverteilungsstörung der Extremitäten. Es betrifft 
+230: Das Lipödem wird nicht durch eine Adipositas bedingt oder bedingt seinerseits eine 
+234: Auf Basis dieser koinzidenten Adipositas kann ein Adipositas-assoziiertes Lymphödem 
+237:unabhängig vom Lipödem. 
+241: Das Lipödem betrifft – fast – ausschließlich Frauen.  
+244: Das Lipödem betrifft in der Regel nicht die Füße. 
+256:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+263:ein Ödem an den Beinen geben kann (Wold et al. 1951). Darüber hinaus beschreiben die Autoren, 
+274:1940) in der Tatsache, dass das Lipödem praktisch nur Frauen betrifft. Daraus ergeben sich zwei 
+279:Männer sind extrem selten vom Lipödem betroffen; in der Literatur finden sich nur einzelne 
+281:Entwicklung der männlichen Form des Lipödems verantwortlich ist; allerdings finden sich auch 
+283:In einer 3-Generationen-Familie mit Lipödem, in der die Mutter der Probandin, drei Schwestern und 
+289:Lipödem. 
+294:Die Analyse von Grigoriadis et al. (2022) ergab genetische Loci, die mit dem Phänotyp des Lipödems 
+297:angenommen wird, dass er an der Lipombildung beteiligt ist. Wie genau dies mit dem Lipödem 
+300:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+303:Lipödempatientinnen (L) zeigen eine signifikant dickere Epidermis als eine BMI-gematchte 
+306:werden, wenn zum Lipödem zusätzlich ein [Adipositas-assoziiertes] Lymphödem hinzukommt (Ghods 
+309:Die Subkutis von Lipödempatientinnen ist deutlich geringer komprimierbar, wobei eine 
+311:deutlichen Hinweis auf ein Lipödem bietet (Kasseroller and Brenner 2019); allerdings gibt es auch 
+314:Der Anteil an Frauen mit hypermobilen Gelenken (Beighton Score ≥ 5) ist bei Lipödempatientinnen 
+316:kg/m²) (Beltran and Herbst 2017), zudem steigt dieser Anteil in Abhängigkeit vom Lipödem-Stadium 
+318:Lipödempatientinnen zeigen häufiger als adipöse Patientinnen Mikroaneurysmata der initialen 
+319:Lymphgefäße an Oberschenkel und Knöchelregion (Amann-Vesti et al. 2001). Als Mikroaneurysma 
+320:definierten die Autoren ein initiales Lymphgefäß mit mehr als dem zweifachen minimalen 
+321:Durchmesser dieses Gefäßes. Allerdings ist der intravasale Druck in den initialen Lymphgefäßen 
+322:normal (Amann-Vesti et al. 2002). Lipödempatientinnen zeigen ein abnormes lymphszintigrafisches 
+323:Muster mit einer Verlangsamung des Lymphflusses, dass einige Analogien zu den bei Patienten mit 
+324:Lymphödem gefundenen Veränderungen aufweist. (Bilancini et al. 1995; Boursier et al. 2004) Junge 
+325:Lipödempatientinnen zeigen im Vergleich zum Normalkollektiv eine erhöhte, ältere dagegen eine im 
+326:Vergleich zu Gesunden deutlich niedrigere Transportfunktion des Lymphgefäßsystems. (Brauer and 
+329:Lymphgefäße der unteren Extremitäten von Lipödempatientinnen in den Stadien I und II zeigen sich 
+332:signifikant (Rasmussen et al. 2022). Zudem zeigen Lipödempatientinnen einen erhöhten 
+333:systemischen Spiegel von VEGF-C (Kontrollgruppe BMI-gematchte Patientinnen; p = 0,02), welches 
+335:wurden trotz der erhöhten VEGF-C-Spiegel keine morphologischen Veränderungen der Lymphgefäße 
+337:Szél und Szolnoky haben die Mikroangiopathie als frühes histologisches Merkmal des Lipödems (Szél 
+341:Kapillarfragilität führen. Ein erhöhter Gehalt an freien Fettsäuren (Kim et al. 2005; Vigili de 
+345:Der BMI ist kein günstiger Parameter für die Auswahl einer Kontrollgruppe, da er bei Lipödem -Patientinnen 
+349:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+353:Bluthochdruck in den Kapillaren, der zu einer Hyperpermeabilität führt (Szél et al. 2014). 
+355:Zusammenhang zwischen einer Blutungsneigung bei Lipödempatientinnen und einem 
+357:Die Gewebe-Dielektrizitätskonstante bei Lipödem-Patientinnen ist vergleichbar mit gesunden 
+359:Patientinnen mit Lipödem zeigen gegenüber Gesunden einen erhöhten zerebralen Blutfluss 
+361:Lipödempatientinnen zeigen größere Vorhof- und linksventrikuläre Dimensionen und eine größere 
+364:Eine Untersuchung mittels Bioimpedanz-Spektroskopie als Surrogat-Messung des Flüssigkeitsgehalts 
+366:des Lipödems (Crescenzi et al. 2019). Die Impedanzwerte waren dabei in den Armen immer deutlich 
+370:Der im MRT gemessene Natriumgehalt des Gewebes von Lipödempatientinnen ist in den unteren 
+373:Mehrere Studien haben gezeigt, dass es sich beim Lipödem-Fettgewebe um ein stark vaskularisiertes 
+377:Lipödempatientinnen eine Zunahme der Proliferation von aus Fettgewebe stammenden Stamm-
+380:Lipödempatientinnen zeigen signifikant größere Adipozyten als eine BMI-gematchte Kontrollgruppe 
+389:Ghadban et al. 2019), die das Lipödem klar von einem Lymphödem unterscheiden (Gousopoulos et 
+391:Lipödem eine Verschiebung der Makrophagen im Fettgewebe in Richtung eines immunsuppressiven 
+394:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+396:Stroma-/Stammzellen aus Lipoaspiraten, vermutlich also Präadipozyten, zeigen in Lipödem-
+399:Marker für undichte Blut- und Lymphgefäße im Fettgewebe des Lipödems sein könnte. So wird die 
+402:Vorläuferzellen/Präadipozyten zu reifen Adipozyten vermittelt wird, im Lipödem-Fettgewebe 
+404:Von Lipödempatientinnen stammende Stammzellen zeigten bereits in frühen Stadien der in-vitro-
+406:Lipidakkumulation waren in Überständen von Lipödem-Stammzellen und Adipozyten aus Lipödem-
+408:nachweisbar. Darüber hinaus unterschieden sich Lipödem- und Nicht-Lipödemzellen in ihrer 
+411:Kleine extrazelluläre Vesikel aus der stromal vascular fraction (SVF) von lipödematösem Fettgewebe 
+420:Lipödempatientinnen (n = 10) zeigen einen gegenüber einer BMI-gematchten Kontrollgruppe (n=11) 
+430:wodurch das Lipödem klar von Adipositas unterschieden werden kann (Felmerer et al. 2020a). 
+433:(Felmerer et al. 2020a). Eines der unterschiedlich exprimierten Gene war bei Lipödempatientinnen 
+438:Genexpression ist in Fettzellen aus der Subkutis des Oberschenkels von Lipödempatientinnen 
+439:hochreguliert (Al-Ghadban et al. 2020). Die PPAR-γ-Expression war in Lipödem-Adipozyten, die aus 
+442:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+457:assoziiert sind, in Stammzellen, die von Lipödem-Patientinnen stammen, oder in differenzierten 
+461:Lipödempatientinnen im Vergleich zu nicht betroffenen Kontrollen. Funktionelle Assays zeigten, dass 
+463:Stammzellen bei Lipödemen antreibt, was auf einen möglichen Mechanismus für die verstärkte 
+464:Adipogenese bei Lipödemen hinweist. Bub1 kodiert für einen Zellzyklusregulator, der eine zentrale 
+468:Das Lipödem tritt fast ausschließlich bei Frauen auf, Erstmanifestation oder Beschwerdezunahme 
+474:Daten zum Hormon-Status von Lipödempatientinnen oder einem möglichen Zusammenhang mit 
+481:Das idiopathische Ödem oder Flüssigkeitsretentionssyndom, das nicht mit dem Lipödem verwechselt 
+482:werden darf, kann koinzident mit dem Lipödem auftreten und die Symptome aggravieren (Pereira de 
+486:Kapillarpermeabilität wird ein Zusammenhang mit einer gestörten Hypothalamus-Hypophysen-Achse 
+489:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+492:wie auch beim Lipödem positiv ausfallen kann.  
+494:Lipödempatientinnen untersucht wurden. 
+519:Eine Mutation der AKR1C1 wurde bei einer Familie mit monogen vererbtem Lipödem nachgewiesen 
+538:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+552:Lipogenese beim Lipödem: eine veränderte Verteilung der Östrogenrezeptoren der Adipozyten (ERα 
+566:Der Stellenwert dieser Erkenntnisse zur Aufklärung der Pathogenese des Lipödems kann gegenwärtig 
+567:nicht beurteilt werden. Studien an Lipödempatientinnen existieren zurzeit nicht.  
+568:Übergewichtige oder adipöse Lipödempatientinnen weisen durchschnittlich niedrigere Insulinwerte 
+569:auf als vom BMI vergleichbare Patientinnen ohne Lipödem (Faerber 2018, Nono Nankam et al. 2022). 
+573:Die Prävalenz der Hypothyreose liegt bei Lipödempatientinnen mit einem Anteil von über 30 % bis 
+586:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+601:Die Schmerzhaftigkeit ist das Schlüsselsymptom des Lipödems. Bei der Palpation kann der Schmerz 
+603:Modell der langsamen Entwicklung des Lipödemschmerzes. Das Auftreten des Symptoms mag durch 
+604:den unaufdringlichen Beginn in den ersten Jahren der Entwicklung des Lipödems nicht ernst 
+607:konkretisieren. Der Schmerz beim Lipödem ist nicht auf einzelne Dermatome beschränkt, sondern 
+610:Die Lipödem-bedingten Schmerzen sind allerdings in der Literatur nur unzureichend untersucht und 
+612:erscheint als Basis für die Erklärung der Schmerzen beim Lipödem geeignet. Betrachtet man den 
+613:Schmerz im Lipödem von der Schmerz-Literatur aus, so kristallisiert sich eine mechanische 
+629:Lymphologie vier Fünftel der Patientinnen mit der Diagnose Lipödem eine hohe psychische Belastung 
+630:bereits vor der Entstehung Lipödem-assoziierter Beschwerden zeigten (Erbacher and Bertsch 2020). 
+635:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+638:oft lange nach dem ersten Auftreten der Lipödem-Beschwerden durchgeführt wurde. 
+639:Eine aktuelle Studie an 20 nicht adipösen Lipödem-Patientinnen und 20 nach Waist-to-Height Ratio 
+642:anderes Bild (Dinnendahl et al. 2023). Die Lipödem-Patientinnen zeigten keine offensichtlichen 
+643:psychometrischen Auffälligkeiten. Lipödem-Schmerzen traten eher als somatische denn als 
+650:Potenzial für die Lipödem-Diagnose (Spezifität: 96,5 %) hat. 
+657:facettenreich. Die Autoren stellten allerdings fest, dass zahlreiche Fragen bei Lipödem-Patientinnen 
+659:ausfüllten. Einige Fragestellungen wie z. B. die Korrelation der Stadien des Lipödems zu den 
+668:und Parameter des Lipödems umfassender untersucht werden, 
+689:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+694:Lymphgefäßen der Haut bei Patienten mit Lipödem Lymphol Forsch Prax 6:7-9 
+718:Brauer W et al. (2015) S1-Leitlinie Lipödem (Registernummer 037-012). AWMF online 
+719:Brauer WJ, Brauer VS (2005) Altersabhängigkeit des Lymphtransportes beim Lipödem und 
+720:Lipolymphödem Lymphol Forsch Prax 9:6-9 
+721:Brenner E (2017) Wie kommt der Schmerz ins Lipödem? Lymphol Forsch Prax 21:40-47 
+739:Cornely ME, Gensior M (2014) Update Lipödem 2014: Kölner Lipödemstudie Lymphol Forsch Prax 
+745:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+768:Felmerer G et al. (2020b) Increased levels of VEGF-C and macrophage infiltration in lipedema 
+775:Gensior MHL, Cornely M (2019) Der Lipödemschmerz, seine Folgen auf die Lebensqualität 
+793:Hirsch T, Schleinitz J, Marshall M, Faerber G (2018) Ist die Differenzialdiagnostik des Lipödems mittels 
+799:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+813:Lipödems LymphForsch 23:76-82 
+848:Min Y, Ghose S, Boelte K, Li J, Yang L, Lin PC (2011) C/EBP-delta regulates VEGF-C autocrine signaling 
+854:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+909:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+948:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+955:Als Symptome im Sinne eines Lipödems sollen Druck- und 
+969:der Diagnose Lipödem geführt werden.  
+978:Voraussetzung für die Diagnose eines Lipödems ist das Vorliegen einer im Vergleich mit dem Stamm 
+988:Die Disproportionalität bei der Erkrankung Lipödem tritt immer symmetrisch an den Beinen und / 
+989:oder Armen auf (Cornely 2003; Herpertz 2004). Das Lipödem entsteht ausschließlich an den 
+990:Extremitäten. Weder Rumpf, Kopf noch Hals sind betroffen. Für die Entwicklung eines Lipödems an 
+1003:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+1018:Bein Lipödem an Gesäß / 
+1020:Lipödem bis zu den 
+1023:Lipödem bis an den 
+1026:Lipödem bis an die 
+1029:Lipödem nur am 
+1032:Arm Lipödem an Schulter  
+1035:Lipödem bis an den 
+1038:Lipödem bis an den 
+1041:„Zentral“ Lipödem an Armen 
+1046:Lipödem an Armen 
+1077:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+1099:Untersuchung an symptomatischen Lipödempatientinnen und Gesunden konnte eine im 
+1108:genannten Beschwerden müssen beim Lipödem die folgenden Koinzidenzen besonders gewürdigt 
+1114:Die von Lipödempatientinnen häufig berichtete Hämatomneigung ließ sich in einer vergleichenden 
+1123:kg/m2) sind die häufigsten gleichzeitig neben dem Lipödem bestehenden Erkrankungen. Eine 
+1124:Adipositas kann ein Lipödem verschlimmern.
+1126:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+1128:Es besteht keine ausreichende wissenschaftliche Evidenz dafür, dass ein Lipödem mit einem 
+1130:Der Body-Mass-Index (BMI) zur Charakterisierung des Übergewichtes ist bei Lipödem-Patientinnen 
+1203:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+1269:Daten weisen darauf hin, dass die psychische Gesundheit bei Lipödempatientinnen stärker 
+1272:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+1274:Publikationen ging bisher davon aus, dass die Diagnose Lipödem Ursache dieser psychischen 
+1277:eine psychische Belastung bereits vor dem Auftreten der Lipödem-typischen Beschwerden (Erbacher 
+1279:Krankheitsdynamik des Lipödems eine wesentliche Rolle (siehe Kapitel 8). 
+1283:Das Lipödem soll nicht als prinzipiell progrediente Erkrankung 
+1293:Die Ursachen einer Progredienz des Lipödems sollten 
+1303:Entgegen der früheren Betrachtungsweise ist das Lipödem nicht grundsätzlich progredient. Ein 
+1306:Lipödems Wold, Allen und Hines in ihrer 1951 veröffentlichten Publikation. Allerdings sahen bereits 
+1316:Daraus folgt: Bei weitgehender Gewichtsstabilität ist das Lipödem nicht grundsätzlich progredient, 
+1318:Faktoren, die zu einer Progredienz des Lipödems führen können, neben einer Gewichtszunahme z. B. 
+1323:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+1326:2.2.1 Abgrenzung Lipödem / Lymphödem 
+1328: Lipödem Lipohypertrophie Adipositas Lymphödem 
+1334:Ödem ø ø (+) +++ 
+1340:Die Diagnose Lipödem soll klinisch gestellt werden. 
+1349:vorhanden sind, die die Diagnose Lipödem beweisen können.   
+1360:Die differentialdiagnostische Abgrenzung des Lipödems von Erkrankungen wie der CVI, der Adipositas 
+1361:und dem Lymphödem, aber auch einer Lipohypertrophie der Extremitäten ohne pathologischen Wert 
+1370:Zum Ausschluss eines Ödems z. B. phlebologischer Ursache 
+1377:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+1382:Rückschlüsse auf die Ätiologie eines subkutanen Ödems sollen 
+1383:aus der B-Bild-Sonographie des Ödems nicht gezogen werden.  
+1391:Im Rahmen der Lipödemdiagnostik besitzt die Duplexsonographie eine Bedeutung lediglich bei der 
+1397:diese Weise sind Ödeme als dreidimensionale, echolose Gewebespalten darstellbar (Marshall and 
+1398:Schwahn-Schreiber 2008). Eine ätiologische Zuordnung der Ödeme anhand des Ultraschallbefundes 
+1401:Lipödem und Lymphödem sowie einer gesunden Kontrollgruppe. Während die sonographische 
+1402:Abgrenzung eines Lymphödems aufgrund einer herabgesetzten Echogenität der Kutis bei vermehrter 
+1403:Dicke möglich war, ließ sich ein Lipödem nicht sicher vom Gewebe der gesunden Kontrollgruppe 
+1406:eine Unterscheidung zwischen dem kutanen und subkutanen Ultraschallbefund eines Lipödems vom 
+1409:Ödemkomponente in der Gruppe der Probanden mit Lipödem zu identifizieren (Hirsch et al. 2018).  
+1412:Lipödemgruppe nicht nur verdickt gegenüber der Vergleichsgruppe war, sondern ihre Echogenität 
+1413:signifikant geringer war als in der Lymphödemgruppe und der gesunden Kontrollgruppe. Limitiert 
+1417:Messung der Dicke der Subkutis bei einer kleinen Kohorte (n = 69) von Patientinnen mit Lipödem im 
+1418:Vergleich mit Gesunden. Die Kontrollgruppen bestanden aus Nicht-Lipödempatientinnen (n = 12) und 
+1421:Subkutis beim Lipödem und verlässliche Cut-off-Werte für die Kompressibilität aktuell nicht zur 
+1422:Verfügung stehen. Sonographische Kriterien, die für das Vorliegen eines Ödems sprechen, werden 
+1423:beim Lipödem nicht erfüllt.
+1425:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+1429:Mittels Computertomographie kann kein spezifischer Nachweis für ein Lipödem erbracht werden 
+1433:wurden veröffentlicht, die sich mit der Morphologie des Lipödems und des sog. „Lipolymphödems“ 
+1435:in der MR-Untersuchung von Cellina et al. (2020) kein Ödem bei Patientinnen mit reinem Lipödem 
+1436:nachgewiesen. Sie wiesen dilatierte periphere Lymphgefäße bei Patientinnen mit einem Lipödem 
+1437:und einem zusätzlichen Lymphödem nach (Cellina et al. 2020). Eine Limitation der Studie besteht 
+1440:keinen Aufschluss darüber geben, ob es sich bei den Probandinnen mit sog. „Lipolymphödem“ nicht 
+1441:vielmehr um Adipositas-assoziierte Begleitödeme (Lymphödeme, Phlebödeme) handelt. 
+1442:Lohrmann et al. (2009) führten eine MR-Lymphangiographie an Patienten mit Lipödem und 
+1443:„Lipolymphödem“ durch (n = 13). Sie wiesen in der Gruppe der Probanden mit einem 
+1444:„Lipolymphödem“ eine Erweiterung der Lymphgefäße auf > 3 mm nach, wogegen diese beim reinen 
+1445:Lipödem lediglich mit Kalibern bis 2 mm messbar waren. Sie werteten diese Kaliberveränderungen 
+1446:als Hinweise auf eine beginnende lymphostatische Dekompensation beim Lipödem. Die Entität des 
+1447:sog. „Lipolymphödems“ ist in der Untersuchung ebenfalls nicht näher definiert, so dass ebenfalls 
+1448:nicht klar ist, ob es sich um ein Lipödem mit zusätzlichem Vorliegen eines Lymphödems handelt oder 
+1449:um ein Adipositas-bedingtes Lymphödem (Lohrmann et al. 2009). 
+1450:Crescenzi et al. (2020; 2018) wiesen in vergleichenden Untersuchungen, an Lipödem-Patientinnen (n 
+1452:und adipösen Probandinnen nach, dass bei Frauen mit Lipödem ein erhöhter Natriumgehalt sowie 
+1456:besonders ausgeprägter Lipödem-Komponente bzw. in der Kontrollgruppe mit schwergradiger 
+1460:2.2.5 Indirekte Funktionslymphszintigraphie: 
+1462:Eine Studie kam mittels Lymphszintigraphie zu dem Schluss, dass beim Lipödem im Gegensatz zum 
+1463:Lymphödem initial ein gesteigerter Lymphtransport vorliegen kann und mit dem Alter im Vergleich zu 
+1466:Systematische Untersuchungen zur Differenzialdiagnostik des Lipödems mittels Lymphszintigraphie 
+1467:liegen nicht vor. Forner-Cordero et al. (2018) untersuchten Lipödempatientinnen mit 
+1468:Lymphszintigraphie und konnten feststellen, dass auch beim Lipödem Veränderungen des
+1470:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+1473:zum Schweregrad des Lipödems. Die Studie weist einige Limitationen auf. Einerseits war die 
+1474:Abgrenzung der Probanden mit einem Lipödem von denen mit einem Lymphödem unscharf. Darüber 
+1479:Lymphgefäße erhöhen. (Shang et al. 2019).  
+1482:Imaging (NIRF-LI) in der Lipödem-Diagnostik 
+1484:Kohorten mit Lipödem-Patientinnen. Die Methoden können zum aktuellen Zeitpunkt keinen Beitrag 
+1485:zur Sicherung der Diagnose Lipödem leisten. Allerdings lassen die Ergebnisse der vorliegenden 
+1486:Studien darauf schließen, dass eine Störung des lymphatischen Abstroms beim Lipödem nicht 
+1488:Das Fehlen einer lymphatischen Insuffizienz bei Patientinnen mit Lipödem wird auch in einer 
+1490:untersuchten Patientinnen mit der Diagnose Lipödem wiesen lediglich 2 Patientinnen eine 
+1492:primäres Lymphödem bekannt, bei der zweiten bestand eine Adipositas Grad 2, sodass die Autoren 
+1493:hier von einer Adipositas-assoziierten Ödemkomponente ausgehen (Mackie et al. 2023). 
+1495:beschriebene Dilatation der Lymphgefäße bei Patientinnen mit Lipödem ein. So nimmt die räumliche 
+1497:der Lymphgefäße führt. Obwohl die Lymphgefäße, wenn sie tief im darüber liegenden Fettgewebe 
+1498:lagen, erweitert erscheinen mögen, ist dies nicht als abnorm erweiterte Lymphgefäße anzusehen, 
+1506:das Lipödem zu beweisen. 
+1512:Laborchemische Methoden zur Identifizierung eines Lipödems bzw. zur differenzialdiagnostischen 
+1513:Abgrenzung liegen zum aktuellen Zeitpunkt nicht vor. Im Rahmen der Ödemdiagnostik können 
+1519:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+1524:Neben klassischen Bildgebungsverfahren finden in der Lymphologie und der Ödemdiagnostik seit 
+1527:Bioimpedanz-Messung). Sämtliche vorliegende Daten basieren nicht auf evidenzbasierten 
+1530:Methode Rückschlüsse auf das Vorliegen eines unbehandelten Lymphödems möglich sind, aber 
+1531:keinerlei diagnostische Kriterien für eine Differenzierung zwischen einem entstauten Lymphödem, 
+1532:einem Lipödem und dem Gewebe gesunder Probanden geliefert werden. Zur Wirksamkeit 
+1533:alternativer diagnostischer Verfahren wie der Bioimpedanz-Methode und der Bestimmung der 
+1535:nahe, dass die Diagnosestellung eines Lipödems nicht möglich ist. 
+1548:Brauer WJ (2000) Altersbezogene Funktions-Lymphszintigraphie beim Lipödem und Lipolymphödem 
+1550:Brauer WJ, Brauer VS (2005) Altersabhängigkeit des Lymphtransportes beim Lipödem und 
+1551:Lipolymphödem Lymphol Forsch Prax 9:6-9 
+1564:Cornely ME (2003) Lipödem und Lymphödem. In: Plewig G, Prinz J (eds) Fortschritte der praktischen 
+1571:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+1585:bei Patientinnen mit Lipödem – Subjektive Wahrnehmung versus objektive Untersuchung 
+1597:Frambach Y, Baumgartner A, Schmeller W (2015) Lipödem und Lebensqualität Vasomed 27:248-249 
+1598:Frambach Y, Baumgartner A, Schmeller W (2016) Lipödem – eine „schwere “Diagnose? vasomed 
+1600:Herpertz U (1995) Das Lipödem Z Lymphol 19:1-11 
+1601:Herpertz U (2004) Entstehungszeitpunkt von Lipödemen Lymphol Forsch Prax 8:79-81 
+1602:Hirsch T, Schleinitz J, Marshall M, Faerber G (2018) Ist die Differenzialdiagnostik des Lipödems mittels 
+1611:Lipödems Lymphol Forsch Prax 23:76-82 
+1620:Marshall M, Schwahn-Schreiber C (2008) Lymph-, Lip- und Phlebödem : Differenzialdiagnostische 
+1627:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+1631:Reich-Schupke S, Altmeyer P, Stücker M (2013) Dicke Beine - Nicht immer ist es ein Lipödem JDDG: 
+1637:Schrader K (2019) Das Lipödem und was Sie darüber wissen sollten. Julius Zorn GmbH, Aichach 
+1655:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+1665:Weiterhin häufig zitiert wird der Klinische Report von Child et al. (2010). Definiert wird das Lipödem 
+1670:Lymphödem wurden ausgeschlossen. Identifiziert wurden 330 Familienmitglieder mit 67 
+1675:Patientinnen ein Lipödem hatten. Er unterscheidet deutlich zwischen der schmerzfreien 
+1677:dass er dann als Lipödem bezeichnet (Herpertz 1997). 
+1683:frühes Stadium des Lipödems eingeordnet. In diesem Frühstadium waren zwei Patientinnen. Der 
+1684:Befund des Mannes wurde als lipödem-ähnlich beschrieben. 
+1685:Ebenfalls 2008 erschien ein Artikel zur Differenzialdiagnose Lymph-, Phleb- und Lipödem. Die 
+1687:gekennzeichnet durch orthostatische Beinödeme und eine Vermehrung des Unterhautfettgewebes, 
+1693:nichtinvasiver Diagnostik des Lymph- und Lipödems – auch in der Abgrenzung zum Phlebödem 
+1700:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+1702:Neigung zu orthostatischen Ödemen, Hämatomneigung und Berührungsempfindlichkeit (Marshall 
+1704:schmerzlosem Lipödem und ein spätes Stadium mit schmerzhaftem Lipödem. 39 % der untersuchten 
+1705:62 Frauen hatten demnach ein Lipödem. Das inkludiert aber auch die Patientinnen mit reiner 
+1708:Fife et al. (2010) beschreiben das Lipödem als diätresistente pathologische Fettverteilung, zumeist 
+1711:Autoren hatten von 792 Patienten mit Lymphödem der unteren Extremität 22,7 % auch eine 
+1712:lokalisierte Fettvermehrung der Beine. Bei diesen diagnostizierten sie ein zusätzliches Lipödem. 
+1715:Fettverteilung, Schmerzen Hämatomneigung und tagsüber zunehmende Ödeme stammen von 
+1718:Diagnose Lipödem. Von 126 Patientinnen, die sich wegen Beinschmerzen vorstellen, wurde bei 32,5 
+1719:% die Diagnose Lipödem gestellt. 
+1721:zwischen 2005 and 2012 an einem Lipödem gelitten haben. Auch hier handelt es sich um eine 
+1724:die sich 2012-2019 mit der Frage eines Lipödems in einem Krankenhaus in Spanien vorstellten, 
+1726:des Lipödems. Epidemiologische Daten wurden in dieser monozentrischen Untersuchung nicht 
+1743:Herpertz U (1997) Krankheitsspektrum des Lipödems an einer Lymphologischen Fachklinik - 
+1745:Marshall M, Schwahn-Schreiber C (2008a) Das Lipödem - ein wenig beachtetes Krankheitsbild: 
+1748:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+1750:Marshall M, Schwahn-Schreiber C (2008b) Lymph-, Lip- und Phlebödem : Differenzialdiagnostische 
+1752:Marshall M, Schwahn-Schreiber C (2011) Prävalenz des Lipödems bei berufstätigen Frauen in 
+1756:Wienert V, Földi E, Schmeller W, Rabe E (2005) Leitlinie: Lipödem der Beine Phlebologie 34:38-40
+1758:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+1760:4 Kompressionstherapie beim Lipödem 
+1764:Bei diagnostiziertem Lipödem soll die Kompressionstherapie zur 
+1776:Die Kompressionstherapie beim Lipödem kann initial mit 
+1791:Die Kompressionstherapie (KT) gilt in der Behandlung des Lipödems als Teil der Standardbehandlung 
+1805:Beim Lipödem handelt es sich in erster Linie weder um eine Ödemerkrankung noch um ein 
+1808:werden diskutiert. Primäre Zielrichtung der Kompressionstherapie beim Lipödem ist die Reduktion 
+1809:von Schmerz und anderen subjektiven Symptomen. Zum Lipödem liegen keine prospektiven, 
+1814:Lipödem in eine Gruppe mit einem reinen Bewegungsprogramm und eine Gruppe mit
+1816:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+1832:beim Lipödem die im Tagesverlauf zunehmende Füllung des ausgedehnten kutanen Gefäßnetzwerks 
+1839:Wenn das Lipödem in Kombination mit einem venösen Ödem, einem Lymphödem oder 
+1840:hydrostatischen Ödemen auftritt, so kann die Kompressionstherapie auch die Ödembildung positiv 
+1844:Die Kompressionstherapie soll beim Lipödem auf die Reduktion 
+1848:Bei Kombination mit Ödemen anderer Genese wird auch die 
+1849:damit verbundene Ödembildung und -reduktion günstig 
+1870:Kompressionsmittel dem zunehmenden Umfang bei Bewegung, bei der Ödembildung oder beim
+1872:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+1896:Strumpfelementen) zurückgegriffen werden. Da das Lipödem nicht Füße und Hände betrifft sollte 
+1898:Verordnung der Kompressionstherapie ist eine ärztliche Leistung. Da beim Lipödem die Auswahl des 
+1924:sollten bei der Versorgung von Patienten mit ausgeprägten Lipödemen sowie bei begleitender 
+1930:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+1933:ausgeprägten Lipödemen sowie bei adipösen Patienten sehr große Umfangsänderungen bzw. 
+1938:Das Lipödem kann grundsätzlich mit rund- oder flachgestrickten 
+1960:mit Lipödemen sowie bei begleitender Adipositas genutzt 
+1988:Eine starre Zuordnung einer KKL zur Diagnose Lipödem soll 
+1999:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2057:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2077:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2079:5 Lipödem und IPK 
+2083:Zur Therapie des Lipödems sollte die IPK zur Schmerzlinderung sowie zur 
+2084:Reduktion begleitender Ödeme anderer Ursache – auch als Heimtherapie 
+2096:beim Lipödem ist sehr begrenzt. Eine Medline-Recherche (30.09.2020) zu den Suchbegriffen 
+2104:von Ödemen, Schmerzen und Kapillarfragilität (Svensson et al. 1993; Szolnoky et al. 2008a; Szolnoky 
+2110:des Lipödems, die eine Volumenreduktion der Extremität mit Verbesserung der Schmerzsymptomatik 
+2114:Verminderung der Kapillarfragilität konnte von Szolnoky durch KPE und IPK belegt werden (Szolnoky 
+2119:Herpertz U (1997) Krankheitsspektrum des Lipödems an einer Lymphologischen Fachklinik - 
+2122:Ödem unter Anwendung von schenkellangen und wadenlangen Stiefeln im Vergleich? 
+2130:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2140:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2146:Diuretika sollen nicht zur Behandlung des Lipödems eingesetzt 
+2147:werden. Der Einsatz von Diuretika bei Lipödempatientinnen aus 
+2155:Die Therapie des Lipödems hat als wesentliche Ziele die Symptomreduktion, die Verbesserung der 
+2163:Diuretika wird kritisch gesehen. Wie beim sog. idiopathischen Ödem oder 
+2164:Flüssigkeitsretentionssyndrom, das zudem in ca. 10 % in Kombination mit dem Lipödem auftreten 
+2165:kann (Pereira de Godoy and Guerreiro Godoy 2022), kann ein längerfristiger Diuretikaabusus eine 
+2166:Ödemsymptomatik durch Gegenregulation verschlechtern oder erst verursachen. Über die Reduktion 
+2167:des Plasmavolumens kann es zu Kaliummangel, einer renalen Salz- und Wasserretention und zum 
+2168:sekundärer Aldosteronismus kommen (Ely et al. 2006; Kuchel and Ethier 1998; Veluri and Badwal 
+2175:diese nach Expertenerfahrungen beim Lipödem in der Regel 
+2184:Die Schmerzen beim Lipödem sind ein integraler Bestandteil dieses Krankheitsbildes (Schmeller and 
+2186:Untersuchungen, welche medikamentöse Schmerztherapie bei Patienten mit Lipödem wirksam ist, 
+2192:und / oder Ödembildung assoziiert sind, sollten unter Risiko-
+2198:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2203:Bei Patientinnen mit Lipödem führt eine Gewichtszunahme sowohl zu einer Zunahme des 
+2215:Frambach Y, Baumgartner A, Schmeller W (2016) Lipödem – eine „schwere “Diagnose? vasomed 
+2217:Gensior MHL, Cornely M (2019) Der Lipödemschmerz, seine Folgen auf die Lebensqualität 
+2223:Kuchel O, Ethier J (1998) Extreme diuretic dependence in idiopathic edema: mechanisms, prevention 
+2227:Schmeller W, Meier-Vollrath I (2008) Schmerzen beim Lipödem: Versuch einer Annäherung Lymphol 
+2232:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2234:7 Physiotherapie des Lipödems 
+2279:Lipödem keine Evidenzlage. Vielmehr wurde diese in verschiedenen Kombinationsformen zu 
+2292:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2298:Da beim Lipödem schon ein sehr niedrigerer Insulinwert für die lokale Lipogenese genügt, könnte 
+2300:Lymphdrainage bei Lipödempatientinnen fehlt jedoch. 
+2309:Lipödempatientinnen mit einem Lipödem Typ 3 und den Stadien 3 (30 %) und 4 (70 % - Lipödem plus 
+2310:Lymphödem) ein. 
+2319:Szolnoky et al. (2011) wiesen in einer zweiarmigen RCT mit 38 Lipödempatientinnen eine signifikante 
+2336:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2356:wöchentlich an einer 45minütigen Intervention teil. Der Schweregrad des Lipödems wurde nicht 
+2366:Kraft des M. quadriceps femoris bei Lipödem-Patientinnen (n = 22) reduziert ist. Hodson and Eaton 
+2368:Kniegelenke bei Lipödem-Syndrom Patienten hin. Nach Aussage der Autorinnen steht das 
+2374:Weiterführend, jedoch ohne Studienbelege im Zusammenhang mit dem Erkrankungsbild Lipödem, 
+2379:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2413:Vergleichende Studien zum Lipödem fehlen. Ein möglicher Übertrag der oben genannten 
+2420:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2422:7.2 Therapiemöglichkeiten des Lipödems mit additiven Ödemen anderer Genese mit 
+2423:dem Ziel der Ödemreduktion 
+2427:Lipödemen mit additiven Ödemen anderer Genese eingesetzt 
+2449:14 Lipödempatientinnen (Betroffenheit der oberen Extremitäten) eine signifikante 
+2458:Beinvolumens bei Lipödempatientinnen (n = 23; p < 0,05) durch eine fünf- bis sechswöchige KPE plus 
+2471:Becker et al. (2018) untersuchten den Effekt des Aquacycling (AC) bei n = 10 Lipödempatientinnen (2 
+2472:Lipödem, 8 Lipödem mit additivem Lymphödem) über den Zeitraum von zehn Wochen. Fünf 
+2475:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2487:7.3 Therapiemöglichkeiten des Lipödems zur Reduktion hypertropher 
+2490:Siems et al. (2005) wiesen einen antihypertrophen Effekt in der Behandlung von 26 Lipödem-
+2501:Lipödempatientinnen 
+2514:Lipödempatientinnen (Atan and Bahar-Ozdemir 2021; Donahue et al. 2021; Kronimus et al. 2020). 
+2516:Lipödempatientinnen der Stadien 3 und 4 (Atan and Bahar-Ozdemir 2021), als auch bei 
+2517:Lipödempatientinnen der Stadien  1und 2 (Donahue et al. 2021) ein positiver Effekt der Manuellen 
+2522:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2528:Lipödempatientinnen fehlen. 
+2529:7.4.1 Therapiemöglichkeit zur Reduktion eines erhöhten Natriumspiegel im Lipödemgewebe 
+2531:Natriumspiegels fest (p = 0,005), welche mittels des 3-Tesla sodium and water magnetic resonance 
+2532:imaging (MRI) dargestellt wurde. Eine Erhöhung des Natriumgehaltes im Gewebe bei 
+2533:Lipödempatientinnen wurde seitens Crescenzi et al. (2018) und Crescenzi et al. (2020) postuliert. 
+2535:7.5.1 Therapiemöglichkeit zur Reduktion einer Kapillarfragilität im Lipödem 
+2536:Szolnoky et al. (2008b) wiesen (n = 38) eine signifikante Reduktion (p < 0,001) der Kapillarfragilität 
+2541:Im Vergleich zu einer weiteren Kontrollgruppe (n = 10) wiesen Lipödempatientinnen eine signifikant 
+2552:Volumen ödematöser Schwellungen bei Lip-/Lipolymphödemen im Vergleich zur Manuellen 
+2570:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2618:ärztlich diagnostiziertem Lipödem in Vorbereitung auf eine Liposuktion Lymphol Forsch Prax 
+2625:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2639:Schwarze D (2012) Vibrationstraining zur Therapie des Lipödems der Beine. Doctoral thesis, Freie 
+2668:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2672:8.1 Lipödem und psychosoziale Belastung 
+2675:In die Diagnostik Lipödem-assoziierter Schmerzen sollen gemäß 
+2688:von Lipödempatientinnen beeinflussen und sollten bei der 
+2689:Diagnostik und Therapie des Lipödems beachtet werden. Hierzu 
+2701:Frauen mit der Diagnose Lipödem können unter zahlreichen psychosozialen Belastungen leiden; die 
+2706:Studienergebnisse auf der Basis validierter Fragebögen an Frauen mit Lipödem aus verschiedenen 
+2707:Ländern zeigen bei Frauen mit Lipödem signifikant höhere physische, emotionale und soziale 
+2713:mit 150 Patientinnen mit gesicherter Diagnose Lipödem wiesen 46,7 % der Frauen schmerzrelevante 
+2719:Gesundheit‘ bei Frauen mit Lipödem sogar noch stärker beeinträchtigt ist als die Dimension 
+2723:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2725:In einer Querschnittstudie an 26 Patientinnen mit ärztlich gesichertem Lipödem und einer gesunden 
+2729:Lipödempatientinnen zeigten im Fragebogen erhebliche Schwierigkeiten bei der Emotionsregulation 
+2732:stärkere Ausprägung an Angstsymptomen als Patienten ohne Lipödem. Die Autoren empfehlen 
+2733:daher, dass bei Lipödempatientinnen mehr auf die Emotionsregulation und den psychischen Status 
+2736:des Lipödems sind und die Erkrankung Lipödem ursächlich für diese psychische 
+2737:Beschwerdesymptomatik verantwortlich ist. Aktuelle Daten, die beide Beschwerdebilder (Lipödem 
+2741:und – damit auch vor Entwicklung eines Lipödems – auftrat (Erbacher and Bertsch 2020).  
+2742:Diese Daten geben somit Hinweise darauf, dass das Lipödem nicht Ursache der psychischen 
+2744:Ebenso untersucht eine Übersichtsarbeit zum Lipödem die Frage nach dem Einfluss des psychischen 
+2745:Zustandes sowohl auf die Entwicklung der Anfangssymptome des Lipödems als auch auf die Schwere 
+2747:Störungsbilder das Schmerzerleben beim Lipödem erhöhen. 
+2749:Die große Mehrheit der Frauen mit der Diagnose Lipödem leiden an einer weiteren Erkrankung: an 
+2750:Adipositas. Daten aus einigen europäischen Zentren, in denen Lipödempatientinnen behandelt 
+2751:werden, zeigen, dass nach der – im Zusammenhang mit dem Lipödem als problematisch zu sehenden 
+2754:Erbacher and Bertsch 2020).  Die Erkrankung Adipositas bei einer Frau mit Lipödem zu adressieren ist 
+2755:von besonderer Wichtigkeit, da die koinzidente Adipositas einen Aggravationsfaktor für das Lipödem 
+2763:Gleichzeitig kann das meist gemeinsame, koinzidente, Auftreten von Lipödem und Adipositas zu 
+2768:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2776:vielen vom Lipödem betroffenen Frauen zu Schwierigkeiten bei der Akzeptanz des eigenen Körpers 
+2791:werden. Für Frauen mit Lipödem und Einschränkungen in wichtigen Lebensbereichen bedeutet dies, 
+2815:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2817:Das Erleben von körperlicher Gewalt und / oder sexuellem Missbrauch spielt auch beim Lipödem 
+2818:eine wichtige Rolle. Einer Studie an 150 Patientinnen mit gesicherter Diagnose eines Lipödems 
+2847:Gerade für Frauen mit Lipödem können die Ansätze von Pain Neuroscience Education (Louw et al. 
+2860:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2889:Bertsch T, Erbacher G (2018a) Lipödem – Mythen und Fakten Teil 1 Phlebologie 47:84-92 
+2891:Bertsch T, Erbacher G (2018b) Lipödem – Mythen und Fakten Teil 3 Phlebologie 47:188-198 
+2896:Lipohyperplasia dolorosa vulgo Lipödem Lymphol Forsch Prax 26:70-78 
+2915:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2929:Frambach Y, Baumgartner A, Schmeller W (2015) Lipödem und Lebensqualität Vasomed 27:248-249 
+2930:Frambach Y, Baumgartner A, Schmeller W (2016) Lipödem – eine „schwere “Diagnose? vasomed 
+2962:Konsequenzen für Patienten und uns Ärzte im täglichen Arbeitsfeld am Beispiel des Lipödems 
+2971:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+2978:Schubert N, Viethen H (2016a) Lipödem und Liplymphödem - Alles eine Frage des Lebensstils? 
+2982:Schubert N, Viethen H (2016b) Lipödem und Liplymphödem - Alles eine Frage des Lebensstils?: 
+3010:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3068:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3075:Patientenschulung ist auch beim Lipödem essenziell. Nur auf der Basis valider Informationen kann ein 
+3084:Für das Lipödem könnte dies bedeuten: Gehen Patientenschulung und Selbstmanagement Hand in 
+3085:Hand ist neben dem Behandler die vom Lipödem betroffene Frau selbst die Person, die den größten 
+3104:Lipödempatientinnen gehäuft auftretenden (Erbacher and Bertsch 2020) – psychischen 
+3112:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3150:Lipödempatientin der Nutzen durch die Verhaltensänderung deutlich größer sein als der Aufwand. 
+3154:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3158:Lipödem, diese Expertenrolle zu übernehmen, zeigt sich vielfach in der Beteiligung von 
+3189:Bislang existieren kaum spezifische Angebote für die Erkrankung Lipödem.  
+3195:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3202:bezüglich des Lipödems sind nicht enthalten.   
+3203:9.3.2 Selbstmanagement-Programme beim Lipödem  
+3205:Lymphödem“ (GALLiLy), gefördert von der AOK, wendet sich an PatientInnen mit Lipödem und / oder 
+3206:Lymphödemen (Helmbrecht and Kraus 2021). Die Selbstmanagementanteile sind den INSEA-
+3207:Programmen ähnlich, die fachlichen Inhalte wurden speziell an die Erkrankung Lipödem angepasst 
+3211:davon 21 mit Diagnose Lipödem und 55 mit Diagnosen „Lipödem und Lymphödem“ fühlten sich 
+3215:Bislang existieren nur wenige Angebote, die sich speziell an Frauen mit der Diagnose Lipödem 
+3216:richten. Häufig adressieren die Angebote noch sowohl Frauen mit Lymphödemen als auch Frauen mit 
+3217:Lipödem.  
+3218:Selbstmanagement-Schulungen zum Lipödem sollten folgende Inhalte enthalten: 
+3240:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3278:Konsequenzen für Patienten und uns Ärzte im täglichen Arbeitsfeld am Beispiel des Lipödems 
+3292:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3304:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3312:auf das Lipödem und die Bedeutung einer gesunden Ernährung 
+3358:Gesamtkonzept der Therapie des Lipödems einbezogen werden, 
+3383:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3386:Eine große Zahl der Lipödempatientinnen ist übergewichtig oder adipös. Auch wenn das Lipödem 
+3399:Lymphödem und kardiovaskuläre Erkrankungen.  
+3402:Bedeutung im Gesamtkonzept der Lipödemtherapie zu.  Insbesondere bei schwererer Adipositas und 
+3432:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3439:Die Befürchtung vieler Lipödempatientinnen, aufgrund ihrer Erkrankung einer stetigen 
+3464:Hohe Insulinspiegel fördern die Lipogenese, verstärken die Retention von Natrium und Wasser und 
+3479:10.2 Spezielle Ernährungsformen beim Lipödem 
+3482:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3493:Zur speziellen Ernährung beim Lipödem gibt es nur wenige Fallberichte und kleinere, nicht 
+3496:auch beim Lipödem die chronische stille Entzündung pathophysiologisch eine Rolle spielt und pro- 
+3505:In einem Fallbericht wird über fünf konservativ behandelte Lipödempatientinnen im Stadium I-IV 
+3512:Schlussfolgerungen, dass die nichtchirurgische Behandlung des Lipödems in Form eines 
+3517:der Lipödemgruppe; n = 15 in der Kontrollgruppe) auf Köpergewicht und Körperzusammensetzung 
+3519:und Funktionalität im täglichen Leben in der Lipödemgruppe. Die Gruppen unterschieden sich nicht 
+3521:und BMI signifikant. Die Lipödemgruppe zeigte eine signifikante Abnahme der Fettmasse an den 
+3523:Unterschied zwischen den Gruppen. In der Lipödemgruppe verbesserte sich aufgrund der Abnahme 
+3527:sowohl auf die Reduktion des Lipödemfettgewebes als auch auf die Verbesserung der körperlichen 
+3530:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3545:ketogenen Ernährung auf das Lipödem auf (Keith et al. 2021). Zu den von ihnen beobachteten 
+3546:Effekten gehören Gewichtsreduktion und Verringerung von Fettgewebe in den lipödemtypischen 
+3551:schlussfolgern, dass die ketogene Ernährung als vielversprechende Therapieform beim Lipödem 
+3554:Ernährung beim Lipödem deshalb effektiver ist als andere Ernährungsformen, weil sie aufgrund des 
+3557:In einem Fallbericht berichten dieselben Autoren über eine adipöse Lipödempatientin, die im Verlauf 
+3563:Verlauf einen ersten Schritt hin zu einem ketogenen Ernährungsprotokoll speziell beim Lipödem. 
+3566:auf die Körperzusammensetzung von 91 Lipödempatientinnen (Jeziorek et al. 2022). Vierundvierzig 
+3578:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3585:MCMF.  Beobachtet wurden außerdem eine Schmerz- und Ödemreduktion, sowie Verbesserung der 
+3590:von Patientinnen mit Übergewicht oder Adipositas (n=24) versus Patientinnen mit Lipödem (n=24) 
+3591:(Jeziorek et al. 2023). 54 % der Lipödempatientinnen waren im Stadium II. Während bei 
+3593:Lipödemgruppe, unterschieden sich Körpergewicht, Hüft- und Beinumfänge nicht, dementsprechend 
+3594:war die Waist-Hip-Ratio in der Lipödemgruppe niedriger.  Auch bezüglich der Laborwerte gab es 
+3600:weniger ausgeprägt in der Lipödemgruppe. Nieren- und Schilddrüsenwerte blieben unverändert in 
+3602:Ernährung eine wertvolle Ernährungsstrategie sowohl für Lipödem- als auch für übergewichtige 
+3609:einer retrospektiven Studie an 92 Lipödempatientinnen nahmen die Beschwerden auf einer NRS von 
+3619:Lebensqualität mit übergewichtigen Lipödempatientinnen (BMI 30 -45 KG/ m2 durch (Sørlie et al. 
+3623:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3640:Lipödempatientinnen mit einer Reduktion des Schmerzempfindens und einer verbesserten QoL 
+3642:In einer prospektiven Fallkontrollstudie erhielten 56 Lipödempatientinnen und 57 übergewichtige 
+3647:erzielten, zeigten die Teilnehmerinnen der Lipödemgruppe außerdem signifikant reduzierte 
+3650:ketogenen Ernährung  (VLCKD) beim Lipödem zum Ergebnis, dass die VLCKD insbesondere auch bei 
+3652:Behandlungsoption beim Lipödem darstellt, und dass die  Kombination aus VLCKD und mediterraner 
+3671:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3696:Faerber G (2014) Der übergewichtige Patient mit CVI oder Lymphödem. Risikofaktor oder Ursache? 
+3699:Lipödem? Vasomed 29:228-230 
+3700:Faerber G (2017b) Ernährungstherapie bei Lipödem und Adipositas - Ergebnisse eines 
+3727:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3752:Stutz J (2013) Lipödem: Ursache für schwerwiegende Essstörungen Phlebologie 5:A10-1 
+3757:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3760:Patienten mit Lipödem 
+3765:Patientinnen mit Lipödem soll gemäß der S3 Leitlinie 
+3772:Beinvolumina sollte bei Patientinnen mit Lipödem und 
+3775:Bei Patientinnen mit Lipödem und Vorliegen eines BMI ≥ 35 
+3797:Die Datenlage zur bariatrischen Therapie beim Lipödem ist äußerst gering. 
+3817:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3829:Randomisiert kontrollierte Studien zu bariatrischer Chirurgie an Patientinnen mit Lipödem existieren 
+3831:Patientinnen mit Lipödem einen im Vergleich zu übergewichtigen Kontrollen ähnlichen 
+3844:al. 2020). Ein Lipödem ist eine mögliche koinzidente Erkrankung aber entsprechend der S3-Leitlinie 
+3847:Verteilung bei Patienten mit Lipödem mit einer im Vergleich kleineren Waist-to-Height Ratio (WHtR) 
+3850:Über die spezifische Wirksamkeit bariatrischer Chirurgie auf das Lipödem liegen wenige Daten vor. Es 
+3852:legale Aspekte bei der Diagnosestellung des Lipödems berücksichtigt (Bast et al. 2016; Pouwels et al. 
+3854:Kohortenstudie an 31 Patientinnen mit Lipödem (Fink et al. 2021) sowie einer retrospektiven 
+3859:Verminderung der Beinvolumina war dabei vergleichbar zu Kontrollpatienten ohne Lipödem (Fink et 
+3861:Möglichkeit einer Gewichtsreduktion bei Patientinnen mit Lipödem (Hardy and Williams 2017).
+3863:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3865:Daten zu Lipödem Symptomatik (Schmerzen) nach bariatrischer Chirurgie finden sich in einer 
+3866:Fallserie mit 13 Patienten, bei denen die Diagnose „Lipödem“ zeitlich nach erfolgter bariatrischer 
+3878:Lipohyperplasia dolorosa vulgo Lipödem Lymphol Forsch Prax 26:70-78 
+3916:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3922:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3924:12 Operative Therapie des Lipödems  
+3930:des betroffenen Unterhautfettgewebes des Lipödems an Beinen 
+3945:mittels Liposuktion bei Lipödem an Beinen und / oder 
+3955:• Präoperative Entstauung bei koinzidenten Ödemen 
+3979:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+3983:Eine der Operation vorgeschaltete Entstauungstherapie sollte bei klinischem Ödemnachweis 
+3984:durchgeführt werden. Bei fehlendem Ödemnachweis ist keine p räoperative Entstauungstherapie 
+3990:Bei Koinzidenz von Adipositas und Lipödem soll die Adipositas (Kruppa et al. 2020; Rubin et al. 2012; 
+3994:Patientinnen mit Lipödem können an einer Bewegungseinschränkung leiden, die weitere 
+3998:Bei ausgeprägtem Lipödem können in seltenen Fällen nach erfolgreicher Liposuktion große, schlaffe 
+4000:lymphgefäßschonenden Technik z. B. nach AVELAR (Avelar 1985; Ghods 2019)  empfohlen werden 
+4006:lymphgefäßschonenden Technik durchgeführt 
+4026:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+4041:Lymphgefäßen auftreten (Bender et al. 2007; Frick et al. 1999; Hoffmann et al. 2004; Schmeller et al. 
+4081:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+4083:Das Lipödem ist durch die Liposuktion nicht heilbar. Durch die 
+4111:orthopädische Komplikationen in Folge des Lipödem-assoziierten pathologischen Gangbildes (z.B. 
+4126:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+4140:Komplikationen nach Liposuktion durch Lymphgefäßverletzungen werden kaum erkannt und daher in 
+4145:Lymphgefäßverletzung einschließen. Die meisten der bisher berichteten Hautkomplikationen nach 
+4148:schlechten Hautheilung verbunden. Wright berichtet über drei Frauen mit einem Lipödem, die nach 
+4149:einer Liposuktion ein Lymphödem entwickelten. Die typischen Hautveränderungen traten erst 6 
+4151:Hautveränderungen bei Lymphödem (Wright and Herbst 2022). 
+4152:Eine Operation zur Reduzierung des Lipödems ist also nicht ohne Risiko und kann zu langfristigen 
+4160:schwere Verletzung der Lymphgefäße. Bei Verwendung der Tumeszenzanästhesie vor der 
+4166:Auch in den USA werden Komplikationen nach einer Lipödemreduktionsoperation selten berichtet. 
+4169:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+4171:Anämie, tiefe Beinvenenthrombose, Lungenembolie, Lymphödem, Lungenentzündung, Zellulitis 
+4174:ein Lymphödem entwickelten, dies auf Grund des Eingriffs geschah oder im Laufe der Zeit aufgrund 
+4176:Überwachung von Patienten mit Lipödemen nach der Operation ist erforderlich (Herbst et al. 2021a, 
+4179:Vollnarkose operierten Lipödempatientinnen in Deutschland ergab folgende Verteilung von 
+4182:Schmeller gibt eine Infektionsrate von 1,4 % bei 349 Liposuktionen bei der Behandlung des Lipödems 
+4184:15 Jahren chirurgischer Behandlung des Lipödems (Rapprich et al. 2012) Im Allgemeinen birgt die 
+4197:Bender H, Cornely ME, Pleiß C (2007) Lymphszintigraphie beim Lipödem. Einfluss einer Liposuktion 
+4202:patientenrelevanter Nutzen in der Behandlung von Lymphödemen und Lipödemen: 
+4210:des Lymphgefäßsystems, vol 2. pp 384-397 
+4211:Cornely M (2004) Liposuktion bei Lipödem (Cellulite) Follow-up bei 140 operierten Patienten nach 7 
+4216:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+4218:Cornely M (2016) Gibt es eine Lipödem-Persönlichkeit? Paper presented at the 40. Jahrestagung der 
+4224:Cornely ME (2003) Lipödem und Lymphödem. In: Plewig G, Prinz J (eds) Fortschritte der praktischen 
+4232:Cornely ME (2020) Lipohyperplasia dolorosa (LiDo), vormals »Lipödem« – neue Entwicklungen: Teil 1 
+4234:Cornely ME, Gensior M (2014) Update Lipödem 2014: Kölner Lipödemstudie Lymphol Forsch Prax 
+4254:Gensior MHL, Cornely M (2019) Der Lipödemschmerz, seine Folgen auf die Lebensqualität 
+4257:Ghods M (2019) Straffungsoperationen im Rahmen der Lipödembehandlung VasoMed 
+4258:Ghods M, Kruppa P (2018) Operative Behandlung des Lipödems Handchir Mikrochir Plast Chir 
+4271:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+4293:Therapie des Lipödems Phlebologie 49:171-177 doi:10.1055/a-1155-3503 
+4301:Meier-Vollrath I, Schneider W, Schmeller W (2005) Lipödem: Verbesserte Lebensqualität durch 
+4326:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+4330:Schmeller W, Meier-Vollrath I (2007) Lipödem - Aktuelles zu einem weitgehend unbekannten 
+4332:Schmeller W, MeierVollrath I Das Lipödem: neue Möglichkeiten der Therapie. In: Swiss Medical 
+4334:Schmeller W, Tronnier M, Kaiserling E (2006) Lymphgefäßschädigung durch Liposuktion? Eine 
+4363:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+4374:Patientin mit Lipödem erleichtert werden. 
+4375:Zu den psychischen Störungsbildern, die bei Frauen mit Lipödem deutlich häufiger als in der 
+4379:praktischen Diagnostik und Therapie mit Frauen mit Lipödem bewähren - stimmen daher mit den 
+4396:In der Regel sind die psychischen Auffälligkeiten oder Störungsbilder, die die Frauen mit Lipödem 
+4403:13.1.1 Screening für Lipödem-assoziierte Schmerzen:  
+4404:- Visuelle Analogskala  (VAS) (Funke 2010)  zur Einschätzung der Lipödem -assoziierten 
+4405:Schmerzen, wie auch von der niederländischen  Lipödem-Leitlinie (Dutch Society for
+4407:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+4421:Lipödem als sehr quälend empfinden. Dagegen gibt es auch wenige Frauen mit Lipödem, die den 
+4448:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 
+4455:bei Frauen mit Lipödem im Vergleich zu Personen mit Lymphödem bestätigt wurde (Angst et 
+4460:Patientinnen mit Lipödem und Patientinnen mit Fibromyalgie (Angst et al. 2021). Die Werte 
+4461:von Angst et al. (2021) für Frauen mit Lipödem könnten aktuell als SF-36 Referenzwerte 
+4462:dienen bis speziell ausgearbeitete Referenzwerte zum Lipödem vorliegen. 
+4495:S2k-Leitlinie Lipödem: AWMF-Registernummer 037-012 Version 5.0 vom 22.1.2024 

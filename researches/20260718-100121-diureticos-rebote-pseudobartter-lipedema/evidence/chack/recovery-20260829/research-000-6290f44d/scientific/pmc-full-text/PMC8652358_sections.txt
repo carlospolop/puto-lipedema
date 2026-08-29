@@ -1,0 +1,257 @@
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC8652358/
+
+SECTION: Background
+Lipedema is a loose connective tissue disease predominantly in women identified by increased nodular and fibrotic adipose tissue on the buttocks, hips and limbs that develops at times of hormone, weight and shape change including puberty, pregnancy, and menopause. Lipedema tissue may be very painful and can severely impair mobility. Non-lipedema obesity, lymphedema, venous disease, and hypermobile joints are comorbidities. Lipedema tissue is difficult to reduce by diet, exercise, or bariatric surgery.
+
+SECTION: Methods
+This paper is a consensus guideline on lipedema written by a US committee following the Delphi Method. Consensus statements are rated for strength using the GRADE system.
+
+SECTION: Results
+Eighty-five consensus statements outline lipedema pathophysiology, and medical, surgical, vascular, and other therapeutic recommendations. Future research topics are suggested.
+
+SECTION: Conclusion
+These guidelines improve the understanding of the loose connective tissue disease, lipedema, to advance our understanding towards early diagnosis, treatments, and ultimately a cure for affected individuals.
+
+SECTION: Introduction
+Lipedema is a disease of fibrotic loose connective (adipose) tissue (LCT) on the lower abdomen, hips, buttocks, and limbs of females, sparing the trunk, hands, and feet. Lipedema is rare in men. A trigger for the development of lipedema tissue may be an increase in fluid and connective tissue remodeling that occurs alongside body changes during puberty, childbirth, menopause, stress associated with lifestyle change, or by altering tissue structure after surgery or trauma. 1 A hallmark of lipedema tissue is inflammation2,3 resulting in tissue fibrosis and pain, and in some cases, the tissue may become numb. 4
+First described in 1940 by Allen and Hines at Mayo Clinic in the US 5 and by Moncorps from Germany, 6 lipedema remains under-recognized in part, because it is assumed to be a usual hereditary component of female fat. 7 Lipedema is confused with non-lipedema obesity or lymphedema due to increased leg size. 8 Under-recognition or misdiagnosis can delay identification of lipedema for decades. 7 Therefore, patient access to appropriate and timely treatment is often diminished 9 and patients frequently find themselves blamed for their condition, including self-blame. 10 However, lipedema can be treated to reduce pain and edema, maintain mobility, and improve quality of life while slowing disease progression, therefore timely diagnosis is paramount.
+Lipedema is identified by clinical exam 11 with diagnostic criteria to help guide the clinical diagnosis (Figure 1). Skin and lipedema LCT are graded by stage and location (Figure 2). Lipedema tissue, body mass index (BMI), metabolic disease and lymphedema increase with stage.4,12
+Although guidelines are available from other countries,13–17 a published guideline remains an unmet medical need to improve and expand care for people with lipedema in the US.
+
+SECTION: Methods
+In 2019, 21 lipedema expert panelists and a parliamentarian gathered at the Fat Disorders Resource Society Annual Meeting in 2019 to review the literature and develop consensus SOC guidelines for lipedema in the US. A structured questionnaire of 96 consensus statements in REDCap 18 was completed by all panelists prior to the meeting, then panelist average responses were summarized, presented and discussed at the meeting (Round 1). After presentations on SOC guidelines from other countries including pathophysiology, diagnostic criteria,13–17 imaging, and medical, manual, and surgical treatments for patients with lipedema, consensus, defined as 75% agreement amongst panelists, was reached on 90 statements (Round 2). Panelist responses to the summary were collected, summarized again by representative panelists, and presented to panelists two more times to reach a final consensus on 85 statements following the Delphi survey technique. 19
+Consensus statements were scored by panelists and averaged using the GRADE system 20 which classifies recommendations as strong (Grade 1 or ⊕) or weak (Grade 2 or ⊕⊕), according to the balance between benefits, risks, burden, and cost, and the degree of confidence in estimates of benefits, risks, and burden, and quality of evidence as high (Grade A), moderate (Grade B), or low (Grade C) according to factors including the risk of bias, precision of estimates, the consistency of the results, and the directness of the evidence as suggested by UpToDate. 21 References evaluated to score consensus statements in this document follow the statement directly and/or in succeeding paragraph(s) or sections.
+
+SECTION: US SOC meeting goals
+This consensus standard of care guideline accomplishes Goal 1. Additional content is available online. 22 Consensus statements are graded to reflect the strength or weakness based on the current published evidence.
+
+SECTION: 1.0 Lipedema overview
+
+SECTION: 1.1 Lipedema should be regarded as a LCT disease versus a disease of just adipocytes (fat).11,23 (⊕A)
+Fat is a loose connective tissue. In addition to adipocytes, immune cells and fibroblasts, LCT has an extracellular matrix of fibers (e.g. collagen and elastin) that supports, protects, and connects tissues. Blood vessels and cells contribute fluid to the extracellular matrix. Fluid exits through lymphatic vessels 24 or remains in the tissue bound to glycosaminoglycans and proteoglycans. Glycosaminoglycans bind sodium and water due to their strong negative charge. Glycosaminoglycans increase when extracellular matrix water and/or salt increases.
+When excess fluid is present, LCT becomes compliant, 25 allowing more fluid to collect, stimulating proteoglycan synthesis. Excess fluid limits cell access to oxygen resulting in hypoxia, inflammation and fibrosis. 26 Extracellular matrix fluid, free and bound to proteoglycans, also increases in lymphedema.27,28 When excess fluid collects in the extracellular matrix, it is called edema. 29
+
+SECTION: 1.2 Extracellular matrix edema in lipedema tissue is bound to proteoglycans. (⊕C)
+Despite a lack of visible fluid in lipedema tissue on ultrasound, 30 extracellular fluid is higher in the tissue of women with lipedema compared to matched controls. 31 Sodium is also higher in the skin and LCT of women with lipedema. 32 Lipedema tissue has an enlarged extracellular matrix where proteoglycans reside.2,33 In support, multiple proteoglycans are upregulated in excess adipose tissue in individuals with obesity. 34 These data suggest an increase in proteoglycan-bound fluid in lipedema tissue.
+
+SECTION: 1.3 Lipedema has a distinct distribution of pathologic tissue that differs from non-lipedema obesity (Figure 2). 8 (⊕A)
+In women with lipedema, but without non-lipedema obesity, gynoid (not truncal) loose connective tissue is disproportionately increased and fibrotic (Figures 2 and 3), with greater numbers of M2 macrophages, unlike the prevalence of M1 macrophages in non-lipedema obesity.2,35 Furthermore, an inflammatory angiogenesis 3 is present in lipedema LCT but not in the tissue of people with non-lipedema obesity. 36
+
+SECTION: 1.4 Lipedema LCT can affect the abdomen. 12 (⊕B)
+Lipedema tissue is on the abdomen, 4 often with metabolic disease (Figures 1 and 2). 12
+
+SECTION: 1.5 Disproportionate distribution of lipedema tissue along with joint hypermobility and muscle weakness 37 impact postural stability and balance often resulting in a hyperlordotic curve in the lumbar spine, valgus knee, ankle pronation and plantar arch flattening. 38 (⊕B)
+
+SECTION: 1.6 Lipedema tissue is resistant to reduction by diet, exercise, or bariatric surgery.39–42 (⊕B)
+When weight loss occurs, a greater degree of tissue is lost from the trunk exaggerating the disproportion. Fibrosis of LCT, as in lipedema, inhibits weight loss by usual measures. 43
+
+SECTION: 1.7 Rice-grain, pearl-sized or larger nodules in LCT should be part of the diagnostic criteria for lipedema (Figure 1).4,42 (⊕B)
+Fibrosis of lipedema tissue is present in the extracellular matrix space 2 and within fibers forming fibrotic nodules palpable through the skin (Figure 3).
+
+SECTION: 1.8 A Microangiopathy of blood and lymphatic vessels underlies lipedema pathology. (⊕B)
+Lipedema LCT can have capillary fragility 44 and livedo reticularis (Figure 2) and are prone to easy bruising. Increased numbers of dilated micro-blood vessels in lipedema 3 contribute excess fluid to the extracellular matrix. Elevated M2 macrophages,2,3 lymphocyte subtypes 2 and platelet factor 4, an inflammatory marker elevated in conditions of lymphatic disease including all stages of lipedema, 45 suggest inflammation drives the microangiopathy in lipedema. Impairment in lymphatic outflow in lipedema contributes to excess fluid in the extracellular matrix. 46
+
+SECTION: 1.9 Comorbidities of lipedema include lymphedema, 4 non-lipedema obesity, 12 venous disease (5.0 Arterial and venous disorders in lipedema section) and joint disease (Figure 1; Table 1). (⊕A)
+Hypermobile joints were present in ∼50% of women with lipedema consistent with a connective tissue disease, such as hypermobile Ehlers Danlos Syndrome. 12 Reduced elasticity of the skin 25 and aorta 47 in women with lipedema confirm lipedema as a connective tissue disease. 48 Comorbidities should individually be evaluated and treated based on current guidelines for each disease.
+
+SECTION: 1.10 Assessment for hypermobility by the Beighton criteria 49 or questionnaire 50 should be considered when lipedema is diagnosed. (⊕C)
+
+SECTION: 1.11 When there is a concern that lymphedema is present concurrently with lipedema, a nuclear medicine lymphangioscintigraphy exam of the legs, arms or both, should be conducted to assess the integrity and function of the lymphatic system. 46 (⊕A) This exam may also guide treatment when lymphedema is present. Lymphangioscintigraphy findings in lipedema include convoluted lymphatic vessels in the legs that slow transit of radionuclide. 46 (⊕A)
+
+SECTION: 1.12 Women with lipedema who develop lymphedema have lipolymphedema. (⊕A) Lipolymphedema is lipedema that has progressed to clinically identifiable lymphedema, a risk that increases concomitant with stage. 4
+
+SECTION: 1.13 Lipedema tissue is frequently painful especially when touched. (⊕B)
+On a numerical pain scale from 0 (none) to 10 (unbearable), 80% of women with lipedema scored ≥5, and 11% rated their pain as unbearable. 51 The etiology of pain in lipedema is unclear, 52 though histology findings of inflammation and hypoxia may be contributing elements.2,3 Painful lipedema tissue may be misdiagnosed as fibromyalgia.
+Painful lipedema tissue is not an absolute requirement for the diagnosis of lipedema (Figure 1). 52 In a seminal paper on lipedema, only 40%–50% of women had pain or tenderness in the tissue. 53 Conservative therapies can reduce lipedema tissue pain (3.0 Conservative and other therapies section), yet people still retain a diagnosis of lipedema. In a family with lipedema and no pain, a gene mutation in AKR1C1, reducing aldo-keto reductase activity, should increase levels of the potent analgesic, allopregnanolone, 54 while at the same time decreasing prostaglandin F2α levels and raising progesterone levels, both of which stimulate adipogenesis. 55
+
+SECTION: 1.14 Lipedema is a common disease. (⊕C)
+Prevalence estimates for lipedema range from 6.5% in children in the US, 56 6%–8% in women in Germany, 16 and 15%–19%57,58 in vascular clinics. If these numbers are valid and applied to the US population, then millions of women in the US have lipedema.
+
+SECTION: 1.15 Lipedema can be inherited. (⊕B)
+Genes for lipedema are thought to pass from parent to offspring in an autosomal dominant manner with sex limitation.59,60 One gene for lipedema has been identified, AKR1C1, a gene encoding for aldo-keto reductase that catalyzes the reduction of progesterone to its inactive form. 55 Elevation of progesterone due to a mutation in AKR1C1 should increase adipogenesis, as in lipedema. 61 Genes associated with lipedema as part of a syndrome have been reviewed. 62
+
+SECTION: 1.16 Lipohypertrophy is a condition in women that is very similar to lipedema but without edema and pain. 42 Women with lipohypertrophy have tissue that looks like lipedema, have difficulty losing weight, but do not have pain or edema. Some authors state lipohypertrophy is a pre-lipedema condition 63 while others consider it a synonym for lipedema. 7 Lipohypertrophy is also used to describe obesity affecting the limbs and trunk. 64 More research is needed to determine if lipohypertrophy is different from lipedema. (⊕C)
+
+SECTION: 1.17 Lipedema and its concomitant pain and inability to lose tissue mass by usual measures can increase the incidence of depression, anxiety, or eating disorders. 65 (⊕B)
+Eighty-five percent of women state lipedema affects their mental health, coping abilities and self-esteem. 66 Depression was observed in 18%–35% of people with lipedema, exceeding average population prevalence levels. 67 On a standardized measure of health-related quality of life, anxiety or depression was found in 42% of people with lipedema. 68 In other studies, self-reported anxiety affected 18%–30% of people with lipedema.69,70 Psychological pain scores were also high in women with lipedema. 51 Early diagnosis and treatment may mitigate the impact of lipedema on mental health.
+In a study of 100 people with lipedema, 74% had a history of eating disorders, 12% with periodic binge eating attacks, 8% with bulimia, and 16% with anorexia nervosa. 71
+
+SECTION: 1.18 A Mental health consultation should be offered to people with lipedema when there are signs and symptoms of depression, anxiety or eating disorders. (⊕B)
+Improved mental health increases self-care by women with lipedema. 72
+
+SECTION: 2.1 Signs and symptoms of lipedema can be treated to maintain and improve quality of life including pain, edema, and mobility; earlier treatment provides better results.17,42,64,66,73 (⊕B)
+
+SECTION: 2.3 Barriers to treatment of lipedema include difficulty of self-care, mobility limitations, social stigma attached to increased body size and physical limitations, anxiety, depression, 65 lack of social support, 12 availability of knowledgeable healthcare providers and affordability of services and limitations of some non-surgical treatments to reduce lipedema tissue.37,66,74 (⊕B)
+There are no known medications that specifically treat lipedema.
+
+SECTION: 2.4 Use of medications and supplements for lipedema should focus on reducing tissue inflammation, fibrosis, swelling, and pain. 11 (⊕⊕C)
+Medications for metabolic complications that arise from obesity in people with lipedema should follow standard guidelines. 75 (⊕A)
+
+SECTION: 2.5 Medications that increase edema should be avoided in people with lipedema. 11 (⊕A)
+
+SECTION: 2.7 Thiazolidnediones increase subcutaneous adipose tissue and should be avoided in people with lipedema. 77 (⊕C)
+
+SECTION: 2.8 Long-term use of diuretics should be avoided in people with lipedema. 78 (⊕B)
+Diuretics do not treat the main cause of edema in lipedema which is inflammation.2,3
+
+SECTION: Sympathomimetic amines that constrict arterioles and lower intracapillary pressure can be considered for edema treatment. 78 (⊕⊕C)
+People with lipedema treated with sympathomimetic amines had reduced weight, body size, edema and pain and improved quality of life. 69
+
+SECTION: Metformin should be considered for people with lipedema and metabolic complications. (⊕A)
+Metformin inhibits hypoxia-induced fibrosis in adipose tissue, 79 and can reverse fibrosis after injury. 80
+
+SECTION: Thyroid function should be assessed in people with lipedema. (⊕A)
+Hypothyroidism was found in 27%–36% of women with lipedema.4,67,70
+
+SECTION: Diosmin can be considered for treatment of lipedema tissue. (⊕⊕C)
+Diosmin, a biologically active polyphenol often in combination with its precursor, hesperidin, reduces oxidative stress markers in people with chronic venous disease, 81 improves venous elasticity, 82 functions as a lymphagogue reducing edema, 81 reduces microvascular permeability, 83 and improves vascular, 84 neuropathic 85 and radicular pain.
+
+SECTION: Eating plans for people with lipedema should minimize postprandial insulin and glucose fluctuations (⊕C) and be sustainable long-term. (⊕C)
+Healthy eating patterns for lipedema can be whole food, enzyme rich, plant-based86,87 or ketogenic. 88 Research favors vegetable-based low-carbohydrate diets which correlate with decreased all-cause mortality over animal-based diets. 89
+
+SECTION: Vitamin D levels should be monitored and normalized for people with lipedema. (⊕C)
+Vitamin D levels decrease with increasing BMI. 90
+
+SECTION: Lipedema tissue does not reduce significantly after diet, exercise, or bariatric surgery39–42 likely due to the fibrotic component of loose connective tissue. (⊕C)
+Weight reduction of non-lipedema obesity is beneficial to reduce metabolic complications following published guidelines. 75 A BMI greater than 50 kg/m2 can induce metabolic complications, lymphedema and exacerbate lipedema. 91
+
+SECTION: Women with lipedema may have sleep issues including sleep apnea; sleep assessment should be considered especially in later stages. 4 (⊕C)
+
+SECTION: While sex hormones can affect fluid retention, a causative role for sex hormones in the expression of lipedema remains speculative. When necessary, lower doses of sex hormones for birth control or hormone replacement should be considered. 11 (⊕⊕C)
+
+SECTION: People with lipedema should be assessed for lipedema, lymphedema, posture, balance, muscle strength, gait and joint hypermobility by a therapist with certified lymphedema therapist (CLT) training. 92 (⊕C)
+People with lipedema may benefit from postural and core exercises, 12 muscle strengthening exercises, gait training, neuromuscular re-education, and deep abdominal breathing to increase lymphatic flow 93 and stimulate the parasympathetic system. Education and training should be performed by a qualified practitioner.
+
+SECTION: 3.2. Standard conservative therapy for lipedema includes nutritional guidance (2.0 Medical treatment section), manual therapy, compression garments, recommendations for a pneumatic compression device (external pump)94,95 and a home exercise plan. 37 (⊕C)
+
+SECTION: 3.3. Manual therapies, sequential pneumatic compression pumps96,97 and exercise 98 should improve lipedema tissue by decreasing pain and increasing lymphatic flux, which in turn increases movement of glycosaminoglycans from the extracellular matrix into lymphatic vessels. 99 (⊕C)
+
+SECTION: 3.4. Standard manual therapy for lipedema includes soft tissue mobilization to reduce pain, inflammation100,101 and musculoskeletal restrictions, and manual lymphatic drainage as part of an individualized comprehensive therapy program to stimulate lymphatic flow and reduce edema. 102 (⊕C)
+
+SECTION: 3.5. Lipedema tissue should be mobilized deeper with myofascial release, other manual techniques or instrument assisted soft tissue therapy to reduce fibrotic restrictions and improve the interstitial space while considering patient tolerance and tissue integrity.100,101 These therapies do not harm the lymphatic system. (⊕C)
+
+SECTION: 3.7. Compression garments for lipedema provide comfort and reduce pain by supporting the tissues especially if there is interference by lipedema tissue pads, 104 and manage edema.7,105 (⊕B)
+
+SECTION: 3.8. Selection of compression styles, fabric and strength should be individualized. Compression garment styles can be combined to cover the arms, hands, legs, feet, trunk, or pelvis. 103 (⊕C)
+Fabrics range from lightweight and micro-massage, to circular knit to flat knit, the latter providing the strongest containment. 106 Certified lymphedema therapists may suggest modifications for compression garments, inelastic compression garments, “donning aides”, or adaptive equipment. Multilayer, short-stretch compression wraps, or inelastic Velcro may be required to contain fluid. The strength of garments or the compression class level is made independent of fabric type and according to lipedema stage (Table 2). If pain increases with compression, the compression class level may be decreased, or garments layered. A higher compression class level does not equate to better results. 103
+
+SECTION: Pneumatic compression devices stimulate lymphatic flow 96 and are an option for at-home lipedema and lymphedema management when there are no contraindications.96,107 (⊕A)
+Pneumatic compression devices provide pain reduction and may provide better control of swelling than self-manual lymphatic drainage. 108 Use of pneumatic compression devices and early mobilization can reduce the risk of deep venous thromboembolism following lipedema reduction surgery. 109 Pressure levels can be altered and cotton padding added between the skin and device if discomfort is experienced with pneumatic compression device use. 64
+
+SECTION: 3.10. Exercise programs for people with lipedema should be individually prescribed, started slowly, and progressed as tolerated.37,66 (⊕B)
+
+SECTION: 3.12. Beneficial home exercise plans for people with lipedema include swimming/aquatics, elliptical machines, yoga, stationary bikes, whole body vibration and walking. Impact levels may vary but should remain tolerable and sustainable for long-term adherence.37,66 (⊕C)
+
+SECTION: 3.13. People with lipedema undertaking exercise programs ideally would be followed long-term with regular assessment. 37 (⊕C)
+
+SECTION: 3.14. Home care for lipedema (self-management or with caregiver assistance) is essential to mitigate progression and optimize quality of life. 10 (⊕C)
+Daily self-care includes skin care (to prevent breakdown under fat lobules, and to prevent infection when lymphedema is present), compression garments, pneumatic compression pumps, self-massage, a healthy eating plan, home exercise plan, adequate sleep and psychosocial support including social networks.
+
+SECTION: 4.1. Lipedema reduction surgery is currently the only available technique for removing abnormal lipedema tissue such as adipocytes, nodules, fibrotic extracellular matrix, and other non-adipocyte components. It is also the only treatment that slows progression of lipedema and ideally would be performed before complications and disabilities from lipedema develop.110,111 (⊕C)
+
+SECTION: 4.2. Lipedema reduction surgery utilizes suction lipectomy (liposuction), excision and manual extraction that spares blood and lymphatic vessels. 17 (⊕⊕C)
+Lipedema reduction surgery significantly improves symptoms,110–112 mobility, stance, gait, 38 valgus rotation/deformity of the knee and ankle, quality of life, and redistributes and restores the plantar arch. 113 It also improves lymphatic symptoms, reducing the need for compression and manual therapy110–112,114 and improves lymphatic function as shown by radionucleotide lymphangioscintigraphy. 115
+The types of suction lipectomy recommended for people with lipedema are based around tumescent liposuction which uses a solution injected into the tissue to decrease pain and bleeding. 116 Other mechanical methods can also be used such as Water Assisted Liposuction (WAL)114,117 and Power Assisted Liposuction (PAL). 118
+To date, all studies showing clinical improvements for women with lipedema used tumescence or WAL techniques.110–112,119 There is little published information on the safety of laser or ultrasound technology for removing lipedema tissue.
+
+SECTION: Candidates for lipedema reduction surgery should generally be in good health
+People with lipedema are different from the general population in that BMI is not a reliable indicator of overall health. 17 (⊕C)
+
+SECTION: There is no age limit for which people will benefit from lipedema reduction surgery. 17 (⊕C)
+
+SECTION: Indications for lipedema reduction surgery include a diagnosis of lipedema with demonstrated compliance and adherence to or failure of conservative therapies (3.0 Conservative and other therapies section ).13–17,66 (⊕C)
+
+SECTION: Lipedema reduction surgery does not fit traditional volume limits for liposuction
+Debulking lipedema tissue may require larger than traditional suction aspirate volumes 120 and multiple surgeries with proper intervals in-between. This is not cosmetic liposuction as there are mobility, pain and health benefits when removing lipedema tissue.13–17 (⊕⊕B)
+
+SECTION: Women with lipedema should be treated with conservative therapy prior to lipedema reduction therapy (4.0 Surgical treatment section). People may travel to receive surgery and rely on a therapy team in their hometown for pre- and post-operative care. In the weeks before surgery, a certified lymphedema therapist can perform a pre-surgical screening to guide “prehab” exercise, perform manual therapies and recommend compression garments for the patient.13–17 (⊕⊕B)
+
+SECTION: If the patient has lipolymphedema, complete decongestive therapy performed prior to surgery should include an intensive volume reduction phase, ideally 3–4 treatments per week. 107 (⊕C)
+
+SECTION: Before surgery, two sets of off the shelf, made to measure or inelastic garments or a combination of micro-massage garment and short stretch bandages should be prescribed. 107 Compression garments should be replaced 3 or 4 times during the first year. Garments must be worn regularly as non-compliance risks a rebound of edema. 107 (⊕C)
+
+SECTION: People with lipedema, especially higher stages, are at increased risk for venous thromboembolism and pulmonary embolus after surgery. We recommend venous thromboembolism risk stratification and treatment when indicated (5.0 Arterial and venous disorders in lipedema section). (⊕A)
+
+SECTION: A Pre-surgical venous duplex ultrasound and/or treatment of chronic venous disease should be considered especially in patients with lipolymphedema prior to lipedema reduction surgery. 121 (⊕⊕A)
+Varicose veins from chronic venous disease increase the risk of venous thromboembolism in the legs; 122 treatment of chronic venous disease decreases this risk. 123 Varicose veins may increase the risk of intra-operative blood loss during surgical treatment of lipedema. 124
+
+SECTION: Lipedema reduction surgery can be safely accomplished in an outpatient setting
+Consider overnight observation after surgery for significant comorbid medical illness or high-volume aspirate. 17 (⊕⊕B)
+
+SECTION: Lipedema reduction surgery can be safely performed under local or general anesthesia. 17 (⊕B)
+
+SECTION: Lipedema reduction surgery is not without risk and may cause long-term complications including lymphatic injury. 125 (⊕C)
+
+SECTION: Lipedema reduction surgery should be performed by surgeons experienced in the care of people with lipedema, with expert knowledge of the anatomy and function of lymphatic collection systems, using meticulous care to avoid lymphatic injury.66,116 (⊕B)
+
+SECTION: Lipedema reduction surgery may be less effective in advanced stages of lipedema 66 and in women with lipedema and severe obesity110–112,119 although recent data demonstrate a greater reduction of symptoms in more advanced cases. 73 Surgery may involve multiple procedures, however, the optimal time between procedures is unknown. (⊕⊕B)
+
+SECTION: Blunt cannulas no larger than 2–4 mm should be used during lipedema reduction surgery
+Larger cannulas increase the risk for lymphatic injury, and the risk of rare, but deadly fat embolism. Cannulas greater than 4 mm should only be used in people with advanced stage lipedema and only for deep plane liposuction. 126 (⊕C)
+
+SECTION: Longitudinal technique should be used during lipedema reduction surgery to avoid damaging lymphatic vessels. 127 (⊕C)
+
+SECTION: Anemia is a risk with large volume liposuction in people with lipedema
+Hemoglobin levels should be followed pre- and post-operatively in higher risk individuals. 128 (⊕C)
+
+SECTION: Large tissue sacks may remain after successful surgery and weight loss, for which subsequent plastic surgery in the form of dermo-lipectomy may be required. (⊕C)
+These surgical recommendations align with published standard of care guidelines and long-term studies.16,110–112,119 UK guidelines suggest lipedema reduction surgery after 6–12 months of adherence to conservative therapy. 13 Dutch guidelines suggest lipedema reduction surgery for people no longer responding to conservative therapy. 66 We recommend women with lipedema discuss lipedema reduction surgery with healthcare providers for a pre-surgical assessment, get a referral to a trained therapist (3.0 Conservative and other therapies section), and be assessed for significant and treatable vascular disease (5.0 Arterial and venous disorders in lipedema section) prior to undergoing lipedema reduction surgery.
+
+SECTION: People with early stage lipedema should wear a postoperative compression garment for at least 2–3 months to manage post-operative edema. 107 People with advanced lipedema and/or lipolymphedema may need to continue compression garments for life.15,120 If people find it difficult to don and doff compression garments, two garments with a lesser level compression can be layered to achieve adequate compression. (⊕C)
+
+SECTION: Post-surgical care should be performed by a certified lymphedema therapist 2–3 times a week as soon after surgery as possible until swelling subsides.120,129 Certified lymphedema therapists or a qualified fitter can monitor compression needs. (⊕⊕B)
+
+SECTION: Complete decongestive therapy is either no longer needed or the need reduced in people after recovery from lipedema reduction surgery. 112 (⊕⊕A)
+
+SECTION: Arterial and venous disorders in lipedema
+
+SECTION: The arterial and venous vascular status of people with lipedema should be evaluated.47,121 (⊕⊕C)
+Most people with lipedema have leg pain, all have leg swelling, either pitting or non-pitting, and many have underlying chronic venous disease. 121
+The physical examination should include inspection and palpation of pulses in the limbs. Pulse palpation in people with lipedema may be difficult and painful due to limb size.
+
+SECTION: It is important to differentiate leg pain in lipedema from peripheral arterial disease. (⊕⊕A)
+Peripheral arterial disease is common especially when major risk factors are present. 130 Compression garments are a standard treatment for people with lipedema with signs of lymphatic impairment; however, compression garments are contraindicated for people with severe peripheral arterial disease.
+
+SECTION: If peripheral arterial disease is clinically suspected, ankle brachial index is recommended with whole leg or single segment (foot and ankle) assessment. (⊕A)
+Arm or leg enlargement in lipedema may affect accuracy of the blood pressure measurements in this test and cause pain. 131 If performing an ankle brachial index is not possible, measurement of a toe brachial index may be helpful. Forearm or wrist blood pressure measurement may be an alternative in this population. Other options include using a 4 MHz Doppler ultrasound probe (over the standard 8 MHz probe) and/or a larger blood pressure cuff. 132
+The arterial duplex ultrasound can eliminate the need for invasive procedures such as arteriography or computed tomography angiography.
+
+SECTION: Common venous conditions seen in people with lipedema include increased risk for venous thromboembolism and conditions associated with chronic venous disease: varicose veins, chronic venous insufficiency, and telangiectasias (spider veins). 121 (⊕C)
+
+SECTION: Lipedema, especially later stages, is associated with multiple comorbid conditions that increase the risk of venous thromboembolism, which includes superficial thrombophlebitis, deep vein thrombosis and pulmonary embolism. 133 (⊕C)
+
+SECTION: Providers should perform a venous thromboembolism risk assessment score 134 for people with lipedema and follow venous thromboembolism prophylaxis treatment guidelines. (⊕C)
+Independent risk factors for venous thromboembolism based on Caprini risk stratification, 134 especially for women with Stage 3 lipedema include:BMI >40 kg/m2 (1 point)Varicose veins (1 point)Swollen legs, including loss of definition of bony prominences (1 point)Decreased mobility 113 (1 point) (⊕A)
+
+SECTION: Chronic venous disease can present with leg swelling and pain and should be considered in the differential diagnosis of lipedema. (⊕B)
+Chronic venous disease is the most common vascular disorder in all populations. Chronic venous disease is the presence of morphological (i.e., venous dilation) or functional (e.g., venous reflux) abnormalities manifested by symptoms and/or signs indicating the need for further investigation or treatment. There is little data on lipedema and chronic venous disease. Two studies state ∼25% of women with lipedema have venous disease and one study showed 50% of women with lipedema and lipolymphedema had chronic venous insufficiency.53,121,135 Lipedema and chronic venous disease often co-exist, share similar leg symptoms, and could exacerbate each other. Advancing age, female gender, and BMI compound an underlying relationship between lipedema and chronic venous disease. 136
+Symptoms of chronic venous disease include: leg pain, fatigue, heaviness, swelling, pruritus, restless legs and night cramps. 137 The leg pain of chronic venous disease is generally worse with dependency and relieved by elevation. Symptoms of chronic venous disease are relieved by compression garments and walking. In people with lipedema, leg elevation does not improve swelling, and compression garments often cause pain.
+The physical exam for chronic venous disease includes inspection of the arms and legs comparing each to the contralateral limb. Physical signs of chronic venous disease include telangiectasia, varicose veins, hyperpigmentation, erythema, inflammation, dryness, corona phlebectatica, lipodermatosclerosis, atrophie blanche and leg ulceration. Edema, pitting or non-pitting, should be noted.
+Secondary lymphedema in people with lipedema can be difficult to evaluate. Not only does secondary lymphedema often occur in the absence of a positive Stemmer's sign, 138 it requires palpation of tissue density and heaviness. As much as 0.5 L of fluid can be present in the calf/ankle before it is noticed. Women with any stage of lipedema may manifest lymphedema although it is more likely in more advanced stages.4,46
+
+SECTION: 5.8. The Clinical-Etiological-Anatomical-Pathophysiological (CEAP) classification for venous disease should be determined for people with lipedema. 139 (⊕A)
+
+SECTION: The venous evaluation of people with lipedema includes a bilateral, lower extremity duplex ultrasound evaluation of the deep and superficial venous systems assessing for valvular insufficiency (reflux), 121 acute or chronic thrombosis 133 and patterns of obstructive flow. (⊕A)
+The scan should evaluate reflux in the superficial truncal veins (great saphenous, small saphenous and accessory saphenous), measure truncal vein diameters, and map large refluxing tributaries. These scans can be difficult to perform and assess in people with severe obesity, extensive lipedema, and lower extremity edema.
+Duplex ultrasound may be helpful when the clinical examination for lipedema is unclear. For example, dermal thickness was normal in people with lipedema, while dermal thickness was increased and fluid was present in the loose connective tissue in cases of lymphedema. 140
+Knowing when to treat chronic venous disease in people with lipedema is challenging without published data. Generally, it is accepted to consider treatment of chronic venous disease when superficial truncal reflux is present, the symptoms interfere with activities of daily living, and people do not respond to conservative therapy (compression garments, manual therapy, 3.0 Conservative and other therapies section). (⊕B)
+
+SECTION: Providers should determine whether symptoms are from lipedema, chronic venous disease or both as they share many symptoms. 121 (⊕B)
+One goal for people with lipedema is to improve discomfort. It is important to give reasonable expectations for chronic venous disease treatment outcomes including that overall leg shape, edema, and underlying symptoms from lipedema most likely will not improve. However, by removing the chronic venous disease component, people can expect an overall net improvement of end of day symptoms. 139
+
+SECTION: Consider thermal and non-thermal treatment modalities of chronic venous disease in people with lipedema. 141 (⊕C)
+There are two modalities for treating superficial truncal reflux in chronic venous disease: non-thermal and thermal. Non-thermal methods cause less inflammation, injury to adjacent structures, damage to adjacent lymphatics or nerves, risk of anesthetic complications, noxious needle punctures, and pre- and post-treatment discomfort. Thermal modalities are theoretically more likely to injure adjacent lymphatics; however, thermal ablation is more widely available and more effective on larger diameter veins. 142
+
+SECTION: Due to alterations in lymphatic vessels in people with lipedema, 46 when thermal ablation is used to treat chronic venous disease in the proximal saphenous vein segments, generous peri-vascular tumescent anesthesia should be infiltrated, especially at the sapheno-femoral and sapheno-popliteal junctions, to increase protection of surrounding lymphatics. 143 (⊕C)
+
+SECTION: The decision of whether to treat distal saphenous segments and/or large tributaries of chronic venous disease in people with lipedema must be individualized. 144 (⊕⊕C)
+
+SECTION: Monitoring treatment
+Though there is no lipedema specific health-related quality of life evaluation tool, several outcome instruments have been used to differentiate lipedema from lymphedema including the SF-36 145 and the Patient Benefit Index. 146
+
+SECTION: Research
+How or why lipedema occurs is poorly understood, and for affected individuals, the signs and symptoms of progression remain unexplored. Key areas of research include:Defining the penetrance of pain and its mechanisms,Pathomechanism of muscle strength loss,Connective tissue aspect of lipedema including hypermobile joints,Difference and differential diagnosis between lipohypertrophy and lipedema,Overall prevalence and incidence of lipedema as well as its demographic distribution.
+Further research should focus on how to optimize treatment for people with lipedema, with a particular focus on patient quality of life, nutritional guidance, management of comorbid diseases, deeper tissue techniques to reduce inflammation and fibrosis, earlier diagnosis to allow for intervention and education, psychosocial support, as well as pre- and post-surgical protocols to improve care and assess medium- to long-term outcomes.
+
+SECTION: Conclusion
+These findings are the consensus statements of US-based expert panelists put forth as a standard of care guideline for people with lipedema in the US. It is our goal and aspiration that that this guideline will improve the understanding of the loose connective tissue disease, lipedema, and that increased research and awareness of lipedema will advance our understanding towards increased diagnosis, improvements of treatments, and ultimately a cure for the community of affected individuals.

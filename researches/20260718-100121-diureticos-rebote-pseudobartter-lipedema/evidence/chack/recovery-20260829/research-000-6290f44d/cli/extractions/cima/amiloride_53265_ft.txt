@@ -1,0 +1,629 @@
+                                             FICHA TÉCNICA
+
+1. NOMBRE DEL MEDICAMENTO
+
+Ameride 5 mg/50 mg comprimidos.
+
+2. COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+
+
+Cada comprimido contiene 5 mg de hidrocloruro de amilorida y 50 mg de hidroclorotiazida.
+
+Excipiente(s) con efecto conocido:
+Cada comprimido contiene 67,45 mg de lactosa (como lactosa monohidrato) y 0,158 mg de laca alumínica
+de amarillo anaranjado S (E-110).
+
+Para consultar la lista completa de excipientes, ver sección 6.1.
+
+3. FORMA FARMACÉUTICA
+
+Comprimidos.
+
+Los comprimidos son de color melocotón, grabados con “AMERIDE” en una cara y ranurados en la otra.
+
+
+4. DATOS CLÍNICOS
+
+4.1. Indicaciones terapéuticas
+
+Edema de origen cardiaco; cirrosis hepática con ascitis y edema; hipertensión arterial, en especial en
+aquellos pacientes en los que pueda preverse una depleción de potasio.
+
+La combinación de hidrocloruro de amilorida e hidroclorotiazida minimiza la posibilidad de que se
+produzca una pérdida excesiva de potasio en pacientes sometidos a diuresis intensa durante periodos
+prolongados.
+
+Ameride, con su componente ahorrador de potasio, hidrocloruro de amilorida, está especialmente indicado
+en aquellas condiciones en las que el efecto positivo sobre el balance de potasio es particularmente
+importante.
+
+4.2. Posología y forma de administración
+
+Edema de origen cardiaco
+Puede comenzarse el tratamiento con Ameride a la dosis de 5/50 mg al día. Esta dosis puede aumentarse en
+caso necesario, pero no debe excederse la dosis de 10/100 mg al día. La dosis óptima se determina por la
+respuesta diurética y el nivel de potasio en el suero. Una vez conseguida una diuresis inicial, la dosis puede
+reducirse hasta llegar al tratamiento de mantenimiento. El tratamiento de mantenimiento puede hacerse
+mediante posología intermitente.
+
+Hipertensión
+La dosis habitual es de 5/50 mg al día. La dosis puede adaptarse según las necesidades del paciente. El
+comprimido puede fraccionarse para facilitar el ajuste de dosis.
+
+Algunos pacientes pueden requerir mitad de la dosis.
+
+Cirrosis hepática con ascitis (ver sección 4.4).
+El tratamiento debe iniciarse con una dosis baja de Ameride (5/50 mg una vez al día).
+
+                                                   1 de 11
+En caso necesario, la dosis puede aumentarse gradualmente hasta que aparezca una diuresis efectiva. La
+dosis no debe exceder de 2 comprimidos diarios.
+
+Las dosis de mantenimiento pueden ser menores que las requeridas para iniciar la diuresis; por
+consiguiente, debe tratarse de reducir la dosis diaria cuando el peso del paciente se haya estabilizado. Una
+reducción gradual de peso en los pacientes cirróticos es especialmente aconsejable para minimizar la
+probabilidad de las reacciones adversas asociadas al tratamiento diurético.
+
+Se pueden fraccionar los comprimidos para facilitar el ajuste de dosis.
+
+Población pediátrica
+No se ha establecido todavía la seguridad del uso del hidrocloruro de amilorida en el niño y por lo tanto
+Ameride no se recomienda en los casos pediátricos.
+
+4.3. Contraindicaciones
+
+Hipersensibilidad a los principios activos o a alguno de los excipientes incluidos en la sección 6.1.
+
+El tratamiento con Ameride está contraindicado en las siguientes condiciones:
+
+Hiperkalemia
+Ameride no debe utilizarse en pacientes con niveles elevados de potasio en plasma (superiores a 5,5
+mEq/litro).
+
+Tratamiento con antikaliuréticos o con sales potásicas
+Está contraindicada la administración de otros agentes antikaliuréticos y suplementos de potasio en
+pacientes tratados con Ameride (dicho tratamiento combinado suele asociarse con una rápida elevación de
+los niveles de potasio en plasma).
+
+Disfunción renal
+La anuria, la insuficiencia renal aguda, la enfermedad renal progresiva y grave, y la nefropatía diabética
+contraindican el uso de Ameride. Los pacientes con niveles elevados de nitrógeno ureico en sangre (BUN)
+que exceda los 30 mg/100 ml, con niveles de creatinina sérica superiores a 1,5 mg/100 ml; o con valores de
+urea en sangre total de más de 60 mg/100 ml deberán someterse a un frecuente y cuidadoso control de los
+electrolitos en suero y de los niveles del BUN para ser tratados con Ameride.
+
+En pacientes con insuficiencia renal, la retención de potasio se acentúa con la adición de agentes
+antikaliuréticos que puede provocar un rápido desarrollo de la hiperkalemia.
+
+4.4. Advertencias y precauciones especiales de empleo
+
+Derrame coroideo, miopía aguda y glaucoma secundario de ángulo cerrado
+Los medicamentos con sulfonamida o medicamentos derivados de sulfonamida pueden causar una reacción
+idiosincrásica que dé lugar a un derrame coroideo con defecto del campo visual, miopía transitoria o
+glaucoma agudo de ángulo cerrado. Los síntomas incluyen un inicio agudo de pérdida de la agudeza visual
+o dolor ocular y se produce normalmente a las horas o semanas del inicio del tratamiento. El glaucoma
+agudo de ángulo cerrado no tratado puede conducir a una pérdida de visión permanente. El tratamiento
+primario consiste en interrumpir la administración del medicamento tan rápidamente como sea posible. Si
+no se consigue controlar la presión intraocular se pueden considerar otros tratamientos médicos o
+quirúrgicos inmediatos. Entre los factores de riesgo para el desarrollo de glaucoma agudo de ángulo
+cerrado se pueden incluir antecedentes de alergia a las sulfonamidas o a penicilina.
+
+Hiperkalemia
+
+
+                                                   2 de 11
+La hiperkalemia, definida por niveles séricos de potasio superiores a 5,5 mEq/litro, ha sido observada en
+pacientes tratados con hidrocloruro de amilorida, solo o en combinación con otros agentes diuréticos.
+
+Esto, en particular se ha observado en pacientes ancianos o en pacientes hospitalizados con cirrosis
+hepática o con edema cardiaco y conocido compromiso renal que estaban graves o que estaban sometidos a
+un tratamiento diurético intensivo. Estos enfermos deben ser cuidadosamente vigilados, clínicamente, con
+pruebas de laboratorio y electrocardiográficamente (ECG) para detectar evidencias de hiperkalemia. En
+estos grupos de pacientes se han comunicado algunos casos de desenlace fatal.
+
+Cuando se administre Ameride no se utilizarán suplementos de potasio ni dieta enriquecida en potasio (ver
+sección 4.3), excepto en casos de hipokalemia grave y/o refractaria. Si se usan suplementos de potasio, se
+recomienda controlar cuidadosamente los niveles séricos de potasio.
+
+Tratamiento de la hiperkalemia
+Si durante el tratamiento con Ameride se desarrolla hiperkalemia se debe suspender inmediatamente el
+tratamiento y, en caso necesario, se deben aplicar medidas activas para reducir los niveles de potasio en
+plasma.
+
+Insuficiencia renal
+Cuando el aclaramiento de creatinina es inferior a 30 ml/min los diuréticos tiazídicos no son efectivos.
+
+Desequilibrio electrolítico
+Aunque con Ameride la posibilidad de desequilibrio electrolítico esté reducida, debe mantenerse un
+cuidadoso control de los signos de desequilibrio tanto electrolítico como de fluidos: principalmente,
+hiponatremia, alcalosis hipoclorémica, hipokalemia e hipomagnesemia. Es especialmente importante
+realizar determinaciones de los electrolitos en suero y orina cuando el paciente presente vómitos en exceso
+o se le esté administrando líquido por vía parenteral. Los signos y síntomas que indican un desequilibrio
+electrolítico incluyen: sequedad de boca, sed, debilidad, letargo, somnolencia, agitación, convulsiones,
+confusión, dolores o calambres musculares, fatiga muscular, hipotensión, oliguria, taquicardia y
+alteraciones gastrointestinales, como náuseas y vómitos.
+
+Puede producirse hipokalemia con hidroclorotiazida o con cualquier otro diurético potente, especialmente
+con diuresis intensa, después de un tratamiento prolongado o en presencia de cirrosis grave. La
+hipokalemia puede sensibilizar o exagerar la respuesta del corazón a los efectos tóxicos de la digitalis
+(irritabilidad ventricular aumentada).
+
+La hiponatremia inducida por diuréticos es generalmente débil y asintomática. Puede convertirse en grave y
+sintomática en algunos pacientes, los cuales requerirán atención inmediata y tratamiento adecuado.
+
+Las tiazidas pueden disminuir la excreción de calcio en orina. Las tiazidas pueden producir una elevación
+ligera e intermitente del calcio sérico en ausencia de alteraciones conocidas del metabolismo cálcico.
+
+Las tiazidas deben suspenderse antes de realizar pruebas de la función paratiroidea.
+
+Azotemia
+La hidroclorotiazida puede producir o incrementar la uremia. En pacientes con insuficiencia renal pueden
+producirse efectos acumulativos del fármaco. El diurético debe ser suspendido si durante el tratamiento de
+la insuficiencia renal se produce un aumento de la uremia y de la oliguria.
+
+Insuficiencia hepática
+Las tiazidas deben ser utilizadas con precaución en pacientes con alteración de la función hepática o
+insuficiencia hepática progresiva, ya que pequeñas alteraciones del equilibrio tanto electrolítico como de
+fluidos pueden producir coma hepático.
+
+Metabolismo
+En ciertos pacientes tratados con tiazidas puede producirse hiperuricemia o precipitación de la gota.
+
+                                                   3 de 11
+El tratamiento con tiazidas puede alterar la tolerancia a la glucosa, por tanto, se puede requerir un ajuste de
+la dosis de los fármacos antidiabéticos, incluida la insulina.
+
+Se pueden asociar aumentos en los niveles de colesterol y triglicéridos con el tratamiento con tiazidas.
+
+Para minimizar el riesgo de hiperkalemia en los pacientes diabéticos o en los que se sospeche que puedan
+serlo, debe determinarse el estado de la función renal antes de iniciar el tratamiento con Ameride. El
+tratamiento con Ameride debe suspenderse al menos tres días antes de realizar una prueba de tolerancia a la
+glucosa.
+
+El tratamiento antikaliurético debe iniciarse con precaución en pacientes gravemente enfermos en los que
+haya riesgo de desarrollo de acidosis metabólica o respiratoria, p.ej., en pacientes con enfermedad
+cardiopulmonar o con diabetes descompensada. Los cambios del equilibrio ácido-básico alteran el
+equilibrio extracelular/intracelular del potasio, y el desarrollo de la acidosis puede asociarse con un
+aumento rápido de los niveles de potasio en suero.
+
+Toxicidad respiratoria aguda
+Se han notificado casos graves muy raros de toxicidad respiratoria aguda, incluido síndrome de dificultad
+respiratoria aguda (SDRA), después de tomar hidroclorotiazida. El edema pulmonar suele aparecer entre
+unos minutos y unas horas después de la toma de hidroclorotiazida. Al inicio del tratamiento, los síntomas
+incluyen disnea, fiebre, insuficiencia pulmonar e hipotensión. Si se sospecha de un diagnóstico de SDRA,
+se debe retirar Ameride y administrar el tratamiento adecuado. No se debe administrar hidroclorotiazida a
+pacientes que hayan experimentado previamente SDRA tras la ingesta de este fármaco.
+
+Reacciones de sensibilización
+Se ha comunicado la posibilidad de una exacerbación o activación de un lupus eritematoso sistémico por el
+uso de tiazidas.
+
+Población pediátrica
+No se ha establecido la seguridad del uso del hidrocloruro de amilorida en el niño, por lo tanto, Ameride no
+se recomienda en grupos de edad pediátrica.
+
+Otras
+Se debe advertir a los pacientes que este medicamento contiene hidroclorotiazida, que puede producir un
+resultado positivo en las pruebas de control del dopaje.
+
+Cáncer de piel no-melanoma
+
+Se ha observado un aumento del riesgo de cáncer de piel no-melanoma (CPNM) [carcinoma basocelular
+(CBC) y carcinoma de células escamosas (CEC)] con la exposición a dosis acumuladas crecientes de
+hidroclorotiazida (HCTZ) en dos estudios epidemiológicos, con base en el Registro Nacional Danés de
+cáncer. Los efectos fotosensibilizantes de la HCTZ podrían actuar como un posible mecanismo del CPNM.
+
+Se informará a los pacientes tratados con HCTZ del riesgo de CPNM y se les indicará que se revisen de
+manera periódica la piel en busca de lesiones nuevas y que informen de inmediato cualquier lesión de la
+piel sospechosa. Se indicarán a los pacientes las posibles medidas preventivas, como limitar la exposición a
+la luz solar y a los rayos UV y, en caso de exposición, utilizar protección adecuada para reducir al mínimo
+el riesgo de cáncer de piel. Las lesiones de piel sospechosas se deben evaluar de forma rápida, incluidos los
+análisis histológicos de biopsias. Además, puede ser necesario reconsiderar el uso de HCTZ en pacientes
+que hayan experimentado previamente un CPNM (ver también sección 4.8).
+
+Advertencias sobre excipientes
+Este medicamento puede producir reacciones alérgicas porque contiene amarillo anaranjado S (E-110).
+Puede provocar asma, especialmente en pacientes alérgicos al ácido acetilsalicílico.
+
+
+
+                                                   4 de 11
+Este medicamento contiene lactosa. Los pacientes con intolerancia hereditaria a galactosa, deficiencia total
+de lactasa o problemas de absorción de glucosa o galactosa no deben tomar este medicamento.
+
+4.5. Interacción con otros medicamentos y otras formas de interacción
+
+Litio - Por lo general, no debe administrarse con diuréticos. Los diuréticos reducen el aclaramiento renal
+del litio y aumentan el riesgo de intoxicación lítica. Antes de utilizar preparados de litio, leer el prospecto
+que acompaña a los mismos.
+
+Fármacos antiinflamatorios no esteroideos (AINEs), incluyendo los inhibidores selectivos de la
+ciclooxigenasa-2 (COX-2)
+Los medicamentos antiinflamatorios no esteroideos (AINEs) incluyendo los inhibidores selectivos de la
+ciclooxigenasa-2 (COX-2) pueden reducir el efecto de los fármacos antihipertensivos, incluyendo los
+efectos diuréticos, natriuréticos y antihipertensivos de los diuréticos.
+
+En algunos pacientes con la función renal comprometida, (por ej. pacientes ancianos o pacientes con
+hipovolemia, incluyendo aquellos en tratamiento con diuréticos) que están siendo tratados con
+antiinflamatorios no esteroideos, incluyendo inhibidores selectivos de la ciclooxigenasa-2, la co-
+administración de antagonistas del receptor de angiotensina II o inhibidores de la ECA puede resultar en un
+deterioro mayor de la función renal, incluyendo posible insuficiencia renal aguda. Estos efectos
+normalmente son reversibles. Por tanto, en pacientes con la función renal comprometida, la combinación
+debe administrarse con precaución.
+
+La administración concomitante de AINEs y agentes ahorradores de potasio, incluido el hidrocloruro de
+amilorida, puede producir hiperkalemia, particularmente en pacientes ancianos. Por tanto, cuando se utilice
+conjuntamente hidrocloruro de amilorida con AINEs se deben vigilar cuidadosamente los niveles de
+potasio en suero.
+
+Hidrocloruro de amilorida
+
+Cuando se administra conjuntamente Ameride con un inhibidor de la ECA, ciclosporina o tacrolimus el
+riesgo de hiperkalemia puede aumentar. Por tanto, si el uso concomitante de estos agentes estuviera
+indicado debido a hipokalemia demostrada, deben ser utilizados con precaución y con una monitorización
+frecuente del potasio sérico.
+
+Hidroclorotiazida
+
+Alcohol, barbitúricos o narcóticos - pueden potenciar la hipotensión ortostática.
+
+Fármacos antidiabéticos - (agentes orales e insulina) - en caso de uso concomitante, se puede requerir el
+ajuste de dosis.
+
+Otros agentes antihipertensivos – otros fármacos antihipertensivos pueden tener un efecto aditivo.
+
+El tratamiento diurético debe ser suspendido durante 2-3 días antes de iniciar el tratamiento con un
+inhibidor de la ECA para reducir la posibilidad de una hipotensión al administrar la primera dosis.
+
+Resinas colestiramina y colestipol - La absorción de hidroclorotiazida se altera en presencia de resinas de
+intercambio iónico. Dosis únicas de colestiramina o colestipol se unen a la hidroclorotiazida y reducen la
+absorción en el tracto gastrointestinal en, aproximadamente, 85 y 43 por ciento, respectivamente.
+
+Corticosteroides ACTH – pueden intensificar la depleción de electrolitos, particularmente la hipokalemia.
+
+Aminas presoras (como nor-epinefrina) pueden presentar una respuesta arterial disminuida cuando se usan
+con Ameride, pero esta reacción no es suficiente como para descartar evitar su utilidad terapéutica.
+
+
+
+                                                   5 de 11
+Relajantes del músculo esquelético no despolarizantes (como por ejemplo la tubocurarina) - se puede
+producir una respuesta mayor del relajante muscular.
+
+Interacción Fármaco/Pruebas de laboratorio – Dado que las tiazidas pueden afectar al metabolismo del
+calcio, las tiazidas pueden interferir con las pruebas de la función paratiroidea (ver sección 4.4).
+
+4.6. Fertilidad, embarazo y lactancia
+
+Embarazo
+
+No se recomienda el uso rutinario de diuréticos en mujeres sanas embarazadas con o sin edema leve ya que
+se expone a la madre y al feto a riesgos innecesarios. Los diuréticos no previenen el desarrollo de la
+toxemia del embarazo y no hay evidencia suficiente de que sean útiles para su tratamiento.
+
+Las tiazidas atraviesan la barrera placentaria y aparecen en la sangre del cordón umbilical. Por
+consiguiente, el uso en el embarazo o cuando se sospecha de un embarazo, requiere que se sopesen los
+beneficios del fármaco frente a los posibles riesgos para el feto. Estos riesgos incluyen ictericia fetal o
+neonatal, trombocitopenia y posiblemente otros efectos secundarios observados en el adulto.
+
+
+Lactancia
+
+Las tiazidas aparecen en la leche materna. En caso de ser imprescindible el tratamiento con el fármaco, la
+lactancia debe ser interrumpida.
+
+4.7. Efectos sobre la capacidad para conducir y utilizar máquinas
+
+No se han realizado estudios de los efectos sobre la capacidad para conducir y utilizar máquinas.
+
+4.8. Reacciones adversas
+
+Durante los ensayos clínicos controlados y con el uso de Ameride las reacciones adversas comunicadas
+son:
+
+Trastornos del sistema inmunológico: reacción anafiláctica.
+
+Trastornos del metabolismo y de la nutrición: anorexia*; desequilibrio electrolítico, hiponatremia (ver
+sección 4.4), gota, deshidratación, hiponatremia sintomática, alteraciones del apetito, hiperkalemia (> 5,5
+mEq/L).
+
+Trastornos psiquiátricos: insomnio, nerviosismo, confusión mental, depresión, somnolencia.
+
+Trastornos del sistema nervioso: cefalea*, mareos*; síncope, parestesia, estupor, mal sabor de boca.
+
+Trastornos oculares: alteraciones de la visión.
+
+Trastornos del oído y del laberinto: vértigo.
+
+Trastornos cardíacos: arritmia, taquicardia, angina de pecho.
+
+Trastornos vasculares: hipotensión ortostática, enrojecimiento.
+
+Trastornos respiratorios, torácicos y mediastínicos: disnea, congestión nasal.
+
+Trastornos gastrointestinales: náuseas*; vómitos, diarrea, estreñimiento, dolor abdominal, hemorragia
+gastrointestinal, pesadez abdominal, flatulencia, hipo.
+
+
+                                                  6 de 11
+Trastornos de la piel y del tejido subcutáneo: erupción cutánea*; prurito, y diaforesis.
+
+Trastornos musculoesqueléticos y del tejido conjuntivo: dolor de extremidades inferiores, calambres
+musculares, dolor de las articulaciones, dolor de espalda.
+
+Trastornos renales y urinarios: disuria, nicturia, incontinencia urinaria, disfunción renal incluyendo
+insuficiencia renal.
+
+Trastornos del aparato reproductor y de la mama: impotencia.
+
+Trastornos generales y alteraciones en el lugar de administración: fatiga, malestar, debilidad, dolor
+torácico, sed.
+
+Lesiones traumáticas, intoxicaciones y complicaciones de procedimientos terapéuticos: toxicidad
+digitálica.
+
+Las reacciones adversas adicionales comunicadas para los componentes individuales y que pudieran estar
+relacionadas con la administración de Ameride son:
+
+AMILORIDA:
+Trastornos de la sangre y del sistema linfático: anemia aplásica, neutropenia.
+
+Trastornos psiquiátricos: reducción de la libido.
+
+Trastornos del sistema nervioso: temblores, encefalopatía, somnolencia.
+
+Trastornos del oído y del laberinto: tinnitus.
+
+Trastornos cardíacos: palpitación, un paciente con bloqueo cardíaco parcial desarrolló bloqueo cardíaco
+completo.
+
+Trastornos respiratorios, torácicos y mediastínicos: tos.
+
+Trastornos gastrointestinales: sequedad de boca, activación de úlcera péptica preexistente, dispepsia.
+
+Trastornos hepatobiliares: ictericia.
+
+Trastornos de la piel y del tejido subcutáneo: alopecia.
+
+Trastornos musculoesqueléticos y del tejido conjuntivo: dolor de cuello y hombros, dolor de
+extremidades.
+
+Trastornos renales y urinarios: poliuria, polaquiuria, espasmo vesical urinario.
+
+Exploraciones complementarias: presión intraocular elevada, función anómala del hígado.
+
+HIDROCLOROTIAZIDA:
+
+Infecciones e infestaciones: sialoadenitis.
+
+Trastornos de la sangre y del sistema linfático: anemia aplásica, agranulocitosis, anemia hemolítica,
+leucopenia, púrpura, trombocitopenia.
+
+Trastornos del metabolismo y de la nutrición: glucosuria, hiperglucemia, hiperuricemia, hipokalemia.
+
+
+
+                                                    7 de 11
+Trastornos psiquiátricos: agitación.
+
+Trastornos oculares: derrame coroideo, miopía aguda, glaucoma secundario de ángulo cerrado, visión
+borrosa transitoria, xantopsia.
+
+Trastornos vasculares: angeítis necrosante (vasculitis, vasculitis cutánea).
+
+Trastornos respiratorios, torácicos y mediastínicos: trastornos respiratorios incluida neumonitis, edema
+pulmonar.
+Muy rara: síndrome de dificultad respiratoria aguda (SDRA) (ver sección 4.4).
+
+Trastornos gastrointestinales: pancreatitis, calambres, irritación gástrica.
+
+Trastornos hepatobiliares: ictericia colestática intrahepática.
+
+Trastornos de la piel y del tejido subcutáneo: fotosensibilidad, urticaria, necrólisis epidérmica tóxica.
+
+Neoplasias benignas, malignas y no especificadas (incluidos quistes y pólipos): frecuencia no conocida:
+Cáncer de piel no-melanoma (carcinoma basocelular y carcinoma de células escamosas).
+
+Trastornos renales y urinarios: nefritis intersticial, glucosuria.
+
+Trastornos generales y alteraciones en el lugar de administración: fiebre.
+
+Descripción de determinadas reacciones adversas
+Cáncer de piel no-melanoma: con base en los datos disponibles de estudios epidemiológicos, se ha
+observado una asociación dependiente de la dosis acumulada entre HCTZ y el CPNM (ver también las
+secciones 4.4 y 5.1).
+
+* Efectos adversos que han sido comunicados con más frecuencia con Ameride durante los ensayos
+clínicos controlados.
+
+Notificación de sospechas de reacciones adversas
+Es importante notificar sospechas de reacciones adversas al medicamento tras su autorización. Ello permite
+una supervisión continuada de la relación beneficio/riesgo del medicamento. Se invita a los profesionales
+sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Español de
+Farmacovigilancia de Medicamentos de Uso Humano: www.notificaRAM.es.
+
+4.9. Sobredosis
+
+No hay datos disponibles referentes a la sobredosis en humanos. La DL50 oral de la combinación
+farmacológica es 189 y 422 mg/kg en ratón y rata hembra, respectivamente.
+
+Se desconoce si el fármaco es dializable.
+
+No hay información específica disponible sobre el tratamiento de la sobredosificación de Ameride, y no
+existe antídoto específico. El tratamiento es sintomático y de soporte. El tratamiento con Ameride debe ser
+suspendido y el paciente observado cuidadosamente. Las medidas sugeridas incluyen la provocación del
+vómito y/o lavado gástrico.
+
+
+AMILORIDA HCL
+No hay datos disponibles relativos a la sobredosis en humanos.
+
+La DL50 oral del hidrocloruro de amilorida (calculada en forma de base) es 56 mg/kg en ratón y 36 - 85
+mg/kg en rata, dependiendo de la cepa.
+
+                                                   8 de 11
+Los signos y síntomas más frecuentes de una sobredosis son deshidratación y desequilibrio electrolítico. Si
+se produce hiperkalemia, deberán tomarse medidas activas para reducir los niveles de potasio en suero.
+
+
+HIDROCLOROTIAZIDA
+La DL50 oral de hidroclorotiazida es superior a 10,0 mg/kg en rata y ratón.
+
+Los signos y síntomas más frecuentes de sobredosis son depleción de electrolitos (hipokalemia,
+hipocloremia, hiponatremia) y deshidratación provocada por una diuresis excesiva. La hipokalemia puede
+aumentar las arritmias cardiacas cuando se administra digital.
+
+5. PROPIEDADES FARMACOLÓGICAS
+
+5.1. Propiedades farmacodinámicas
+
+Grupo farmacoterapéutico: diuréticos ahorradores de potasio y tiazida, código ATC: C03EA01.
+
+HIDROCLORURO DE AMILORIDA
+
+El hidrocloruro de amilorida es un fármaco ahorrador del potasio.
+
+En algunos estudios clínicos, estos efectos se añaden parcialmente a los efectos de los diuréticos tiazídicos.
+Administrada conjuntamente con una tiazida o un diurético del asa, amilorida ha demostrado reducir la
+elevada excreción de potasio que producen estos diuréticos cuando se administran solos.
+En pacientes que reciben fármacos diuréticos antikaliuréticos, el hidrocloruro de amilorida tiene una
+actividad ahorradora de potasio.
+
+El hidrocloruro de amilorida interfiere con el mecanismo implicado en el intercambio de sodio por potasio
+en el túbulo contorneado distal y el túbulo colector de la nefrona. Esto disminuye el potencial neto negativo
+del lumen tubular y reduce la secreción de potasio e hidrógeno y su posterior excreción. Este mecanismo es
+responsable en gran medida de la acción ahorradora de potasio de amilorida.
+
+El hidrocloruro de amilorida no es un antagonista de la aldosterona y los efectos se observan incluso en
+ausencia de aldosterona, lo que sugiere una acción tubular directa del fármaco. La excreción de sodio
+aumenta moderadamente, mientras que la excreción de cloruro permanece sin cambios o aumenta
+lentamente con el tratamiento continuado. Este efecto puede disminuir el riesgo de alcalosis hipoclorémica
+que se produce con algunos fármacos saluréticos.
+
+HIDROCLOROTIAZIDA
+
+Hidroclorotiazida es un diurético. Afecta al mecanismo tubular renal de la reabsorción de electrolitos.
+
+Hidroclorotiazida aumenta la excreción de sodio y cloruros en cantidades aproximadamente equivalentes.
+La natriuresis puede ir acompañada por alguna pérdida de potasio, magnesio y bicarbonato. Puede
+disminuir la excreción urinaria de calcio.
+
+Cáncer de piel no-melanoma: con base en los datos disponibles de estudios epidemiológicos, se ha
+observado una asociación dependiente de la dosis acumulada entre HCTZ y el CPNM. En un estudio se
+incluyó a una población formada por 71.533 casos de CBC y 8.629 casos de CCE emparejados con
+1.430.833 y 172.462 controles de la población, respectivamente. El uso de dosis altas de HCTZ (≥ 50.000
+mg acumulados) se asoció a una OR ajustada de 1,29 (IC del 95%: 1,23-1,35) para el CBC y de 3,98 (IC
+del 95%: 3,68-4,31) para el CCE. Se observó una clara relación entre la dosis acumulada y la respuesta
+tanto en el CBC como en el CCE. Otro estudio mostró una posible asociación entre el cáncer de labio
+(CCE) y la exposición a HCTZ: 633 casos de cáncer de labios se emparejaron con 63.067 controles de la
+población, utilizando una estrategia de muestreo basada en el riesgo. Se demostró una relación entre la
+
+
+                                                   9 de 11
+dosis acumulada y la respuesta con una OR ajustada de 2,1 (IC del 95%: 1,7-2,6) que aumentó hasta una
+OR de 3,9 (3,0-4,9) con el uso de dosis altas (~25.000 mg) y una OR de 7,7 (5,7-10,5) con la dosis
+acumulada más alta (~100.000 mg) (ver también sección 4.4).
+
+5.2. Propiedades farmacocinéticas
+
+Ameride comienza a actuar, por lo general, en las 2 horas siguientes a su administración.
+Sus efectos diurético y natriurético son máximos hacia la cuarta hora, y existe actividad demostrable hasta,
+aproximadamente, 24 horas. Sin embargo, la acción diurética eficaz del medicamento persiste sólo durante
+unas 12 horas. La acción retentiva del potasio del hidrocloruro de amilorida aparece dentro de las primeras
+2 horas tras la administración oral y alcanza su máxima actividad aproximadamente entre la sexta y la
+décima hora tras la administración oral. La acción eficaz del medicamento persiste por lo menos doce
+horas, aunque permanece una actividad antikaliurética demostrable durante 24 horas.
+
+HIDROCLORURO DE AMILORIDA
+
+El hidrocloruro de amilorida no se metaboliza en el hígado, pero se excreta sin modificar por los riñones.
+Aproximadamente el 50% de una dosis de 20 mg de hidrocloruro de amilorida se excreta en la orina y el
+40% en heces al cabo de 72 horas. El hidrocloruro de amilorida tiene poco efecto sobre la filtración
+glomerular o sobre el flujo sanguíneo renal.
+
+HIDROCLOROTIAZIDA
+
+La aparición de la acción diurética de hidroclorotiazida se produce en 2 horas y la acción máxima en
+aproximadamente 4 horas. La actividad diurética dura entre 6 y 12 horas.
+
+La semivida plasmática de hidroclorotiazida es de 5,6-14,8 h, cuando las concentraciones plasmáticas
+pueden seguirse durante al menos 24 h. Hidroclorotiazida no se metaboliza, pero se elimina rápidamente
+por el riñón. Al menos el 61% de la dosis oral se elimina sin modificar al cabo de 24 h. Hidroclorotiazida
+atraviesa la barrera placentaria pero no la hematoencefálica y se excreta en la leche materna.
+
+5.3. Datos preclínicos sobre seguridad
+
+Con la combinación hidroclorotiazida/amilorida no se ha ensayado mutagenicidad ni carcinogenicidad, sin
+embargo, hidroclorotiazida y amilorida han sido evaluadas de forma individual de forma que no se han
+encontrado ni genotoxicidad in vivo ni potencial carcinogénico.
+
+Con hidroclorotiazida no se detectó ningún efecto en la fertilidad con dosis en ratas de 22 veces la dosis
+máxima recomendada en humanos.
+
+6 . DATOS FARMACÉUTICOS
+
+6.1. Lista de excipientes
+
+Lactosa monohidrato
+Hidrogeno fosfato de calcio dihidrato
+Almidón de maíz
+Almidón pregelatinizado
+Goma guar
+Estearato de magnesio
+Laca alumínica de amarillo anaranjado S (E-110)
+
+
+
+
+                                                  10 de 11
+6.2. Incompatibilidades
+
+El tratamiento con Ameride es incompatible con la administración simultánea de otros agentes
+antikaliuréticos o de suplementos de potasio, debido al elevado riesgo de hiperkalemia.
+
+6.3. Periodo de validez
+
+3 años.
+
+6.4. Precauciones especiales de conservación
+
+No conservar a temperatura superior a 25°C. Conservar en el embalaje exterior para protegerlo de la luz y
+de la humedad.
+
+6.5. Naturaleza y contenido del envase
+
+Ameride se presenta en envases blíster de 20 y 60 comprimidos ranurados de color melocotón, que
+contienen 5 mg de hidrocloruro de amilorida y 50 mg de hidroclorotiazida.
+
+6.6. Precauciones especiales de eliminación y otras manipulaciones
+
+Ninguna especial.
+
+La eliminación del medicamento no utilizado y de todos los materiales que hayan estado en contacto con él,
+se realizará de acuerdo con la normativa local.
+
+
+7. TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+
+ PAN QUÍMICA-FARMACÉUTICA,S.A.
+ Rufino González, 50
+ 28037 Madrid
+ España
+
+8. NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+
+53.265
+
+9. FECHA DE LA PRIMERA AUTORIZACIÓN/ RENOVACIÓN DE LA AUTORIZACIÓN
+
+12 de enero de 1975.
+
+10. FECHA DE LA REVISIÓN DEL TEXTO
+
+Febrero 2022
+
+
+
+
+                                                 11 de 11
+

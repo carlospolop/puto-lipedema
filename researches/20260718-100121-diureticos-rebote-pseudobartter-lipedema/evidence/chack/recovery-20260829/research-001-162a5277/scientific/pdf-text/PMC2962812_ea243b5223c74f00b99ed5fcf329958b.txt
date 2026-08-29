@@ -1,0 +1,1605 @@
+REVIEW
+The abuse of diuretics as performance-enhancing
+drugs and masking agents in sport doping:
+pharmacology, toxicology and analysis
+bph_789 1..16
+Amy B Cadwallader1, Xavier de la Torre 1, Alessandra Tieri1 and Francesco Botrè1,2
+1Laboratorio Antidoping, Federazione Medico Sportiva Italiana, Largo Giulio Onesti, 1, Rome, Italy, and 2 Dipartimento di
+Management e Tecnologie, ‘Sapienza’ Università di Roma, Via del Castro Laurenziano 9, Rome, Italy
+Diuretics are drugs that increase the rate of urine ﬂow and sodium excretion to adjust the volume and composition of body
+ﬂuids. There are several major categories of this drug class and the compounds vary greatly in structure, physicochemical
+properties, effects on urinary composition and renal haemodynamics, and site and mechanism of action. Diuretics are often
+abused by athletes to excrete water for rapid weight loss and to mask the presence of other banned substances. Because of their
+abuse by athletes, diuretics have been included on The World Anti-Doping Agency’s (WADA) list of prohibited substances; the
+use of diuretics is banned both in competition and out of competition and diuretics are routinely screened for by anti-doping
+laboratories. This review provides an overview of the pharmacology and toxicology of diuretics and discusses their application
+in sports. The most common analytical strategies currently followed by the anti-doping laboratories accredited by the WADA
+are discussed along with the challenges laboratories face for the analysis of this diverse class of drugs.
+British Journal of Pharmacology (2010) 161, 1–16; doi:10.1111/j.1476-5381.2010.00789.x
+BJP has previously published a themed issue on Drugs in Sport (2008). To view this issue visit
+http://dx.doi.org/10.1111/bph.2008.154.issue-3
+Keywords: diuretics; masking agents; doping analysis; GC/MS, LC/MS-MS
+Abbreviations: AMS, high-altitude mountain sickness; CA, carbonic anhydrase; GC, gas chromatography; GFR, glomerular
+ﬁltration rate; HPLC, high-performance liquid chromatography; IOC, International Olympic Committee; ISRP,
+internal surface reversed-phase; L/L, liquid/liquid; LC, liquid chromatography; MR, mineralocorticoid receptor;
+MRPL, minimum required performance levels; MS, mass spectrometry; PRA, plasma renin activity; SPE, solid
+phase extraction; UV-DAD, ultraviolet-diode array detection; VO
+2, oxygen uptake; WADA, World Anti-Doping
+Agency
+Introduction
+For as long as sporting events have existed, the desire to gain
+a competitive edge has been present as well. With the huge
+ﬁnancial incentives and the subsequent pressures to excel
+associated with the international sporting industry, attempts
+to achieve a competitive edge especially with the use of
+performance-enhancing drugs have only been increasing
+(Barroso et al., 2008). Despite centuries of reports of using
+substances to enhance athletic performance, testing athletes
+for the use of performance-enhancing drugs began only in
+1968 (Barroso et al., 2008; Botrè, 2008). Since that time, a list
+of banned substances has been constantly updated by the
+International Olympic Committee (IOC) and the World Anti-
+doping Agency (WADA). Compounds and methods included
+on the list are those that can be used by an athlete to provide
+an unfair advantage (WADA, 2009b). Substances on the Pro-
+hibited List include anabolic androgenic steroids, glucocorti-
+costeroids, peptide hormones and their modulators, hormone
+antagonists and their modulators, stimulants, b2-agonists,
+narcotics, alcohol, b-blockers, cannabinoids and diuretics and
+masking agents (WADA, 2009b). The objective of this paper is
+to review the pharmacology of diuretics and the applications
+of diuretics to sports doping, as well as detail the analytical
+methodologies currently described to detect and identify
+diuretics in urine. All the classes of diuretics (detailed later in
+this paper) are banned in sport.
+Diuretics are therapeutic agents that are used to increase the
+rate of urine ﬂow and sodium excretion in order to adjust the
+volume and composition of body ﬂuids or to eliminate excess
+of ﬂuids from tissues (Jackson, 2006). They are used in clinical
+therapy for the treatment of various diseases and syndromes,
+Correspondence: Professor Francesco Botrè, Laboratorio Antidoping FMSI,
+Largo Giulio Onesti, 1, 00197 Rome RM, Italy. E-mail: francesco.botre@
+uniroma1.it
+Received 11 December 2009; revised 29 January 2010; accepted 19 February
+2010
+British Journal of Pharmacology (2010), 161, 1–16
+© 2010 The Authors
+Journal compilation © 2010 The British Pharmacological Society All rights reserved 0007-1188/10
+www.brjpharmacol.org
+
+including hypertension, heart failure, liver cirrhosis, renal
+failure, kidney and lung diseases, as well as a more general
+reduction of the adverse effects of salts and/or water retention
+(Jackson, 2006). Diuretics were ﬁrst banned in sport (both in
+competition and out of competition) in 1988 because they
+can be used by athletes for two primary reasons. First, their
+potent ability to remove water from the body can cause a
+rapid weight loss that can be required to meet a weight cat-
+egory in sporting events. Second, they can be used to mask
+the administration of other doping agents by reducing their
+concentration in urine primarily because of an increase in
+urine volume. The urine dilution effect of diuretics also allows
+them to be classiﬁed as masking agents and precludes their
+use both in and out of competition. Some diuretics also cause
+a masking effect by altering the urinary pH and inhibiting the
+passive excretion of acidic and basic drugs in urine (Ventura
+and Segura, 1996; Goebel et al., 2004; Trout and Kazlauskas,
+2004; Furlanello et al., 2007).
+In 2008, diuretics represented 7.9% of all Adverse Analytical
+Findings reported by WADA laboratories, with a total number
+of 436 cases (WADA, 2009a). All classes of diuretics were
+represented in the positive cases; hydrochlorothiazide was the
+most common diuretic detected, with 137 cases. Table 1 sum-
+marizes the statistics of positive diuretic ﬁndings by all WADA
+laboratories from 2003 to the present. In all six of the past
+years, all classes of diuretics have been represented in the
+positive ﬁndings (WADA, 2004; 2005; 2006; 2007; 2008a;
+2009a). Over the years, the total number of occurrences has
+been increasing; this trend of increasing positive ﬁndings may
+be due not only to an increase in abuse, but is likely due to
+improved methods of detection.
+Although the main application of diuretics is to enhance
+renal excretion of salt and water, their effects are not limited
+to sodium and chloride; they may also inﬂuence the renal
+absorption and excretion of other cations (K
++,H +,C a 2+ and
+Mg2+), anions (Cl-, HCO3
+- and H2PO4
+-) and uric acid (Jackson,
+2006). This pharmacological class of drugs includes com-
+pounds with a variety of pharmacological and physico-
+chemical properties. Because of the variety of diuretic
+compounds, classiﬁcation of these drugs can be based on
+different criteria. The most common classiﬁcation categories
+are by site of action in the nephron, relative efﬁcacy, chemi-
+cal structure, effects on potassium excretion, similarity to
+other diuretics and mechanism of action (Jackson, 2006). In
+the following section, this review will brieﬂy summarize the
+pharmacology and toxicology of diuretic classes based on
+mechanism of action. Figure 1 shows examples of diuretic
+structures grouped by mechanism of action: carbonic anhy-
+drase (CA) inhibitors, inhibitors of the Na
++/K+/2Cl- symporter
+(loop diuretics), inhibitors of the Na +/Cl- symporter (thiazide
+and thiazide-like diuretics), osmotic diuretics, inhibitors of
+renal epithelial Na
++ channels (some potassium-sparing
+diuretics) and mineralocorticoid receptor (MR) antagonists;
+note the variety of molecular structures. Figure 2 details the
+site and mechanism of the diuretic classes in the nephron
+(Figure 2A).
+The identiﬁcation and quantiﬁcation of prohibited com-
+pounds and/or their metabolic products has been a major task
+in sports drug testing (Cowan and Kicman, 1997). Histori-
+cally, the detection of diuretics in biological samples was
+achieved using high-performance liquid chromatography
+(HPLC) with ultraviolet-diode array detection (UV-DAD).
+However, the HPLC-DAD detection technique is not speciﬁc
+for the unequivocal identiﬁcation of substances. Therefore,
+mass spectral methodology is required for conﬁrmation
+according to international anti-doping regulations (Trout and
+Kazlauskas, 2004; Thevis and Schanzer, 2007; WADA, 2009c).
+Gas chromatography/mass spectrometry (GC/MS) after
+appropriate sample preparation and derivatization has been,
+since the last decade, the most widely used analytical tech-
+nique for the detection of diuretics. Recently however, due to
+the heterogeneity of the chemical structures and physico-
+chemical properties of diuretics and the advent of
+more economical instrumentation, the use of liquid
+chromatography/MS (LC/MS) has become popular (Thevis
+and Schanzer, 2007). The sample preparation before LC/MS
+analysis is simpler than with GC/MS and no derivatization is
+required. Ventura and Segura published a comprehensive
+review of diuretic analysis in 1996 (Ventura and Segura,
+1996). This review will mainly focus on the developments and
+techniques that have been developed since that time. This
+article is an extension of the British Journal of Pharmacology
+special themed issue, Drugs in Sport (McGrath and Cowan,
+2008).
+Pharmacology and toxicology of diuretics
+Carbonic anhydrase inhibitors
+Carbonic anhydrase inhibitors (Figure 1A) by deﬁnition are a
+class of substances that act as inhibitors of CA (carbonate
+dehydratase, carbonate hydrolase, E.C.4.2.1.1) in proximal
+tubule cells of the nephron (Figure 2B). CA is a zinc metal-
+loenzyme expressed in humans as a family of at least 15
+Table 1 Statistics of positive ﬁndings of diuretics by all World Anti-Doping Agency (WADA) laboratories (WADA, 2004; 2005; 2006; 2007;
+2008a; 2009a)
+Year % of all positive samples Occurrences Most common drug detected
+(occurrences)
+Second most common drug
+detected (occurrences)
+2003 5.2 142 Furosemide (48) Hydrochlorothiazide (42)
+2004 4.8 157 Furosemide (62) Hydrochlorothiazide (44)
+2005 5.7 246 Furosemide (91) Hydrochlorothiazide (67)
+2006 6.7 290 Furosemide (90) Hydrochlorothiazide (88)
+2007 7.4 359 Furosemide (111) Hydrochlorothiazide (103)
+2008 7.9 436 Hydrochlorothiazide (137) Furosemide (104)
+Diuretics in sport doping
+2 AB Cadwallader et al
+British Journal of Pharmacology (2010) 161 1–16
+
+isoenzymes (Tashian, 2000), four of them (CA II, CA IV , CA
+XII and CA XIV) are present in the kidney (Schwartz, 2002).
+Type II CA, the most potent isoenzyme, represents 95% of
+total CA in the kidney and it is found as a soluble protein in
+the cytoplasm. Type IV CA, a membrane-bound isoenzyme, is
+found in the luminal and basolateral membranes. This
+enzyme plays a key role in bicarbonate reabsorption and acid
+secretion in the nephron by reversibly catalysing the hydra-
+tion reaction of CO
+2 with the production of H+ and bicarbon-
+ate ions. Both CA II and CA IV are inhibited by
+B Inhibitors of the Na +/K+/2Cl- Symporter (Loop and High-ceiling Diuretics)
+Furosemide               Bumetanide           Ethacrynic acid 
+Torsemide        Azosemide 
+Piretanide            Tripamide 
+Cl NH
+S
+O
+OH
+O
+O
+O
+H2N
+S
+OH
+O
+O
+O
+H2N
+O
+HN
+ClCl
+O
+OH
+O
+O
+N
+N
+H SO
+O
+NH
+NH
+O
+Cl NH
+S
+S
+O
+O
+H2N
+HN N
+N
+N
+S
+OH
+O
+O
+O
+H2N
+O
+N
+Cl
+S
+O
+O
+H2N HN
+O
+N
+A Carbonic Anhydrase Inhibitors
+          
+Acetazolamide                  Dichlorphenamide                         Methazolamide 
+N N
+S
+SN
+O
+O
+NH2
+C
+O
+H3C
+H3C
+N N
+S SHN
+O
+O
+NH2
+C
+O
+H3C
+Cl
+Cl
+SS
+H2N
+O
+O
+O
+O
+NH2
+Figure 1 Examples of diuretic structures grouped by mechanism of action. (A) Carbonic anhydrase inhibitors; (B) inhibitors of the Na +/K+/2Cl-
+symporter (loop diuretics); (C) inhibitors of the Na +/Cl- symporter (thiazide and thiazide-like diuretics); (D) osmotic diuretics; (E) inhibitors of
+renal epithelial Na + channels (some potassium-sparing diuretics); (F) mineralocorticoid receptor (MR) antagonists (aldosterone antagonists and
+some potassium-sparing diuretics).
+Diuretics in sport doping
+AB Cadwallader et al
+3
+British Journal of Pharmacology (2010) 161 1–16
+
+sulphonamides, and especially by aromatic sulphonamides
+with the unsubstituted -SO2NH2 functional group. The
+reduced capacity to exchange Na + with H+ in the presence of
+these diuretics determines weak diuretic action. In addition,
+bicarbonate is kept in the lumen with the consequent increase
+of urinary pH to approximately 8 and subsequential develop-
+ment of a metabolic acidosis. Phosphate excretion is also
+increased by a mechanism not fully clariﬁed. Ca
+2+ and Mg2+
+excretion is not affected.
+Currently, there are three main CA inhibitors available as
+diuretics (see Figure 1A for structures), acetazolamide (the
+prototype of the class, a sulphonamide without antibacterial
+activity), dichlorphenamide and methazolamide. They all
+show an oral bioavailability of 100% with a half-life of 6–14 h.
+Acetazolamide and dichlorphenamide are excreted by the
+kidneys as intact drugs while methazolamide is extensively
+metabolized. The major therapeutic indication of CA inhibi-
+tors is open-angle glaucoma. Acetazolamide is often used for
+the prevention of high-altitude mountain sickness (AMS), a
+pathological effect of high altitude on the body caused by
+acute exposure to low partial pressure of oxygen at high
+altitude that can progress to high-altitude oedema
+C Inhibitors of the Na +/Cl- Symporter (Thiazide and Thiazide-like Diuretics)
+Compound R 1 R 2 R 3
+Bendroflumethiazide CF3 H
+Cl H HChlorothiazide 
+*unsaturated between C3 and C4 
+Hydrochlorothiazide Cl H H
+Hydroflumethiazide CF3 HH
+Methyclothiazide Cl CH 3 CH2Cl
+Polythiazide Cl CH 3 C2SCH2CF3
+Trichlormethiazide Cl H CHCl 2
+  Chlorthalidone            Indapamide 
+Metolazone         Quinethazone 
+R1
+S
+O
+O
+H2N
+S
+N
+H
+N
+R2
+OO
+R3
+CH2
+S
+O
+O
+H2N
+Cl
+N
+H
+O
+N
+Cl
+S
+O
+O
+H2N
+N
+H
+N
+O
+Cl
+S
+O
+O
+H2N
+NH
+H
+N
+O
+HN
+O
+OH
+S
+O
+O
+H2N
+Cl
+Figure 1 Continued.
+Diuretics in sport doping
+4 AB Cadwallader et al
+British Journal of Pharmacology (2010) 161 1–16
+
+D Osmotic diuretics
+Glycerin                  Isosorbide     Mannitol                Urea 
+E Inhibitors of Renal Epithelial Na + Channels (Some Potassium-sparing Diuretics)
+Amiloride              Triamterene 
+OH
+OH
+HO
+O
+O
+HO
+H
+H
+H
+H HO
+HO
+OH
+OH
+OH
+OH
+OH
+H2N NH2
+O
+N
+N C
+NH2
+Cl
+H2N
+N
+O
+C
+H
+NH2
+NH
+N
+N
+N
+NH2N NH2
+NH2
+F Mineralocorticoid Receptor (MR) Antagonists (Aldosterone Antagonists and Some 
+Potassium-sparing Diuretics)
+Spironolactone         Canrenone 
+Potassium Canrenoate      Eplerenone 
+O S
+O
+O
+O
+O
+O
+O
+O
+HO
+OK
+O
+O
+O
+O
+O
+O
+O
+Figure 1 Continued.
+Diuretics in sport doping
+AB Cadwallader et al 5
+British Journal of Pharmacology (2010) 161 1–16
+
+(pulmonary and cerebral). (Coote, 1991; Botrè and Botrè,
+1993). Acetazolamide increases bicarbonate excretion in
+urine, making the blood more acidic and increasing ventila-
+tion, thus aiding in acclimatization to high altitude. Aceta-
+zolamide is also used for the treatment of oedema. CA
+inhibitors may also be used therapeutically for the treatment
+of pre-menstrual ﬂuid retention.
+Carbonic anhydrase is present in a number of extrarenal
+tissues, including the eye, gastric mucosa, pancreas, central
+nervous system and erythrocytes. Because of the varied loca-
+tion around the body, CA inhibitors are typically used for
+non-diuretic indications, such as glaucoma, to decrease the
+rate of formation of aqueous humour and consequently
+reduce intraocular pressure. It has been demonstrated that
+topical administration of dorzolamide, a CA inhibitor abol-
+ishing the enzymatic activity in the ciliary body, does not
+produce any diuretic effect (Mazzarino et al., 2001). CA
+inhibitors are also used as antiepileptic drugs due in part to
+the production of metabolic acidosis.
+Most adverse effects, contraindications and drug interac-
+tions are a consequence of urinary alkalinization or meta-
+bolic acidosis. Infrequent adverse effects are similar to those
+of sulphonamides. The diversion of ammonia of renal origin
+from urine into the systemic circulation, calculus formation
+and ureteral colic causing precipitation of calcium phos-
+phate salts in alkaline urine, worsening of metabolic or res-
+piratory acidosis and reduction of the urinary excretion
+rate of weak organic bases are also adverse effects of CA
+inhibitors.
+The efﬁcacy of CA inhibitors as single agents is low and the
+long-term usefulness of CA inhibitors is often compromised
+by the development of compensatory processes such as meta-
+bolic acidosis. Additionally, the continuous use of CA inhibi-
+tors may result in the diminution of the desired therapeutic
+effect. Acetazolamide accounted for 1.4% of the positive
+diuretic ﬁndings in 2008 (WADA, 2009a).
+Inhibitors of the Na
++/K+/2Cl- symporter (loop diuretics)
+Inhibitors of the Na +/K+/2Cl- symporter (Figure 1B) are a
+highly potent short-acting diuretic class that bind to the
+Cl
+- binding site located in the transmembrane domain of
+Figure 2 Site and mechanism of action of diuretics. (A) The nephron with major divisions labelled. (B) Mechanism of carbonic anhydrase
+inhibitors in the proximal tubule. (C) Mechanism of the Na +/K+/2Cl- symporter inhibitors in the thick ascending limb of the loop of Henle. (D)
+Mechanism of the Na +/Cl- symporter inhibitors in the distal tubule. (E) Mechanism of renal epithelial Na + channel inhibitors and mineralo-
+corticoid receptor antagonists in the collecting duct. Aldo, aldosterone; CA, carbonic anhydrase; MR, mineralocorticoid receptor. Figure
+modiﬁed from Jackson (2006).
+Diuretics in sport doping
+6 AB Cadwallader et al
+British Journal of Pharmacology (2010) 161 1–16
+
+Na+/K+/2Cl- symporter, which is found in the thick ascend-
+ing limb of the loop of Henle (Figure 2C). Blocking the func-
+tion of this symporter results in a signiﬁcant reduction in
+the ability of the kidney to concentrate urine and a conse-
+quent signiﬁcant increase in the urinary excretion of Na
++
+and Cl -. There is also a marked increase in the excretion of
+Ca2+,M g2+ and K +. Uric acid excretion is also increased with
+acute administration while chronic administration has the
+converse effect.
+Inhibitors of the Na
++/K+/2Cl- symporter are furosemide,
+bumetanide, ethacrynic acid, torsemide, axosemide, piret-
+anide and tripamide (structures pictured in Figure 1B).
+Greater than 90% of drug binds to plasma proteins. They are
+quickly and widely absorbed from the gastrointestinal tract
+(65–90%) but have a very short half-life (less than 1 h for
+bumetanide and piretanide and a maximum of 3.5 h for
+torsemide). These symport inhibitors undergo partial metabo-
+lism (hepatic for bumetanide and torsemide, renal glucurona-
+tion for the others) with renal excretion as intact drugs
+(Shankar and Brater, 2003).
+Because of their sulphonamide-based structure, some loop
+diuretics have weak CA-inhibiting activity that further
+increases the diuretic effect of these drugs. Moreover, they
+have direct vascular effects (Dormanset al., 1996) that acutely
+increase systemic venous capacitance and decreases left ven-
+tricular ﬁlling pressure. This effect, particularly evident for
+furosemide, beneﬁts patients with pulmonary oedema even
+before diuresis ensues.
+A major indication of loop diuretics is in the treatment of
+acute pulmonary oedema. They are also used for the treat-
+ment of chronic congestive heart failure. This leads to a sig-
+niﬁcant reduction in mortality, a decrease in the risk of
+worsening heart failure and an improvement in exercise
+capacity (Faris et al., 2002). Loop diuretics are also widely used
+for the treatment of hypertension (van der Heijden et al.,
+1998). Inhibitors of the Na
++/K+/2Cl- symporter are also indi-
+cated in the treatment of oedema and ascites of liver cirrhosis,
+in the treatment of the oedema of nephrotic syndrome and
+for life-threatening hyponatremia.
+Adverse effects are all correlated to ﬂuid and electrolyte
+imbalance. They include hyponatremia and/or extracellular
+ﬂuid volume depletion (associated with hypotension, circu-
+latory collapse and thromboembolic episodes), hypochlo-
+remic alkalosis, hypokalemia (which induces cardiac
+arrhythmias), hypomagnesemia, hyperuricemia (occasion-
+ally leading to gout) and hyperglycaemia. Furthermore, they
+increase plasma levels of low-density lipoprotein cholesterol
+and triglycerides while decreasing plasma levels of high-
+density lipoprotein cholesterol. Loop diuretics can cause
+ototoxicity, especially ethacrynic acid. This class of diuretics
+has drug–drug interactions with several substances including
+aminoglycosides, anticoagulants, digitalis glycosides,
+lithium, propranolol, sulphonylureas, cisplatin, probenecid
+and amphotericin B. The synergism of diuretic activity of
+associated loop and thiazide diuretics leads to profound
+diuresis.
+In 2008, inhibitors of the Na
++/K+/2Cl- symporter accounted
+for 24.6% of positive diuretic doping samples. Furosemide
+was the second most frequently detected diuretic with 104
+samples testing positive (23.9%) (WADA, 2009a).
+Inhibitors of the Na
++/Cl- symporter (thiazide and
+thiazide-like dugs)
+Inhibitors of the Na
++/Cl- symporter (Figure 1C) have optimal
+diuretic action in the early distal convoluted tubule and a
+lesser diuretic effect in the proximal tubule. In addition, some
+thiazide diuretics also are weak inhibitors of CA. They reduce
+the Na
++ reabsorbtion by inhibition of Na+/Cl- co-transportion
+(Figure 2D). Na + or Cl - binding to the Na +/Cl- symporter
+modiﬁes thiazide-induced inhibition of the symporter, sug-
+gesting that the thiazide-binding site is shared or altered by
+both Na
++ and Cl- (Monroy et al., 2000).
+Some examples of the drugs included in this class are the
+following (see the structure in Figure 1C): bendroﬂumetazide,
+chlorothiazide, hydrochlorothiazide, hydroﬂumethiazide,
+methyclothiazide, polythiazide, trichlormethiazide, chlortali-
+done, indapamide, metolazone and quinethazone. In general,
+all of them show good bioavailability after oral administra-
+tion (100% for bendroﬂumetazide and polythiazide, at least
+50% for hydroﬂumethiazide and the others). They are par-
+tially metabolized by unknown pathways and are partially
+excreted as intact drugs by the kidney. Plasma protein binding
+varies considerably among the class. The wide ranges of half-
+lives vary from 1.5 h for chlorothiazide to almost 50 h for
+chlortalidone.
+Although this class of diuretic is expected to greatly
+enhance Na
++ and Cl - excretion, this effect is moderate as
+approximately 90% of the ﬁltered Na + is reabsorbed before
+reaching the distal convoluted tubule. As with loop diuretics,
+inhibitors of the Na
++/Cl- symporter affect K + and uric acid
+excretion by the same mechanisms; K + excretion is markedly
+increased after administration and uric acid excretion is
+increased after acute administration and decreases after
+chronic administration. They, however, decrease Ca
+2+ excre-
+tion (Friedman and Bushinsky, 1999).
+Thiazide diuretics are the most widely used diuretics. They
+are employed as a ﬁrst-line therapy for hypertension either
+alone or in combination with other antihypertensive medi-
+cations (Chobanian et al., 2003). They are also used for the
+treatment of oedema associated with heart, liver and renal
+diseases. Thiazide diuretics are frequently used because of
+their low cost, high tolerance, good compliance (once daily
+administration), few contraindications, efﬁcacy comparable
+to other classes of antihypertensive agents and proven
+beneﬁts in reducing cardiovascular morbidity and
+mortality.
+Again, similar to loop diuretics, most adverse effects of
+Na
++/Cl- symport inhibitors are due to abnormalities of ﬂuid
+and electrolyte balance and include: extracellular volume
+depletion, hypotension, hypokalemia (which compromises
+the antihypertensive effect), hyponatremia, hypochloremia,
+metabolic alkalosis, hypomagnesemia, hypercalcemia, hype-
+ruricemia and hyperglycaemia (latent diabetes mellitus may
+be unmasked during therapy) (Wilcox et al., 1999). However,
+unlike loop diuretics, Na
++/Cl- symport inhibitors increase
+plasma levels of low-density lipoprotein cholesterol, total
+cholesterol and total triglycerides and the incidence of erectile
+dysfunction is greater.
+Thiazide and thiazide-like diuretic drug–drug interactions
+cause a diminished effect of anticoagulants, uricosuric agents,
+sulphonylureas and insulin and increase the effects due to
+Diuretics in sport doping
+AB Cadwallader et al 7
+British Journal of Pharmacology (2010) 161 1–16
+
+synergism of action between anaesthetics, diazoxide, digitalis
+glycosides, lithium, vitamin D and loop diuretics.
+Inhibitors of the Na +/Cl- symporter were the most abused
+class of diuretics in 2008 according to WADA statistics,
+accounting for 38.7% of positive samples. Hydrochlorothiaz-
+ide was the most detected diuretic, found in 31.4% (137) of
+positive samples (WADA, 2009a).
+Osmotic diuretics
+Osmotic diuretics are a class of non-metabolizable low-
+molecular-weight compounds. Only four compounds are
+included in this diuretic class, glycerin, isosorbide, mannitol
+and urea. The molecular structures are shown in Figure 1D.
+These compounds are relatively pharmacologically inert,
+freely ﬁlterable by the glomerulus and non-diffusible across
+the nephron. They are administered in large doses, not only
+orally (glycerine, isosorbide) but also intravenously (manni-
+tol, urea). Such administration signiﬁcantly enhances the
+osmolality of plasma and tubular ﬂuid and, in turn, causes an
+increase of urine osmolality with consequent reduction of
+water reabsorption in the distal nephron/collecting ducts.
+Osmotic diuretics act both in the proximal tubule and the
+loop of Henle, with the latter being the primary site of action.
+These diuretics also work via an osmotic effect in the tubules
+and by reducing medullary tonicity. The half-lives range from
+less than 1 h in the case of glycerin and mannitol to almost
+10 h for isosorbide.
+By extracting water from intracellular compartments,
+osmotic diuretics expand the extracellular ﬂuid volume,
+decrease blood viscosity and inhibit renin release. This results
+in an increase of the urinary excretion of all electrolytes, Na
++,
+K+,C a2+,M g2+,C l -, HCO3
+- and PO4
+3-. Their use is limited to
+well-deﬁned clinical situations, for instance, mannitol is used
+to reduce cerebral oedema and brain mass before and after
+neurosurgery, in acute tubular necrosis as a renal protector
+(Levinsky and Bernard, 1988), and for the treatment of dialy-
+sis disequilibrium syndrome. Because osmotic diuretics
+extract water from the eye and brain, they are all used to
+control intraocular pressure during acute attacks of glaucoma
+and in ocular surgery.
+Osmotic diuretic therapy can cause hypernatremia and
+dehydration due to the loss of water in excess of electrolyte
+loss. Conversely, their use can lead to hyponatremia, which is
+responsible for the common adverse effects (headache, nausea
+and vomiting). Hyperglycaemia can occur as a result of glyc-
+erin metabolism.
+Inhibitors of renal epithelial Na
++ channels
+Inhibitors of renal epithelial Na + channels (Figure 1E) act in
+the late distal tubule and collecting duct cells of the nephron
+by inhibiting the Na
++ reabsorbtion and K + and H + secretion
+(Figure 2E). The molecular mechanism is the blockage of epi-
+thelial Na
++ channels in the luminal membrane by competi-
+tion with Na+ for negatively charged areas within the pore of
+the Na+ channel.
+The only two drugs of this class in clinical use are triam-
+terene and amiloride (structures pictured in Figure 1E). Both
+drugs show a modest diuretic effect on their own and a small
+increase in Na
++ and Cl- excretion. Typically, they are used in
+combination with other diuretics to offset their severe kali-
+uretic effects and preserve potassium levels in patients at risk
+of hypokalaemia. In the treatment of oedema or hyperten-
+sion, the combination of a Na
++ channel inhibitor with a
+thiazide or loop diuretic enhances the diuretic and antihyper-
+tensive effect.
+Na
++ channel inhibitors show low oral bioavailability and
+great differences in half-life (more than 20 h for amiloride,
+less than 5 h for triamterene). The route of elimination is
+predominantly renal for intact amiloride while triamterene is
+extensively metabolized into the active 4-hydroxytriamterene
+sulphate and excreted in urine. The most common adverse
+effects of Na
++ channel inhibitors are nausea, vomiting, diar-
+rhoea, headache, leg cramps and dizziness. The most danger-
+ous adverse effect of Na
++ channel inhibitors is hyperkalemia.
+Triamterene can also reduce glucose tolerance and induce
+photosensitization.
+Amiloride and triamterene were detected in 3% of positive
+diuretic doping samples in 2008 (WADA, 2009a).
+Mineralocorticoid receptor antagonists
+Mineralocorticoid receptor antagonists (Figure 1F) are com-
+petitive inhibitors of aldosterone that bind to and inhibit
+cytosolic MRs found in the epithelial cells of the late distal
+tubule and collecting duct of the nephron (Figure 2E).
+The MR is a member of the steroid superfamily of nuclear
+receptors. Normally, aldosterone enters the epithelial cell and
+binds to MRs. The MR–aldosterone complex then translocates
+to the nucleus where it binds to speciﬁc sequences of DNA
+(hormone responsive elements) and thereby regulates the
+expression of multiple gene products called aldosterone-
+induced proteins. Unlike the MR–aldosterone complex, the
+MR–antagonist complex is not able to induce the synthesis of
+aldosterone-induced proteins.
+The compounds belonging to this class (see Figure 1F for
+molecular structures) are spironolactone, canrenone, potas-
+sium canrenoate and eplerenone. The oral availability of
+spironolactone, the prototype molecule of the class, is about
+65%; it is metabolized extensively, undergoes enterohepatic
+recirculation, highly binds to plasmatic proteins and has a
+short half-life (approximately 1.6 h) (Beermann, 1984). Can-
+renone is an active metabolite of spironolactone with a
+10-fold greater half-life (16.5 h) that prolongs the effect of the
+parent compound. Canrenoate is not active, but is converted
+to canrenone in the body. Eplerenone has good oral availabil-
+ity and is extensively metabolized.
+Mineralocorticoid receptor antagonists have effects on
+urinary excretion similar to renal epithelial Na
++ channel
+inhibitors. The clinical efﬁcacy of MR antagonists strictly
+depends on endogenous levels of aldosterone; higher levels
+cause greater effects.
+This group of diuretics is very useful as an alternative to
+potassium replacement therapy. Usually, they are employed
+in cases of high-aldosterone concentrations. In the treatment
+of oedema and hypertension, these drugs are often
+co-administered with thiazide or loop diuretics, as well as the
+other K
++-sparing diuretics. Spironolactone is useful in the
+treatment of primary hyperaldosteronism and refractory
+Diuretics in sport doping
+8 AB Cadwallader et al
+British Journal of Pharmacology (2010) 161 1–16
+
+oedema associated with secondary aldosteronism (Ouzan
+et al., 2002). Similar to Na + channel inhibitors, the most
+common adverse effect of MR antagonists is hyperkalemia.
+Because of its molecular structure (Figure 1F), spironolac-
+tone has some afﬁnity for progesterone and androgen
+receptors that causes some side effects such as gynecomastia,
+impotence and menstrual irregularities. Conversely, owing to
+the 9,11-epoxide group, eplerenone has very low afﬁnity for
+progesterone and androgen receptors ( <1% and <0.1%,
+respectively) compared with spironolactone. Chronic admin-
+istration of spironolactone can induce malignant tumours; in
+particular, breast cancer has been observed. With regard to
+drug–drug interactions, salicylates reduce the tubular secre-
+tion of canrenone and decrease the diuretic efﬁcacy of
+spironolactone, while spironolactone alters the clearance of
+digitalis glycosides.
+Canrenone and spironolactone together accounted for
+4.3% of positive diuretic doping samples in 2008 (WADA,
+2009a).
+Diuretics and sports
+General remarks
+As previously mentioned, diuretics are commonly prescribed
+in clinical medicine to treat hypertension and other cardio-
+vascular disorders. These compounds are also frequently
+encountered illicitly in sports. Diuretics are banned in all
+sports because they can cause rapid weight loss and can act as
+masking agents (to hide the effects of other prohibited sub-
+stances) both in and out of competition. However, the World
+Anti-Doping Code (WADA, 2009f) permits the therapeutic use
+of diuretics when athletes and their physicians apply for
+therapeutic use exemptions (TUE) according to the Interna-
+tional Standard for TUE (WADA, 2009d). TUE is deﬁned as
+‘the permission to use, for therapeutic purposes, substances or
+methods contained in the List of Prohibited Substances or
+Methods, whenever approved by a Therapeutic Use Exemp-
+tion Committee based on a documented medical ﬁle before
+the use of the substance in sports’. For diuretics, the primary
+permitted therapeutic use is for hypertension (WADA, 2008b).
+It should be noted that a TUE is not valid if an athlete’s urine
+contains a diuretic in association with a threshold or sub-
+threshold level of another exogenous substance included on
+the Prohibited List. Because of the TUE, some athletes do use
+diuretics for legitimate medicinal purposes; in many cases,
+however, diuretic use is illicit (Clarkson and Thompson,
+1997).
+Diuretics and doping
+Reasonably, the most effective use of diuretics in sport doping
+would be before an anti-doping test. Diuretics increase urine
+volume and dilute any doping agents as well as their metabo-
+lites present in the urine and make their detection more
+problematic by conventional anti-doping analysis. For this
+reason, diuretics are classiﬁed as masking agents on the
+WADA Prohibited List (class S5: ‘Diuretics and other masking
+agents’) (WADA, 2009b).
+Although there is little evidence of athletic performance
+enhancement following diuretic administration, their abuse
+is widespread among athletes who want to lose weight
+quickly. For example, diuretic(s) use can allow an athlete to
+transiently reduce body weight, which is a clear advantage in
+wrestling, boxing, judo and weight-lifting as well as in general
+sports where weight categories are involved and among ath-
+letes who want to maintain a low body weight, such as female
+gymnasts and ballet dancers. Skiers and mountain climbers,
+however, make legitimate use of acetazolamide (a CA inhibi-
+tor that also acts on sites different than the kidney) in pre-
+venting AMS.
+As already stated, diuretics are banned in sport because they
+can be used: (i) directly, to produce a rapid weight loss that
+can be critical to meet a weight category in sporting events;
+and/or (ii) indirectly, to alter the normal metabolism/
+excretion proﬁle of other doping drugs. In both cases and
+discussed in more detail below, the diuretic administration
+can be acute or chronic with administered doses that can
+markedly exceed therapeutic levels. In general, athletes can
+use diuretics in a single dose some hours before a competition
+(i.e. wrestlers or sportsmen for masking purposes) or chroni-
+cally abuse them for months (i.e. female gymnasts). It is
+important to note that the diuretics most abused by athletes
+(furosemide, hydrochlorothiazide and triamterene) have a
+short half-life and are therefore undetectable in urine if
+samples are not collected within 24–48 h after the last
+administration.
+Diuretics, exercise and weight loss
+In an attempt to assess the signiﬁcance of diuretic use in
+weight loss, Caldwell et al. (1984) compared the different
+effect of exercise-, sauna- and diuretic-induced acute dehydra-
+tion on weight change. The results showed a decrease of 2.3/H11006
+0.8 kg after exercise, 3.5 /H110060.8 kg after sauna and 3.1 /H110060.8 kg
+after furosemide administration respectively. Additionally,
+diuretics are abused simultaneously with androgenic-anabolic
+steroids by bodybuilders to accentuate muscle deﬁnition and
+body tone. In the same study reported by Caldwellet al.i tw a s
+demonstrated that the plasma volume change in athletes is
+-0.9% after exercise, -10.3% after sauna and -14.1% after
+furosemide administration (total amount of 1.7 mg·kg
+-1 in
+two divided doses, 16 h prior to testing) (Caldwell et al.,
+1984).
+Diuretics can have variety of physiological effects on exer-
+cise physiology, including effects on metabolism (ther-
+moregulation, potassium homeostasis), the cardiovascular
+system and the respiratory system [pulmonary actions,
+oxygen uptake (VO
+2)]. Most of the effects are related to the
+consequences of volume depletion and electrolyte imbalance
+and depletion. Exercise can affect the action of diuretics as
+well, with consequences on both pharmacology and pharma-
+cokinetics. At the level of the nephron, exercise can both
+complement and antagonize the effects of diuretics. Exercise
+acutely induces a negative water balance and long-term
+regular exercise lowers blood pressure, augmenting pharma-
+cological properties of diuretics (Zappe et al., 1996). Exercise
+also inﬂuences speciﬁc actions of diuretics; it can cause an
+acute shift of intracellular potassium into the intravascular
+Diuretics in sport doping
+AB Cadwallader et al 9
+British Journal of Pharmacology (2010) 161 1–16
+
+space (Young et al., 1992) and potentiate the kaliuretic effect
+of diuretics. While thiazide diuretics are associated with
+insulin resistance (Moser, 1998), exercise potentiates the
+opposite effect (Plasqui and Westerterp, 2007). In most cases,
+physical exercise is used as a therapy for insulin resistance
+because it activates the pancreatic b-cells via the neuroadren-
+ergic system (Bordenave et al., 2008). This reduces blood
+insulin levels and consequently increases hepatic glucose
+release and decreases muscle utilization of insulin (Bonen
+et al., 2006). Although there is little information on how
+exercise affects diuretic pharmacokinetics, chlorothiazide,
+hydrochlorothiazide and triamterene have an elimination
+half-life short enough (1.5–4 h) to be affected by 1 h or more
+of sustained exercise (Somani, 1996), which decreases renal
+and hepatic blood ﬂow. Therefore, these substances are not
+always detected in urine samples collected post-competition
+or at the end of an intense training session. It is notable that
+both exercise and diuretics can independently cause ﬂuid and
+electrolyte loss. Table 2, adapted from Caldwell et al. (1984)
+and Reents (2000), summarizes the effects of both exercise
+and diuretics on renal physiology.
+It is known that during exercise skeletal muscle temperature
+exceeds core temperature within several minutes, and alter-
+ation of the body’s thermoregulatory systems is a major risk of
+diuretic abuse. The marked dehydration following diuretic
+intake exerts a detrimental effect on the cardiovascular and
+thermoregulatory systems of the body during exercise and
+can lead to exhaustion, irregular heartbeat, heart attack
+and death. Both acetazolamide (Brechue and Stager, 1990), a
+mild diuretic, and furosemide (Claremont et al., 1976), a
+potent diuretic, have been shown to impair adaptive increases
+in skin blood ﬂow during exercise.
+Diuretics affect potassium homeostasis in exercising muscle;
+intracellular potassium and the resting membrane potential of
+the cell both decrease. All diuretics except the potassium-
+sparing agents increase kaliuresis, accelerating the depletion of
+intracellular potassium. The resultant hypokaliemia can lead
+to muscle cramps and to cardiac arrhythmias secondary to
+electrolyte shifts/losses. On the other hand, overuse of
+potassium-sparing diuretics such as spironolactone, triam-
+terene and amiloride can lead to hyperkalaemia and conse-
+quently may expose athletes to malignant arrhythmias
+(Appleby et al., 1994). Moreover, the interference of most
+diuretics with uric acid metabolism can cause a gout attack,
+which can be very painful (Koutlianos and Kouidi, 2006).
+Diuretic-induced dehydration inﬂuences exercise heart rate.
+In particular, at lower exercise intensity a higher heart rate
+results, while during maximal exercise exertion, the effect is
+lower or almost absent (Stager et al., 1990). This is especially
+true for acetazolamide (Brechue and Stager, 1990) and to a
+lesser extent, furosemide abuse (Claremont et al., 1976).
+Studies performed on CA inhibitors and thiazide diuretics
+demonstrated that after administration of acetazolamide
+(Brechue and Stager, 1990) or a hydrochlorothiazide–
+triamterene combination (Nadel et al., 1980) plasma volume
+and stroke volume are signiﬁcantly decreased. Loss of plasma
+volume and stroke volume disrupts thermoregulation via
+peripheral vasodilation (radiation cooling) and perspiration
+(evaporative cooling), impairing both the acute and the long-
+term physiological vasodilatory response to aerobic exercise.
+Furthermore, aldosterone antagonists, in particular spirono-
+lactone, interfere with the increase in aldosterone receptor
+sensitivity due to exercise-induced hypervolemia (a conse-
+quence of normal adaptation to regular exercise).
+Additional effects of speciﬁc classes of diuretics
+Because CA plays a key role in the acid-base regulation mecha-
+nisms, CA inhibitors are the only class of diuretics that can
+affect pulmonary function. Acetazolamide has been shown to
+impair CO
+2 elimination during exercise (Scheuermann et al.,
+1999), but also impairs CO2 efﬂux from inactive muscle (Kow-
+alchuk et al., 1992). In AMS, acetazolamide enhances alveolar
+oxygenation by increasing arterial oxygen pressures and low-
+ering arterial carbon dioxide pressures (Bradwell et al., 1986).
+The cellular metabolic effects of acetazolamide may override
+its pulmonary effects and cause an inhibition of VO
+2 during
+maximal exercise (Stager et al., 1990; Kowalchuk et al., 1992).
+Furosemide decreases tidal volume, minute ventilation and
+the respiratory exchange ratio at aerobic threshold (Caldwell
+et al., 1984). Conversely, clinical data indicate that inhaled
+furosemide reduces the exercise-induced bronchoconstriction
+in asthmatic children (Munyard et al., 1995). The effects of
+diuretics on VO
+2 are variable. Furosemide causes a dose-
+dependent effect; furosemide has no inﬂuence on VO 2 at low
+doses (Armstrong et al., 1985; Baum et al., 1986), but VO 2
+signiﬁcantly decreases at higher doses (Caldwell et al., 1984).
+Acetazolamide affects VO 2 only during maximal exercise
+(Stager et al., 1990; Kowalchuk et al., 1992) as VO 2 is not
+affected under normoxic conditions (Brechue and Stager,
+1990), but it is greatly improved under hypoxic conditions
+(Schoene et al., 1983). Acetazolamide effects on performance
+depends on altitude; at sea level (Heigenhauser et al., 1980)
+and under normoxic conditions (Schoene et al., 1983; Stager
+Table 2 Effects of exercise and diuretics on renal physiology [adapted from Caldwell (1987) and Reents (2000)]
+GFR Urine Output PRA Aldosterone
+Exercise @ 25% VO 2 max ↑↔↑ ↑
+Exercise@%V O 2 max ↓ ↓ ↑↑ ↑↑
+Thiazide diuretics ↓ ↓ ↑↑ ↑↑
+Loop diuretics ↔↑ ↑↑ ↑ ↑ ↑
+Spironolactone ↔ ↑ ↑↑ ↑↑
+Other K +-sparing agents ↔ ↑ ↑↑ ↑↑
+One arrow indicates a moderate effect; two arrows indicate a profound effect.
+GFR, glomerular ﬁltration rate; PRA, plasma renin activity; VO 2 max, maximum oxygen uptake.
+Diuretics in sport doping
+10 AB Cadwallader et al
+British Journal of Pharmacology (2010) 161 1–16
+
+et al., 1990) it may impair aerobic performance, but under
+hypoxic conditions it decreases the time to exhaustion during
+submaximal exercise (Stager et al., 1990).
+Finally, thiazide diuretics are derivatives of sulphonamides
+and can cause photosensitivity if exercising outdoors during
+midday hours.
+Caldwell et al. performed a diuretic-induced cycling work-
+load reduction study to assess the effects of hypohydration on
+cycle ergometer performance. In this study, VO
+2 max
+(maximum oxygen uptake) and workload while cycling
+decrease in athletes after furosemide intake. Even after rehy-
+dration, muscular endurance and performance are greatly
+compromised by diuretic use (Caldwell et al., 1984). Addi-
+tional studies performed on middle-distance runners (Arm-
+strong et al., 1985) and wrestlers (Caldwell, 1987) conﬁrmed
+that diuretics decrease the effects on overall athletic perfor-
+mance. Although insufﬁcient data are available to establish
+the effect of long-term diuretic treatment on exercise capacity,
+it has been clearly shown that both single dose and short-term
+diuretic treatment adversely affect maximal exercise capacity
+and the duration of prolonged submaximal exercise (Fagard
+et al., 1993). For the multitude of reasons mentioned above,
+the drawbacks related to diuretic administration outweigh the
+potential advantages of lowering of weight and urine dilution;
+dehydration drastically impairs aerobic capacity and muscular
+strength and decreases metabolic efﬁciency. This results in a
+detrimental effect on overall sport and exercise ability and
+especially on athletic performance (Caldwellet al., 1984; Arm-
+strong et al., 1985). In addition, a potential effect of diuretics
+abuse is the possible alteration of the glomerular ﬁltration size,
+which depends on a series of parameters (Edwardset al., 1999),
+most of which can markedly be affected by the mechanism of
+action of the different classes of diuretics. Finally, it should be
+noted that disqualiﬁcation from competition as well as the
+other, previously mentioned detrimental effects of diuretic
+abuse offset any perceived beneﬁts.
+Although many of the studies highlighted above were pub-
+lished in the 1980s and 1990s, diuretics are still widely abused
+in sport (and among the most prescribed therapeutic agents).
+Few studies of the effects of diuretics on athletes have been
+published recently because in recent times, most studies
+assessing doping agents and exercise and sport have focused
+on newer drugs and methods of performance enhancement.
+Diuretic use for the masking of other prohibited substances
+remains a serious problem, however.
+Analysis of diuretics
+General remarks
+For the detection of diuretics in urine in sports doping, a
+single minimum required performance level (MRPL) of
+250 ng·mL
+-1 is ﬁxed by WADA for accredited laboratories
+(WADA, 2009e). Even though the relative potencies, metabo-
+lism and elimination properties vary dramatically (and result
+in different urinary levels) between the classes of diuretics
+(Table 3), the MRPL at 250 ng·mL
+-1 is sufﬁcient to detect acute
+diuretic abuse by athletes. Lower dosages of diuretics are likely
+to be insufﬁcient at causing the masking effect or dramatic
+and acute weight loss abusers seek.
+Several analytical techniques have been proposed for the
+analysis of diuretics, primarily among them HPLC-UV-DAD,
+GC/MS, LC/MS and LC/MS-MS, micellar electrokinetic chro-
+matography and capillary electrophoresis. However, the best
+solution for a comprehensive screening method capable of
+detecting the presence in a biological sample of any diuretic,
+at the same time satisfying the WADA ﬁxed MRPL is repre-
+sented by methods based on GC/MS, LC/MS and LC/MS-MS.
+Typically, the use of GC/MS, LC/MS and LC/MS-MS instru-
+mentation detects diuretic parent compounds and/or the
+most diagnostic and abundant metabolites. However, in some
+instances, the target analyte may not be the parent com-
+pound or its metabolites, but one or more degradation prod-
+ucts formed after the hydrolysis of the diuretics in aqueous
+media. This is the case of thiazide diuretics, and primarily
+among them hydrochlorthiazide and althiazide. This phe-
+nomenon is more relevant when there is a delay between
+collection of the sample and the laboratory analysis (Thieme
+et al., 2001; Goebel et al., 2004; Deventer et al., 2009).
+In the 1980s and 1990s, GC/MS was the most common
+analytical technique used by the anti-doping laboratories for
+the analysis of xenobiotics in urine (Maurer, 1992; Hemmers-
+bach and de la Torre, 1996). Historically, diuretics were also
+screened for by GC/MS [extensively reviewed by Ventura and
+Segura, 1996 (Ventura & Segura, 1996)]. The recent evolution
+towards LC/MS (see below) has been driven by a series of
+concomitant causes that make the GC/MS-based approach
+less preferred than it was in the past two decades: (i) the
+number of target substances, and especially of low-molecular-
+weight xenobiotics, to be screened for in anti-doping analysis
+increased dramatically in the period 2002–2007 promoting
+the development of more ‘universal’ analytical techniques
+aimed to reduce the ratio of resources/assay; (ii) the need to
+simplify sample pretreatment due to the increased number of
+analytical procedures running simultaneously in anti-doping
+laboratories; and (iii) the technological advances in the ﬁeld
+of analytical instrumentation, and, more speciﬁcally, the
+availability of benchtop LC/MS and LC/MS-MS systems at an
+affordable price. All of the above occurrences promoted a
+progressive shift from GC/MS to LC/MS.
+Gas chromatography/mass spectrometry
+Gas chromatography/mass spectrometry is still used by many
+anti-doping laboratories and can still represent a valid alter-
+native for the anti-doping analysis of diuretics. A general
+analytical procedure based on GC/MS is structured as a series
+of pretreatment steps (at the minimum: extraction of the
+diuretics from the biological matrix and chemical derivatiza-
+tion) to be carried out before the chromatographic run.
+Sample pretreatment. As it is known, the GC/MS analysis of
+biological samples to screen for diuretics requires a series of
+pre-instrumental procedures aimed to make the sample suit-
+able for the analysis. Basically, the critical steps are repre-
+sented by the extraction of the diuretics from the biological
+matrix and the chemical derivatization performed to increase
+volatility and thermal stability of the target compounds.
+Different methods have been published for the detection of
+diuretics in urine using liquid/liquid (L/L) and solid phase
+Diuretics in sport doping
+AB Cadwallader et al 11
+British Journal of Pharmacology (2010) 161 1–16
+
+(SPE) extraction procedures. SPE can allow the recovery of
+diuretics with higher yields, but at the same time the use of
+disposable cartridges increases the overall cost of the pretreat-
+ment procedure, especially in the case of more complex
+supports, like internal surface reversed-phase supports
+(ISRP-size exclusion). Commercially available pre-activated
+columns have been tested for their efﬁcacy and the best
+choice should depend on the characteristics of the matrix and
+on the expected composition of the sample [reviewed by
+Ventura and Segura in 1996 (Ventura and Segura, 1996)].
+On the other hand, L/L extraction generally requires mul-
+tiple extraction procedures. When the detection of all diuret-
+ics (basic, acidic and neutral) is desired, the optimal solution
+is a process based on two separate L/L extraction procedures
+(one in neutral or basic medium, and another in acidic
+medium) using ethyl acetate or a mixture of organic solvents.
+Anhydrous sodium sulphate can be added to promote a
+salting-out effect. Particular care has to be dedicated to the
+study of potential degradation processes that could involve
+target compounds. Oxidation of thiazides (althiazide, benz-
+thiazide and polythiazide) has been demonstrated in the pres-
+ence of ethyl acetate, so the efﬁcacy and the non-reactivity of
+different extraction solvents has to be preliminarily assessed.
+In some instances, two or more pretreatment steps can be
+combined, as in the case of extractive methylation in which
+both the extraction and the derivatization steps are combined
+in a single procedure.
+Derivatization procedures. As mentioned above, derivatiza-
+tion is necessary prior to GC/MS analysis as most diuretics
+are not sufﬁciently volatile, lipophilic or thermally stable to
+be directly assayed with this analytical technique. The most
+common derivatization procedures are silylation and methy-
+lation, but the latter is usually preferred as it allows sufﬁcient
+yields of more stable derivatives for most diuretics to be
+obtained [reviewed by Carreras et al. in 1994 (Carreras et al.,
+1994)]. Methylation can be performed ‘statically’ (by a
+mixture of methyl iodide and acetone under thermal
+Table 3 Properties of diuretics important for analytical method development [adapted from Ventura and Segura (1996) and Jackson (2006)]
+pKa logP Relative potency * Elimination route Metabolism %
+Carbonic anhydrase inhibitors
+Acetazolamide 7.4, 9.1 -0.3 1 Renal 0
+7.2, 9.0
+Dichlorphenamide 7.4, 8.6 1.0 30 NA NA
+Methazolamide 7.3 -0.2 >1, <10 Renal 75, Hepatic
+Na
++/K+/2Cl- symporter inhibitors (loop diuretics)
+Furosemide 3.8, 7.5 2.0 1 Renal 35, Renal
+Bumetanide 3.6, 7.7 2.6 40 Renal 38, Hepatic
+Ethacrynic acid 3.5 3.7 0.7 Renal 33, Hepatic
+Torsemide 7.1 2.5 3 Renal 80, Hepatic
+Azosemide 6.8 3.3 1 Renal 63, Hepatic
+Piretanide 4.1 1.9 3 Renal 50, Hepatic
+Tripamide NA NA NA NA NA
+Na
++/Cl- symporter inhibitors (thiazide and thiazide-like diuretics)
+Bendroﬂumethiazide 9.0 1.9 10 Renal 70, Hepatic
+Chlorothiazide 6.85 -1.9 0.1 Renal 0
+Hydrochlorothiazide 9.5, 11.3 -0.1 1 Renal 0
+Hydroﬂumethiazide 8.9 0.4 1 Renal 20–60, Hepatic
+Methyclothiazide 9.4 1.4 10 Renal 100, Hepatic
+Polythiazide NA 1.9 25 Renal 25–75, Unknown
+Trichlormethiazide 8.6 0.6 25 Renal 0
+Chlorthalidone 9.4 0.8 1 Renal, bile 25. Unknown
+Indapamide 8.8 2.7 20 Renal 100, Hepatic
+Metolazone NA 1.8 10 Renal, bile 10, Hepatic
+Quinethazone NA 0.2 1 NA NA
+Osmotic diuretics
+Glycerin NA -2.3 NA Renal 80, Hepatic
+Isosorbide NA 1.3(di) NA Renal 0
+-0.2
+(mono)
+Mannitol NA -3.1 NA Renal, bile 20, Renal
+Urea NA -2.1 NA Renal 0
+Renal epithelial Na
++ channel inhibitors (some potassium-sparing diuretics)
+Amiloride 8.7 0.3 1 Renal 0
+Triamterene 6.2 1.0 0.1 Renal 100, Hepatic
+Mineralocorticoid receptor antagonists (aldosterone antagonists and some potassium-sparing diuretics)
+Spironolactone NA 2.8 NA Renal 100, Hepatic
+Canrenone NA 3.5 NA Renal 100, Hepatic
+Potassium canrenoate NA NA NA Renal 100, Hepatic
+Eplerenone NA 2.3 NA Renal 100, Hepatic
+*Potency is relative to diuretics within the same class.
+NA, data not available.
+Diuretics in sport doping
+12 AB Cadwallader et al
+British Journal of Pharmacology (2010) 161 1–16
+
+heating) or ‘dynamically’ by either extractive methylation
+(Lisi et al., 1991; Lisi et al., 1992) or ‘on column’ methylation
+(ﬂash methylation) (Beyer et al., 2005). When methylation is
+performed by a stand-alone process, the time can be drasti-
+cally reduced by microwave irradiation, either in combina-
+tion or as an alternative to thermal incubation (Amendola
+et al., 2003).
+Chromatographic and spectrometric conditions. The best sta-
+tionary phase for the analysis of diuretic compounds is phe-
+nylmethylsilicone, allowing for the effective separation of all
+diuretics within a reasonable time ( <15 min). Drastically
+shorter times can be obtained by fast-GC systems, in which
+last generation columns and mass spectrometric detection
+relying on fast electronics are successfully coupled. Fast-GC
+systems provide a 10-fold reduction of the overall
+chromatographic run (Morra et al., 2006). Electron impact
+ionization and MS detection are the most described methods
+used [reviewed in Ventura and Segura, 1996 and by Müller
+et al. in 1999 (Ventura and Segura, 1996; Müller et al., 1999)].
+The mass spectra of the methyl derivatives of diuretics have
+been described by different authors, and the fragmentation
+proﬁles have been also interpreted by comparison with the
+deuterated methyl derivatives (Yoon et al., 1990).
+Liquid-chromatography/mass spectrometry
+When diuretics were introduced on the list of forbidden sub-
+stances by the International Sports Authorities, the ﬁrst
+attempts to create a screening method for their detection were
+based on HPLC. At that time, UV diode array was used as
+detector as it facilitated peak identiﬁcation (Ventura and
+Segura, 1996). According to IOC/WADA requirements, the
+conﬁrmation procedures needed to support a positive case
+should be based on MS. Because of this, a GC/MS method
+after methylation of the compounds was, in most of the cases,
+the technique of choice. For the reasons explained in previous
+sections, at the end of the 1990s, when more robust, reliable
+and affordable LC/MS instruments became available, major
+changes in the strategies for the detection of diuretics in the
+doping ﬁeld were introduced. First attempts to use LC/MS for
+the detection of diuretics started in the beginning of 1990s
+using thermospray or particle beam interfaces (Ventura et al.,
+1991) in conﬁrmation analyses. The lack of robustness of the
+equipment did not permit a daily running screening method
+based on these instruments.
+Thieme et al. (Thieme et al., 2001) described a method for
+the analyses of 32 diuretics in human urine by LC/MS/MS
+using an electrospray ionization technique. This technique
+has the advantage that the traditional LC ﬂow rates and
+reverse-phased LC columns (octadecylsilane-ODS columns
+w i t h5o r3 mm particle size) usually used in LC-UV methods
+can be used. Additionally, both positive and negative ioniza-
+tion modes can by used simultaneously permitting the detec-
+tion of both acidic and basic compounds included among
+diuretics. The analysis by tandem MS with triple stage qua-
+drupoles were selective and sensitive enough compared with
+previous methods and made simpliﬁcation of sample prepa-
+ration possible as the cleanness of the urinary extracts was
+less critical compared with previously designed LC-UV
+methods.
+The development of new analysers (ion traps) coupled to
+LC created additional alternatives for the analysis of diuretics
+by LC/MS (Deventer et al., 2002). Even more recently, the
+need for more universal strategies for doping agents analysis
+introduced the use of time-of-ﬂight analysers (Georgakopou-
+los et al., 2007) that can be coupled to LC. For some com-
+pounds and for identiﬁcations purposes, ionization by
+atmospheric pressure chemical ionization (another possible
+ionization technique of LC/MS interfaces) is of interest as it
+produces additional fragmentation (Qin et al., 2003).
+The selectivity and sensitivity of these techniques allowed
+the inclusion of additional non-diuretic drugs, also forbidden
+in sports, in the same screening procedures (Deventer et al.,
+2005; Mazzarino et al., 2008). Additionally, different
+approaches for sample preparation have been explored. In the
+past, classical double extractions with organic solvents at
+acidic and basic pH were used to permit the recovery of
+diuretics presenting different physicochemical properties.
+The new features of the instruments and the extension of
+the screening methods to other compounds expand the pos-
+sibilities of sample preparation. Speciﬁc SPE procedures can be
+performed in robotic systems (Goebel et al., 2004) and some
+analytical procedures require no sample preparation, just a
+dilution the urine sample and subsequent direct injection
+into the LC/MS system (Politi et al., 2007; Thorngren et al.,
+2008). The improvements in the scanning speed of the mass
+spectrometers as well as better performing LC columns and
+LC pumps allow an increase in the speed of analysis (UPLC or
+fast LC) and of more heterogeneous screening procedures by
+LC/MS/MS. Currently, there are analyses that includes diuret-
+ics among other doping substances where more than 100
+different compounds can be analysed in less than 10 min
+(Thorngren et al., 2008; Ventura et al., 2008).
+Summary and conclusion
+The members of the diuretic class of drugs vary greatly in
+structure, physicochemical properties and site and mecha-
+nism of action. In the 1990s the analysis of diuretics in
+doping (by LC-UV or GC/MS) was a challenge for anti-doping
+laboratories due to the heterogeneity of the substances
+included. Since the advent of robust and reliable LC/MS
+instruments their detection in urine samples is no longer a
+problem. Future goals of diuretic analysis include developing
+more efﬁcient and more economical detection methods.
+Increasing the sensitivity of the methods and the number of
+compounds in the screen while decreasing the analysis time
+and cost to laboratories would be welcome improvements.
+Additionally, the development of methods that combine the
+detection of diuretics with other prohibited substances will
+enhance the ability of laboratories to monitor abuse and
+doping in sports.
+Acknowledgements
+The Authors wish to acknowledge the support of the National
+Anti-Doping Commission (‘Commissione di Vigilanza sul
+Doping’) of the Italian Department of Health.
+Diuretics in sport doping
+AB Cadwallader et al 13
+British Journal of Pharmacology (2010) 161 1–16
+
+Statement of conﬂict of interest
+None.
+References
+Amendola L, Colamonici C, Mazzarino M, Botrè F (2003). Rapid deter-
+mination of diuretics in human urine by gas chromatography –
+mass spectrometry following microwave assisted derivatization.
+Anal Chim Acta 475: 125–136.
+Appleby M, Fisher M, Martin M (1994). Myocardial infarction, hyper-
+kalaemia and ventricular tachycardia in a young male body-builder.
+Int J Cardiol 44: 171–174.
+Armstrong LE, Costill DL, Fink WJ (1985). Inﬂuence of diuretic-
+induced dehydration on competitive running performance. Med Sci
+Sports Exerc 17: 456–461.
+Barroso O, Mazzoni I, Rabin O (2008). Hormone abuse in sports: the
+antidoping perspective. Asian J Androl 10: 391–402.
+Baum K, Essfeld D, Stegemann J (1986). The inﬂuence of furosemide
+on heart rate and oxygen uptake in exercising man. Eur J Appl
+Physiol Occup Physiol 55: 619–623.
+Beermann B (1984). Aspects on pharmacokinetics of some diuretics.
+Acta Pharmacol Toxicol (Copenh) 54 (Suppl. 1): 17–29.
+Beyer J, Bierl A, Peters FT, Maurer HH (2005). Screening procedure for
+detection of diuretics and uricosurics and/or their metabolites in
+human urine using gas chromatography-mass spectrometry after
+extractive methylation. Ther Drug Monit 27: 509–520.
+Bonen A, Dohm GL, van Loon LJ (2006). Lipid metabolism, exercise
+and insulin action. Essays Biochem 42: 47–59.
+Bordenave S, Brandou F, Manetta J, Fedou C, Mercier J, Brun JF (2008).
+Effects of acute exercise on insulin sensitivity, glucose effectiveness
+and disposition index in type 2 diabetic patients.Diabetes Metab 34:
+250–257.
+Botrè F (2008). New and old challenges of sports drug testing. J Mass
+Spectrom 43: 903–907.
+Botrè F, Botrè C (1993). The carbonic anhydrases: are these enzymes
+still a good deal for a pharmacologist? Curr Top Med Chem 1: 313–
+347.
+Bradwell AR, Dykes PW, Coote JH, Forster PJ, Milles JJ, Chesner I et al.
+(1986). Effect of acetazolamide on exercise performance and muscle
+mass at high altitude. Lancet 1: 1001–1005.
+Brechue WF, Stager JM (1990). Acetazolamide alters temperature regu-
+lation during submaximal exercise. J Appl Physiol 69: 1402–
+1407.
+Caldwell JE (1987). Diuretic therapy and exercise performance. Sports
+Med 4: 290–304.
+Caldwell JE, Ahonen E, Nousiainen U (1984). Differential effects of
+sauna-, diuretic-, and exercise-induced hypohydration. J Appl
+Physiol 57: 1018–1023.
+Carreras D, Imaz C, Navajas R, Garcia MA, Rodriguez C, Rodriguez AF
+et al. (1994). Comparison of derivatization procedures for the deter-
+mination of diuretics in urine by gas chromatography-mass spec-
+trometry. J Chromatogr A 683: 195–202.
+Chobanian AV, Bakris GL, Black HR, Cushman WC, Green LA, Izzo JL
+et al. (2003). Seventh report of the Joint national committee on
+prevention, detection, evaluation, and treatment of high blood
+pressure. Hypertension 42: 1206–1252.
+Claremont AD, Costill DL, Fink W, Van Handel P (1976). Heat toler-
+ance following diuretic induced dehydration. Med Sci Sports 8: 239–
+243.
+Clarkson PM, Thompson HS (1997). Drugs and sport. Research ﬁnd-
+ings and limitations. Sports Med 24: 366–384.
+Coote JH (1991). Pharmacological control of altitude sickness. Trends
+Pharmacol Sci 12: 450–455.
+Cowan DA, Kicman AT (1997). Doping in sport: misuse, analytical
+tests, and legal aspects. Clin Chem 43: 1110–1113.
+Deventer K, Delbeke FT, Roels K, Van Eenoo P (2002). Screening for 18
+diuretics and probenecid in doping analysis by liquid
+chromatography-tandem mass spectrometry. Biomed Chromatogr
+16: 529–535.
+Deventer K, Van Eenoo P, Delbeke FT (2005). Simultaneous determi-
+nation of beta-blocking agents and diuretics in doping analysis
+by liquid chromatography/mass spectrometry with scan-to-scan
+polarity switching. Rapid Commun Mass Spectrom 19: 90–98.
+Deventer K, Pozo OJ, Van Eenoo P, Delbeke FT (2009). Detection of
+urinary markers for thiazide diuretics after oral administration of
+hydrochlorothiazide and altizide-relevance to doping control
+analysis. J Chromatogr A 1216: 2466–2473.
+Dormans TP, van Meyel JJ, Gerlag PG, Tan Y, Russel FG, Smits P
+(1996). Diuretic efﬁcacy of high dose furosemide in severe heart
+failure: bolus injection versus continuous infusion.J Am Coll Cardiol
+28: 376–382.
+Edwards A, Daniels BS, Deen WM (1999). Ultrastructural model for
+size selectivity in glomerular ﬁltration. Am J Physiol 276 (6 Pt 2):
+F892–F902.
+Fagard R, Staessen J, Thijs L, Amery A (1993). Inﬂuence of anti-
+hypertensive drugs on exercise capacity. Drugs 46 (Suppl. 2):
+32–36.
+Faris R, Flather M, Purcell H, Henein M, Poole-Wilson P, Coats A
+(2002). Current evidence supporting the role of diuretics in heart
+failure: a meta analysis of randomised controlled trials. Int J Cardiol
+82: 149–158.
+Friedman PA, Bushinsky DA (1999). Diuretic effects on calcium
+metabolism. Semin Nephrol 19: 551–556.
+Furlanello F, Serdoz LV, Cappato R, De Ambroggi L (2007). Illicit drugs
+and cardiac arrhythmias in athletes.Eur J Cardiovasc Prev Rehabil14:
+487–494.
+Georgakopoulos CG, Vonaparti A, Stamou M, Kiousi P, Lyris E, Angelis
+YS et al. (2007). Preventive doping control analysis: liquid and gas
+chromatography time-of-ﬂight mass spectrometry for detection of
+designer steroids. Rapid Commun Mass Spectrom 21: 2439–2446.
+Goebel C, Trout GJ, Kazlauskas R (2004). Rapid screening method for
+diuretics in doping control using automated solid phase extraction
+and liquid chromatography electrospray tandem mass spectrom-
+etry. Anal Chim Acta 502: 65–74.
+Heigenhauser GJF, Sutton JR, Jones NL (1980). Ventilation and carbon
+dioxide output during exercise: effects of glycogen depletion
+and carbonic anhydrase inhibition. Med Sci Sports Exerc 12: 123.
+van der Heijden M, Donders SH, Cleophas TJ, Niemeyer MG, van der
+Meulen J, Bernink PJ et al. (1998). A randomized, placebo-
+controlled study of loop diuretics in patients with essential hyper-
+tension: the bumetanide and furosemide on lipid proﬁle (BUFUL)
+clinical study report. J Clin Pharmacol 38: 630–635.
+Hemmersbach P, de la Torre R (1996). Stimulants, narcotics and beta-
+blockers: 25 years of development in analytical techniques for
+doping control. J Chromatogr B Biomed Appl 687: 221–238.
+Jackson EK (2006). Diuretics. In: Brunton L, Lazo J, Parker K (eds).
+Goodman and Gilman’s The Pharmacological Basis of Therapeutics ,
+11th edn. McGraw-Hill: New York, pp. 737–770.
+Koutlianos N, Kouidi E (2006). Renal disorders and electrolyte metabo-
+lism. In: Sarikaya H, Peters C, Schulz T, Schonfelder M, Michna H
+(eds). Congress Manual: Biomedical Side Effects of Doping. A Project of
+the European Union: Munich, pp. 112–118. Available for order
+from the Institute of Public Health Research, Technische Universität
+München.
+Kowalchuk JM, Heigenhauser GJ, Sutton JR, Jones NL (1992). Effect of
+acetazolamide on gas exchange and acid-base control after maximal
+exercise. J Appl Physiol 72: 278–287.
+Levinsky NG, Bernard DB (1988). Mannitol and loop diuretics in acute
+renal failure. In: Brenner BM, Lazarus JM (eds). Acute Renal Failure,
+2nd edn. Churchill-Livingstone: New York, pp. 841–856.
+Lisi AM, Trout GJ, Kazlauskas R (1991). Screening for diuretics in
+human urine by gas chromatography-mass spectrometry with
+Diuretics in sport doping
+14 AB Cadwallader et al
+British Journal of Pharmacology (2010) 161 1–16
+
+derivatisation by direct extractive alkylation. J Chromatogr 563:
+257–270.
+Lisi AM, Kazlauskas R, Trout GJ (1992). Diuretic screening in human
+urine by gas chromatography-mass spectrometry: use of a macrore-
+ticular acrylic copolymer for the efﬁcient removal of the coex-
+tracted phase-transfer reagent after derivatization by direct
+extractive alkylation. J Chromatogr 581: 57–63.
+McGrath JC, Cowan DA (2008) Drugs in sport. Br J Pharmacol 154:
+493–495.
+Maurer HH (1992). Systematic toxicological analysis of drugs and their
+metabolites by gas chromatography-mass spectrometry. J Chro-
+matogr 580: 3–41.
+Mazzarino M, Botrè F, Rossi F, Paone E, Pecori-Giraldi J (2001). Lack of
+increased diuresis after topical administration of the carbonic
+anhydrase inhibitor dorzolamide. In: Schänzer W, Geyer H,
+Gotzman A, Mareck-Engelke U (eds). Recent Advances in Doping
+Analysis (9). Sport & Buch Strauß: Köln, pp. 269–273.
+Mazzarino M, de la Torre X, Botre F (2008). A screening method for the
+simultaneous detection of glucocorticoids, diuretics, stimulants,
+anti-oestrogens, beta-adrenergic drugs and anabolic steroids in
+human urine by LC-ESI-MS/MS. Anal Bioanal Chem 392: 681–698.
+Monroy A, Plata C, Hebert SC, Gamba G (2000). Characterization of the
+thiazide-sensitive Na( +)-Cl(-) cotransporter: a new model for ions
+and diuretics interaction. Am J Physiol Renal Physiol279: F161–F169.
+Morra V, Davit P, Capra P, Vincenti M, Di Stilo A, Botre F (2006). Fast
+gas chromatographic/mass spectrometric determination of diuretics
+and masking agents in human urine: development and validation
+of a productive screening protocol for antidoping analysis. J Chro-
+matogr A 1135: 219–229.
+Moser M (1998). Why are physicians not prescribing diuretics more
+frequently in the management of hypertension? JAMA 279: 1813–
+1816.
+Müller RK, Grosse J, Thieme D, Lang R, Teske J, Trauer H (1999).
+Introduction to the application of capillary gas chromatography of
+performance-enhancing drugs in doping control. J Chromatogr A
+843: 275–285.
+Munyard P, Chung KF, Bush A (1995). Inhaled frusemide and exercise-
+induced bronchoconstriction in children with asthma. Thorax 50:
+677–679.
+Nadel ER, Fortney SM, Wenger CB (1980). Effect of hydration state of
+circulatory and thermal regulations. J Appl Physiol 49: 715–721.
+Ouzan J, Perault C, Lincoff AM, Carre E, Mertes M (2002). The role of
+spironolactone in the treatment of patients with refractory hyper-
+tension. Am J Hypertens 15 (4 Pt 1): 333–339.
+Plasqui G, Westerterp KR (2007). Physical activity and insulin resis-
+tance. Curr Nutr Food Sci 3: 157–160.
+Politi L, Morini L, Polettini A (2007). A direct screening procedure for
+diuretics in human urine by liquid chromatography-tandem mass
+spectrometry with information dependent acquisition. Clin Chim
+Acta 386: 46–52.
+Qin Y, Wang XB, Wang C, Zhao M, Wu MT, Xu YX et al. (2003).
+Application of high-performance liquid chromatography-mass
+spectrometry to detection of diuretics in human urine.J Chromatogr
+B Analyt Technol Biomed Life Sci 794: 193–203.
+Reents S (2000). Sport and Exercise Pharmacology . Human Kinetics:
+Champaign, IL.
+Scheuermann BW, Kowalchuk JM, Paterson DH, Cunningham DA
+(1999). VCO2 and VE kinetics during moderate- and heavy-
+intensity exercise after acetazolamide administration. J Appl Physiol
+86: 1534–1543.
+Schoene RB, Bates PW, Larson EB, Pierson DJ (1983). Effect of aceta-
+zolamide on normoxic and hypoxic exercise in humans at sea level.
+J Appl Physiol 55: 1772–1776.
+Schwartz GJ (2002). Physiology and molecular biology of renal car-
+bonic anhydrase. J Nephrol 15 (Suppl. 5): S61–S74.
+Shankar SS, Brater DC (2003). Loop diuretics: from the Na-K-2Cl
+transporter to clinical use. Am J Physiol Renal Physiol 284: F11–F21.
+Somani SM (1996).Pharmacology in Exercise and Sports. CRC Press: Boca
+Raton, FL.
+Stager JM, Tucker A, Cordain L, Engebretsen BJ, Brechue WF, Matulich
+CC (1990). Normoxic and acute hypoxic exercise tolerance in
+man following acetazolamide. Med Sci Sports Exerc 22: 178–
+184.
+Tashian RE (2000). Keeping pace with a fast enzyme: steps and mis-
+steps. EXS: 569–596.
+Thevis M, Schanzer W (2007). Mass spectrometry in sports drug
+testing: Structure characterization and analytical assays. Mass Spec-
+trom Rev 26: 79–107.
+Thieme D, Grosse J, Lang R, Mueller RK, Wahl A (2001). Screening,
+conﬁrmation and quantiﬁcation of diuretics in urine for doping
+control analysis by high-performance liquid chromatography-
+atmospheric pressure ionisation tandem mass spectrometry. J Chro-
+matogr B Biomed Sci Appl 757: 49–57.
+Thorngren JO, Ostervall F, Garle M (2008). A high-throughput multi-
+component screening method for diuretics, masking agents, central
+nervous system (CNS) stimulants and opiates in human urine by
+UPLC-MS/MS. J Mass Spectrom 43: 980–992.
+Trout GJ, Kazlauskas R (2004). Sports drug testing – an analyst’s per-
+spective. Chem Soc Rev 33: 1–13.
+Ventura R, Segura J (1996). Detection of diuretic agents in doping
+control. J Chromatogr B Biomed Appl 687: 127–144.
+Ventura R, Fraisse D, Becchi M, Paisse O, Segura J (1991). Approach to
+the analysis of diuretics and masking agents by high-performance
+liquid chromatography-mass spectrometry in doping control. J
+Chromatogr 562: 723–736.
+Ventura R, Roig M, Montfort N, Saez P, Berges R, Segura J (2008).
+High-throughput and sensitive screening by ultra-performance
+liquid chromatography tandem mass spectrometry of diuretics and
+other doping agents. Eur J Mass Spectrom (Chichester, Eng) 14: 191–
+200.
+WADA (2004). The 2003 WADA Laboratory Statistics. Available at
+http://www.wada-ama.org/rtecontent/document/LABSTATS_2003.
+pdf (accessed 14 April 2010)
+WADA (2005). The 2004 WADA Laboratory Statistics. Available at
+http://www.wada-ama.org/rtecontent/document/LABSTATS_2004.
+pdf (accessed 14 April 2010)
+WADA (2006). The 2005 WADA Laboratory Statistics. Available at
+http://www.wada-ama.org/rtecontent/document/LABSTATS_2005.
+pdf (accessed 14 April 2010)
+WADA (2007). The 2006 WADA Laboratory Statistics. Available at
+http://www.wada-ama.org/rtecontent/document/LABSTATS_2006.
+pdf (accessed 14 April 2010)
+WADA (2008a). The 2007 WADA Laboratory Statistics. Available at
+http://www.wada-ama.org/rtecontent/document/LABSTATS_2007.
+PDF (accessed 14 April 2010)
+WADA (2008b). Medical Information to Support the Decisions of
+TUECs Arterial Hypertension. Available at http://www.wada-
+ama.org/rtecontent/document/Arterial_Hypertension_en.pdf (acc-
+essed 14 April 2010)
+WADA (2009a). The 2008 WADA Laboratory Statistics. Available
+at http://www.wada-ama.org/rtecontent/document/WADA_2008_
+LaboratoryStatisticsReport_Final.pdf (accessed 14 April 2010)
+WADA (2009b). The 2009 WADA Prohibited List. Available at http://
+www.wada-ama.org/rtecontent/document/2009_Prohibited_List_
+ENG_Final_20_Sept_08.pdf (accessed 14 April 2010)
+WADA (2009c). International Standard for Laboratories. Available
+at http://www.wada-ama.org/Documents/World_Anti-Doping_
+Program/WADPIS-Laboratories/WADA_Int.Standard_Laboratories_
+2009_EN.pdf (accessed 14 April 2010)
+WADA (2009d). International Standard for Therapeutic Use Exemp-
+tions. In: International Standard for Therapeutic Use Exemptions .
+Available at http://www.wada-ama.org/Documents/World_Anti-
+Doping_Program/WADP-IS-TUE/WADA_ISTUE_2010_EN.pdf (acc-
+essed 14 April 2010)
+Diuretics in sport doping
+AB Cadwallader et al 15
+British Journal of Pharmacology (2010) 161 1–16
+
+WADA (2009e). Minimum Required Performance Levels for the Detec-
+tion of Prohibited Substances. Available at http://stage.wada-ama.
+org/Documents/World_Anti-Doping_Program/WADPIS-Laboratories/
+WADA_TD2009_MRPL_V2.0_EN.pdf (accessed 14 April 2010)
+WADA (2009f). World Anti-Doping Code. [WWW document]. URL
+http://www.wada-ama.org/rtecontent/document/code_v2009_En.
+pdf (accessed 14 April 2010)
+Wilcox CS, Welch WJ, Schreiner GF, Belardinelli L (1999). Natriuretic
+and diuretic actions of a highly selective adenosine A1 receptor
+antagonist. J Am Soc Nephrol 10: 714–720.
+Yoon CN, Lee TH, Park J (1990). Mass spectrometry of methyl and
+methyl-d3 derivatives of diuretic agents. J Anal Toxicol 14: 96–
+101.
+Young DB, Srivastava TN, Fitzovich DE, Kivlighn SD, Hamaguchi M
+(1992). Potassium and catecholamine concentrations in the
+immediate post exercise period. Am J Med Sci 304: 150–
+153.
+Zappe DH, Helyar RG, Green HJ (1996). The interaction between
+short-term exercise training and a diuretic-induced hypovolemic
+stimulus. Eur J Appl Physiol Occup Physiol 72: 335–340.
+Diuretics in sport doping
+16 AB Cadwallader et al
+British Journal of Pharmacology (2010) 161 1–16

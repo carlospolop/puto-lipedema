@@ -1,0 +1,1 @@
+{"version":"6.9","hitCount":0,"request":{"queryString":"(lipedema OR lipoedema) AND (liposuction OR liposucción) AND (\"pseudo-Bartter\" OR \"pseudo Bartter\")","resultType":"lite","cursorMark":"*","pageSize":100,"sort":"","synonym":false},"resultList":{"result":[]}}

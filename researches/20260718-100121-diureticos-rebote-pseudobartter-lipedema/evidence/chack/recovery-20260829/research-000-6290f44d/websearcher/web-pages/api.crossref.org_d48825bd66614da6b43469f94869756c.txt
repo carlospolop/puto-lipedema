@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_records>
+  <doi_record owner="10.2458" timestamp="2021-12-17 13:33:54">
+    <crossref>
+      <journal>
+        <journal_metadata>
+          <full_title>Lymphology</full_title>
+          <issn media_type="electronic">2522-7963</issn>
+        </journal_metadata>
+        <journal_issue>
+          <publication_date media_type="online">
+            <month>6</month>
+            <day>2</day>
+            <year>2020</year>
+          </publication_date>
+          <journal_volume>
+            <volume>53</volume>
+          </journal_volume>
+          <issue>1</issue>
+        </journal_issue>
+        <journal_article publication_type="full_text">
+          <titles>
+            <title>THE DIAGNOSIS AND TREATMENT OF PERIPHERAL LYMPHEDEMA: 2020 CONSENSUS DOCUMENT OF THE INTERNATIONAL SOCIETY OF LYMPHOLOGY</title>
+          </titles>
+          <contributors>
+            <person_name contributor_role="author" sequence="first">
+              <given_name>CONSENSUS</given_name>
+              <surname>DOCUMENT</surname>
+              <affiliation />
+            </person_name>
+          </contributors>
+          <abstract>
+            <p>THE DIAGNOSIS AND TREATMENT OF PERIPHERAL LYMPHEDEMA: 2020 CONSENSUS DOCUMENT OF THE INTERNATIONAL SOCIETY OF LYMPHOLOGY</p>
+          </abstract>
+          <publication_date media_type="online">
+            <month>6</month>
+            <day>2</day>
+            <year>2020</year>
+          </publication_date>
+          <acceptance_date media_type="online">
+            <month>6</month>
+            <day>2</day>
+            <year>2020</year>
+          </acceptance_date>
+          <program name="AccessIndicators">
+            <license_ref>https://creativecommons.org/licenses/authors</license_ref>
+          </program>
+          <doi_data>
+            <doi>10.2458/lymph.4649</doi>
+            <resource>https://journals.librarypublishing.arizona.edu/lymph/article/id/4649/</resource>
+            <collection property="crawler-based">
+              <item crawler="iParadigms">
+                <resource>https://journals.librarypublishing.arizona.edu/lymph/article/4649/galley/4692/download/</resource>
+              </item>
+            </collection>
+          </doi_data>
+        </journal_article>
+      </journal>
+    </crossref>
+  </doi_record>
+</doi_records>

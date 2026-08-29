@@ -1,0 +1,938 @@
+EVIDENCE-BASED CLINICAL MEDICINE
+Approach to Leg Edema of Unclear Etiology
+John W. Ely, MD, MSPH, Jerome A. Osheroff, MD, M. Lee Chambliss, MD, MSPH, and
+Mark H. Ebell, MD, MS
+A common challenge for primary care physicians is to determine the cause and ﬁnd an effective treat-
+ment for leg edema of unclear etiology. We were unable to ﬁnd existing practice guidelines that address
+this problem in a comprehensive manner. This article provides clinically oriented recommendations for
+the management of leg edema in adults. We searched on-line resources, textbooks, and MEDLINE (using
+the MeSH term, “edema”) to ﬁnd clinically relevant articles on leg edema. We then expanded the search
+by reviewing articles cited in the initial sources. Our goal was to write a brief, focused review that
+would answer questions about the management of leg edema. We organized the information to make it
+rapidly accessible to busy clinicians. The most common cause of leg edema in older adults is venous
+insufﬁciency. The most common cause in women between menarche and menopause is idiopathic
+edema, formerly known as “cyclic” edema. A common but under-recognized cause of edema is pulmo-
+nary hypertension, which is often associated with sleep apnea. Venous insufﬁciency is treated with leg
+elevation, compressive stockings, and sometimes diuretics. The initial treatment of idiopathic edema is
+spironolactone. Patients who have ﬁndings consistent with sleep apnea, such as daytime somnolence,
+load snoring, or neck circumference >17 inches, should be evaluated for pulmonary hypertension with
+an echocardiogram. If time is limited, the physician must decide whether the evaluation can be delayed
+until a later appointment (eg, an asymptomatic patient with chronic bilateral edema) or must be com-
+pleted at the current visit (eg, a patient with dyspnea or a patient with acute edema [ <72 hours]). If the
+evaluation should be conducted at the current visit, the algorithm shown in Figure 1 could be used as a
+guide. If the full evaluation could wait for a subsequent visit, the patient should be examined brieﬂy to
+rule out an obvious systemic cause and basic laboratory tests should be ordered for later review (com-
+plete blood count, urinalysis, electrolytes, creatinine, blood sugar, thyroid stimulating hormone, and
+albumin). (J Am Board Fam Med 2006;19:148 – 60.)
+Edema is deﬁned as a palpable swelling caused by
+an increase in interstitial ﬂuid volume. The most
+likely cause of leg edema in patients over age 50 is
+venous insufﬁciency. Venous insufﬁciency affects
+up to 30% of the population,
+1,2 whereas heart fail -
+ure affects only approximately 1%. 3,4 The most
+likely cause of leg edema in women under age 50 is
+idiopathic edema, formerly known as cyclic ede-
+ma.
+5 Most patients can be assumed to have one of
+these diseases unless another cause is suspected
+after a history and physical examination. However,
+there are at least 2 exceptions to this rule: pulmo-
+nary hypertension and early heart failure can both
+cause leg edema before they become clinically ob-
+vious in other ways.
+Classiﬁcation
+There are 2 types of leg edema: venous edema and
+lymphedema. Venous edema consists of excess low-
+viscosity, protein-poor interstitial ﬂuid resulting
+from increased capillary ﬁltration that cannot be
+accommodated by a normal lymphatic system.
+6
+Lymphedema consists of excess protein-rich inter-
+stitial ﬂuid within the skin and subcutaneous tissue
+resulting from lymphatic dysfunction.
+7 A third
+type, lipidema, is more accurately considered a
+form of fat maldistribution rather than true edema.
+8
+Submitted 18 April 2005; revised 1 June 2005; accepted 6
+June 2005.
+From the Department of Family Medicine, University of
+Iowa Carver College of Medicine, Iowa City, IA (JWE);
+Thomson MICROMEDEX, Greenwood Village, CO
+(JAO); Moses Cone Hospital Family Medicine Residency,
+Greensboro, NC (MLC); and Department of Family Prac-
+tice, Michigan State University, East Lansing, MI (MHE).
+Conﬂict of interest: none declared.
+Corresponding author: John W. Ely, MD, MSPH, Univer-
+sity of Iowa College of Medicine, Department of Family
+Medicine, 200 Hawkins Drive, 01291-D PFP, Iowa City, IA
+52242 (E-mail: john-ely@uiowa.edu).
+148 JABFM March–April 2006 Vol. 19 No. 2 http://www.jabfm.org
+ on 29 August 2026 by guest. Protected by copyright.http://www.jabfm.org/ J Am Board Fam Med: first published as 10.3122/jabfm.19.2.148 on 2 March 2006. Downloaded from
+
+Diagnosis
+The differential diagnosis of edema is presented in
+Tables 1 through 3. Figures 1 through 5 provide an
+algorithm for diagnostic evaluation.
+History
+Key elements of the history include
+● What is the duration of the edema (acute [/H1102172
+hours] vs. chronic)? If the onset is acute, deep
+vein thrombosis should be strongly consid-
+ered.
+6,9 –11 The 72-hour cutoff is commonly cit -
+ed9 –11 but arbitrary and not well supported with
+evidence. Deep vein thrombosis should be con-
+sidered in patients presenting after 72 hours with
+otherwise consistent ﬁndings.
+● Is the edema painful? Deep vein thrombosis and
+reﬂex sympathetic dystrophy are usually pain-
+ful.
+10,12 Chronic venous insufﬁciency can cause
+low-grade aching. Lymphedema is usually pain-
+less.
+9,10,12–15
+● What drugs are being taken? Calcium channel
+blockers, prednisone, and anti-inﬂammatory drugs
+are common causes of leg edema.
+9,14,16,17 Other
+drugs that may cause edema are listed in Table 4.
+● Is there a history of systemic disease (heart, liver, or
+kidney disease)?
+● Is there a history of pelvic/abdominal neoplasm or
+radiation?
+Table 1. Common Causes of Leg Edema in the United States
+Unilateral Bilateral
+Acute (/H1102172 hours) Chronic Acute (/H1102172 hours) Chronic
+Deep vein thrombosis Venous insufﬁciency Venous insufﬁciency
+Pulmonary hypertension
+Heart failure
+Idiopathic edema
+Lymphedema
+Drugs
+Premenstrual edema
+Pregnancy
+Obesity
+Table 2. Less Common Causes of Leg Edema in the United States
+Unilateral Bilateral
+Acute (/H1102172 hours) Chronic Acute (/H1102172 hours) Chronic
+Ruptured Baker’s cyst Secondary lymphedema (tumor,
+radiation, surgery, bacterial
+infection)
+Bilateral deep vein thrombosis Renal disease (nephrotic
+syndrome, glomerulonephritis)
+Ruptured medial head of
+gastrocnemius
+Pelvic tumor or lymphoma
+causing external pressure on
+veins
+Acute worsening of systemic cause
+(heart failure, renal disease)
+Liver disease
+Compartment syndrome Reﬂex sympathetic dystrophy Secondary lymphedema
+(secondary to tumor, radiation,
+bacterial infection, ﬁlariasis)
+Pelvic tumor or lymphoma
+causing external pressure
+Dependent edema
+Diuretic-induced edema
+Dependent edema
+Preeclampsia
+Lipidema
+8
+Anemia
+http://www.jabfm.org Approach to Leg Edema of Unclear Etiology 149
+ on 29 August 2026 by guest. Protected by copyright.http://www.jabfm.org/ J Am Board Fam Med: first published as 10.3122/jabfm.19.2.148 on 2 March 2006. Downloaded from
+
+● Does the edema improve overnight? Venous
+edema is more likely than lymphedema to im-
+prove overnight. 13
+● Is there a history consistent with sleep apnea?
+Sleep apnea can cause pulmonary hypertension,
+which is a common cause of leg edema.
+4 Findings
+that may increase suspicion of sleep apnea in-
+clude loud snoring or apnea noted by the sleep
+partner, daytime somnolence, or a neck circum-
+ference /H1102217 inches.
+Physical Examination
+Key elements of the physical examination include
+● Body mass index. Obesity is associated with sleep
+apnea and venous insufﬁciency. 18 –20
+● Distribution of edema: unilateral leg edema is
+generally due to a local cause such as deep vein
+thrombosis, venous insufﬁciency, or lymphed-
+ema. Bilateral edema can be due to a local cause
+or systemic disease, such as heart failure or kid-
+Table 3. Rare Causes of Leg Edema in the United States
+Unilateral Bilateral
+Acute (/H1102172 hours) Chronic Acute (/H1102172 hours) Chronic
+Primary lymphedema (congenital
+lymphedema, lymphedema praecox,
+lymphedema tarda)
+Primary lymphedema (congenital
+lymphedema, lymphedema praecox,
+lymphedema tarda)
+Congenital venous malformations Protein losing enteropathy, malnutrition,
+malabsorption
+May-Thurner syndrome (iliac-vein
+compression syndrome)
+51
+Restrictive pericarditis
+Restrictive cardiomyopathy
+Beri Beri
+Myxedema
+Figure 1. Algorithm for leg edema.
+150 JABFM March–April 2006 Vol. 19 No. 2 http://www.jabfm.org
+ on 29 August 2026 by guest. Protected by copyright.http://www.jabfm.org/ J Am Board Fam Med: first published as 10.3122/jabfm.19.2.148 on 2 March 2006. Downloaded from
+
+ney disease. Generalized edema is due to systemic
+disease. The dorsum of the foot is spared in
+lipidema but prominently involved in lymphede-
+ma.
+8
+● Tenderness: deep vein thrombosis and lipidema
+are often tender. Lymphedema is usually non-
+tender.
+● Pitting: deep vein thrombosis, venous insufﬁ-
+ciency, and early lymphedema usually pit. Myx-
+edema and the advanced ﬁbrotic form of
+lymphedema typically do not pit.
+9,12,14,21
+● Varicose veins: leg varicosities are often present
+in patients with chronic venous insufﬁciency, but
+venous insufﬁciency can occur without varicose
+veins.
+10
+● Kaposi-Stemmer sign: inability to pinch a fold of
+skin on the dorsum of the foot at the base of the
+second toe is a sign of lymphedema.
+15,22
+● Skin changes: a warty texture (hyperkeratosis)
+with papillomatosis and brawny induration are
+characteristic of chronic lymphedema. 9,14 Brown
+hemosiderin deposits on the lower legs and an-
+kles are consistent with venous insufﬁciency. Re-
+ﬂex sympathetic dystrophy initially leads to warm
+tender skin with increased sweating. Later the
+skin is thin, shiny, and cool. In the chronic stage,
+the skin becomes atrophic and dry with ﬂexion
+contractures.
+● Signs of systemic disease: ﬁndings of heart failure
+(especially jugular venous distension and lung
+crackles) and liver disease (ascites, spider heman-
+giomas, and jaundice) may be helpful in detecting
+a systemic cause.
+Diagnostic Studies
+Laboratory Tests
+Most patients over age 50 with leg edema have
+venous insufﬁciency, but if the etiology is unclear,
+a short list of laboratory tests will help rule out
+systemic disease: complete blood count, urinalysis,
+electrolytes, creatinine, blood sugar, thyroid-stim-
+ulating hormone, and albumin. A serum albumin
+below 2 g/dL often leads to edema and can be
+caused by liver disease, nephrotic syndrome, or
+protein-losing enteropathy.
+14 Additional tests are
+indicated depending on the clinical presentation:
+● Patients who may have a cardiac etiology should
+have an electrocardiogram, echocardiogram, and
+chest radiograph. Dyspneic patients should have
+a brain natriuretic peptide (BNP) determination
+to help detect heart failure. The BNP is most
+helpful for ruling out (rather than ruling in) heart
+failure because the sensitivity is high (90%).
+23
+● Idiopathic edema can be diagnosed in young
+women without further testing if there is no rea-
+son to suspect another etiology based on history
+and physical examination.
+5 However, tests to
+conﬁrm idiopathic edema have been described
+and may be helpful in difﬁcult cases (Table
+5).
+12,24
+Figure 2. Common causes.
+http://www.jabfm.org Approach to Leg Edema of Unclear Etiology 151
+ on 29 August 2026 by guest. Protected by copyright.http://www.jabfm.org/ J Am Board Fam Med: first published as 10.3122/jabfm.19.2.148 on 2 March 2006. Downloaded from
+
+● In patients with acute edema (/H1102172 hours), a nor-
+mal D-dimer will essentially rule out deep vein
+thrombosis if the clinical suspicion is low because
+false negative D-dimers are rare.
+25–27 However,
+an elevated D-dimer should be followed up with
+a Doppler examination because false positive D-
+dimers are common.
+28 The variability among
+laboratory assays has been problematic, but a
+recent systematic review recommended the rapid
+quantitative ELISA as the most useful test.
+25
+● Patients with possible nephrotic syndrome should
+have serum lipids in addition to the basic labora-
+tory studies listed above.
+Imaging Studies
+Patients over age 45 with edema of unclear etiology
+should have an echocardiogram to rule out pulmo-
+nary hypertension.
+4 Lymphoscintigraphy can be
+helpful to distinguish lymphedema from venous
+edema and to determine the cause of lymphedema.
+Lymphoscintigraphy is performed by injecting a
+radioactive tracer into the ﬁrst web space and mon-
+itoring lymphatic ﬂow with a gamma camera.
+13
+Common Causes of Leg Edema
+Venous Insufﬁciency
+Venous insufﬁciency is characterized by chronic
+pitting edema, often associated with brown hemo-
+siderin skin deposits on the lower legs. The skin
+changes can progress to dermatitis and ulceration,
+which usually occur over the medial maleoli. Other
+common ﬁndings include varicose veins and obe-
+sity. Most patients are asymptomatic but a sensa-
+tion of aching or heaviness can occur.
+2 The diag -
+nosis is usually made clinically but can be
+conﬁrmed with a Doppler study.
+2,29 Although
+chronic venous insufﬁciency is thought to result
+from previous deep vein thrombosis, only one third
+Figure 3. Systemic evaluation.
+152 JABFM March–April 2006 Vol. 19 No. 2 http://www.jabfm.org
+ on 29 August 2026 by guest. Protected by copyright.http://www.jabfm.org/ J Am Board Fam Med: first published as 10.3122/jabfm.19.2.148 on 2 March 2006. Downloaded from
+
+of patients will give that history. 2 “Dependent
+edema” is a variant of venous insufﬁciency and
+often occurs in patients following stroke who sit in
+wheelchairs for long periods.
+Heart Failure
+Patients with congestive heart failure complain of
+dyspnea, dependent edema, and fatigue. On phys-
+ical examination they may have elevated jugular
+venous pressure, basilar crackles on chest ausculta-
+tion, gallop rhythm, and pitting edema. In one
+study, BNP was found to be helpful in diagnosing
+heart failure among dyspneic patients.
+23 Using a
+cutoff value of 100 pg/mL, this test had a sensitivity
+of 90% and speciﬁcity of 76% when compared with
+a clinical diagnosis by 2 independent cardiologists.
+23
+Pulmonary Hypertension
+Pulmonary hypertension commonly results from
+sleep apnea, is under-recognized as a cause of ede-
+ma,
+4 and can be diagnosed by echocardiography.
+Other causes of pulmonary hypertension include
+left heart failure and chronic lung disease. In a
+study of primary care patients, Blankﬁeld and col-
+leagues
+4 obtained echocardiograms on 45 patients
+with edema. The initial clinical impression was
+venous insufﬁciency in 71% of these patients.
+However, the ﬁnal impression was pulmonary hy-
+pertension (/H1102240 mm Hg) in 20% and “borderline
+pulmonary hypertension” (31 to 40 mm Hg) in
+22%. Only 22% of the patients were found to have
+venous insufﬁciency. This study was not designed
+to determine whether borderline pulmonary hyper-
+tension was the primary cause of edema or simply
+an incidental ﬁnding. Treating sleep apnea might
+improve the leg edema that results from pulmonary
+hypertension, but this also is unknown. Given these
+uncertainties, we recommend an echocardiogram
+in patients who are at risk for pulmonary hyperten-
+sion and in patients over age 45 with leg edema of
+unclear etiology.
+Drugs
+Drugs that can cause edema are listed in Table 4.
+Calcium channel blockers and nonsteroidal anti-
+inﬂammatory drugs (NSAIDS) are most commonly
+Figure 4. Unilateral edema.
+http://www.jabfm.org Approach to Leg Edema of Unclear Etiology 153
+ on 29 August 2026 by guest. Protected by copyright.http://www.jabfm.org/ J Am Board Fam Med: first published as 10.3122/jabfm.19.2.148 on 2 March 2006. Downloaded from
+
+implicated.14 The incidence of edema in patients
+taking NSAIDS is approximately 5%. 17 Up to 50%
+of patients on calcium-channel blockers develop
+edema.13 Dihydropyridines (amlodipine, nifedi -
+pine) may be more likely to induce edema than
+phenylalkylamines (verapamil) or benzothiazepines
+(diltiazem).
+14
+Idiopathic Edema
+Idiopathic edema occurs only in menstruating
+women and is most common in the 20s and 30s.
+Synonyms include ﬂuid-retention edema, ortho-
+static edema, cyclical edema, and periodic edema.
+However, the symptoms persist throughout the
+menstrual cycle, and idiopathic edema should be
+distinguished from premenstrual edema. Idiopathic
+edema leads to pathologic ﬂuid retention in the
+upright position, and women typically notice a
+weight gain of /H110221.4 kg as the day progresses.
+30
+However, the weight gain may be as little as 0.7
+kg.
+31 Patients often complain of face and hand
+Figure 5. Chronic unilateral edema.
+Table 4. Drugs That May Cause Leg Edema 9,12,14,16,17
+Antihypertensive drugs
+Calcium channel blockers
+Beta blockers
+Clonidine
+Hydralazine
+Minoxidil
+Methyldopa
+Hormones
+Corticosteroids
+Estrogen
+Progesterone
+Testosterone
+Other
+Nonsteroidal anti-inﬂammatory drugs
+Pioglitazone, Rosiglitazone
+Monoamine oxidase inhibitors
+154 JABFM March–April 2006 Vol. 19 No. 2 http://www.jabfm.org
+ on 29 August 2026 by guest. Protected by copyright.http://www.jabfm.org/ J Am Board Fam Med: first published as 10.3122/jabfm.19.2.148 on 2 March 2006. Downloaded from
+
+edema in addition to leg swelling. 31 Several conﬁr-
+matory tests are available (Table 5), but the diag-
+nosis is usually made clinically after ruling out
+systemic disease by history and physical examina-
+tion.
+31 The conﬁrmatory tests in Table 5 are indi -
+cated only when there is signiﬁcant doubt about the
+diagnosis. Obesity and depression can be associated
+with this syndrome, and diuretic abuse is com-
+mon.
+14
+Lymphedema
+Primary lymphedema is a rare disorder that is divided
+into 3 types according to age of presentation. 21
+Congenital lymphedema may be present at birth or
+becomes manifest by age 2 years. The familial form
+of congenital lymphedema is an autosomal domi-
+nant disorder known as Milroy disease.
+Lymphedema praecox , the most common form of
+primary lymphedema, has its onset between age 2
+and 35 and has a female to male ratio of 10:1.
+Lymphedema praecox is usually unilateral and is
+limited to the foot and calf in most patients.
+32 The
+familial form of lymphedema praecox is an autoso-
+mal dominant disorder known as Meige disease.
+Lymphedema tarda presents after age 35.
+Secondary lymphedema is much more common
+than primary, and the cause is generally apparent
+from the history. The most common causes of leg
+lymphedema are tumor (eg, lymphoma, prostate
+cancer, ovarian cancer), surgery involving lymphat-
+ics, radiation therapy, and infection (bacterial in-
+fection or ﬁlariasis).
+21 Chronic lymphedema is usu -
+ally distinguished from venous edema based on
+characteristic skin changes, absence of pitting, and
+history of an inciting cause. The skin becomes
+thickened and darkened and may develop multiple
+projections called lymphostatic verrucosis.
+9 The
+dorsum of the foot is prominently involved and
+may have a squared-off appearance. The examiner
+is unable to pinch a fold of skin on the dorsal aspect
+of the base of the second toe (Kaposi-Stemmer
+sign).
+12,14,22 However, early lymphedema may be
+difﬁcult to distinguish from venous edema because
+pitting is present in both, and the skin changes are
+absent early in the course. If the distinction be-
+tween early lymphedema and venous edema cannot
+be made clinically, lymphoscintigraphy may be in-
+dicated.
+33 However, the distinction cannot always
+be made because chronic venous insufﬁciency can
+lead to secondary lymphedema with abnormally
+delayed lymph drainage on lymphoscintigram.
+15,34
+Deep Vein Thrombosis
+Deep vein thrombosis classically results in an
+acutely swollen, painful leg that may be discolored.
+However, the presentation can be more subtle with
+mild, painless, asymmetric edema. The physical
+examination is often unreliable and patients with
+acute edema usually require further evaluation,
+which may include a D-dimer determination and a
+Doppler study (Figures 1–5). Risk factors for deep
+vein thrombosis include cancer, immobilization
+(especially following surgery or an injury), and a
+hypercoagulable state.
+Obesity
+Obesity itself does not cause leg edema but obesity
+can lead to many other causes such as chronic
+venous insufﬁciency, lymphedema, idiopathic
+edema, and obstructive sleep apnea.
+Premenstrual Edema
+Most women experience some premenstrual edema
+and weight gain. The edema tends to be general-
+ized, occurs a few days before the beginning of
+menses, and resolves during a diuresis that occurs
+with the onset of menses. The etiology is poorly
+understood.
+35
+Pregnancy
+Increased venous pressure resulting from an en-
+larging uterus near term commonly leads to lower
+Table 5. Tests for Idiopathic Edema
+12,30,31,52
+Morning and Evening Weights: Patients should weigh themselves nude and with an empty bladder before food or ﬂuids in the
+morning and at bedtime. A mean weight gain /H110220.7 kg is consistent with idiopathic edema.
+Water Load Test: After avoiding diuretics for at least 10 days, the patient drinks 20 mL/kg body weight (maximum 1500 mL)
+uniced water over 20 minutes, sometime between 7:30 AM and 9:00 AM. The patient collects urine every hour, starting 1 hour
+before the oral ﬂuid load and ending 4 hours after. On the ﬁrst day, the patient should be walking slowly or standing during
+this 4-hour period. On the second day, the patient repeats the ﬂuid load and urine collection, but should be recumbent during
+the 4-hour period. In patients with idiopathic edema, less than 55% of water load is excreted in the upright position and more
+than 65% in the recumbent position.
+http://www.jabfm.org Approach to Leg Edema of Unclear Etiology 155
+ on 29 August 2026 by guest. Protected by copyright.http://www.jabfm.org/ J Am Board Fam Med: first published as 10.3122/jabfm.19.2.148 on 2 March 2006. Downloaded from
+
+extremity edema and varicosities. Edema is com-
+monly present in patients with preeclampsia but is
+no longer considered a factor in making the diag-
+nosis.
+36
+Treatment
+Venous insufﬁciency
+Chronic venous insufﬁciency is treated with leg
+elevation and knee-high compression stockings
+that provide 30 to 40 mm Hg pressure at the
+ankle.
+2,37– 40 If arterial insufﬁciency is a concern, an
+ankle-brachial index should be performed because
+compression stockings are contraindicated in arte-
+rial insufﬁciency. Patients who are refractory to
+compression stockings may improve with intermit-
+tent pneumatic compression pumps.
+2 Horse chest -
+nut seed extract (300 mg, standardized to 50 mg of
+escin, twice a day) has been found to be effective in
+several studies and can be obtained in health food
+stores.
+41– 44 Horse chestnut seed extract contains
+escin, which inhibits the activity of elastase and
+hyaluronidase. These enzymes are thought to play
+a role in the pathophysiology of chronic venous
+insufﬁciency.
+45 However, the beneﬁts are modest
+and the agent has not gained widespread accep-
+tance. Diuretics (eg, furosemide 20 to 40 mg once
+a day with supplemental potassium) can be used for
+short periods in severely affected patients. How-
+ever, venous insufﬁciency is not a volume overload
+state, and long-term use of diuretics can lead to
+adverse metabolic complications.
+2
+Idiopathic Edema
+Spironolactone is considered the drug of choice for
+idiopathic edema because of the secondary hyper-
+aldosteronism found in patients with this disor-
+der.
+31 The starting dose is 50 to 100 mg daily
+(maximum 100 mg, 4 times daily). 30,46 If spirono -
+lactone is not effective, low doses of a thiazide
+diuretic (eg, hydrochlorothiazide, 25 mg daily) can
+be added with close monitoring of the serum po-
+tassium. It is best to avoid loop diuretics.
+30 The
+diuretic should be given in the early evening be-
+cause ﬂuid retention is most noticeable at the end
+of the day. Other measures include intermittent
+recumbency, avoiding environmental heat, low salt
+diet, avoiding excessive ﬂuid intake, and weight loss
+for obese patients.
+31 It may be helpful to ask about
+depression, eating disorder, and surreptitious di-
+uretic or laxative use. Compression stockings are
+usually not helpful and not tolerated. Many pa-
+tients with idiopathic edema are already taking di-
+uretics when ﬁrst seen and may have “diuretic-
+induced edema.”
+4 6–4 8 Chronic use of diuretics may
+lead to a state of mild hypovolemia with resulting
+stimulation of the renin-angiotensin-aldosterone
+system. When the diuretics are withdrawn, a re-
+bound worsening of edema occurs and patients
+believe they must continue.
+49 However, the treat -
+ment of suspected diuretic-induced edema is to
+withdraw diuretics for 3 to 4 weeks after warning
+the patient that her edema will probably worsen
+initially and reassuring her that the diuretic can
+Table 6. Strength of Evidence for Major Recommendations
+Strength of
+Recommendation*
+Diagnostic recommendations
+Relative frequencies of causes of edema in Tables 1–3 1,4,53 C
+Clinical ﬁndings that help distinguish venous edema, lymphedema, and lipidema 8,9,11,12,21,22,24 C
+Important components of the patient history 9–12,24,54 C
+Important components of physical exam 2,9–12,22,24 C
+Echocardiogram recommended in patients over age 45 4 C
+Medications that cause edema 4,13,14,16,17,24,55 C
+Normal D-dimer rules out deep vein thrombosis 25,56 B
+Use of Doppler exam to conﬁrm or rule out deep vein thrombosis 57–59 B
+Treatment recommendations
+Diuretics to treat venous insufﬁciency 2 C
+Horse chestnut seed extract to treat venous insufﬁciency 41–44 B
+Compression stockings to treat venous insufﬁciency 60 C
+Diuretics to treat idiopathic edema 5,31,46 C
+* Strength of recommendation classiﬁed according to the 3-component SORT system 61: A, denotes recommendation based on
+consistent and good-quality patient-oriented evidence 61; B, denotes recommendation based on inconsistent or limited-quality
+patient-oriented evidence 61; C, denotes recommendation based on consensus, usual practice, opinion, disease-oriented evidence, or
+case series for studies of diagnosis, treatment, prevention, or screening. 61
+156 JABFM March–April 2006 Vol. 19 No. 2 http://www.jabfm.org
+ on 29 August 2026 by guest. Protected by copyright.http://www.jabfm.org/ J Am Board Fam Med: first published as 10.3122/jabfm.19.2.148 on 2 March 2006. Downloaded from
+
+always be restarted. If the edema does not improve
+after 4 weeks, spironolactone can be initiated at a
+dose of 50 to 100 mg daily and increased to a
+maximum of 100 mg, 4 times daily.
+30,46
+Lymphedema
+Nonspeciﬁc treatment of lymphedema includes ex-
+ercise, elevation, compressive garments, manual
+lymphatic drainage, intermittent pneumatic com-
+pression, and surgery (excisional procedures, mi-
+crosurgery).
+13,21,33 Tinea pedis should be con -
+trolled, and prophylactic antibiotics may be
+indicated for recurrent cellulitis. Diuretics are gen-
+erally not helpful.
+13 Treatment of lymphedema is
+often disappointing, and psychosocial support is
+important in such patients.
+Deep Vein Thrombosis
+An acute deep vein thrombosis is generally treated
+with low molecular weight heparin, such as enox-
+aparin 1 mg/kg/dose subcutaneously every 12
+hours.
+50 Warfarin can be initiated simultaneously
+with heparin, starting with 5 to 10 mg daily for 2
+days with subsequent dosage based on a target
+international normalized ratio range of 2.0 to 3.0.
+Heparin is continued for at least 5 days (10 days for
+severe iliofemoral thrombosis). When the interna-
+tional normalized ratio is between 2.0 and 3.0 for 2
+days, the heparin can be withdrawn. A platelet
+count should be obtained on day 3 and day 10 of
+heparin therapy to rule out heparin-induced
+thrombocytopenia. The total duration of oral anti-
+coagulation is reviewed elsewhere.
+50 If anticoagu -
+lation is contraindicated, an inferior vena cava ﬁlter
+may be an option. Thrombolytic agents are gener-
+ally reserved for patients with phlegmasia cerula
+dolens, which is manifested by severe pain, bullae
+formation, and skin discoloration.
+Summary and Recommendations
+● In the approach to leg edema of unclear etiology,
+the physician should ﬁrst rule out lipidema (fat
+Table 7. Frequently Asked Questions
+Question Answer
+Who needs a pelvic and rectal exam to
+rule out tumor?
+We recommend a pelvic/rectal exam in patients who present with ﬁndings suspicious
+for tumor, such as unilateral edema, pelvic symptoms, or weight loss. We were
+unable to ﬁnd evidence or published opinions on when the pelvic or rectal exam is
+indicated in patients with edema The pelvic exam has poor sensitivity compared
+with computed tomography (CT) scan for detection of pelvic tumors that cause leg
+edema. However, information gained from this part of the exam may complement
+subsequent radiologic studies.
+Who needs an abdominal/pelvic CT
+scan to rule out tumor?
+An abdominal/pelvic CT scan should be considered in patients over 40 without an
+apparent cause for edema and in younger patients with suspicious ﬁndings (unilateral
+edema, pelvic signs or symptoms, weight loss). Patients over age 35 with
+undiagnosed lymphedema should have a CT scan.
+11 Tumors commonly associated
+with leg edema include prostate cancer, ovarian cancer, and lymphoma. 11,12
+Who needs to be evaluated for a
+systemic cause, and what tests should
+be done?
+It is reasonable to obtain a few basic tests in all patients with bilateral leg edema over
+age 45 because the tests are relatively few and inexpensive. The basic tests include a
+complete blood count, urinalysis, electrolytes, creatinine, blood sugar, thyroid-
+stimulating hormone, and serum albumin. An echocardiogram should be considered
+in patients over age 45, because pulmonary hypertension is a common cause of leg
+edema and is commonly missed.
+4 Unilateral edema generally does not require a
+search for a systemic cause. A search for liver disease is unnecessary in the absence
+of ascites because leg edema is a late ﬁnding in patients with cirrhosis.
+When should diuretics be used and
+when should they be avoided?
+Loop diuretics (eg, furosemide, 40 mg daily) should be used in patients with edema
+secondary to heart failure or renal failure.
+62 Patients with ascites and leg edema due
+to cirrhosis should be treated with spironolactone (starting with 50 mg daily)
+combined with furosemide (starting with 40 mg daily).
+63,64 In patients with chronic
+venous insufﬁciency, diuretics should be used only after leg elevation and
+compression stockings have failed. At that point, they should be used sparingly and
+for brief periods. In patients with idiopathic edema who are taking diuretics,a3t o4
+week trial off diuretics is indicated. In patients with idiopathic edema who are not
+already taking diuretics or those who fail to improve off diuretics, spironolactone
+and thiazides can be used. Long-term furosemide use in patients with idiopathic
+edema has been associated with impaired renal function.
+65 Diuretics should be used
+rarely if at all in patients with lipidema, lymphedema, and deep vein thrombosis.
+http://www.jabfm.org Approach to Leg Edema of Unclear Etiology 157
+ on 29 August 2026 by guest. Protected by copyright.http://www.jabfm.org/ J Am Board Fam Med: first published as 10.3122/jabfm.19.2.148 on 2 March 2006. Downloaded from
+
+maldistribution with sparing of feet) and
+lymphedema (marked foot and toe involvement,
+verrucous thickened skin, nonpitting when
+chronic) because subsequent evaluation and
+treatment are different for these disorders.
+● If systemic disease is considered unlikely, the
+most common causes of bilateral leg edema are
+idiopathic edema (in young women) and chronic
+venous insufﬁciency (in older patients).
+● In patients with chronic bilateral edema, the phy-
+sician should consider the most common sys-
+temic causes (cardiac, renal, hepatic) and decide,
+based on history and physical examination, which
+of them need to be ruled out with further testing.
+Pulmonary hypertension is a common cause and
+should be suspected in patients who may have
+sleep apnea (eg, neck circumference /H1102217 inches,
+loud snoring or apnea noted by sleep partner).
+● If the patient presents with sudden onset ( /H1102172
+hours) of leg swelling, a deep vein thrombosis
+should be ruled out using a Doppler examination.
+● Evidence ratings for the major recommendations
+in this article are included in Table 6.
+We are indebted to focus groups of faculty and residents at the
+University of Iowa Department of Family Medicine and the
+Moses Cone Hospital Family Medicine Residency for extensive
+review and comments, which were audiotaped, transcribed, and
+used to revise the manuscript.
+References
+1. Menzoain JO, Doyle JE. Venous insufﬁciency of the
+leg. Hosp Pract 1989;24:109 –16.
+2. Alguire PC, Mathes BM. Chronic venous insufﬁ-
+ciency and venous ulceration. J Gen Intern Med
+1997;12:374 – 83.
+3. Kannel WB. Epidemiological aspects of heart fail-
+ure. Cardiol Clin 1989;7:1–9.
+4. Blankﬁeld RP, Finkelhor RS, Alexander JJ, et al.
+Etiology and diagnosis of bilateral leg edema in pri-
+mary care. Am J Med 1998;105:192–7.
+5. Streeten DH. Idiopathic edema. Curr Ther Endo-
+crinol Metab 1997;6:203– 6.
+6. Gorman WP, Davis KR, Donnelly R. ABC of arte-
+rial and venous disease. Swollen lower limb-1: gen-
+eral assessment and deep vein thrombosis. BMJ
+2000;320:1453– 6.
+7. Mortimer PS. Swollen lower limb-2: lymphoedema.
+BMJ 2000;320:1527–9.
+8. Rudkin GH, Miller TA. Lipidema: a clinical entity
+distinct from lymphedema. Plast Reconstr Surg
+1994;94:841–7.
+9. Ciocon JO, Fernandez BB, Ciocon DG. Leg edema:
+clinical clues to the differential diagnosis. Geriatrics
+1993;48:34 – 40, 45.
+10. Merli GJ, Spandorfer J. The outpatient with unilat-
+eral leg swelling. Med Clin North Am 1995;79:435–
+47.
+11. Young JR. The swollen leg. Clinical signiﬁcance and
+differential diagnosis. Cardiol Clin 1991;9:443–56.
+12. Yale SH, Mazza JJ. Approach to diagnosing lower
+extremity edema. Compr Ther 2001;27:242–52.
+13. Topham EJ, Mortimer PS. Chronic lower limb oe-
+dema. Clin Med 2002;2:28 –31.
+14. Cho S, Atwood JE. Peripheral edema. Am J Med
+2002;113:580 – 6.
+15. Tiwari A, Cheng KS, Button M, Myint F, Hamilton
+G. Differential diagnosis, investigation, and current
+treatment of lower limb lymphedema. Arch Surg
+2003;138:152– 61.
+16. Messerli FH. Vasodilatory edema: a common side
+effect of antihypertensive therapy. Curr Cardiol Rep
+2002;4:479 – 82.
+17. Frishman WH. Effects of nonsteroidal anti-inﬂam-
+matory drug therapy on blood pressure and periph-
+eral edema. Am J Cardiol 2002;89:18D–25D.
+18. Padberg F Jr, Cerveira JJ, Lal BK, Pappas PJ, Varma
+S, Hobson RW 2nd. Does severe venous insufﬁ-
+ciency have a different etiology in the morbidly
+obese? Is it venous? J Vasc Surg 2003;37:79 – 85.
+19. L’Hermitte F, Behar A, Paries J, Cohen-Boulakia F,
+Attali JR, Valensi P. Impairment of lymphatic func-
+tion in women with gynoid adiposity and swelling
+syndrome. Metabolism 2003;52:805–9.
+20. Ageno W, Piantanida E, Dentali F, et al. Body mass
+index is associated with the development of the post-
+thrombotic syndrome. Thromb Haemost 2003;89:
+305–9.
+21. Szuba A, Rockson SG. Lymphedema: classiﬁcation,
+diagnosis, and therapy. Vasc Med 1998;3:145– 6.
+22. Stemmer R. Ein klinisches zeichen zur gruhund dif-
+ferential diagnose des lymphodems. [A clinical symp-
+tom for the early and differential diagnosis of
+lymphedema]. German. Vasa 1976;5:261–2.
+23. Maisel AS, Krishnaswamy P, Nowak RM, et al.
+Rapid measurement of B-type natriuretic peptide in
+the emergency diagnosis of heart failure. N Engl
+J Med 2002;347:161–7.
+24. Powell AA, Armstrong MA. Peripheral edema. Am
+Fam Physician 1997;55:1721– 6.
+25. Stein PD, Hull RD, Patel KC, et al. D-dimer for the
+exclusion of acute venous thrombosis and pulmonary
+embolism: a systematic review. Ann Intern Med
+2004;140:589 – 602.
+26. Palareti G, Legnani C, Cosmi B, et al. Predictive
+value of D-dimer test for recurrent venous throm-
+boembolism after anticoagulation withdrawal in sub-
+jects with a previous idiopathic event and in carriers
+of congenital thrombophilia. Circulation 2003;108:
+313– 8.
+158 JABFM March–April 2006 Vol. 19 No. 2 http://www.jabfm.org
+ on 29 August 2026 by guest. Protected by copyright.http://www.jabfm.org/ J Am Board Fam Med: first published as 10.3122/jabfm.19.2.148 on 2 March 2006. Downloaded from
+
+27. Palareti G, Legnani C, Cosmi B, Guazzaloca G,
+Pancani C, Coccheri S. Risk of venous thromboem-
+bolism recurrence: high negative predictive value of
+D-dimer performed after oral anticoagulation is
+stopped. Thromb Haemost 2002;87:7–12.
+28. Brotman DJ, Segal JB, Jani JT, Petty BG, Kickler
+TS. Limitations of D-dimer testing in unselected
+inpatients with suspected venous thromboembolism.
+Am J Med 2003;114:276 – 82.
+29. Szendro G, Nicolaides AN, Zukowski AJ, et al. Du-
+plex scanning in the assessment of deep venous in-
+competence. J Vasc Surg 1986;4:237– 42.
+30. Marks AD. Intermittent ﬂuid retention in women. Is
+it idiopathic edema? Postgrad Med 1983;73:75– 83.
+31. Streeten DH. Idiopathic edema. Pathogenesis, clin-
+ical features, and treatment. Endocrinol Metab Clin
+North Am 1995;24:531– 47.
+32. Rockson SG. Lymphedema. Am J Med 2001;110:
+288 –95.
+33. Mortimer PS. Managing lymphedema. Clin Exp
+Dermatol 1995;20:90 –106.
+34. Bull RH, Gane JN, Evans JE, Joseph AE, Mortimer
+PS. Abnormal lymph drainage in patients with
+chronic venous leg ulcers. J Am Acad Dermatol
+1993;28:585–90.
+35. Seippel L, Eriksson O, Grankvist K, von Shoultz B,
+Backstrom T. Physical symptoms in premenstrual
+syndrome are related to plasma progesterone and
+desoxycorticosterone. Gynecol Endocrinol 2000;14:
+173– 81.
+36. Zlatnik FJ. Hypertension in pregnancy. The Iowa
+Perinatal Letter 2004;25:5–9.
+37. Brandjes DP, Buller HR, Heijboer H, et al. Ran-
+domised trial of effect of compression stockings in
+patients with symptomatic proximal-vein thrombo-
+sis. Lancet 1997;349:759 – 62.
+38. Ginsberg JS, Hirsh J, Julian J, et al. Prevention and
+treatment of postphlebitic syndrome: results of a
+3-part study. Arch Intern Med 2001;161:2105–9.
+39. Kolbach DN, Sandbrink MW, Hamulyak K, Neu-
+mann HA, Prins MH. Non-pharmaceutical mea-
+sures for prevention of post-thrombotic syndrome.
+Cochrane Database Syst Rev 2004(1):CD004174.
+40. Prandoni P, Lensing AW, Prins MH, et al. Below-
+knee elastic compression stockings to prevent the
+post-thrombotic syndrome: a randomized, con-
+trolled trial. Ann Intern Med 2004;141:249 –56.
+41. Rehn D, Unkauf M, Klein P, Jost V, Lucker PW.
+Comparative clinical efﬁcacy and tolerability of ox-
+erutins and horse chestnut extract in patients with
+chronic venous insufﬁciency. Arzneimittelforschung
+1996;46:483–7.
+42. Pittler MH, Ernst E. Horse chestnut seed extract for
+chronic venous insufﬁciency. Cochrane Database
+Syst Rev 2002(1):CD003230.
+43. Pittler MH, Ernst E. Horse-chestnut seed extract for
+chronic venous insufﬁciency. A criteria-based sys-
+tematic review. Arch Dermatol 1998;134:1356 – 60.
+44. Diehm C, Trampisch HJ, Lange S, Schmidt C.
+Comparison of leg compression stocking and oral
+horse-chestnut seed extract therapy in patients with
+chronic venous insufﬁciency. Lancet 1996;347:
+292– 4.
+45. Facino RM, Carini M, Stefani R, Aldini G, Saibene
+L. Anti-elastase and anti-hyaluronidase activities of
+saponins and sapogenins from Hedera helix, Aescu-
+lus hippocastanum, and Ruscus aculeatus: factors
+contributing to their efﬁcacy in the treatment of
+venous insufﬁciency. Arch Pharm (Weinheim) 1995;
+328:720 – 4.
+46. Kay A, Davis CL. Idiopathic edema. Am J Kidney
+Dis 1999;34:405–23.
+47. MacGregor GA, Markandu ND, Roulston JE, Jones
+JC, de Wardener HE. Is “idiopathic” edema idio-
+pathic? Lancet 1979;1:397– 400.
+48. Idiopathic edema: role of diuretic abuse. Kidney Int
+1981;19:881–91.
+49. Rose BD. Idiopathic edema. Available from
+UpToDate.com. Accessed on 26 February 2005.
+50. Lip GYH, Hull RD. Treatment of deep vein throm-
+bosis. Available from www.UpToDate.com. Ac-
+cessed on 5 November 2004.
+51. Boyd DA. Unilateral lower extremity edema in May-
+Thurner syndrome. Mil Med 2004;169:968 –71.
+52. Streeten DHP. Orthostatic disorders of the circula-
+tion. New York: Plenum Press; 1987.
+53. Coon WW, Willis PW 3rd, Keller JB. Venous
+thromboembolism and other venous disease in the
+Tecumseh community health study. Circulation
+1973;48:839 – 46.
+54. Rose BD. Approach to the adult with edema. Avail-
+able from UpToDate.com. Accessed 11 October
+2004.
+55. Niemeyer NV, Janney LM. Thiazolidinedione-in-
+duced edema. Pharmacotherapy 2002;22:924 –9.
+56. Bounameaux H, de Moerloose P, Perrier A, Reber
+G. Plasma measurement of D-dimer as diagnostic
+aid in suspected venous thromboembolism: an over-
+view. Thromb Haemost 1994;71:1– 6.
+57. Lensing AW, Prandoni P, Brandjes D, et al. Detec-
+tion of deep-vein thrombosis by real-time B-mode
+ultrasonography. N Engl J Med 1989;320:342–5.
+58. Mattos MA, Londrey GL, Leutz DW, et al. Color-
+ﬂow duplex scanning for the surveillance and diag-
+nosis of acute deep venous thrombosis. J Vasc Surg
+1992;15:366 –75; Discussion 375– 6.
+59. Monreal M, Montserrat E, Salvador R, et al. Real-
+time ultrasound for diagnosis of symptomatic venous
+thrombosis and for screening of patients at risk:
+correlation with ascending conventional venogra-
+phy. Angiology 1989;40:527–33.
+60. Partsch H. Compression therapy of the legs. A re-
+view. J Dermatol Surg Oncol 1991;17:799 – 805.
+61. Ebell MH, Siwek J, Weiss BD. Strength of recom-
+http://www.jabfm.org Approach to Leg Edema of Unclear Etiology 159
+ on 29 August 2026 by guest. Protected by copyright.http://www.jabfm.org/ J Am Board Fam Med: first published as 10.3122/jabfm.19.2.148 on 2 March 2006. Downloaded from
+
+mendation taxonomy (SORT): a patient-centered
+approach to grading evidence in the medical litera-
+ture. J Fam Pract 2004;53:111–20.
+62. Brater DC. Diuretic therapy. N Engl J Med 1998;
+339:387–95.
+63. Such J, Runyon BA. Initial therapy of ascites in
+patients with cirrhosis. Available from UpToDate.
+com. Accessed on 27 September 2004.
+64. Fogel MR, Sawhney VK, Neal EA, Miller RG,
+Knauer CM, Gregory PB. Diuresis in the ascitic
+patient: a randomized controlled trial of three
+regimens. J Clin Gastroenterol 1981;3(Suppl 1):
+73– 80.
+65. Shichiri M, Shiigai T, Takeuchi J. Long-term furo-
+semide treatment in idiopathic edema. Arch Intern
+Med 1984;144:2161– 4.
+160 JABFM March–April 2006 Vol. 19 No. 2 http://www.jabfm.org
+ on 29 August 2026 by guest. Protected by copyright.http://www.jabfm.org/ J Am Board Fam Med: first published as 10.3122/jabfm.19.2.148 on 2 March 2006. Downloaded from

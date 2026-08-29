@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Agencia EspaÃ±ola de Medicamentos y Productos Sanitarios">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+    <meta name=ârobotsâ content="index,follow">
+
+    <title>.:: CIMA ::. Centro de informaciÃ³n de medicamentos</title>
+
+    <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+	<link href="/cima/resources/bootstrap3.3.7/css/bootstrap.min.css" rel="stylesheet" />
+
+	<link id="favicon" rel="shortcut icon"  href="/cima/resources/images/favicon.ico" />
+	<link rel="apple-touch-icon-precomposed" href="/cima/resources/images/shortcutApp.png" />
+    <!-- Custom CSS -->
+    <link href="/cima/resources/css/cima.css" rel="stylesheet" />
+    <!-- Cookies Msg -->
+    <link rel="stylesheet" type="text/css" href="/cima/resources/css/cookies.min.css" />
+    
+    <!-- Custom Fonts -->
+	<link href="/cima/resources/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+    
+    <script type="text/javascript" src="/cima/resources/js/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript" src="/cima/resources/bootstrap3.3.7/js/bootstrap.min.js"></script>		
+	
+	<script type="text/javascript" src="/cima/resources/js/loadingoverlay.min.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/jquery.animateNumber.min.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/jquery-dateFormat.min.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/mensajes.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/setuptoken.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/header.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/errordialog.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/home.js"></script>
+	<script type="text/javascript" src="/cima/resources/js/footer.js"></script>
+
+	
+</head>
+
+<body>
+<script>$.LoadingOverlay("show");</script>
+<div id="header2" class="banner col-md-10 col-md-offset-1 topnav" style="position:fixed;z-index:1000;"></div>
+
+<div class="bannerportada">
+ 
+	<div id="header"  class="col-md-12  textmenutop" style="z-index: 2;">
+				 	
+	 	<nav class="navbar navbar-default " style="background-color:transparent;border-color:transparent">	 	
+	 			<div class="idioma_desk right" style="border:0px solid red">
+			 	<ul class="nav navbar-nav navbar-right textmenulangG" >
+			 		<li><a class="m_esp"  onclick="cambiarIdioma('es');" style="font-size:9px"></a></li>
+	                <li><a class="m_ingles"  onclick="cambiarIdioma('en');" style="font-size:9px"></a></li>
+			 	</ul>
+			 	</div>
+			 	
+			 <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header"  >
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" style="border-color:#38659c;background-color:rgba(255, 255, 255, 0.4);">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar" style="background-color:#38659c"></span>
+                    <span class="icon-bar" style="background-color:#38659c"></span>
+                    <span class="icon-bar" style="background-color:#38659c"></span>
+                </button>     
+            <div class="col-md-10 col-sm-10 col-xs-8 navbarimage">
+            <a class="cabimg1" href="https://www.sanidad.gob.es/" rel="noreferrer" target="_blank"><img alt="msc" class="img-responsive2" src="https://www.aemps.gob.es/diseno/img/logo_Ministerio.jpg"   style="cursor:pointer;display:inline"></a>
+            <a class="cabimg2" href="https://www.aemps.gob.es/" rel="noreferrer" target="_blank" ><img alt="aemps" class="img-responsive2" src="https://www.aemps.gob.es/diseno/img/logo_aemps.jpg" style="cursor:pointer;display:inline;"></a>
+				<img class="img-responsive3" alt="cima" src="/cima/resources/images/CimaTranspaPeq.gif" onclick="location.href='/cima/publico/home.html'" style="cursor:pointer;display:inline">				
+			</div>           
+            </div>
+				
+			 <div class="collapse navbar-collapse menutopnew" id="bs-example-navbar-collapse-1" style="height:1px;border-color:transparent;border-radius: 5px;">
+			 	<ul class="nav navbar-nav navbar-right headerLinks movMenu">	
+			 		<li class="idioma_device">				 	
+				 		<a class="m_esp dev_lang_es"  onclick="cambiarIdioma('es');"></a>
+		                <a class="m_ingles dev_lang_en" onclick="cambiarIdioma('en');"></a>				 	
+				 	</li>		 	
+                	<li><a class="active m_queescima movOut" href="/cima/publico/home.html#quees"></a></li>
+                	<li><a class="active2 m_queescima movIn" href="/cima/publico/queescima.html"></a></li>
+                	<li class="movIn">                		
+					  <a class="active dropdown-toggle menuNewLinks" id="dropdownMenuButton" data-toggle="dropdown" style="cursor:pointer;"><span class="msg-moreinfo"></span></a>
+					  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+					  <ul>
+					    <li><a class="dropdown-item" onclick="window.open('https://www.aemps.gob.es/apps/cima/docs/medicamentosygluten.pdf')" href="#"><span class="ballgluten"></span></a></li>
+					    <li><a class="dropdown-item" onclick="location.href='tutorialprospecto.html'" href="#"><span class="ballprospecto"></span></a></li>
+					    <li><a class="dropdown-item" onclick="window.open('https://www.aemps.gob.es/industria-farmaceutica/etiquetado-y-prospectos/informacion-y-simbologia-en-el-etiquetado-de-los-medicamentos/')" href="#"><span class="ballinfografia"></span></a></li>
+					    <li><a class="dropdown-item" href="/cima/publico/glosario.html">Glosario</a></li>
+					  </ul>
+					  </div>
+                	</li>
+                	<li class="movOut"><a class="active m_nomenclator" href="/cima/publico/nomenclator.html"></a></li>
+                	<li class="movOut"><a class="active m_glosario" href="/cima/publico/glosario.html"></a></li>
+                	<li class="movIn"><a class="active menuNewLinks" href="https://servicedesk.aemps.es/servicedesk/customer/portal/2"><span class="msg-contacto"></span></a></li>
+                	<li class="meqa_menu_cont"></li>
+					<!-- Remove user access
+                	<li><button id="m_accesousuarios" type="button" class="btn btn-danger btn-sm" style="margin-top:10px;margin-left:10px" onclick="location.href='loginregistro.html'"></button></li>
+                	<li><button id="m_perfilusuario" type="button" class="btn btn-danger btn-sm" style="margin-top:10px;margin-left:10px" onclick="location.href='../privado/usuario.html'"><i class="fa fa-user" style="font-size:17px;margin-right:10px"></i></button></li>
+					-->
+                </ul>            
+			</div>
+		</nav>
+	</div>	
+	
+	<div class="boxpheader">
+		<h1 id="m_tituloprincipal" ></h1>
+	</div>
+	<div class="container">
+		<div class="input-group col-md-6 col-md-offset-3 movSearch">			
+             <input style="height: 50px;" id="inputbuscadorsimple"  aria-label="buscador" type="text" class="search-query form-control" placeholder="" />
+             <span class="input-group-btn">
+                 <button id="btnBuscarSimple" aria-label="buscar" class="btn btn-danger" type="button" style="height: 50px;">
+                     <i class="fa fa-search"></i>
+                 </button>                
+             </span>
+        </div>       
+         
+		<div class="col-md-6 col-md-offset-3" style="color:red;"><h4 class="msgError" id ="notext"></h4></div>
+         
+		<div class="labelAvanzado">
+			<div style="display:inline-block;width:100%;text-align:center;padding-top:10px;">
+				<div style="display: inline-block;vertical-align: top;"><h3 style="text-align:center;margin: 0;"><a class="shadow_rec" id="m_buscadoravanzado" onclick="startAvanzado()" ></a></h3></div>
+			    <div class="qr-linkhome QRstd shadow_rec movOut" onclick="location.href='reader.html'"><i class="fa fa-qrcode"></i><span style="vertical-align:super" class="ballreader"></span></div>
+			</div>
+		</div>
+        
+	</div>	
+	<div class="pelotos">		
+		<div class="guide_ball shadow_border_min movOut"  onclick="window.open('https://www.aemps.gob.es/apps/cima/docs/medicamentosygluten.pdf')"><img alt="gluten" src="/cima/resources/images/gluten.png" width="35%"><br/><span class="ballgluten"></span></div>
+		<div class="guide_ball shadow_border_min movOut"  onclick="location.href='tutorialprospecto.html'"><img alt="ear" style="border-radius: 20px;" src="/cima/resources/images/sordo_icon2.png" width="35%"><br/><span class="ballprospecto"></span></div>
+		<div class="guide_ball shadow_border_min movOut"  onclick="window.open('https://www.aemps.gob.es/industria-farmaceutica/etiquetado-y-prospectos/informacion-y-simbologia-en-el-etiquetado-de-los-medicamentos/')"><img alt="gluten" style="border-radius: 20px;" src="/cima/resources/images/infografiaLogo.png" width="35%"><br/><span class="ballinfografia"></span></div>
+		<div style="display: none;" class="guide_ball shadow_border_min movOut meqa_element meqa_ball"  onclick="location.href='meqa.html'"><img alt="meqa" style="border-radius: 10px;" src="/cima/resources/images/meqa_ball_v1.png" width="35%"><br/><span>MeQA</span></div>
+		<div class="QRmov">
+			<div class="qr-linkhome shadow_rec movIn" onclick="location.href='reader.html'"><i class="fa fa-qrcode"></i><span style="vertical-align:super" class="ballreader"></span></div>
+		</div>
+	</div>	
+</div>
+
+<div class="boxpheader2 ">
+   	<div class="boxphoto">
+            <h1 id="countMed" class="count"></h1><h4 id="m_medicamentos"></h4>
+            <h4  style="display:inline;margin-left:12px;font-size:8px;"></h4>
+      </div>
+      
+      <div class="boxphoto">
+            <h1 id="countPactivo" class="count"></h1><h4 id="m_principiosactivos"></h4>
+            <h4  style="display:inline;margin-left:12px;font-size:8px;"></h4> 
+      </div>
+      
+      <div class="boxphoto" >
+            <h1 id="countFormatos" class="count" ></h1> 
+            <h4 id="m_formatos" ></h4>
+            <h4  style="display:inline;margin-left:12px;font-size:8px;"></h4>
+      </div>
+      
+      <div class="boxphoto movOut">
+            <h1 id="countBiosimilares" class="count"></h1><h4 id="m_biosimilares"></h4>
+            <button type="button" class="btn btn-primary btn-xs buttonverlistado" style="font-size:10px;font-weight:bold;" onclick="biosimilaresTodos()"></button>
+      </div>
+      
+      <div class="boxphoto movOut">
+            <h1 id="countHuerfanos" class="count"></h1><h4 id="m_huerfanos"></h4>
+            <button type="button" class="btn btn-primary btn-xs buttonverlistado" style="font-size:10px;font-weight:bold;" onclick="huerfanosTodos()"></button>
+      </div>
+     <div class="hidden-sm hidden-xs" style="margin-top:-25px;padding-bottom:10px;">
+     	<p style="text-align:left;margin-left:-550px;font-size:12px; color:#11436D;display: inline;" class="m_contadoresnotas"></p>
+     	<p style="text-align:left;margin-left:50px;font-size:12px; color:#11436D;display: inline;" class="m_contadorespresetnaciones"></p>
+     	
+     </div>
+     <div class="movIn" style="font-size:11px;text-align:center;color: #38659c;display: inline-block;padding-bottom:10px;"><span class="m_contadoresnotas"></span><br/> <span class="m_contadorespresetnaciones"></span></div>
+</div>
+
+<div class="box">
+<div>
+	<div class="col-md-12 col-xs-12" style="padding-bottom: 40px;background-color:#ffffff">
+		<div class="box3 col-md-3 col-xs-12 movOut" style="border:0px solid #FF0000;padding-top:1px;margin-top:10px;">
+			 <div class="notice notice-success" style="padding-bottom:5px;">
+			        <a style="cursor: pointer;" id="btnVerMasNuevosTit"><strong class="homeheadlist" id="m_nuevosmedicamentos" style="color:#2F7709;"></strong></a>
+			      	<p style="padding:0;margin-top:20px;margin-bottom:0;text-align:right;font-size:10pt;"><a id="btnVerMasNuevos" style="cursor: pointer;color:#11436D; text-align:right;"></a></p>
+		    </div>
+			<div id="nuevosList" class="comments-list hidden-xs" ></div>			
+		</div>		
+		
+		<div class="box3 col-md-3 col-xs-12 movOut" style="border:0px solid #FF0000;padding-top:1px;margin-top:10px;">
+		<div class="notice notice-info" style="padding-bottom:5px;">
+		        <a style="cursor: pointer;" id="btnVerMasUltimasTit"><strong id="m_ultimasactualizaciones" style="color:#1C7897;" ></strong></a><i id="m_ultimasactualizaciones_info" class="fa fa-question-circle-o" aria-hidden="true" style="font-size:12pt;color: #5385c1;margin-left:5px;"></i>
+		        <p style="padding:0;margin-top:20px;margin-bottom:0;text-align:right;font-size:10pt;"><a id="btnVerMasUltimas" style="cursor: pointer;color:#11436D;"></a></p>
+		    </div>
+			<div id="ultimasList" class="comments-list hidden-xs" ></div>
+	        <div id="m_ultimoscambiosvacio" class='col-md-12' style='margin:0;padding:0;padding-top:10px;text-align:justify;border:0px solid red;color:#A0A0A0;font-size:11px;'></div>
+			
+		</div>
+		
+		
+		<div class="box3 col-md-3 col-xs-12" style="border:0px solid #FF0000;padding-top:1px;margin-top:10px;">
+		<div class="notice notice-danger" style="padding-bottom:5px;">
+		        <a id="btnVerMasDesabastecimientoTit" style="cursor: pointer;"><strong id="m_desabastecmiento" style="color:#D33B36"></strong></a>
+		        <p style="padding:0;margin-top:20px;margin-bottom:0;text-align:right;font-size:10pt;"><a id="btnVerMasDesabastecimiento" style="cursor: pointer;color:#11436D;"></a></p>
+		    </div>
+			<div id="desabasResult" class="comments-list hidden-xs" ></div>
+			
+		</div>
+		
+		<div class="box3 col-md-3 col-xs-12" style="border:0px solid #FF0000;padding-top:1px;margin-top:10px;">
+		<div class="notice notice-md" style="padding-bottom:5px;">
+		        <a id="btnVerMasNotasseguridadTit" href="https://www.aemps.gob.es/informa/notasInformativas/medicamentosUsoHumano/seguridad/home.htm" rel="noreferrer" target="_blank" style="cursor: pointer;"><strong id="m_notasseguridad" style="color:#333"></strong></a>
+		        <p style="padding:0;margin-top:20px;margin-bottom:0;text-align:right;font-size:10pt;"><a id="btnVerMasNotasseguridad" href="https://www.aemps.gob.es/informa/notasInformativas/medicamentosUsoHumano/seguridad/home.htm" rel="noreferrer" target="_blank" style="cursor: pointer;color:#11436D;" ></a></p>
+		    </div>
+			<div id="notasResult" class="comments-list hidden-xs" ></div>
+			
+		</div>
+	</div>
+		
+</div>
+</div>
+<!-- Remove user access
+<div class="boxpuser movOut">
+
+	<div class="container " >
+		<div class="col-md-12 col-xs-12" style="padding-top:100px;padding-bottom: 40px;">
+			<div class="col-md-6  col-xs-12" >
+				<h1 id="m_registro"></h1>	
+				<br/>
+			    <button id="btnRegistroAhora" type="button" class="btn btn-danger" style="margin-top:20px;margin-bottom:40px;" onclick="location.href='loginregistro.html'"></button>
+			</div>
+			<div class="col-md-6 col-xs-12" >
+				<div class="row">
+					<div class="col-md-2 col-xs-2 ">
+						<i class="fa fa-check fa-2x" style="color:white"></i>
+					</div>
+					<div class="col-md-10 col-xs-10">
+						<h4 id="m_guardafavoritos" style="text-align: left;color:white"></h4>
+						<p id="m_subguardafavoritos" style="text-align: left;color:#d6d6d6"></p>
+					</div>
+				</div>
+				<div class="row" style="margin-top:10px;">
+					<div class="col-md-2 col-xs-2">
+						<i class="fa fa-check fa-2x" style="color:white"></i>
+					</div>
+					<div class="col-md-10 col-xs-10">
+						<h4 id="m_exportabusquedas" style="text-align: left;color:white"></h4>
+						<p id="m_subexportabusquedas" style="text-align: left;color:#d6d6d6"></p>
+					</div>
+				</div>	
+				<div class="row" style="margin-top:10px;">
+					<div class="col-md-2 col-xs-2">
+						<i class="fa fa-check fa-2x" style="color:white"></i>
+					</div>
+					<div class="col-md-10 col-xs-10">
+						<h4 id="m_compartirotros" style="text-align: left;color:white"></h4>
+						<p id="m_subcompartirotros" style="text-align: left;color:#d6d6d6"></p>
+					</div>
+-->
+										
+<span id="quees"></span><!-- Se coloca el ancla aquÃ­ para que se vea bien en pantalla  -->
+<!-- Remove user access
+				</div>
+			</div>
+		</div>
+
+	</div>
+</div>
+-->
+
+<div id="queescima" class="movOut">
+		<div class="box2p" >
+		<div class="title" >
+			<h1 id="m_tituloqueescima" ></h1>
+			<p id="m_centroinformacion"></p>
+		</div>
+		<div class="container " style="padding:0;padding-bottom: 60px;">
+			<div class="col-md-12 col-xs-12" style="padding:5px;">
+				<div class="col-md-6 col-xs-12" style="padding:15px;">
+					<div class="col-md-12 col-xs-12">
+						<h6 id="m_queescimasub1"></h6>
+					</div>
+					<div class="col-md-12 col-xs-12">
+						<h6 id="m_queescimasub2"></h6>
+					</div>
+					<div class="col-md-12 col-xs-12">
+						<h6 id="m_queescimasub3"></h6>
+					</div>
+					<div class="col-md-12 col-xs-12">
+						<h6 id="m_queescimasub4"></h6>
+					</div>
+					<div class="col-md-12 col-xs-12">	
+						<h6 id="m_queescimasub5"></h6>
+					</div>
+					<div class="col-md-12 col-xs-12">	
+						<h6 id="m_queescimasub6"></h6>
+					</div>
+				</div>
+				<div class="col-md-6 col-xs-12" style="padding:0;">
+					<img alt="dispositivos" src="/cima/resources/images/devices.png" width="95%" >
+				</div>
+			</div>
+		</div>
+</div>
+</div>
+
+<div class="box2p movOut" >
+	<div class="container" style="padding:0;padding-bottom: 60px;text-align: center;">
+	<div>
+	   	<div class="boxphoto2">
+	   		<a style='cursor:pointer' href='https://www.aemps.gob.es/apps/cima/docs/medicamentosygluten.pdf' target='_blank' rel='noopener'>
+	            <img alt="gluten" src="/cima/resources/images/gluten.png" width="30%">
+	            <h4 id="m_medsingluten" style="text-align:center;margin-left:12px;font-size:15px;"></h4>
+	            </a>
+	      </div>	      	      
+	      <div class="boxphoto2" >
+	      	<a style='cursor:pointer' href='tutorialprospecto.html'>
+	            <img alt="ear" src="/cima/resources/images/sordo_icon2.png" width="30%">
+				<h4 id="m_infoprospecto" style="text-align:center;margin-left:12px;font-size:15px;"></h4>
+			</a>
+	      </div>
+	      
+	      <div class="boxphoto2 ">
+	      	<a style='cursor:pointer' href='https://www.aemps.gob.es/industria-farmaceutica/etiquetado-y-prospectos/informacion-y-simbologia-en-el-etiquetado-de-los-medicamentos/' rel="noreferrer" target='_blank'>
+	            <img alt="infografia" src="/cima/resources/images/infografiaLogo.png" width="30%" >
+				<h4 id="m_infografia" style="text-align:center;margin-left:12px;font-size:15px;"></h4>
+			</a>
+	      </div>
+	      
+	      <div class="boxphoto2 ">
+	      	<a style='cursor:pointer' data-toggle='modal' target="_blank" href="https://servicedesk.aemps.es/servicedesk/customer/portal/2" >
+	            <img alt="mail" src="/cima/resources/images/mail2.png" width="30%" >
+				<h4 id="m_contacto"  style="text-align:center;margin-left:12px;font-size:15px;"></h4>
+			</a>
+	      </div>
+	 </div>
+	</div>
+</div>
+
+<div id="dialogerror"></div>
+
+<!-- <a id="back-to-top" href="#" class="btn btn-primary btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"><i class="fa fa-chevron-up" aria-hidden="true"></i></a> -->
+
+<footer id=footer>
+
+</footer>
+<!-- Google/Cookies -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDG3588" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script src="/cima/resources/js/cookies.min.js" data-cfasync="false"></script>
+<script>cookiesCheck();</script>
+<!-- end Google/Cookies -->
+</body>
+</html>

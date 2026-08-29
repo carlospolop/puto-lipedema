@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="4bc374e2-8650-41bc-8ce6-92062661bf8a"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>
+      <content styleCode="bold">Triamterene and Hydrochlorothiazide Capsules, USP</content>
+      <br/>
+      <content styleCode="bold">Rx only</content>
+   </title>
+   <effectiveTime value="20260701"/>
+   <setId root="4bc374e2-8650-41bc-8ce6-92062661bf8a"/>
+   <versionNumber value="1"/>
+   <author>
+      <time/>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="079196022" root="1.3.6.1.4.1.519.1"/>
+            <name>Proficient Rx LP</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="079196022" root="1.3.6.1.4.1.519.1"/>
+                        <name>Proficient Rx LP</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C73606" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="REPACK"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="82804-308" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                     <performance>
+                        <actDefinition>
+                           <code code="C73607" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="RELABEL"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="82804-308" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="5d5a7b4b-533d-40ca-9efd-4c9cf557afaa"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL product data elements section"/>
+               <effectiveTime value="20260701"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code codeSystem="2.16.840.1.113883.6.69" code="82804-308"/>
+                        <name>Triamterene and Hydrochlorothiazide</name>
+                        <formCode code="C25158" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CAPSULE"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>Triamterene and Hydrochlorothiazide</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <asEquivalentEntity classCode="EQUIV">
+                           <code code="C64637" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <definingMaterialKind>
+                              <code code="72578-090" codeSystem="2.16.840.1.113883.6.69"/>
+                           </definingMaterialKind>
+                        </asEquivalentEntity>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="37.5"/>
+                              <denominator unit="1" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="WS821Z52LQ" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TRIAMTERENE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="WS821Z52LQ" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>TRIAMTERENE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator unit="mg" value="25"/>
+                              <denominator unit="1" value="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="0J48LPH2TH" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>HYDROCHLOROTHIAZIDE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="0J48LPH2TH" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>HYDROCHLOROTHIAZIDE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="OP1R32D61U" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MICROCRYSTALLINE CELLULOSE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="2968PHW8QP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>CITRIC ACID MONOHYDRATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="M28OL1HH48" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>CROSCARMELLOSE SODIUM</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="EX438O2MRT" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FERRIC OXIDE YELLOW</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="XM0M87F357" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FERROSOFERRIC OXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="2G86QN327L" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>GELATIN, UNSPECIFIED</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="TE7660XO1C" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>GLYCINE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="0VUT3PMY82" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>HYPROMELLOSE 2910 (3 MPA.S)</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="70097M6I30" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MAGNESIUM STEARATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="WZH3C48M4T" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>POTASSIUM HYDROXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="46N107B71O" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SHELLAC</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="ETJ7Z6XBU4" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SILICON DIOXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="368GB5141J" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SODIUM LAURYL SULFATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="15FIX9V2JP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TITANIUM DIOXIDE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator unit="1" value="30"/>
+                              <denominator value="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <code code="82804-308-30" codeSystem="2.16.840.1.113883.6.69"/>
+                              <formCode code="C43169" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BOTTLE"/>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <marketingAct>
+                                 <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                 <statusCode code="active"/>
+                                 <effectiveTime>
+                                    <low value="20260731"/>
+                                 </effectiveTime>
+                              </marketingAct>
+                           </subjectOf>
+                           <subjectOf>
+                              <characteristic>
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CV"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="ANDA208358" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73584" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20200221"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48330" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="YELLOW" xsi:type="CE">
+                              <originalText>yellow opaque colored cap</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48325" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="WHITE" xsi:type="CE">
+                              <originalText>white opaque colored body</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value unit="mm" value="14" xsi:type="PQ"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value code="C48336" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CAPSULE" xsi:type="CE"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value value="1" xsi:type="INT"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLIMPRINT" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="ST">855</value>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38288" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ORAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="ID1">
+               <id root="395782ae-b0b3-4ac0-8e86-6e3911174614"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34089-3" displayName="DESCRIPTION SECTION"/>
+               <title>DESCRIPTION</title>
+               <text>
+                  <paragraph>Each capsule of triamterene and hydrochlorothiazide for oral use, with opaque yellow cap and opaque white body, contains triamterene 37.5 mg and hydrochlorothiazide 25 mg, and is imprinted with 855. Hydrochlorothiazide is a diuretic/antihypertensive agent and triamterene is an antikaliuretic agent.</paragraph>
+                  <paragraph>Hydrochlorothiazide, USP is very slightly soluble in water. It is freely soluble in sodium hydroxide solution, n-butylamine and dimethyl formamide. It is sparingly soluble in methanol. It is insoluble in ether, chloroform and dilute mineral acids.</paragraph>
+                  <paragraph>Hydrochlorothiazide, USP is 6-chloro-3,4-dihydro-2<content styleCode="underline">H</content>-1, 2, 4-benzothiadiazine-7-sulfonamide 1,1-dioxide, and its structural formula is:</paragraph>
+                  <renderMultiMedia referencedObject="DD5222F4-20A3-4E36-B253-C6EC0B3C06F2" ID="id353"/>
+                  <paragraph>Triamterene, USP is soluble in formic acid. It is sparingly soluble in methoxyethanol. It is very slightly soluble in acetic acid, alcohol and dilute mineral acids. It is practically insoluble in water, benzene, ether, chloroform and dilute alkali hydroxides.</paragraph>
+                  <paragraph>Triamterene, USP is 2, 4, 7-triamino-6-phenylpteridine and its structural formula is:</paragraph>
+                  <renderMultiMedia referencedObject="ID_1df0bfae-b81b-4f53-8417-23964d0e8346" ID="id356"/>
+                  <paragraph>Each triamterene and hydrochlorothiazide capsule, USP intended for oral administration contains 37.5 mg triamterene USP with 25 mg hydrochlorothiazide USP. In addition, each capsule contains the following inactive ingredients: citric acid monohydrate, colloidal silicon dioxide, croscarmellose sodium, gelatin, glycine, hypromellose, iron oxide yellow, magnesium stearate, microcrystalline cellulose, sodium lauryl sulfate and titanium dioxide. Each capsule is printed with black pharmaceutical ink which contains ferric oxide black, potassium hydroxide and shellac.</paragraph>
+                  <paragraph>Capsules of triamterene and hydrochlorothiazide meet Drug Release Test 3 as published in the current USP monograph for Triamterene and Hydrochlorothiazide Capsules.</paragraph>
+               </text>
+               <effectiveTime value="20260701"/>
+               <component>
+                  <observationMedia ID="DD5222F4-20A3-4E36-B253-C6EC0B3C06F2">
+                     <text>image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="ba702c00-5dc6-4545-bde9-ff7dbb7fd1a7-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="ID_1df0bfae-b81b-4f53-8417-23964d0e8346">
+                     <text>image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="ba702c00-5dc6-4545-bde9-ff7dbb7fd1a7-02.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID7">
+               <id root="17b6dafc-afaa-48c9-a99a-140ece9831aa"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34090-1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>CLINICAL PHARMACOLOGY</title>
+               <text>
+                  <paragraph>Triamterene and hydrochlorothiazide capsule is a diuretic/antihypertensive drug product that combines natriuretic and antikaliuretic effects. Each component complements the action of the other. The hydrochlorothiazide component blocks the reabsorption of sodium and chloride ions, and thereby increases the quantity of sodium traversing the distal tubule and the volume of water excreted. A portion of the additional sodium presented to the distal tubule is exchanged there for potassium and hydrogen ions. With continued use of hydrochlorothiazide and depletion of sodium, compensatory mechanisms tend to increase this exchange and may produce excessive loss of potassium, hydrogen, and chloride ions. Hydrochlorothiazide also decreases the excretion of calcium and uric acid, may increase the excretion of iodide, and may reduce glomerular filtration rate. The exact mechanism of the antihypertensive effect of hydrochlorothiazide is not known.</paragraph>
+                  <paragraph>The triamterene component of triamterene and hydrochlorothiazide capsules exerts its diuretic effect on the distal renal tubule to inhibit the reabsorption of sodium in exchange for potassium and hydrogen ions. Its natriuretic activity is limited by the amount of sodium reaching its site of action. Although it blocks the increase in this exchange that is stimulated by mineralocorticoids (chiefly aldosterone), it is not a competitive antagonist of aldosterone and its activity can be demonstrated in adrenalectomized rats and patients with Addison's disease. As a result, the dose of triamterene required is not proportionally related to the level of mineralocorticoid activity but is dictated by the response of the individual patients and the kaliuretic effect of concomitantly administered drugs. By inhibiting the distal tubular exchange mechanism, triamterene maintains or increases the sodium excretion and reduces the excess loss of potassium, hydrogen, and chloride ions induced by hydrochlorothiazide. As with hydrochlorothiazide, triamterene may reduce glomerular filtration and renal plasma flow. Via this mechanism, it may reduce uric acid excretion although it has no tubular effect on uric acid reabsorption or secretion. Triamterene does not affect calcium excretion. No predictable antihypertensive effect has been demonstrated for triamterene.</paragraph>
+                  <paragraph>Duration of diuretic activity and effective dosage range of the hydrochlorothiazide and triamterene components of triamterene and hydrochlorothiazide capsules are similar. Onset of diuresis with triamterene and hydrochlorothiazide takes place within 1 hour, peaks at 2 to 3 hours, and tapers off during the subsequent 7 to 9 hours.</paragraph>
+                  <paragraph>Triamterene and hydrochlorothiazide capsules are well absorbed.</paragraph>
+                  <paragraph>Upon administration of a single oral dose to fasted normal male volunteers, mean pharmacokinetic parameters were determined (Table 1).</paragraph>
+                  <table ID="_RefID9" width="100%">
+                     <caption>  Table 1. Mean Pharmacokinetic Parameters after Single Oral Dose in Fasted Male Volunteers<sup>a</sup>
+                     </caption>
+                     <col width="27%"/>
+                     <col width="20%"/>
+                     <col width="17%"/>
+                     <col width="18%"/>
+                     <col width="16%"/>
+                     <tbody>
+                        <tr styleCode="Toprule">
+                           <td valign="top" styleCode="Toprule "/>
+                           <td align="center" valign="top" styleCode="Toprule ">
+                              <paragraph>
+                                 <content styleCode="bold"> AUC<sub>(0-48)</sub>
+                                 </content>
+                                 <br/>
+                                 <content styleCode="bold"> ng*h/mL</content>
+                                 <br/>
+                                 <content styleCode="bold"> (± SD)</content>
+                                 <br/>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Toprule ">
+                              <paragraph>
+                                 <content styleCode="bold"> C<sub>max</sub>
+                                 </content>
+                                 <br/>
+                                 <content styleCode="bold"> ng/mL</content>
+                                 <br/>
+                                 <content styleCode="bold"> (± SD)</content>
+                                 <br/>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Toprule ">
+                              <paragraph>
+                                 <content styleCode="bold"> Median</content>
+                                 <br/>
+                                 <content styleCode="bold"> T<sub>max</sub>
+                                 </content>
+                                 <br/>
+                                 <content styleCode="bold"> h</content>
+                                 <br/>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Toprule ">
+                              <paragraph>
+                                 <content styleCode="bold"> Ae</content>
+                                 <br/>
+                                 <content styleCode="bold"> Mg</content>
+                                 <br/>
+                                 <content styleCode="bold"> (± SD)</content>
+                                 <br/>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td valign="top">
+                              <paragraph> Triamterene<br/>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top">
+                              <paragraph> 148.7 (87.9)<br/>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top">
+                              <paragraph> 46.4 (29.4)<br/>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top">
+                              <paragraph> 1.1<br/>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top">
+                              <paragraph> 2.7 (1.4)<br/>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td valign="top">
+                              <paragraph> Hydroxytriamterene<br/> sulfate<br/>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top">
+                              <paragraph> 1,865 (471)<br/>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top">
+                              <paragraph> 720 (364)<br/>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top">
+                              <paragraph> 1.3<br/>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top">
+                              <paragraph> 19.7 (6.1)<br/>
+                              </paragraph>
+                           </td>
+                        </tr>
+                        <tr styleCode="Botrule">
+                           <td valign="top" styleCode="Botrule ">
+                              <paragraph> Hydrochlorothiazide<br/>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule ">
+                              <paragraph> 834 (177)<br/>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule ">
+                              <paragraph> 135.1 (35.7)<br/>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule ">
+                              <paragraph> 2<br/>
+                              </paragraph>
+                           </td>
+                           <td align="center" valign="top" styleCode="Botrule ">
+                              <paragraph> 14.3 (3.8)<br/>
+                              </paragraph>
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <paragraph>
+                     <sup>a</sup>AUC<sub>(0-48)</sub>, C<sub>max</sub>, T<sub>max,</sub> and Ae represent area under the plasma concentration versus time  plot, maximum plasma concentration, time to reach C<sub>max</sub>, and amount excreted in urine over 48 hours.</paragraph>
+                  <paragraph>A capsule of triamterene and hydrochlorothiazide is bioequivalent to a single entity 25-mg hydrochlorothiazide tablet and 37.5-mg triamterene capsule used in the double-blind clinical trial below (<linkHtml href="#ID11">see Clinical Trials</linkHtml>).</paragraph>
+                  <paragraph>In a limited study involving 12 subjects, coadministration of triamterene and hydrochlorothiazide capsules with a high-fat meal resulted in: (1) an increase in the mean bioavailability of triamterene by about 67% (90% confidence interval = 0.99, 1.90), p-hydroxytriamterene sulfate by about 50% (90% confidence interval = 1.06, 1.77), hydrochlorothiazide by about 17% (90% confidence interval = 0.90, 1.34);  (2) increases in the peak concentrations of triamterene and p-hydroxytriamterene; and (3) a delay of up to 2 hours in the absorption of the active constituents.</paragraph>
+               </text>
+               <effectiveTime value="20260701"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID11">
+               <id root="ebb95636-f00a-4d3a-91ca-28fcff605acb"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34092-7" displayName="CLINICAL STUDIES SECTION"/>
+               <title>CLINICAL TRIALS</title>
+               <text>
+                  <paragraph>A placebo-controlled, double-blind trial was conducted to evaluate the efficacy of triamterene and hydrochlorothiazide capsules. This trial demonstrated that triamterene and hydrochlorothiazide capsules (37.5 mg triamterene/25 mg hydrochlorothiazide) were effective in controlling blood pressure while reducing the incidence of hydrochlorothiazide-induced hypokalemia. This trial involved 636 patients with mild to  moderate hypertension controlled by hydrochlorothiazide 25 mg daily and who had hypokalemia  (serum potassium &lt;3.5 mEq/L) secondary to the hydrochlorothiazide. Patients were randomly assigned to 4 weeks' treatment with once-daily regimens of 25 mg hydrochlorothiazide plus placebo, or 25 mg hydrochlorothiazide combined with one of the following doses of triamterene:  25 mg, 37.5 mg, 50 mg, or 75 mg.</paragraph>
+                  <paragraph>Blood pressure and serum potassium were monitored at baseline and throughout the trial. All 5 treatment groups had similar mean blood pressure and serum potassium concentrations at baseline (mean systolic blood pressure range: 137 ± 14 mmHg to 140 ± 16 mmHg; mean diastolic blood pressure range: 86 ± 9 mmHg to 88 ± 8 mmHg; mean serum potassium range: 2.3 to 3.4 mEq/L with the majority of patients having values between 3.1 and 3.4 mEq/L).</paragraph>
+                  <paragraph>While all triamterene regimens reversed hypokalemia, at Week 4 the 37.5-mg regimen proved optimal compared with the other tested regimens. On this regimen, 81% of the patients had a significant (<content styleCode="italics">P</content>&lt;0.05) reversal of hypokalemia vs. 59% of patients on the placebo/hydrochlorothiazide regimen. The mean serum potassium concentration on 37.5 mg triamterene went from 3.2 ± 0.2 mEq/L at baseline to 3.7 ± 0.3 mEq/L at Week 4, a significantly greater (<content styleCode="italics">P</content>&lt;0.05) improvement than that achieved with placebo/hydrochlorothiazide (i.e., 3.2 ± 0.2 mEq/L at baseline and 3.5 ± 0.4 mEq/L at Week 4). Also, 51% of patients in the 37.5-mg triamterene group had an increase in serum potassium of ≥0.5 mEq/L at Week 4 vs. 33% in the placebo group. The 37.5-mg triamterene/25-mg hydrochlorothiazide regimen also maintained control of blood pressure; mean supine systolic blood pressure at Week 4 was 138 ± 21 mmHg while mean supine diastolic blood pressure was 87 ± 13 mmHg.</paragraph>
+               </text>
+               <effectiveTime value="20260701"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID13">
+               <id root="bfccd60e-8afd-4f41-8607-051789731561"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34067-9" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>INDICATIONS AND USAGE</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">This</content> <content styleCode="bold">fixed</content> <content styleCode="bold">combination</content> <content styleCode="bold">drug</content> <content styleCode="bold">is</content> <content styleCode="bold">not</content> <content styleCode="bold">indicated</content> <content styleCode="bold">for</content> <content styleCode="bold">the</content> <content styleCode="bold">initial</content> <content styleCode="bold">therapy</content> <content styleCode="bold">of</content> <content styleCode="bold">edema</content> <content styleCode="bold">or</content> <content styleCode="bold">hypertension</content> <content styleCode="bold">except</content> <content styleCode="bold">in</content> <content styleCode="bold">individuals</content> <content styleCode="bold">in</content> <content styleCode="bold">whom</content> <content styleCode="bold">the</content> <content styleCode="bold">development</content> <content styleCode="bold">of</content> <content styleCode="bold">hypokalemia</content> <content styleCode="bold">cannot</content> <content styleCode="bold">be</content> <content styleCode="bold">risked.</content> </paragraph>
+                  <paragraph>Triamterene and hydrochlorothiazide capsules are indicated for the treatment of hypertension or edema in patients who develop hypokalemia on hydrochlorothiazide alone.</paragraph>
+                  <paragraph>Triamterene and hydrochlorothiazide capsules are also indicated for those patients who require a thiazide diuretic and in whom the development of hypokalemia cannot be risked.</paragraph>
+                  <paragraph>Triamterene and hydrochlorothiazide capsules may be used alone or as an adjunct to other antihypertensive drugs, such as beta-blockers. Since triamterene and hydrochlorothiazide capsules may enhance the action of these agents, dosage adjustments may be necessary.</paragraph>
+               </text>
+               <effectiveTime value="20260701"/>
+               <component>
+                  <section ID="ID15">
+                     <id root="c395dfa9-c93b-41df-939e-dcb674f4ebe6"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Usage in Pregnancy</title>
+                     <text>
+                        <paragraph>The routine use of diuretics in an otherwise healthy woman is inappropriate and exposes mother and fetus to unnecessary hazard. Diuretics do not prevent development of toxemia of pregnancy, and there is no satisfactory evidence that they are useful in the treatment of developed toxemia.</paragraph>
+                        <paragraph>Edema during pregnancy may arise from pathological causes or from the physiologic and mechanical consequences of pregnancy. Diuretics are indicated in pregnancy when edema is due to pathologic causes, just as they are in the absence of pregnancy. Dependent edema in pregnancy resulting from restriction of venous return by the expanded uterus is properly treated through elevation of the lower extremities and use of support hose; use of diuretics to lower intravascular volume in this case is illogical and unnecessary. There is hypervolemia during normal pregnancy which is harmful to neither the fetus nor the mother (in the absence of cardiovascular disease), but which is associated with edema, including generalized edema in the majority of pregnant women. If this edema produces discomfort, increased recumbency will often provide relief. In rare instances this edema may cause extreme discomfort which is not relieved by rest. In these cases, a short course of diuretics may provide relief and may be appropriate. </paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID17">
+               <id root="da165347-3d66-44e0-bff2-4b806822f7c8"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34070-3" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>CONTRAINDICATIONS</title>
+               <effectiveTime value="20260701"/>
+               <component>
+                  <section ID="ID18">
+                     <id root="f70a1ea0-c715-4c64-85ef-11c88aa81a61"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Antikaliuretic Therapy and Potassium Supplementation</title>
+                     <text>
+                        <paragraph>Triamterene and hydrochlorothiazide capsules should not be given to patients receiving other potassium-sparing agents such as spironolactone, amiloride, or other formulations containing triamterene. Concomitant potassium-containing salt substitutes should also not be used.</paragraph>
+                        <paragraph>Potassium supplementation should not be used with triamterene and hydrochlorothiazide capsules except in severe cases of hypokalemia. Such concomitant therapy can be associated with rapid increases in serum potassium levels. If potassium supplementation is used, careful monitoring of the serum potassium level is necessary.</paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID20">
+                     <id root="a26a3363-7d8f-49ed-ae24-f7b9b2956bee"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Impaired Renal Function</title>
+                     <text>
+                        <paragraph>Triamterene and hydrochlorothiazide capsules are contraindicated in patients with anuria, acute and chronic renal insufficiency, or significant renal impairment.</paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID22">
+                     <id root="c1cf0957-b120-4008-8e6d-7fec2a04aa18"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Hypersensitivity</title>
+                     <text>
+                        <paragraph>Hypersensitivity to either drug in the preparation or to other sulfonamide-derived drugs is a contraindication.</paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID24">
+                     <id root="8372a1ad-4c8b-45d3-ad7e-8b85c330e0cc"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Hyperkalemia</title>
+                     <text>
+                        <paragraph>Triamterene and hydrochlorothiazide capsules should not be used in patients with pre-existing elevated serum potassium.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">WARNINGS</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID76">
+               <id root="61e7e51f-c581-408a-a960-b985cb3d56a8"/>
+               <code code="34066-1" codeSystem="2.16.840.1.113883.6.1" displayName="Boxed Warning section"/>
+               <title/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Hyperkalemia </content>
+                  </paragraph>
+                  <paragraph>Abnormal   elevation of serum potassium levels (greater than or equal to 5.5 mEq/liter)   can occur with all potassium-sparing diuretic combinations, including triamterene   and hydrochlorothiazide capsules.  Hyperkalemia is more likely to occur in   patients with renal impairment and diabetes (even without evidence of renal   impairment) and in the elderly or severely ill. Since uncorrected   hyperkalemia may be fatal, serum potassium levels must be monitored at   frequent intervals especially in patients first receiving triamterene and   hydrochlorothiazide capsules, when dosages are changed, or with any illness   that may influence renal function.</paragraph>
+               </text>
+               <effectiveTime value="20260701"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID78">
+               <id root="a7242706-8617-491a-b4bf-ddf7189e49e3"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+               <text>
+                  <paragraph>If hyperkalemia is suspected (warning signs include paresthesias, muscular weakness, fatigue, flaccid paralysis of the extremities, bradycardia, and shock), an electrocardiogram (ECG) should be obtained. However, it is important to monitor serum potassium levels because hyperkalemia may not be associated with ECG changes.</paragraph>
+                  <paragraph>If hyperkalemia is present, triamterene and hydrochlorothiazide capsules should be discontinued immediately and a thiazide alone should be substituted. If the serum potassium exceeds 6.5 mEq/L more vigorous therapy is required. The clinical situation dictates the procedures to be employed. These include the intravenous administration of calcium chloride solution, sodium bicarbonate solution, and/or the oral or parenteral administration of glucose with a rapid-acting insulin preparation. Cationic exchange resins such as sodium polystyrene sulfonate may be orally or rectally administered. Persistent hyperkalemia may require dialysis.</paragraph>
+                  <paragraph>The development of hyperkalemia associated with potassium-sparing diuretics is accentuated in the presence of renal impairment (see <linkHtml href="#ID17">CONTRAINDICATIONS</linkHtml>). Patients with mild renal functional impairment should not receive this drug without frequent and continuing monitoring of serum electrolytes. Cumulative drug effects may be observed in patients with impaired renal function. The renal clearances of hydrochlorothiazide and the pharmacologically active metabolite of triamterene, the sulfate ester of hydroxytriamterene, have been shown to be reduced and the plasma levels increased following administration of triamterene and hydrochlorothiazide to elderly patients and patients with impaired renal function.</paragraph>
+                  <paragraph>Hyperkalemia has been reported in diabetic patients with the use of potassium-sparing agents even in the absence of apparent renal impairment. Accordingly, serum electrolytes must be frequently monitored if triamterene and hydrochlorothiazide capsules are used in diabetic patients.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Metabolic or Respiratory Acidosis </content>
+                  </paragraph>
+                  <paragraph>Potassium-sparing therapy should also be avoided in severely ill patients in whom respiratory or metabolic acidosis may occur. Acidosis may be associated with rapid elevations in serum potassium levels. If triamterene and hydrochlorothiazide capsules are employed, frequent evaluations of acid/base balance and serum electrolytes are necessary.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Acute Myopia and Secondary Angle-Closure Glaucoma </content>
+                  </paragraph>
+                  <paragraph>Hydrochlorothiazide, a sulfonamide, can cause an idiosyncratic reaction, resulting in acute transient myopia and acute angle-closure glaucoma. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue hydrochlorothiazide as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.</paragraph>
+               </text>
+               <effectiveTime value="20260701"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID34">
+               <id root="d103b79f-064c-4eb9-9fd0-a9fb41625d2a"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="42232-9" displayName="PRECAUTIONS SECTION"/>
+               <title>PRECAUTIONS</title>
+               <effectiveTime value="20260701"/>
+               <component>
+                  <section ID="ID35">
+                     <id root="b90d7cdd-a114-45b1-8be8-c9bcba6a55d8"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Diabetes</title>
+                     <text>
+                        <paragraph>Caution should be exercised when administering triamterene and hydrochlorothiazide capsules to patients with diabetes, since thiazides may cause hyperglycemia, glycosuria, and alter insulin requirements in diabetes. Also, diabetes mellitus may become manifest during thiazide administration. </paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID37">
+                     <id root="e2d193ba-674a-42a9-aa64-54f403a09a69"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Impaired Hepatic Function</title>
+                     <text>
+                        <paragraph>Thiazides should be used with caution in patients with impaired hepatic function. They can precipitate hepatic coma in patients with severe liver disease. Potassium depletion induced by the thiazide may be important in this connection. Administer triamterene and hydrochlorothiazide capsules cautiously and be alert for early signs of impending coma such as confusion, drowsiness, and tremor; if mental confusion increases, discontinue triamterene and hydrochlorothiazide capsules for a few days. Attention must be given to other factors that may precipitate hepatic coma, such as blood in the gastrointestinal tract or pre-existing potassium depletion.</paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID39">
+                     <id root="87f6bae4-7ed8-4b14-b315-1e0fd8c14f8a"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Hypokalemia</title>
+                     <text>
+                        <paragraph>Hypokalemia is uncommon with triamterene and hydrochlorothiazide capsules; but, should it develop, corrective measures should be taken such as potassium supplementation or increased intake of potassium-rich foods. Institute such measures cautiously with frequent determinations of serum potassium levels, especially in patients receiving digitalis or with a history of cardiac arrhythmias. If serious hypokalemia (serum potassium less than 3 mEq/L) is demonstrated by repeat serum potassium determinations, triamterene and hydrochlorothiazide capsules should be discontinued and potassium chloride supplementation initiated. Less serious hypokalemia should be evaluated with regard to other coexisting conditions and treated accordingly.</paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID41">
+                     <id root="5a9502dc-5e03-4cf8-a371-e46a06408485"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Electrolyte Imbalance</title>
+                     <text>
+                        <paragraph>Electrolyte imbalance, often encountered in conditions such as heart failure, renal disease, or cirrhosis of the liver, may also be aggravated by diuretics and should be considered during therapy with triamterene and hydrochlorothiazide when using high doses for prolonged periods or in patients on a salt-restricted diet. Serum determinations of electrolytes should be performed and are particularly important if the patient is vomiting excessively or receiving fluids parenterally. Possible fluid and electrolyte imbalance may be indicated by warning signs such as: dry mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pain or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal symptoms.</paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID43">
+                     <id root="d557b851-f50d-49a6-9931-496620f6cedd"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Hypochloremia</title>
+                     <text>
+                        <paragraph>Although any chloride deficit is generally mild and usually does not require specific treatment except under extraordinary circumstances (as in liver disease or renal disease), chloride replacement may be required in the treatment of metabolic alkalosis. Dilutional hyponatremia may occur in edematous patients in hot weather; appropriate therapy is water restriction, rather than administration of salt, except in rare instances when the hyponatremia is life threatening. In actual salt depletion, appropriate replacement is the therapy of choice.</paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID45">
+                     <id root="fbb0542d-1940-4001-b83a-c35effc26813"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Renal Stones</title>
+                     <text>
+                        <paragraph>Triamterene has been found in renal stones in association with the other usual calculus components. Triamterene and hydrochlorothiazide capsules should be used with caution in patients with a history of renal stones.</paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID47">
+                     <id root="49be9552-d9a6-4f3b-af80-a697edbfd763"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34075-2" displayName="LABORATORY TESTS SECTION"/>
+                     <title>Laboratory Tests</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Serum</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">Potassium</content>
+                           </content> </paragraph>
+                        <paragraph>The normal adult range of serum potassium is 3.5 to 5.0 mEq/L with 4.5 mEq often being used for a reference point. If hypokalemia should develop, corrective measures should be taken such as potassium supplementation or increased dietary intake of potassium-rich foods.</paragraph>
+                        <paragraph>Institute such measures cautiously with frequent determinations of serum potassium levels. Potassium levels persistently above 6 mEq/L require careful observation and treatment. Serum potassium levels do not necessarily indicate true body potassium concentration. A rise in plasma pH may cause a decrease in plasma potassium concentration and an increase in the intracellular potassium concentration. Discontinue corrective measures for hypokalemia immediately if laboratory determinations reveal an abnormal elevation of serum potassium.</paragraph>
+                        <paragraph>Discontinue triamterene and hydrochlorothiazide capsules and substitute a thiazide diuretic alone until potassium levels return to normal.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Serum</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">Creatinine</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">and</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">Blood Urea Nitrogen</content>
+                           </content> </paragraph>
+                        <paragraph>Triamterene and hydrochlorothiazide may produce an elevated blood urea nitrogen (BUN) level, creatinine level, or both. This apparently is secondary to a reversible reduction of glomerular filtration rate or a depletion of intravascular fluid volume (prerenal azotemia) rather than renal toxicity; levels usually return to normal when triamterene and hydrochlorothiazide capsules is discontinued. If azotemia increases, discontinue triamterene and hydrochlorothiazide capsules. Periodic BUN or serum creatinine determinations should be made, especially in elderly patients and in patients with suspected or confirmed renal insufficiency.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Serum</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">Protein-Bound Iodine </content>
+                           </content> </paragraph>
+                        <paragraph>Thiazide may decrease serum protein-bound iodine (PBI) levels without sign of thyroid disturbance. </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Parathyroid</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">Function</content>
+                           </content> </paragraph>
+                        <paragraph>Thiazides should be discontinued before carrying out tests for parathyroid function. Calcium excretion is decreased by thiazides. Pathologic changes in the parathyroid glands with hypercalcemia and hypophosphatemia have been observed in a few patients on prolonged thiazide therapy. The common complications of hyperparathyroidism such as bone resorption and peptic ulceration have not been seen. </paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID49">
+                     <id root="f71f9e43-3bbd-46ba-88b3-3cccca99abff"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34073-7" displayName="DRUG INTERACTIONS SECTION"/>
+                     <title>Drug Interactions</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Angiotensin-Converting</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">Enzyme</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">Inhibitors</content>
+                           </content> </paragraph>
+                        <paragraph>Potassium-sparing agents should be used with caution in conjunction with angiotensin-converting enzyme (ACE) inhibitors due to an increased risk of hyperkalemia.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Oral</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">Hypoglycemic</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">Drugs</content>
+                           </content> </paragraph>
+                        <paragraph>Concurrent use with chlorpropamide may increase the risk of severe hyponatremia.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Nonsteroidal</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">Anti-inflammatory</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">Drugs</content>
+                           </content> </paragraph>
+                        <paragraph>A possible interaction resulting in acute renal failure has been reported in a few patients on triamterene and hydrochlorothiazide capsules when treated with indomethacin, a nonsteroidal anti-inflammatory agent. Caution is advised in administering nonsteroidal anti-inflammatory agents with triamterene and hydrochlorothiazide capsules.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Lithium</content>
+                           </content> </paragraph>
+                        <paragraph>Lithium generally should not be given with diuretics because they reduce its renal clearance and increase the risk of lithium toxicity. Read prescribing information for lithium preparations before use of such concomitant therapy with triamterene and hydrochlorothiazide capsules.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Surgical</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">Considerations</content>
+                           </content> </paragraph>
+                        <paragraph>Thiazides have been shown to decrease arterial responsiveness to norepinephrine (an effect attributed to loss of sodium). This diminution is not sufficient to preclude effectiveness of the pressor agent for therapeutic use. Thiazides have also been shown to increase the paralyzing effect of nondepolarizing muscle relaxants such as tubocurarine (an effect attributed to potassium loss); consequently, caution should be observed in patients undergoing surgery</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Other</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">Considerations</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>Concurrent use of hydrochlorothiazide with amphotericin B or corticosteroids or corticotropin (ACTH) may intensify electrolyte imbalance, particularly hypokalemia, although the presence of triamterene minimizes the hypokalemic effect.</paragraph>
+                        <paragraph>Thiazides may add to or potentiate the action of other antihypertensive drugs. <linkHtml href="#ID13">See INDICATIONS AND USAGE</linkHtml> for concomitant use with other antihypertensive drugs.</paragraph>
+                        <paragraph>The effect of oral anticoagulants may be decreased when used concurrently with hydrochlorothiazide; dosage adjustments may be necessary.</paragraph>
+                        <paragraph>Triamterene and hydrochlorothiazide may raise the level of blood uric acid; dosage adjustments of antigout medication may be necessary to control hyperuricemia and gout.</paragraph>
+                        <paragraph>The following agents given together with triamterene may promote serum potassium accumulation and possibly result in hyperkalemia because of the potassium-sparing nature of triamterene, especially in patients with renal insufficiency: blood from blood bank (may contain potassium up to 30 mEq/L of plasma or up to 65 mEq/L of whole blood when stored for more than 10 days); low-salt milk (may contain potassium up to 60 mEq/L); potassium-containing medications (such as parenteral penicillin G potassium); salt substitutes (most contain substantial amounts of potassium).</paragraph>
+                        <paragraph>Exchange resins, such as sodium polystyrene sulfonate, whether administered orally or rectally, reduce serum potassium levels by sodium replacement of the potassium; fluid retention may occur in some patients because of the increased sodium intake.</paragraph>
+                        <paragraph>Chronic or overuse of laxatives may reduce serum potassium levels by promoting excessive potassium loss from the intestinal tract; laxatives may interfere with the potassium-retaining effects of triamterene. </paragraph>
+                        <paragraph>The effectiveness of methenamine may be decreased when used concurrently with hydrochlorothiazide because of alkalinization of the urine.</paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID80">
+                     <id root="bcae1d85-e273-48e9-88d4-5c80ebc742f7"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Information for Patients</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Non-Melanoma Skin Cancer</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.</paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID51">
+                     <id root="f68c9f9b-519c-42fd-9ffa-1d6b85986009"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Drug/Laboratory Test Interactions</title>
+                     <text>
+                        <paragraph>Triamterene and quinidine have similar fluorescence spectra; thus, triamterene and hydrochlorothiazide will interfere with the fluorescent measurement of quinidine.</paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID53">
+                     <id root="bb214571-3052-423f-ae10-5c9b3e576f64"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Carcinogenesis</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>Long-term studies have not been conducted with the triamterene/hydrochlorothiazide combination or with triamterene alone.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Hydrochlorothiazide:</content>
+                           </content> Two-year feeding studies in mice and rats, conducted under the auspices of the National Toxicology Program (NTP) treated mice and rats with doses of  hydrochlorothiazide up to 600 and 100 mg/kg/day, respectively. On a body-weight basis, these doses are 600 times (in mice) and 100 times (in rats) the maximum recommended human dose (MRHD) for the hydrochlorothiazide component of triamterene and hydrochlorothiazide capsules at 50 mg/day (or 1 mg/kg/day based on 50-kg individuals). On the basis of body surface area, these doses are 56 times (in mice) and 21 times (in rats) the MRHD. These studies uncovered no evidence of carcinogenic potential of hydrochlorothiazide in rats or female mice, but there was equivocal evidence of hepatocarcinogenicity in male mice.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Mutagenesis</content>
+                           </content> </paragraph>
+                        <paragraph>Studies of the mutagenic potential of the triamterene/hydrochlorothiazide combination or of triamterene alone have not been performed.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Hydrochlorothiazide:</content>
+                           </content> Hydrochlorothiazide was not genotoxic in <content styleCode="italics">in</content> <content styleCode="italics">vitro</content> assays using strains TA 98, TA 100, TA 1535, TA 1537, and TA 1538 of <content styleCode="italics">Salmonella</content> <content styleCode="italics">typhimurium</content> (the Ames test); in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations; or in <content styleCode="italics">in</content> <content styleCode="italics">vivo</content> assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the <content styleCode="italics">Drosophila</content> sex-linked recessive lethal trait gene. Positive test results were obtained in the <content styleCode="italics">in</content> <content styleCode="italics">vitro</content> CHO Sister Chromatid Exchange (clastogenicity) test and in the mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide of 43 to 1,300 mcg/mL. Positive test results were also obtained in the <content styleCode="italics">Aspergillus</content> <content styleCode="italics">nidulans</content> nondisjunction assay, using an unspecified concentration of hydrochlorothiazide.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Impairment</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">of</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">Fertility</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>Studies of the effects of the triamterene/hydrochlorothiazide combination or of triamterene alone on animal reproductive function have not been conducted.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Hydrochlorothiazide:</content>
+                           </content> Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg/day, respectively, prior to mating and throughout gestation. Corresponding multiples of the MRHD are 100 (mice) and 4 (rats) on the basis of body weight and 9.4 (mice) and 0.8 (rats) on the basis of body surface area.</paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID55">
+                     <id root="cf644bc4-75f9-4c83-a69e-2ec9d1b924ac"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42228-7" displayName="PREGNANCY SECTION"/>
+                     <title>Pregnancy</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Teratogenic</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">Effects</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Triamterene</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">and</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">Hydrochlorothiazide</content>
+                           </content>: Animal reproduction studies to determine the potential for fetal harm by triamterene and hydrochlorothiazide have not been conducted. However, a One Generation Study in the rat approximated composition of triamterene and hydrochlorothiazide capsules by using a 1:1 ratio of triamterene to hydrochlorothiazide (30:30 mg/kg/day); there was no evidence of teratogenicity at those doses which were, on a body-weight basis, 15 and 30 times, respectively, the MRHD, and on the basis of body surface area, 3.1 and 6.2 times, respectively, the MRHD.</paragraph>
+                        <paragraph>The safe use of triamterene and hydrochlorothiazide capsules in pregnancy has not been established since there are no adequate and well-controlled studies with triamterene and hydrochlorothiazide in pregnant women. Triamterene and hydrochlorothiazide capsules should be used during pregnancy only if the potential benefit justifies the risk to the fetus.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Triamterene:</content>
+                           </content> Reproduction studies have been performed in rats at doses as high as 20 times the MRHD on the basis of body weight and 6 times the human dose on the basis of body surface area without evidence of harm to the fetus due to triamterene.</paragraph>
+                        <paragraph>Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Hydrochlorothiazide:</content>
+                           </content> Hydrochlorothiazide was orally administered to pregnant mice and rats during respective periods of major organogenesis at doses up to 3,000 and 1,000 mg/kg/day, respectively. At these doses, which are multiples of the MRHD equal to 3,000 for mice and 1,000 for rats, based on body weight, and equal to 282 for mice and 206 for rats, based on body surface area, there was no evidence of harm to the fetus.</paragraph>
+                        <paragraph>There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Nonteratogenic</content>
+                           </content> <content styleCode="bold">
+                              <content styleCode="italics">Effects</content>
+                           </content> </paragraph>
+                        <paragraph>Thiazides and triamterene have been shown to cross the placental barrier and appear in cord blood. The use of thiazides and triamterene in pregnant women requires that the anticipated benefit be weighed against possible hazards to the fetus. These hazards include fetal or neonatal jaundice, pancreatitis, thrombocytopenia, and possible other adverse reactions which have occurred in the adult.</paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID57">
+                     <id root="4f072494-0402-4b2f-9c4f-9eeb56d5d8e1"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34080-2" displayName="NURSING MOTHERS SECTION"/>
+                     <title>Nursing Mothers</title>
+                     <text>
+                        <paragraph>Thiazides and triamterene in combination have not been studied in nursing mothers. Triamterene appears in animal milk; this may occur in humans. Thiazides are excreted in human breast milk. If use of the combination drug product is deemed essential, the patient should stop nursing.</paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID59">
+                     <id root="0381891b-c0cb-4a59-b4fe-abf75fa5baa1"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="34081-0" displayName="PEDIATRIC USE SECTION"/>
+                     <title>Pediatric Use</title>
+                     <text>
+                        <paragraph>Safety and effectiveness in pediatric patients have not been established.</paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID61">
+               <id root="1873646f-1ebc-4722-9f51-c62771816571"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34084-4" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>ADVERSE REACTIONS</title>
+               <text>
+                  <paragraph>Adverse effects are listed in decreasing order of severity.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Hypersensitivity:</content> Anaphylaxis, rash, urticaria, subacute cutaneous lupus erythematosus-like reactions, photosensitivity.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Cardiovascular:</content> Arrhythmia, postural hypotension.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Metabolic:</content> Diabetes mellitus, hyperkalemia, hypokalemia, hyponatremia, acidosis, hypercalcemia, hyperglycemia, glycosuria, hyperuricemia, hypochloremia.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Gastrointestinal:</content> Jaundice and/or liver enzyme abnormalities, pancreatitis, nausea and vomiting, diarrhea, constipation, abdominal pain.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Renal:</content> Acute renal failure (one case of irreversible renal failure has been reported), interstitial nephritis, renal stones composed primarily of triamterene, elevated BUN and serum creatinine, abnormal urinary sediment.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Hematologic:</content> Leukopenia, thrombocytopenia and purpura, megaloblastic anemia.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Musculoskeletal:</content> Muscle cramps.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Central</content> <content styleCode="bold">Nervous</content> <content styleCode="bold">System:</content> Weakness, fatigue, dizziness, headache, dry mouth.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Miscellaneous:</content> Impotence, sialadenitis. Thiazides alone have been shown to cause the following additional adverse reactions:</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Central</content> <content styleCode="bold">Nervous</content> <content styleCode="bold">System:</content> Paresthesias, vertigo.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Ophthalmic:</content> Xanthopsia, transient blurred vision.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Respiratory:</content> Allergic pneumonitis, pulmonary edema, respiratory distress.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Other:</content> Necrotizing vasculitis, exacerbation of lupus.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Hematologic:</content> Aplastic anemia, agranulocytosis, hemolytic anemia.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Neonate</content> <content styleCode="bold">and</content> <content styleCode="bold">infancy:</content> Thrombocytopenia and pancreatitis–rarely, in newborns whose mothers have received thiazides during pregnancy.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Skin:</content> Erythema multiforme, including Stevens-Johnson syndrome; exfoliative dermatitis, including toxic epidermal necrolysis.</paragraph>
+               </text>
+               <effectiveTime value="20260701"/>
+               <component>
+                  <section ID="ID82">
+                     <id root="e12f01e9-ec8c-46b6-95d4-5528c42fa073"/>
+                     <code codeSystem="2.16.840.1.113883.6.1" code="42229-5" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <title>Postmarketing Experience</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">Non-Melanoma Skin Cancer </content>
+                           </content>
+                        </paragraph>
+                        <paragraph>Hydrochlorothiazide is associated with an increased risk of non-melanoma skin cancer. In a study conducted in the Sentinel System, increased risk was predominantly for squamous cell carcinoma (SCC) and in white patients taking large cumulative doses. The increased risk for SCC in the overall population was approximately 1 additional case per 16,000 patients per year, and for white patients taking a cumulative dose of ≥50,000 mg the risk increase was approximately 1 additional SCC case for every 6,700 patients per year.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact Viona Pharmaceuticals Inc. at 1-888-304-5011 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20260701"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID63">
+               <id root="cd366cfb-c287-4cd8-a7a0-28b98e4dcb3a"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34068-7" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>DOSAGE AND ADMINISTRATION</title>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">The</content> <content styleCode="bold">usual</content> <content styleCode="bold">dose</content> <content styleCode="bold">of</content> <content styleCode="bold">triamterene</content> <content styleCode="bold">and</content> <content styleCode="bold">hydrochlorothiazide</content> <content styleCode="bold">capsules</content> <content styleCode="bold">is</content> <content styleCode="bold">1</content> <content styleCode="bold">or</content> <content styleCode="bold">2</content> <content styleCode="bold">capsules</content> <content styleCode="bold">given</content> <content styleCode="bold">once</content> <content styleCode="bold">daily</content>, <content styleCode="bold">with</content> <content styleCode="bold">appropriate</content> <content styleCode="bold">monitoring</content> <content styleCode="bold">of</content> <content styleCode="bold">serum</content> <content styleCode="bold">potassium</content> <content styleCode="bold">and</content> <content styleCode="bold">of</content> <content styleCode="bold">the</content> <content styleCode="bold">clinical</content> <content styleCode="bold">effect</content> <content styleCode="bold">(<linkHtml href="#ID76">see WARNINGS, Hyperkalemia</linkHtml>).</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20260701"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID65">
+               <id root="c2a565fa-352e-4de9-b438-3e229ae00643"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34088-5" displayName="OVERDOSAGE SECTION"/>
+               <title>OVERDOSAGE</title>
+               <text>
+                  <paragraph>Electrolyte imbalance is the major concern (see <linkHtml href="#ID76">WARNINGS</linkHtml>). Symptoms reported include: polyuria, nausea, vomiting, weakness, lassitude, fever, flushed face, and hyperactive deep tendon reflexes. If hypotension occurs, it may be treated with pressor agents such as levarterenol to maintain blood pressure. Carefully evaluate the electrolyte pattern and fluid balance. Induce immediate evacuation of the stomach through emesis or gastric lavage. There is no specific antidote.</paragraph>
+                  <paragraph>Reversible acute renal failure following ingestion of 50 tablets of a product containing a combination of 50 mg triamterene and 25 mg hydrochlorothiazide has been reported. Although triamterene is largely protein-bound (approximately 67%), there may be some benefit to dialysis in cases of overdosage. </paragraph>
+               </text>
+               <effectiveTime value="20260701"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID67">
+               <id root="f2365356-0057-48fd-8a13-0e634a6cc192"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="34069-5" displayName="HOW SUPPLIED SECTION"/>
+               <title>HOW SUPPLIED</title>
+               <text>
+                  <paragraph>Triamterene and Hydrochlorothiazide Capsules USP, 37.5 mg/25 mg are light yellow to yellow colored powder filled in size '4' empty hard gelatin capsule having yellow opaque colored cap imprinted with "855" in black ink and white opaque colored body and are supplied as follows:</paragraph>
+                  <paragraph>NDC 82804-308-30 in bottles of 30 capsules</paragraph>
+                  <paragraph>Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature]. Protect from light. Dispense in a tight, light-resistant container as defined in the USP.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088.</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Manufactured by:</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Zydus Lifesciences Ltd., </content>India</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Distributed by:</content>
+                  </paragraph>
+                  <paragraph>Viona Pharmaceuticals Inc.</paragraph>
+                  <paragraph>Cranford, NJ 07016</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Repackaged by:</content>
+                  </paragraph>
+                  <paragraph>Proficient Rx LP</paragraph>
+                  <paragraph>Thousand Oaks, CA 91320</paragraph>
+                  <paragraph>Rev.: 10/22</paragraph>
+               </text>
+               <effectiveTime value="20260701"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID69">
+               <id root="47d7800e-14fa-4546-83c8-69eca78ecc44"/>
+               <code codeSystem="2.16.840.1.113883.6.1" code="51945-4" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>PACKAGE LABEL.PRINCIPAL DISPLAY PANEL</title>
+               <text>
+                  <paragraph>NDC 82804-308-30 in bottles of 30 capsules</paragraph>
+                  <paragraph>Triamterene and Hydrochlorothiazide Capsules, USP</paragraph>
+                  <paragraph>37.5 mg/25 mg</paragraph>
+                  <paragraph>Rx only</paragraph>
+                  <renderMultiMedia referencedObject="ID_51edb0e2-2cc4-4816-b8eb-45c30c46e2a8" ID="id-948764643"/>
+               </text>
+               <effectiveTime value="20260701"/>
+               <component>
+                  <observationMedia ID="ID_51edb0e2-2cc4-4816-b8eb-45c30c46e2a8">
+                     <text>82804-308-30</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="image-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

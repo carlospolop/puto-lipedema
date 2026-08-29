@@ -1,0 +1,488 @@
+[
+  {
+    "class": "loop",
+    "drug": "furosemide",
+    "product": "FUROSEMIDA CINFA 40 mg COMPRIMIDOS EFG",
+    "nregistro": "64140",
+    "api_url": "https://cima.aemps.es/cima/rest/medicamento?nregistro=64140",
+    "docs": [
+      {
+        "tipo": 1,
+        "url": "https://cima.aemps.es/cima/pdfs/ft/64140/FT_64140.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/ft/64140/FT_64140.html",
+        "secc": true,
+        "fecha": 1710461626000
+      },
+      {
+        "tipo": 2,
+        "url": "https://cima.aemps.es/cima/pdfs/p/64140/P_64140.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/p/64140/P_64140.html",
+        "secc": true,
+        "fecha": 1710461637000
+      }
+    ],
+    "name_api": "FUROSEMIDA CINFA 40 mg COMPRIMIDOS EFG",
+    "principiosActivos": [
+      {
+        "id": 1615,
+        "codigo": "1615A",
+        "nombre": "FUROSEMIDA",
+        "cantidad": "40",
+        "unidad": "mg",
+        "orden": 1
+      }
+    ],
+    "fecha_docs": [
+      1710461626000,
+      1710461637000
+    ]
+  },
+  {
+    "class": "loop",
+    "drug": "torasemide",
+    "product": "TORASEMIDA CINFA 10 mg COMPRIMIDOS EFG",
+    "nregistro": "66315",
+    "api_url": "https://cima.aemps.es/cima/rest/medicamento?nregistro=66315",
+    "docs": [
+      {
+        "tipo": 1,
+        "url": "https://cima.aemps.es/cima/pdfs/ft/66315/FT_66315.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/ft/66315/FT_66315.html",
+        "secc": true,
+        "fecha": 1625727346000
+      },
+      {
+        "tipo": 2,
+        "url": "https://cima.aemps.es/cima/pdfs/p/66315/P_66315.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/p/66315/P_66315.html",
+        "secc": true,
+        "fecha": 1685487180000
+      }
+    ],
+    "name_api": "TORASEMIDA CINFA 10 mg COMPRIMIDOS EFG",
+    "principiosActivos": [
+      {
+        "id": 2351,
+        "codigo": "2351A",
+        "nombre": "TORASEMIDA",
+        "cantidad": "10",
+        "unidad": "mg",
+        "orden": 1
+      }
+    ],
+    "fecha_docs": [
+      1625727346000,
+      1685487180000
+    ]
+  },
+  {
+    "class": "thiazide",
+    "drug": "hydrochlorothiazide",
+    "product": "HIDROCLOROTIAZIDA NORMON 25 MG COMPRIMIDOS EFG",
+    "nregistro": "90833",
+    "api_url": "https://cima.aemps.es/cima/rest/medicamento?nregistro=90833",
+    "docs": [
+      {
+        "tipo": 1,
+        "url": "https://cima.aemps.es/cima/pdfs/ft/90833/FT_90833.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/ft/90833/FT_90833.html",
+        "secc": true,
+        "fecha": 1764661625000
+      },
+      {
+        "tipo": 2,
+        "url": "https://cima.aemps.es/cima/pdfs/p/90833/P_90833.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/p/90833/P_90833.html",
+        "secc": true,
+        "fecha": 1767918681000
+      },
+      {
+        "tipo": 3,
+        "url": "https://cima.aemps.es/cima/pdfs/ipe/90833/IPE_90833.pdf",
+        "secc": false
+      }
+    ],
+    "name_api": "HIDROCLOROTIAZIDA NORMON 25 MG COMPRIMIDOS EFG",
+    "principiosActivos": [
+      {
+        "id": 1343,
+        "codigo": "1343A",
+        "nombre": "HIDROCLOROTIAZIDA",
+        "cantidad": "25",
+        "unidad": "mg",
+        "orden": 1
+      }
+    ],
+    "fecha_docs": [
+      1764661625000,
+      1767918681000,
+      null
+    ]
+  },
+  {
+    "class": "thiazide",
+    "drug": "chlorthalidone",
+    "product": "HIGROTONA 50 mg comprimidos",
+    "nregistro": "45843",
+    "api_url": "https://cima.aemps.es/cima/rest/medicamento?nregistro=45843",
+    "docs": [
+      {
+        "tipo": 1,
+        "url": "https://cima.aemps.es/cima/pdfs/ft/45843/FT_45843.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/ft/45843/FT_45843.html",
+        "secc": true,
+        "fecha": 1757975002000
+      },
+      {
+        "tipo": 2,
+        "url": "https://cima.aemps.es/cima/pdfs/p/45843/P_45843.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/p/45843/P_45843.html",
+        "secc": true,
+        "fecha": 1763165294000
+      }
+    ],
+    "name_api": "HIGROTONA 50 mg comprimidos",
+    "principiosActivos": [
+      {
+        "id": 327,
+        "codigo": "327A",
+        "nombre": "CLORTALIDONA",
+        "cantidad": "50",
+        "unidad": "mg",
+        "orden": 1
+      }
+    ],
+    "fecha_docs": [
+      1757975002000,
+      1763165294000
+    ]
+  },
+  {
+    "class": "thiazide",
+    "drug": "indapamide",
+    "product": "INDAPAMIDA NORMON 2,5 mg COMPRIMIDOS RECUBIERTOS EFG",
+    "nregistro": "63368",
+    "api_url": "https://cima.aemps.es/cima/rest/medicamento?nregistro=63368",
+    "docs": [
+      {
+        "tipo": 1,
+        "url": "https://cima.aemps.es/cima/pdfs/ft/63368/FT_63368.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/ft/63368/FT_63368.html",
+        "secc": true,
+        "fecha": 1646986731000
+      },
+      {
+        "tipo": 2,
+        "url": "https://cima.aemps.es/cima/pdfs/p/63368/P_63368.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/p/63368/P_63368.html",
+        "secc": true,
+        "fecha": 1753396463000
+      }
+    ],
+    "name_api": "INDAPAMIDA NORMON 2,5 mg COMPRIMIDOS RECUBIERTOS EFG",
+    "principiosActivos": [
+      {
+        "id": 1776,
+        "codigo": "1776A",
+        "nombre": "INDAPAMIDA",
+        "cantidad": "2,5",
+        "unidad": "mg",
+        "orden": 1
+      }
+    ],
+    "fecha_docs": [
+      1646986731000,
+      1753396463000
+    ]
+  },
+  {
+    "class": "potassium-sparing",
+    "drug": "spironolactone",
+    "product": "ALDACTONE 25 mg COMPRIMIDOS RECUBIERTOS CON PELICULA",
+    "nregistro": "39059",
+    "api_url": "https://cima.aemps.es/cima/rest/medicamento?nregistro=39059",
+    "docs": [
+      {
+        "tipo": 1,
+        "url": "https://cima.aemps.es/cima/pdfs/ft/39059/FT_39059.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/ft/39059/FT_39059.html",
+        "secc": true,
+        "fecha": 1764203748000
+      },
+      {
+        "tipo": 2,
+        "url": "https://cima.aemps.es/cima/pdfs/p/39059/P_39059.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/p/39059/P_39059.html",
+        "secc": true,
+        "fecha": 1764203762000
+      }
+    ],
+    "name_api": "ALDACTONE 25 mg COMPRIMIDOS RECUBIERTOS CON PELICULA",
+    "principiosActivos": [
+      {
+        "id": 326,
+        "codigo": "326A",
+        "nombre": "ESPIRONOLACTONA",
+        "cantidad": "25",
+        "unidad": "mg",
+        "orden": 1
+      }
+    ],
+    "fecha_docs": [
+      1764203748000,
+      1764203762000
+    ]
+  },
+  {
+    "class": "potassium-sparing",
+    "drug": "eplerenone",
+    "product": "ELECOR 25 mg COMPRIMIDOS RECUBIERTOS CON PELICULA",
+    "nregistro": "66756",
+    "api_url": "https://cima.aemps.es/cima/rest/medicamento?nregistro=66756",
+    "docs": [
+      {
+        "tipo": 1,
+        "url": "https://cima.aemps.es/cima/pdfs/ft/66756/FT_66756.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/ft/66756/FT_66756.html",
+        "secc": true,
+        "fecha": 1662765363000
+      },
+      {
+        "tipo": 2,
+        "url": "https://cima.aemps.es/cima/pdfs/p/66756/P_66756.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/p/66756/P_66756.html",
+        "secc": true,
+        "fecha": 1662765376000
+      }
+    ],
+    "name_api": "ELECOR 25 mg COMPRIMIDOS RECUBIERTOS CON PELICULA",
+    "principiosActivos": [
+      {
+        "id": 2924,
+        "codigo": "2924A",
+        "nombre": "EPLERENONA",
+        "cantidad": "25,000",
+        "unidad": "mg",
+        "orden": 1
+      }
+    ],
+    "fecha_docs": [
+      1662765363000,
+      1662765376000
+    ]
+  },
+  {
+    "class": "potassium-sparing",
+    "drug": "amiloride",
+    "product": "AMERIDE 5 mg/50 mg COMPRIMIDOS (amiloride/HCTZ combination)",
+    "nregistro": "53265",
+    "api_url": "https://cima.aemps.es/cima/rest/medicamento?nregistro=53265",
+    "docs": [
+      {
+        "tipo": 1,
+        "url": "https://cima.aemps.es/cima/pdfs/ft/53265/FT_53265.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/ft/53265/FT_53265.html",
+        "secc": true,
+        "fecha": 1735863020000
+      },
+      {
+        "tipo": 2,
+        "url": "https://cima.aemps.es/cima/pdfs/p/53265/P_53265.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/p/53265/P_53265.html",
+        "secc": true,
+        "fecha": 1735863030000
+      }
+    ],
+    "name_api": "AMERIDE 5 mg/50 mg COMPRIMIDOS",
+    "principiosActivos": [
+      {
+        "id": 379,
+        "codigo": "379CH",
+        "nombre": "AMILORIDA HIDROCLORURO",
+        "cantidad": "5",
+        "unidad": "mg",
+        "orden": 1
+      },
+      {
+        "id": 1343,
+        "codigo": "1343A",
+        "nombre": "HIDROCLOROTIAZIDA",
+        "cantidad": "50",
+        "unidad": "mg",
+        "orden": 2
+      }
+    ],
+    "fecha_docs": [
+      1735863020000,
+      1735863030000
+    ]
+  },
+  {
+    "class": "potassium-sparing",
+    "drug": "triamterene",
+    "product": "SALIDUR 77,6 MG / 25 MG COMPRIMIDOS (triamterene/HCTZ combination)",
+    "nregistro": "53542",
+    "api_url": "https://cima.aemps.es/cima/rest/medicamento?nregistro=53542",
+    "docs": [
+      {
+        "tipo": 1,
+        "url": "https://cima.aemps.es/cima/pdfs/ft/53542/FT_53542.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/ft/53542/FT_53542.html",
+        "secc": true,
+        "fecha": 1713912050000
+      },
+      {
+        "tipo": 2,
+        "url": "https://cima.aemps.es/cima/pdfs/p/53542/P_53542.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/p/53542/P_53542.html",
+        "secc": true,
+        "fecha": 1713912063000
+      }
+    ],
+    "name_api": "SALIDUR 77,6 MG / 25 MG COMPRIMIDOS",
+    "principiosActivos": [
+      {
+        "id": 3162,
+        "codigo": "3162A",
+        "nombre": "TRIAMTERENO",
+        "cantidad": "0,0250",
+        "unidad": "g",
+        "orden": 1
+      },
+      {
+        "id": 1615,
+        "codigo": "1615NB",
+        "nombre": "FUROSEMIDA XANTINOL",
+        "cantidad": "0,0776",
+        "unidad": "g",
+        "orden": 2
+      }
+    ],
+    "fecha_docs": [
+      1713912050000,
+      1713912063000
+    ]
+  },
+  {
+    "class": "carbonic-anhydrase",
+    "drug": "acetazolamide",
+    "product": "EDEMOX 250 mg COMPRIMIDOS",
+    "nregistro": "24408",
+    "api_url": "https://cima.aemps.es/cima/rest/medicamento?nregistro=24408",
+    "docs": [
+      {
+        "tipo": 1,
+        "url": "https://cima.aemps.es/cima/pdfs/ft/24408/FT_24408.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/ft/24408/FT_24408.html",
+        "secc": true,
+        "fecha": 1729519312000
+      },
+      {
+        "tipo": 2,
+        "url": "https://cima.aemps.es/cima/pdfs/p/24408/P_24408.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/p/24408/P_24408.html",
+        "secc": true,
+        "fecha": 1728542023000
+      }
+    ],
+    "name_api": "EDEMOX 250 mg COMPRIMIDOS",
+    "principiosActivos": [
+      {
+        "id": 226,
+        "codigo": "226A",
+        "nombre": "ACETAZOLAMIDA",
+        "cantidad": "250",
+        "unidad": "mg",
+        "orden": 1
+      }
+    ],
+    "fecha_docs": [
+      1729519312000,
+      1728542023000
+    ]
+  },
+  {
+    "class": "SGLT2",
+    "drug": "dapagliflozin",
+    "product": "FORXIGA 10 MG COMPRIMIDOS RECUBIERTOS CON PELICULA",
+    "nregistro": "112795007",
+    "api_url": "https://cima.aemps.es/cima/rest/medicamento?nregistro=112795007",
+    "docs": [
+      {
+        "tipo": 1,
+        "url": "https://cima.aemps.es/cima/pdfs/ft/112795007/FT_112795007.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/ft/112795007/FT_112795007.html",
+        "secc": true
+      },
+      {
+        "tipo": 2,
+        "url": "https://cima.aemps.es/cima/pdfs/p/112795007/P_112795007.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/p/112795007/P_112795007.html",
+        "secc": true
+      },
+      {
+        "tipo": 3,
+        "url": "https://cima.aemps.es/cima/pdfs/ipe/112795007/IPE_112795007.pdf",
+        "secc": false
+      }
+    ],
+    "name_api": "FORXIGA 10 MG COMPRIMIDOS RECUBIERTOS CON PELICULA",
+    "principiosActivos": [
+      {
+        "id": 8615,
+        "codigo": "8615RH",
+        "nombre": "DAPAGLIFLOZINA PROPANODIOL",
+        "cantidad": "12,3",
+        "unidad": "mg",
+        "orden": 1
+      }
+    ],
+    "fecha_docs": [
+      null,
+      null,
+      null
+    ]
+  },
+  {
+    "class": "SGLT2",
+    "drug": "empagliflozin",
+    "product": "JARDIANCE 10 MG COMPRIMIDOS RECUBIERTOS CON PELICULA",
+    "nregistro": "114930014",
+    "api_url": "https://cima.aemps.es/cima/rest/medicamento?nregistro=114930014",
+    "docs": [
+      {
+        "tipo": 1,
+        "url": "https://cima.aemps.es/cima/pdfs/ft/114930014/FT_114930014.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/ft/114930014/FT_114930014.html",
+        "secc": true
+      },
+      {
+        "tipo": 2,
+        "url": "https://cima.aemps.es/cima/pdfs/p/114930014/P_114930014.pdf",
+        "urlHtml": "https://cima.aemps.es/cima/dochtml/p/114930014/P_114930014.html",
+        "secc": true
+      },
+      {
+        "tipo": 3,
+        "url": "https://cima.aemps.es/cima/pdfs/ipe/114930014/IPE_114930014.pdf",
+        "secc": false
+      }
+    ],
+    "name_api": "JARDIANCE 10 MG COMPRIMIDOS RECUBIERTOS CON PELICULA",
+    "principiosActivos": [
+      {
+        "id": 9048,
+        "codigo": "9048A",
+        "nombre": "EMPAGLIFLOZINA",
+        "cantidad": "10",
+        "unidad": "mg",
+        "orden": 1
+      }
+    ],
+    "fecha_docs": [
+      null,
+      null,
+      null
+    ]
+  }
+]

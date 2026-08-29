@@ -1,0 +1,32 @@
+PMID	42377498
+TITLE	Are Routine Labs Necessary? Postoperative Electrolyte Trends in Lipedema Patients Undergoing Liposuction: Insights from a Single-Center Retrospective Cohort.
+JOURNAL	Aesthetic plastic surgery
+TYPE	Journal Article
+DOI	10.1007/s00266-026-06004-w
+ABSTRACT
+[BACKGROUND] Liposuction is a standard treatment for advanced-stage lipedema, often involving large volumes of tumescent fluid infiltration and aspiration. These shifts raise concerns about postoperative electrolyte imbalances, though systematic data are limited.
+[METHODS] This retrospective single-center study analyzed 116 women with stage 2 or 3 lipedema who underwent liposuction between 2019 and 2023. Pre- and postoperative (within 24 hours) laboratory values including hemoglobin, hematocrit, leukocytes, and electrolytes were compared using paired t-tests, and correlations with clinical variables were assessed.
+[RESULTS] Postoperatively, lower hemoglobin (13.6 ? 0.9 to 11.8 ? 1.2?g/dL, p < .0001) and hematocrit (40.9 ? 2.5 to 35.1 ? 3.5%, p < .0001) levels were observed, alongside higher leukocyte counts (7.6 ? 3.1 to 13.1 ? 5.9 ? 109/L, p < .0001). Electrolyte shifts included higher chloride (104.7 ? 2.2 to 106.0 ? 1.9?mmol/L, p < .0001) and slightly lower calcium (2.3 ? 0.1 to 2.2 ? 0.1?mmol/L, p < .0001), sodium (140.8 ? 2.1 to 140.2 ? 2.1 mmol/L, p = .01), and potassium (4.1 ? 0.35 to 4.0 ? 0.4 mmol/L, p = .02). All parameters remained within physiological ranges and were not associated with adverse outcomes. Calcium correlated with hemoglobin (r = 0.49) and hematocrit (r = 0.51) and inversely with aspirate volume (r = -0.41, p = 0.001).
+[CONCLUSIONS] Post-liposuction electrolyte and hematologic changes are mild and clinically insignificant, reflecting predictable hemodilution rather than metabolic disturbance. Routine postoperative testing appears unnecessary for most patients, supporting selective monitoring in those with abnormal baseline values, high aspirate volumes, or relevant comorbidities.
+[LEVEL OF EVIDENCE III] This journal requires that authors assign a level of evidence to each article. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 .
+---
+PMID	39476528
+TITLE	A retrospective cohort study: Waterjet-assisted liposuction reduces inflammation but increases the risk of hypokalemia in patients with lipoedema.
+JOURNAL	Journal of plastic, reconstructive & aesthetic surgery : JPRAS
+TYPE	Journal Article
+DOI	10.1016/j.bjps.2024.10.013
+ABSTRACT
+[INTRODUCTION] Lipoedema is a congenital fat distribution disorder. It leads to a pathological increase in adipose tissue due to a hypertrophy and hyperplasia of the adipocytes. Currently, the disease affects approximately 10% of women. A common treatment of the disease is liposuction to remove the pathologic fat cells.
+[PATIENTS AND METHODS] A total of 47 patients (mean age: 62.00???12.96 years) were treated with the conventional tumescent liposuction and 25 patients (mean age of 45.16???12.87 years) with waterjet-assisted liposuction (WAL), a gentle, tissue-conserving method that washes out fat cells. WAL is thought to cause less damage to surrounding tissue than tumescent liposuction and thus, less trauma.
+[RESULTS] At the postoperative level, the C-reactive protein was significantly (p* = 0.0195) lower after WAL treatment, implying a lower inflammation level than after tumescent liposuction. Also, a decrease of electrolytes such as potassium in the blood serum was observed in some cases. The postoperative potassium level dropped by 0.30???0.24?mmol/l, a value that was significantly lower in WAL-treated patients where the level dropped by 0.47???0.31?mmol/l. The mean fat aspirate using the conventional tumescent method was 3302.13???1345.89?ml and 3727.08???151.96?ml with the WAL treatment.
+[CONCLUSIONS] WAL is a tissue-conserving method that washes out fat cells with less trauma to surrounding tissue as observed with conventional tumescent liposuction. WAL causes a lower inflammation level but higher loss of potassium ions. This latter aspect needs attention after the liposuction treatment.
+[TRIAL REGISTRATION] Waterjet-assisted liposuction reduces inflammation but increases the risk of hypokalemia when compared to conventional tumescent liposuction in patients with lipoedema, DRKS00034711. Registered July 17, 2024 - Retrospectively registered. Trial registration number DRKS00034711.
+---
+PMID	30349973
+TITLE	Acute edema induced by toluidine blue extravasation-first report.
+JOURNAL	Wiener medizinische Wochenschrift (1946)
+TYPE	Case Reports; Journal Article
+DOI	10.1007/s10354-018-0666-7
+ABSTRACT
+Methemoglobinemia is characterized by an increased level of methemoglobin (MetHb) in the peripheral blood. MetHb levels increase after tumescent anesthesia and need to be monitored. If a?patient becomes symptomatic and/or the MetHb levels increase >10%, intravenous injection of an antidote is recommended. Toluidine blue is twice as effective as methylene blue in this respect.A?27-year-old woman with advanced lipedema underwent her third liposuction under tumescent anesthesia. After surgery, her MetHb levels increased and needed injection of toluidine blue. She developed an acute and painful edema after extravasation of some toluidine blue due to a?bursting vein. This is the first report in the recent medical literature. Clinical presentation, course, and treatment are described.
+---

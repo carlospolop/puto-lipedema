@@ -1,0 +1,613 @@
+                                            FICHA TÉCNICA
+
+1. NOMBRE DEL MEDICAMENTO
+
+Indapamida NORMON 2,5 mg Comprimidos recubiertos EFG.
+
+2. COMPOSICIÓN CUALITATIVA Y CUANTITATIVA
+
+Cada comprimido recubierto con película contiene 2,5 mg de indapamida.
+
+Excipientes con efecto conocido: .
+Cada comprimido recubierto con película contiene 59, 25 mg de lactosa
+
+Para consultar la lista completa de excipientes ver sección 6.1.
+
+3. FORMA FARMACÉUTICA
+
+Comprimidos recubiertos con película de color blanco y forma lenticular.
+
+4. DATOS CLÍNICOS
+
+4.1. Indicaciones terapéuticas
+
+Indapamida NORMON está indicada en hipertensión arterial esencial en adultos..
+
+4.2. Posología y forma de administración
+
+Posología
+
+Un comprimido cada 24 horas, preferentemente por la mañana, que debe ser tragado entero sin masticar
+con un poco de agua.
+A dosis más altas, no se observa un aumento de la acción antihipertensiva de la indapamida, pero si de su
+efecto diurético.
+
+Poblaciones especiales
+Pacientes con insuficiencia renal (ver secciones 4.3 y 4.4):
+En insuficiencia renal grave (aclaramiento de creatinina inferior a 30 ml/min), el tratamiento está
+contraindicado.
+Las tiazidas y los diuréticos relacionados son completamente eficaces sólo cuando la función renal es
+normal o está sólo mínimamente alterada.
+
+Pacientes de edad avanzada (ver sección 4.4):
+En los ancianos, la creatinina plasmática debe ajustarse en función de la edad, peso y sexo. Los pacientes
+ancianos pueden tratarse con Indapamida NORMON cuando la función renal es normal o está sólo
+mínimamente alterada.
+
+Pacientes con insuficiencia hepática (ver secciones 4.3 y 4.4):
+En pacientes con insuficiencia hepática grave, el tratamiento está contraindicado.
+
+ Población pediátrica
+No ha sido establecida la seguridad y eficacia de Indapamida NORMON en niños y adolescentes. No hay
+datos disponibles.
+
+                                                   1 de 12
+Forma de administración
+
+Vía oral
+
+4.3. Contraindicaciones
+
+     Hipersensibilidad al principio activo, a otras sulfamidas, o a alguno de los excipientes incluidos en la
+        sección 6.1.
+     Insuficiencia renal grave.
+     Encefalopatía hepática o alteración grave de la función hepática.
+     Hipopotasemia.
+
+4.4. Advertencias y precauciones especiales de empleo
+
+Advertencias especiales
+En caso de afección hepática, los diuréticos del tipo de los tiazídicos pueden inducir una encefalopatía
+hepática, especialmente en caso de desequilibrio electrolítico. En este caso, la administración del diurético
+debe interrumpirse inmediatamente.
+
+Fotosensibilidad
+Se han notificado reacciones de fotosensibilidad con tiazidas y diuréticos del tipo de los tiazídicos (ver
+sección 4.8). Si durante el tratamiento aparece una reacción de fotosensibilidad, se recomienda interrumpir
+el tratamiento. Si considera necesario volver a administrar el diurético, se recomienda proteger las áreas
+expuestas al sol y a los rayos UVA artificiales.
+
+
+Precauciones especiales de empleo
+
+-          Equilibrio hidroelectrolítico:
+
+          Natremia:
+
+La natremia debe ser controlada antes de iniciar el tratamiento y posteriormente a intervalos regulares.
+Cualquier tratamiento diurético puede provocar una hiponatremia cuyas consecuencias en algunos casos
+pueden ser graves. La disminución de la natremia puede ser inicialmente asintomática, por lo que es
+indispensable efectuar un control regular. Este debe ser aún más frecuente en las personas de edad
+avanzada y pacientes con cirrosis (ver secciones 4.8 y 4.9).
+
+          Potasemia:
+
+La depleción potásica con hipopotasemia constituye el mayor riesgo de los diuréticos tiazídicos y similares.
+El riesgo de aparición de hipopotasemia (<3,4 mmol/l) debe prevenirse en ciertas poblaciones de riesgo,
+como las personas de edad avanzada, desnutridos y/o polimedicados, cirróticos con edemas y ascitis y en
+los pacientes con coronopatías e insuficiencia cardiaca. En este último caso la hipopotasemia aumenta la
+toxicidad cardiaca de los digitálicos y el riesgo de arritmias.
+
+Asimismo, presentan una situación de riesgo las personas con alargamiento del intervalo QT,
+independientemente de que el mismo sea de origen congénito o iatrogénico. La hipopotasemia al igual que
+la bradicardia, actúa como un factor que favorece la aparición de arritmias graves, especialmente “torsades
+de pointes”, potencialmente fatales.
+
+
+
+
+                                                   2 de 12
+En todos los casos descritos anteriormente, es preciso controlar con mayor frecuencia la potasemia. El
+primer control del potasio plasmático debe efectuarse durante la 1ª semana después del inicio del
+tratamiento.
+
+La detección de una hipopotasemia requiere su corrección. La hipopotasemia observada en asociación con
+una concentración baja de magnesio sérico puede ser refractaria al tratamiento a menos que se corrija el
+magnesio sérico.
+
+       Magnesio en plasma:
+
+      Se ha demostrado que las tiazidas y los diuréticos relacionados, incluida indapamida, aumentan la
+excreción urinaria de magnesio, lo que puede provocar hipomagnesemia (ver secciones 4.5 y 4.8).
+     Calcio plasmático:
+
+Los diuréticos tiazídicos y similares pueden disminuir la eliminación urinaria del calcio y provocar un
+aumento leve y transitorio de la calcemia. Una hipercalcemia real puede estar relacionada con la existencia
+de un hiperparatiroidismo previo no diagnosticado.
+Antes de evaluar la función paratiroidea es preciso interrumpir el tratamiento.
+
+-       Glucemia:
+
+En los diabéticos es importante controlar la glucemia, especialmente en presencia de hipopotasemia.
+
+-       Ácido úrico:
+
+Este fármaco puede aumentar la tendencia a la crisis de gota en pacientes hiperuricémicos.
+
+-       Función renal y diuréticos:
+
+Los diuréticos tiazídicos y similares sólo son completamente eficaces cuando la función renal es normal o
+está poco alterada (creatinina plasmática inferior a valores del orden de 25 mg/l, es decir, 220 mol/l en el
+adulto). En las personas de edad avanzada, el valor de la creatinina plasmática debe ajustarse en función de
+la edad, el peso y el sexo del paciente.
+La hipovolemia, secundaria a la pérdida de agua y de sodio inducida por el diurético al comienzo del
+tratamiento, genera una disminución de la filtración glomerular. Este hecho puede dar lugar a un aumento
+de la urea sanguínea y de la creatinina plasmática. Esta insuficiencia renal funcional transitoria no tiene
+consecuencias en las personas con función renal normal, pero puede agravar una insuficiencia renal
+preexistente.
+
+
+-       Derrame coroideo, miopía aguda y glaucoma secundario de ángulo cerrado
+
+Los medicamentos con sulfonamida o medicamentos derivados de sulfonamida pueden causar una reacción
+idiosincrásica que dé lugar a un derrame coroideo con defecto del campo visual, miopía transitoria o
+glaucoma agudo de ángulo cerrado. Los síntomas incluyen comienzo agudo de disminución de agudeza
+visual o dolor ocular y normalmente suelen ocurrir desde unas horas a unas semanas tras el comienzo del
+tratamiento. Un glaucoma agudo de ángulo cerrado no tratado puede conducir a una pérdida de visión de
+forma permanente. El tratamiento primario es interrumpir la hidroclorotiazida tan rápidamente como sea
+posible. Si la presión intraocular permanece no controlada puede considerarse necesario un tratamiento
+médico o quirúrgico inmediato. Los factores de riesgo para desarrollar glaucoma agudo de ángulo cerrado
+pueden incluir un historial de alergia a las sulfonamidas o penicilinas.
+
+                                                   3 de 12
+Uso en deportistas:
+
+Se debe advertir a los pacientes que este medicamento contiene indapamida, que puede producir un
+resultado positivo en las pruebas de control del dopaje.
+
+
+Advertencias sobre excipientes
+Este medicamento contiene lactosa. Los pacientes con intolerancia hereditaria a galactosa, deficiencia total
+de lactasa o problemas de absorción de glucosa o galactosa no deben tomar este medicamento.
+
+Este medicamento contiene menos de 1 mmol de sodio (23 mg) por comprimido; esto es, esencialmente
+“exento de sodio”.
+
+4.5. Interacción con otros medicamentos y otras formas de interacción
+
+Asociaciones no recomendadas:
+
+Litio:
+
+Aumento de la concentración sanguínea de litio con signos de sobredosis, como en el caso de un régimen
+sin sodio (disminución de la excreción urinaria de litio). Sin embargo, en los casos en los que es necesario
+el uso de diuréticos, debe vigilarse estrictamente la concentración sanguínea de litio y adaptar la posología.
+
+
+Asociaciones que necesitan precauciones de empleo:
+
+Medicamentos que ocasionan “torsades de pointes”:
+
+         -     antiarrítmicos del grupo Ia (quinidina, hidroquinidina, disopiramida),
+         -     antiarrítmicos del grupo III (amiodarona, sotalol, dofetilida, ibutilina),
+         -     algunos antipsicóticos:
+               fenotiazinas (clorpromazina, ciamemazina, levomepromazina, tioridazina, trifluoperazina),
+               benzamidas (amisulprida, sulpirida, sultoprida, tiaprida),
+               butirofenonas (droperidol, haloperidol),
+               otros: bepridil, cisaprida, difemanil, eritromicina IV, halofantrina, mizolastina, pentamidina,
+               esparfloxacino, moxifloxacino, vincamina IV.
+Riesgo aumentado de arritmias ventriculares, especialemente “torsades de pointes” (la hipopotasemia es un
+factor de riesgo).
+   Prevención de hipopotasemia y, si es necesario, corrección antes de introducir esta asociación.
+   Vigilancia clínica, de electrolitos plasmáticos y del ECG.
+
+
+En caso de hipopotasemia, se deben emplear sustancias que no tengan el inconveniente de causar
+“torsades de pointes”.
+
+
+AINE (sistémicos) incluyendo los inhibidores selectivos de la COX-2, dosis elevadas de ácido salicílico
+(≥3 g/día):
+
+Posible reducción del efecto antihipertensor de la indapamida.
+
+                                                   4 de 12
+Riesgo de insuficiencia renal aguda en pacientes deshidratados (disminución de la filtración glomerular).
+Hidratar al paciente y controlar la función renal al comienzo del tratamiento.
+
+
+Inhibidores de la enzima convertidora de la angiotensina (IECA):
+
+Riesgo de hipotensión arterial brusca y/o de insuficiencia renal aguda al comienzo del tratamiento con un
+IECA en caso de que exista una depleción previa de sodio (especialmente en pacientes con estenosis de la
+arteria renal).
+
+En la hipertensión, cuando un tratamiento diurético previo pudiera haber generado una depleción de sodio,
+es preciso:
+
+     - interrumpir la administración del diurético 3 días antes del inicio del tratamiento con el IECA y
+comenzar a administrar un diurético ahorrador de potasio si fuera necesario;
+     - o bien administrar dosis iniciales bajas del IECA, aumentando progresivamente la dosis.
+
+En la insuficiencia cardiaca congestiva, comenzar con una dosis muy baja del IECA eventualmente
+después de disminuir la dosis del diurético ahorrador de potasio asociado.
+
+En todos los casos, controlar la función renal (creatinina plasmática) durante las primeras semanas de
+tratamiento con el IECA.
+
+Otros fármacos que causan hipopotasemia: anfotericina B (IV), gluco y mineralocorticoides
+(sistémicos), tetracosactida, laxantes estimulantes:
+
+Riesgo importante de hipopotasemia (efecto aditivo).
+Control de la potasemia y, si fuera necesario, corregirla. Tener este hecho especialmente presente en el
+caso de administración de un tratamiento digitálico. Utilizar laxantes no estimulantes.
+
+
+Baclofeno:
+
+Aumento del efecto antihipertensor.
+Hidratar al paciente y controlar la función renal al comienzo del tratamiento.
+
+Digitálicos:
+
+La hipopotasemia y/o la hipomagnesemia predisponen a los efectos tóxicos de los digitálicos.
+Se recomienda controlar el potasio plasmático, el magnesio plasmático y el ECG y, si es necesario, ajustar
+el tratamiento.
+
+Alopurinol:
+
+El tratamiento concomitante con indapamida puede aumentar la incidencia de reacciones de
+hipersensibilidad a alopurinol.
+
+Asociaciones a tener en consideración:
+
+Diuréticos ahorradores de potasio (amilorida, espironolactona y triamtereno)
+
+                                                   5 de 12
+Mientras que las asociaciones racionales son útiles en algunos pacientes, aún puede producirse
+hipopotasemia o hiperpotasemia (especialmente en pacientes con insuficiencia renal o diabetes). Debe
+controlarse la potasemia y el ECG y, si fuera necesario, adaptar el tratamiento.
+
+
+Metformina:
+
+Mayor riesgo de acidosis láctica debida a la metformina, debido a una eventual insuficiencia renal
+funcional vinculada a los diuréticos y más especialmente a los diuréticos del asa.
+No utilizar la metformina cuando la creatininemia supera 15 mg/l (135 mol/l) en el hombre y 12 mg/l
+(110 mol/l) en la mujer.
+
+
+Productos de contraste yodados:
+
+En caso de deshidratación provocada por los diuréticos existe riesgo mayor de insuficiencia renal aguda,
+especialmente cuando se utilizan dosis elevadas de productos de contraste yodados.
+Rehidratar al paciente antes de administrar el producto yodado.
+
+Antidepresivos tipo imipramínicos, neurolépticos:
+
+Aumento del efecto antihipertensor y mayor riesgo de hipotensión ortostática (efecto aditivo).
+
+
+Sales de calcio:
+
+Riesgo de hipercalcemia por disminución de la eliminación urinaria de calcio.
+
+Ciclosporina, tacrolimus:
+
+Riesgo de aumento de la creatinina plasmática sin modificación de las tasas circulantes de ciclosporina,
+incluso en ausencia de depleción de sodio y agua.
+
+Corticosteroides, tetracosactida (sistémicos):
+
+   Disminución del efecto antihipertensor (retención de sodio y agua ocasionada por los corticoides).
+
+4.6. Fertilidad, embarazo y lactancia
+
+
+
+
+Embarazo
+
+No existen datos o existen datos limitados (menos de 300 resultados de embarazos) del uso de indapamida
+en mujeres embarazadas. La exposición prolongada a una tiazida durante el tercer trimestre del embarazo
+puede reducir el volumen plasmático materno así como el flujo sanguíneo útero-placentario, que puede
+causar isquemia feto-placentaria y retraso del crecimiento.
+Los estudios con animales no indican directa ni indirectamente efectos perjudiciales con respecto a la
+toxicidad reproductiva (ver sección 5.3).
+
+
+                                                  6 de 12
+Como medida de precaución, es preferible evitar el uso de indapamida durante el embarazo.
+
+Lactancia
+
+No existe suficiente información sobre la excreción de indapamida/metabolitos en la leche materna. La
+indapamida está estrechamente relacionada con los diuréticos tiazídicos, los cuales se han asociado, durante
+la lactancia, con la disminución o incluso la supresión de la lactancia. Podría aparecer una hipersensibilidad
+a medicamentos derivados de sulfonamidas e hipopotasemia.
+No puede excluirse el riesgo en neonatos.
+Indapamida no debe utilizarse durante la lactancia.
+
+Fertilidad
+
+Los estudios de toxicidad reproductiva no han mostrado efectos sobre la fertilidad en ratas machos y
+hembras (ver sección 5.3). No se anticipan efectos sobre la fertilidad humana.
+
+4.7. Efectos sobre la capacidad para conducir y utilizar máquinas
+
+Indapamida no afecta al estado de alerta, pero en algunos casos puede producir diferentes reacciones
+relacionadas con la disminución de la presión arterial, especialmente al inicio del tratamiento o cuando se
+administra junto con otro agente antihipertensor.
+Como consecuencia, la capacidad para conducir vehículos o para utilizar maquinaria puede estar alterada.
+
+
+4.8. Reacciones adversas
+
+Resumen del perfil de seguridad
+Las reacciones adversas notificadas más frecuentemente son hipopotasemia reacciones de
+hipersensibilidad, principalmente dermatológicas en individuos con una predisposición a las reacciones
+asmáticas y alérgicas y erupciones maculopapulares.
+Listado tabulado de reacciones adversas
+
+Las siguientes reacciones adversas han sido observadas con indapamida durante el tratamiento, clasificadas
+según la siguiente frecuencia:
+
+Muy frecuentes (≥ 1/10); frecuentes (≥ 1/100, <1/10); poco frecuentes (≥ 1/1.000, <1/100); raras (≥
+1/10.000, <1/1.000); muy raras (<1/10.000), frecuencia no conocida (no puede estimarse a partir de los
+datos disponibles).
+
+
+
+ Clasificación de órganos del sistema                 Reacciones adversas                Frecuencia
+              MedDRA
+Trastornos de la sangre y del sistema        Agranulocitosis                              Muy rara
+linfático
+                                             Anemia aplásica                              Muy rara
+                                             Anemia hemolítica                            Muy rara
+                                             Leucopenia                                   Muy rara
+                                             Trombocitopenia                              Muy rara
+Trastornos del metabolismo y de la
+                                             Hipercalcemia                                Muy rara
+nutrición
+                                             Hipopotasemia (ver sección 4.4)              Frecuente
+
+
+                                                   7 de 12
+                                     Hiponatremia                         Poco frecuente
+                                     Hipocloremia                             Rara
+                                     Hipomagnesemia                           Rara
+Trastornos del sistema nervioso      Vértigo                                  Rara
+                                     Fatiga                                   Rara
+                                     Cefalea                                  Rara
+                                     Parestesia                               Rara
+                                     Síncope                               No conocida
+
+Trastornos oculares                  Miopía                                No conocida
+                                     Visión borrosa                        No conocida
+                                     Alteración visual                     No conocida
+                                     Derrame coroideo                      No conocida
+                                     Arritmia
+Trastornos cardiacos                                                        Muy rara
+                                     Torsade de pointes (potencialmente
+                                                                           No conocida
+                                     fatal) (ver secciones 4.4 y 4.5)
+Trastornos vasculares                Hipotensión                            Muy rara
+Trastornos gastrointestinales        Vómitos                              Poco frecuente
+                                     Náuseas                                  Rara
+                                     Estreñimiento                            Rara
+                                     Sequedad de boca                         Rara
+                                     Pancreatitis                           Muy rara
+                                     Función hepática anormal               Muy rara
+                                     Posibilidad de aparición de           No conocida
+                                     encefalopatía hepática en caso de
+Trastornos hepatobiliares
+                                     insuficiencia hepática (ver
+                                     secciones 4.3 y 4.4).
+                                     Hepatitis                             No conocida
+Trastornos de la piel y del tejido
+                                     Reacciones de hipersensibilidad,       Frecuente
+subcutáneo
+                                     principalmente dermatológicas en
+                                     individuos con una predisposición
+                                     a las reacciones asmáticas y
+                                     alérgicas
+                                     Erupciones maculopapulares             Frecuente
+                                     Púrpura                              Poco frecuente
+                                     Angioedema                             Muy rara
+                                     Urticaria                              Muy rara
+                                     Necrolisis epidérmica tóxica           Muy rara
+                                     Síndrome de Stevens-Johnson            Muy rara
+
+
+
+                                          8 de 12
+                                            Posible empeoramiento de un lupus         No conocida
+                                            eritematoso diseminado agudo ya
+                                            establecido
+                                            Reacciones de fotosensibilidad (ver       No conocida
+                                            sección 4.4)
+Trastornos renales y urinarios              Insuficiencia renal                        Muy rara
+Exploraciones complementarias               Intervalo QT del                          No conocida
+                                            electrocardiograma prolongado
+                                            (ver secciones 4.4 y 4.5)
+                                            Glucemia aumentada                        No conocida
+                                            Uricemia aumentada                        No conocida
+                                            Niveles elevados de enzimas               No conocida
+                                            hepáticas
+Trastornos del aparato reproductor y
+                                            Disfunción eréctil                       Poco frecuente
+de la mama
+
+Descripción de reacciones adversas seleccionadas
+Durante los estudios de fase II y III que compararon indapamida 1,5 mg y 2,5 mg, el análisis de potasio
+plasmático mostró un efecto dosis-dependiente de indapamida:
+       Indapamida 2,5 mg: se observaron valores de potasio plasmático <3,4 mmol/l en el 25% de los
+        pacientes y <3,2 mmol/l en el 10% de los pacientes tras 4 a 6 semanas de tratamiento. Tras 12
+        semanas de tratamiento, el descenso medio del potasio plasmático fue de 0,41 mmol/l.
+
+Notificación de sospechas de reacciones adversas:
+Es importante notificar sospechas de reacciones adversas al medicamento tras su autorización. Ello permite
+una supervisión continuada de la relación beneficio/riesgo del medicamento. Se invita a los profesionales
+sanitarios a notificar las sospechas de reacciones adversas a través del Sistema Español de
+Farmacovigilancia de medicamentos de Uso Humano: https://www.notificaram.es.
+
+
+4.9. Sobredosis
+
+Síntomas
+La indapamida no ha mostrado toxicidad hasta una dosis de 40 mg, es decir, 16 veces la dosis terapéutica.
+Los signos de intoxicación aguda se manifiestan sobre todo como alteraciones hidroelectrolíticas
+(hiponatremia e hipopotasemia). A nivel clínico, es posible la aparición de náuseas, vómitos, hipotensión
+arterial, calambres, vértigos, somnolencia, confusión, poliuria u oliguria que pueden originar una anuria
+(por hipovolemia).
+
+Manejo
+Las primeras medidas a instaurar consisten en eliminar rápidamente el o los productos ingeridos mediante
+un lavado gástrico y/o administración de carbón activo, restaurando posteriormente el equilibrio
+hidroelectrolítico en un centro especializado hasta su normalización.
+
+5. PROPIEDADES FARMACOLÓGICAS
+
+5.1. Propiedades farmacodinámicas
+
+Grupo farmacoterapéutico: Sulfonamidas, monofármacos, código ATC C03BA11
+
+
+                                                   9 de 12
+Mecanismo de acción
+La indapamida es un derivado sulfamídico con un anillo indol, relacionada farmacológicamente con los
+diuréticos tiazídicos, que actúa inhibiendo la reabsorción del sodio a nivel del segmento cortical de
+dilución. Aumenta la excreción urinaria de sodio y de cloruros y, en menor grado, la excreción de potasio y
+magnesio, aumentando de este modo la diuresis y ejerciendo una acción antihipertensiva.
+
+Efectos farmacodinámicos
+Los resultados obtenidos en los estudios de fase II y III han mostrado que este fármaco ejerce en
+monoterapia un efecto antihipertensor que se mantiene durante 24 horas. Este efecto se obtiene a dosis en
+las que los efectos diuréticos son de grado medio.
+La actividad antihipertensiva de la indapamida se halla relacionada con una mejoría de la distensión arterial
+y disminución de la resistencia periférica total y arteriolar.
+La indapamida disminuye la hipertrofia ventricular izquierda.
+
+A partir de una cierta dosis, el efecto terapéutico de las tiazidas y de los diuréticos relacionados alcanza una
+meseta, mientras que los efectos adversos continúan aumentando. No debe aumentarse la dosis si el
+tratamiento es ineficaz.
+
+Por otra parte, se ha demostrado que en el paciente hipertenso la indapamida a corto, medio y largo plazo:
+
+       - no interfiere con el metabolismo lipídico: triglicéridos, colesterol-LDL y colesterol-HDL;
+no interfiere con el metabolismo glucídico, incluso en el hipertenso diabético.
+
+5.2. Propiedades farmacocinéticas
+
+Absorción
+
+La indapamida se caracteriza por una gran biodisponibilidad (93%).
+El tiempo necesario para alcanzar las concentraciones séricas máximas (Tmax) varía entre una y dos horas
+después de una dosis de 2,5 mg.
+
+
+Distribución
+
+La unión a las proteínas plasmáticas es aprox. 75%.
+La semivida de eliminación es de 14 a 24 horas (18 horas en promedio).
+La administración reiterada de indapamida aumenta las concentraciones plasmáticas en estado de equilibrio
+(meseta) en comparación con una dosis única, pero dicha meseta se mantiene estable con el tiempo, lo que
+indica que no se produce acumulación.
+
+
+Eliminación
+
+La eliminación renal representa el 60 a 80% de la eliminación total.
+Indapamida se excreta fundamentalmente en forma de metabolitos, el porcentaje de producto intacto en la
+orina es del 5%.
+
+Insuficiencia renal
+
+Los parámetros farmacocinéticos no se modifican.
+
+
+
+                                                   10 de 12
+5.3. Datos preclínicos sobre seguridad
+
+
+Indapamida ha dado resultados negativos en las pruebas relativas a las propiedades mutagénicas y
+carcinogénicas.
+La administración oral de las dosis más altas a diferentes especies animales (40 a 8000 veces la dosis
+terapéutica) mostró una exacerbación de las propiedades diuréticas de la indapamida. En los estudios de
+toxicidad aguda realizados con indapamida, administrada por vía intravenosa o intraperitoneal, los síntomas
+principales se relacionaron con la acción farmacológica del fármaco, es decir, bradipnea y vasodilatación
+periférica.
+Indapamida no posee propiedades mutagénicas ni carcinogénicas.
+Los estudios sobre toxicidad reproductiva no han mostrado embriotoxicidad ni teratogeneicidad.
+No se afectó la fertilidad en ratas macho ni hembra.
+
+6 . DATOS FARMACÉUTICOS
+
+6.1. Lista de excipientes
+
+Núcleo:
+
+Almidón de maíz
+Lactosa
+Polividona
+Estearato magnésico
+Talco
+
+Película de recubrimiento:
+Dióxido de titanio
+Cera blanca de abeja
+Glicerol
+Laurilsulfato sódico
+Macrogol 6000
+Metilhidroxipropilcelulosa
+Estearato magnésico
+
+
+6.2. Incompatibilidades
+
+No procede
+
+6.3. Periodo de validez
+
+3 años
+
+6.4. Precauciones especiales de conservación
+
+No conservar a temperatura superior a 25ºC.
+
+6.5. Naturaleza y contenido del envase
+
+30 comprimidos recubiertos en bliter (PVC/Aluminio).
+
+                                                 11 de 12
+6.6. Precauciones especiales de eliminación y otras manipulaciones
+
+Ninguna especial
+
+7. TITULAR DE LA AUTORIZACIÓN DE COMERCIALIZACIÓN
+
+LABORATORIOS NORMON, S.A.
+Ronda de Valdecarrizo, 6
+28760 Tres Cantos – Madrid
+
+
+8. NÚMERO(S) DE AUTORIZACIÓN DE COMERCIALIZACIÓN
+
+63368
+
+9. FECHA DE LA PRIMERA AUTORIZACIÓN/ RENOVACIÓN DE LA AUTORIZACIÓN
+
+Fecha de la primera autorización: 28 de Octubre de 2000.
+Fecha última revalidación: 30 de Junio de 2010.
+
+
+10. FECHA DE LA REVISIÓN DEL TEXTO
+
+Octubre 2021
+
+
+
+
+                                                12 de 12
+
