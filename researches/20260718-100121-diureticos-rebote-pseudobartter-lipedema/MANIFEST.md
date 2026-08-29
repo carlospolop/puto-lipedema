@@ -3,15 +3,15 @@
 **Regenerado el 2026-08-29**; se excluye este propio archivo. SHA-256 calculado sobre los bytes exactos.
 
 - Archivos inventariados: **1795**
-- Bytes totales: **261939047**
+- Bytes totales: **261939584**
 - Cola Chack: `lipedema-diureticos-20260718`
 - Lotes terminales documentados: `batch-1-cbe05eaa`, `batch-2-ed77ebe9`, `batch-3-d1298d65`, `batch-4-f5310af5`
 - Barrera final: `processing_count=0`; P09/P10 solicitaron `prochatgpt_researcher` pero la capacidad no estuvo expuesta; sus respaldos no cuentan como Pro.
 
 | Tipo | Ruta | Bytes | SHA-256 |
 |---|---|---:|---|
-| Archivo | `curent-research.md` | 11826 | `fa9c8d40fd4fbe61a0f59f3d5ac004d5b18824a55724a0ef79e48d1c63e6288c` |
-| Archivo | `current-research.md` | 11826 | `fa9c8d40fd4fbe61a0f59f3d5ac004d5b18824a55724a0ef79e48d1c63e6288c` |
+| Archivo | `curent-research.md` | 11887 | `3b4ffbb39e9bca9734d8ff71d9f561306086cea53f7b238a92e9dd3aff84632c` |
+| Archivo | `current-research.md` | 11887 | `3b4ffbb39e9bca9734d8ff71d9f561306086cea53f7b238a92e9dd3aff84632c` |
 | Archivo | `evidence/chack/batch-3-d1298d65-result.md` | 2594 | `a79e11b72218fd8104b9f7341358cab3169b2b8ea0d6b7909babacae348fd41a` |
 | Archivo | `evidence/chack/deep-01-admin.json` | 71928 | `964eb0a48d488659d43285048536192b96d87676905802fe9e30a4b2a2231e8a` |
 | Archivo | `evidence/chack/deep-01-internal-output-001.json` | 28297 | `95a9ea7e45dd2240dc6262f050e528a8ff5e03799f895495823030b5f565579c` |
@@ -1804,4 +1804,4 @@
 | Archivo | `prompts/scientific-round1.txt` | 2363 | `e10e8b02956cc5ea6151f15bc634f18cad546d2b66cfcc67341244fe2ffbdbea` |
 | Archivo | `prompts/serpapi-round1.txt` | 2463 | `30c6392546f8204c6fbbe887a12b956099178570ae9098cc3f7d55abfeb53278` |
 | Archivo | `prompts/source-verification-round2.txt` | 3116 | `f4583b26d2f2c23972ca2d0c44fc6947f83c9e33ab462a6567a3772c71bccf3a` |
-| Archivo | `summary.md` | 13493 | `52e693b295d681e0fde23748999efb6077294969102b0ec91cb9e1c4d2960fc8` |
+| Archivo | `summary.md` | 13908 | `de0b0fea9df707d095707c752152f59178d6c2bac3124dbc4e1139d233d34974` |
