@@ -3,7 +3,7 @@
 **Regenerado el 2026-08-29**; se excluye este propio archivo. SHA-256 calculado sobre los bytes exactos.
 
 - Archivos inventariados: **1795**
-- Bytes totales: **261939584**
+- Bytes totales: **261940434**
 - Cola Chack: `lipedema-diureticos-20260718`
 - Lotes terminales documentados: `batch-1-cbe05eaa`, `batch-2-ed77ebe9`, `batch-3-d1298d65`, `batch-4-f5310af5`
 - Barrera final: `processing_count=0`; P09/P10 solicitaron `prochatgpt_researcher` pero la capacidad no estuvo expuesta; sus respaldos no cuentan como Pro.
@@ -1798,7 +1798,7 @@
 | Archivo | `evidence/subagents/serpapi-round1.stderr` | 36 | `658924fa8a59cba344db72d523987588998f6e4c2bf53514d2b00a98839026f4` |
 | Archivo | `evidence/subagents/source-verification-round2.md` | 35045 | `80f9ee44990138a68551fa0e9b3bf521c4ff18e0ea68870b7d9e3d1f549f2ecb` |
 | Archivo | `evidence/subagents/source-verification-round2.stderr` | 36 | `ec4262d62b018becfe5192fd74337be6b85ac15d9178b56e1c731c03b65cd6a6` |
-| Archivo | `launch-log.md` | 12805 | `a6f1d7b534034cd3f2deaef69cc9a66bbc0b81c6da26d55f462d09a3ff6d8b20` |
+| Archivo | `launch-log.md` | 13655 | `6e8daa3aeda7ba48972dd6fdcbf66ca12b84fe1e2a480310575871b8d4f4cae1` |
 | Archivo | `prompts/falsation-round3.txt` | 3617 | `5bb3ca238e4d473acbffe2d18d5d2da3882a353c51c2608bd18e3daffc8e7263` |
 | Archivo | `prompts/osint-round1.txt` | 2661 | `93508b245c657184d9d9e014e9eab60347f69f414019a8b2375716767038c05d` |
 | Archivo | `prompts/scientific-round1.txt` | 2363 | `e10e8b02956cc5ea6151f15bc634f18cad546d2b66cfcc67341244fe2ffbdbea` |
