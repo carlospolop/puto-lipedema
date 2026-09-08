@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30"
+  },
+  "results": [
+    {
+      "term": "FATIGUE",
+      "count": 156
+    },
+    {
+      "term": "FALL",
+      "count": 151
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 141
+    },
+    {
+      "term": "DEATH",
+      "count": 137
+    },
+    {
+      "term": "NAUSEA",
+      "count": 137
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 128
+    },
+    {
+      "term": "HEADACHE",
+      "count": 112
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 107
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 102
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 97
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 95
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 95
+    },
+    {
+      "term": "VOMITING",
+      "count": 94
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 88
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 88
+    },
+    {
+      "term": "PAIN",
+      "count": 83
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 83
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 82
+    },
+    {
+      "term": "MALAISE",
+      "count": 80
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 78
+    },
+    {
+      "term": "PYREXIA",
+      "count": 74
+    },
+    {
+      "term": "LOSS OF CONSCIOUSNESS",
+      "count": 70
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 66
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 65
+    },
+    {
+      "term": "SYNCOPE",
+      "count": 63
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 61
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 60
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 59
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 56
+    },
+    {
+      "term": "HALLUCINATION",
+      "count": 55
+    },
+    {
+      "term": "ANXIETY",
+      "count": 53
+    },
+    {
+      "term": "RASH",
+      "count": 50
+    },
+    {
+      "term": "COUGH",
+      "count": 49
+    },
+    {
+      "term": "COVID-19",
+      "count": 49
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 49
+    },
+    {
+      "term": "BLOOD PRESSURE DECREASED",
+      "count": 48
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 48
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 48
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 48
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 47
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 46
+    },
+    {
+      "term": "SEIZURE",
+      "count": 46
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 45
+    },
+    {
+      "term": "TREMOR",
+      "count": 44
+    },
+    {
+      "term": "PRURITUS",
+      "count": 42
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 40
+    },
+    {
+      "term": "ORTHOSTATIC HYPOTENSION",
+      "count": 40
+    },
+    {
+      "term": "SINUSITIS",
+      "count": 40
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 39
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 39
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 39
+    },
+    {
+      "term": "INFECTION",
+      "count": 39
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 39
+    },
+    {
+      "term": "ILLNESS",
+      "count": 38
+    },
+    {
+      "term": "MIGRAINE",
+      "count": 37
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 36
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 34
+    },
+    {
+      "term": "HOSPITALISATION",
+      "count": 34
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 34
+    },
+    {
+      "term": "MUSCULAR WEAKNESS",
+      "count": 33
+    },
+    {
+      "term": "BLOOD POTASSIUM DECREASED",
+      "count": 32
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 31
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 31
+    },
+    {
+      "term": "HYPONATRAEMIA",
+      "count": 31
+    },
+    {
+      "term": "NEUROPATHY PERIPHERAL",
+      "count": 31
+    },
+    {
+      "term": "CHEST DISCOMFORT",
+      "count": 30
+    },
+    {
+      "term": "GENERAL PHYSICAL HEALTH DETERIORATION",
+      "count": 30
+    },
+    {
+      "term": "HYPOAESTHESIA",
+      "count": 30
+    },
+    {
+      "term": "SEPSIS",
+      "count": 30
+    },
+    {
+      "term": "SPEECH DISORDER",
+      "count": 30
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 29
+    },
+    {
+      "term": "BALANCE DISORDER",
+      "count": 28
+    },
+    {
+      "term": "BRONCHITIS",
+      "count": 28
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 28
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 28
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 27
+    },
+    {
+      "term": "DYSKINESIA",
+      "count": 27
+    },
+    {
+      "term": "INAPPROPRIATE SCHEDULE OF PRODUCT ADMINISTRATION",
+      "count": 27
+    },
+    {
+      "term": "INFLUENZA",
+      "count": 27
+    },
+    {
+      "term": "ADRENAL INSUFFICIENCY",
+      "count": 26
+    },
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 26
+    },
+    {
+      "term": "HEART RATE INCREASED",
+      "count": 26
+    },
+    {
+      "term": "DYSPHAGIA",
+      "count": 25
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 25
+    },
+    {
+      "term": "VISION BLURRED",
+      "count": 25
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 24
+    },
+    {
+      "term": "MOBILITY DECREASED",
+      "count": 24
+    },
+    {
+      "term": "PARAESTHESIA",
+      "count": 24
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 24
+    },
+    {
+      "term": "ADDISON^S DISEASE",
+      "count": 23
+    },
+    {
+      "term": "HYPOKALAEMIA",
+      "count": 23
+    },
+    {
+      "term": "DYSARTHRIA",
+      "count": 22
+    },
+    {
+      "term": "OROPHARYNGEAL PAIN",
+      "count": 22
+    },
+    {
+      "term": "BLOOD PRESSURE FLUCTUATION",
+      "count": 21
+    },
+    {
+      "term": "ERYTHEMA",
+      "count": 21
+    },
+    {
+      "term": "GASTROOESOPHAGEAL REFLUX DISEASE",
+      "count": 21
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 21
+    },
+    {
+      "term": "INFUSION RELATED REACTION",
+      "count": 21
+    },
+    {
+      "term": "INFUSION SITE PAIN",
+      "count": 21
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 21
+    }
+  ]
+}

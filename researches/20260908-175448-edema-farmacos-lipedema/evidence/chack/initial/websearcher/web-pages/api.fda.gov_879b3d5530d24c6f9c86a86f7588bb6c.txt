@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30"
+  },
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 29819
+    },
+    {
+      "term": "FATIGUE",
+      "count": 25221
+    },
+    {
+      "term": "NAUSEA",
+      "count": 22874
+    },
+    {
+      "term": "PAIN",
+      "count": 21320
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 19985
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 18202
+    },
+    {
+      "term": "HEADACHE",
+      "count": 18012
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 16559
+    },
+    {
+      "term": "FALL",
+      "count": 15619
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 14314
+    },
+    {
+      "term": "VOMITING",
+      "count": 12209
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 11989
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 11682
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 11530
+    },
+    {
+      "term": "DEATH",
+      "count": 11204
+    },
+    {
+      "term": "MALAISE",
+      "count": 10790
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 10441
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 10230
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 10129
+    },
+    {
+      "term": "ANXIETY",
+      "count": 10074
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 9913
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 9675
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 9239
+    },
+    {
+      "term": "RASH",
+      "count": 8970
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 8752
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 8596
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 8414
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 8211
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 8131
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 7860
+    },
+    {
+      "term": "PRURITUS",
+      "count": 7762
+    },
+    {
+      "term": "PYREXIA",
+      "count": 7537
+    },
+    {
+      "term": "TOXICITY TO VARIOUS AGENTS",
+      "count": 7179
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 7109
+    },
+    {
+      "term": "COUGH",
+      "count": 7058
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 6837
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 6804
+    },
+    {
+      "term": "TREMOR",
+      "count": 6756
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 6683
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 6666
+    },
+    {
+      "term": "HYPOAESTHESIA",
+      "count": 6654
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 6601
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 6515
+    },
+    {
+      "term": "DRUG INEFFECTIVE FOR UNAPPROVED INDICATION",
+      "count": 6387
+    },
+    {
+      "term": "COMPLETED SUICIDE",
+      "count": 6333
+    },
+    {
+      "term": "CHRONIC KIDNEY DISEASE",
+      "count": 6278
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 6239
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 6095
+    },
+    {
+      "term": "NEUROPATHY PERIPHERAL",
+      "count": 6053
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 6018
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 5948
+    },
+    {
+      "term": "RENAL FAILURE",
+      "count": 5639
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 5611
+    },
+    {
+      "term": "PARAESTHESIA",
+      "count": 5594
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 5593
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 5497
+    },
+    {
+      "term": "DRUG INTERACTION",
+      "count": 4951
+    },
+    {
+      "term": "BALANCE DISORDER",
+      "count": 4859
+    },
+    {
+      "term": "HYPERHIDROSIS",
+      "count": 4830
+    },
+    {
+      "term": "VISION BLURRED",
+      "count": 4674
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 4651
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 4620
+    },
+    {
+      "term": "MUSCULAR WEAKNESS",
+      "count": 4605
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 4564
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 4521
+    },
+    {
+      "term": "DEHYDRATION",
+      "count": 4480
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 4451
+    },
+    {
+      "term": "COVID-19",
+      "count": 4274
+    },
+    {
+      "term": "SUICIDAL IDEATION",
+      "count": 4267
+    },
+    {
+      "term": "OVERDOSE",
+      "count": 4222
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 4206
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 4090
+    },
+    {
+      "term": "LOSS OF CONSCIOUSNESS",
+      "count": 4056
+    },
+    {
+      "term": "MYALGIA",
+      "count": 4040
+    },
+    {
+      "term": "MIGRAINE",
+      "count": 4029
+    },
+    {
+      "term": "INJECTION SITE PAIN",
+      "count": 3907
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 3833
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 3740
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 3564
+    },
+    {
+      "term": "INFECTION",
+      "count": 3559
+    },
+    {
+      "term": "SEPSIS",
+      "count": 3528
+    },
+    {
+      "term": "DRUG ABUSE",
+      "count": 3479
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 3453
+    },
+    {
+      "term": "SEIZURE",
+      "count": 3453
+    },
+    {
+      "term": "ERYTHEMA",
+      "count": 3419
+    },
+    {
+      "term": "HALLUCINATION",
+      "count": 3393
+    },
+    {
+      "term": "DRUG DOSE OMISSION",
+      "count": 3379
+    },
+    {
+      "term": "MYOCARDIAL INFARCTION",
+      "count": 3371
+    },
+    {
+      "term": "CONTUSION",
+      "count": 3367
+    },
+    {
+      "term": "MULTIPLE SCLEROSIS RELAPSE",
+      "count": 3361
+    },
+    {
+      "term": "GASTROOESOPHAGEAL REFLUX DISEASE",
+      "count": 3280
+    },
+    {
+      "term": "AMNESIA",
+      "count": 3256
+    },
+    {
+      "term": "BLOOD GLUCOSE INCREASED",
+      "count": 3236
+    },
+    {
+      "term": "SINUSITIS",
+      "count": 3211
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 3150
+    },
+    {
+      "term": "ASTHMA",
+      "count": 3134
+    },
+    {
+      "term": "ARTHRITIS",
+      "count": 3126
+    },
+    {
+      "term": "DRY MOUTH",
+      "count": 3117
+    },
+    {
+      "term": "INFLUENZA",
+      "count": 3082
+    },
+    {
+      "term": "VISUAL IMPAIRMENT",
+      "count": 3052
+    }
+  ]
+}

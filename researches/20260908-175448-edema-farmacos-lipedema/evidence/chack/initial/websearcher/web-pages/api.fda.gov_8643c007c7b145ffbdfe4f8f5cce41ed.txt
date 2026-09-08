@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30"
+  },
+  "results": [
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 66434
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 55473
+    },
+    {
+      "term": "FATIGUE",
+      "count": 40817
+    },
+    {
+      "term": "PAIN",
+      "count": 37879
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 34942
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 33218
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 28620
+    },
+    {
+      "term": "NAUSEA",
+      "count": 28567
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 28440
+    },
+    {
+      "term": "HEADACHE",
+      "count": 26618
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 25119
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 24918
+    },
+    {
+      "term": "RASH",
+      "count": 22930
+    },
+    {
+      "term": "PYREXIA",
+      "count": 21743
+    },
+    {
+      "term": "MALAISE",
+      "count": 20934
+    },
+    {
+      "term": "COUGH",
+      "count": 19360
+    },
+    {
+      "term": "VOMITING",
+      "count": 19174
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 18323
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 17989
+    },
+    {
+      "term": "ASTHMA",
+      "count": 17758
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 17570
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 17164
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 17049
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 16203
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 15134
+    },
+    {
+      "term": "PRURITUS",
+      "count": 15093
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 14835
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 14787
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 14293
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 14247
+    },
+    {
+      "term": "DEATH",
+      "count": 14050
+    },
+    {
+      "term": "INFECTION",
+      "count": 13843
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 13733
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 13561
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 13036
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 12986
+    },
+    {
+      "term": "SWELLING",
+      "count": 12956
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 12708
+    },
+    {
+      "term": "FALL",
+      "count": 12617
+    },
+    {
+      "term": "WHEEZING",
+      "count": 12324
+    },
+    {
+      "term": "INFUSION RELATED REACTION",
+      "count": 11948
+    },
+    {
+      "term": "SINUSITIS",
+      "count": 11813
+    },
+    {
+      "term": "INTENTIONAL PRODUCT USE ISSUE",
+      "count": 11704
+    },
+    {
+      "term": "ARTHROPATHY",
+      "count": 11614
+    },
+    {
+      "term": "SYSTEMIC LUPUS ERYTHEMATOSUS",
+      "count": 11415
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 11282
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 11228
+    },
+    {
+      "term": "TREATMENT FAILURE",
+      "count": 10996
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 10743
+    },
+    {
+      "term": "THERAPEUTIC PRODUCT EFFECT INCOMPLETE",
+      "count": 10532
+    },
+    {
+      "term": "MUSCULOSKELETAL STIFFNESS",
+      "count": 10412
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 10114
+    },
+    {
+      "term": "BLOOD PRESSURE INCREASED",
+      "count": 10090
+    },
+    {
+      "term": "URTICARIA",
+      "count": 10084
+    },
+    {
+      "term": "CONTRAINDICATED PRODUCT ADMINISTERED",
+      "count": 10021
+    },
+    {
+      "term": "ANXIETY",
+      "count": 9860
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 9681
+    },
+    {
+      "term": "COVID-19",
+      "count": 9510
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 9378
+    },
+    {
+      "term": "ANAEMIA",
+      "count": 9353
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 9291
+    },
+    {
+      "term": "HEPATIC ENZYME INCREASED",
+      "count": 9262
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 9220
+    },
+    {
+      "term": "PEMPHIGUS",
+      "count": 9174
+    },
+    {
+      "term": "LOSS OF PERSONAL INDEPENDENCE IN DAILY ACTIVITIES",
+      "count": 9087
+    },
+    {
+      "term": "SYNOVITIS",
+      "count": 8900
+    },
+    {
+      "term": "INAPPROPRIATE SCHEDULE OF PRODUCT ADMINISTRATION",
+      "count": 8714
+    },
+    {
+      "term": "GLOSSODYNIA",
+      "count": 8626
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 8368
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 8345
+    },
+    {
+      "term": "MATERNAL EXPOSURE DURING PREGNANCY",
+      "count": 8263
+    },
+    {
+      "term": "ACUTE KIDNEY INJURY",
+      "count": 8215
+    },
+    {
+      "term": "HYPOAESTHESIA",
+      "count": 8136
+    },
+    {
+      "term": "THERAPEUTIC PRODUCT EFFECT DECREASED",
+      "count": 8036
+    },
+    {
+      "term": "WOUND",
+      "count": 7954
+    },
+    {
+      "term": "HAND DEFORMITY",
+      "count": 7949
+    },
+    {
+      "term": "GENERAL PHYSICAL HEALTH DETERIORATION",
+      "count": 7944
+    },
+    {
+      "term": "CONTUSION",
+      "count": 7891
+    },
+    {
+      "term": "GASTROINTESTINAL DISORDER",
+      "count": 7848
+    },
+    {
+      "term": "DISCOMFORT",
+      "count": 7815
+    },
+    {
+      "term": "ARTHRITIS",
+      "count": 7771
+    },
+    {
+      "term": "DISEASE PROGRESSION",
+      "count": 7736
+    },
+    {
+      "term": "COLITIS ULCERATIVE",
+      "count": 7599
+    },
+    {
+      "term": "MOBILITY DECREASED",
+      "count": 7451
+    },
+    {
+      "term": "LOWER RESPIRATORY TRACT INFECTION",
+      "count": 7432
+    },
+    {
+      "term": "HYPOTENSION",
+      "count": 7358
+    },
+    {
+      "term": "INJECTION SITE PAIN",
+      "count": 7355
+    },
+    {
+      "term": "INFLUENZA",
+      "count": 7057
+    },
+    {
+      "term": "SEPSIS",
+      "count": 7034
+    },
+    {
+      "term": "CROHN^S DISEASE",
+      "count": 6984
+    },
+    {
+      "term": "ERYTHEMA",
+      "count": 6903
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 6868
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 6846
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 6810
+    },
+    {
+      "term": "PERICARDITIS",
+      "count": 6736
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 6733
+    },
+    {
+      "term": "INFLAMMATION",
+      "count": 6600
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 6581
+    },
+    {
+      "term": "NEUTROPENIA",
+      "count": 6515
+    },
+    {
+      "term": "STOMATITIS",
+      "count": 6490
+    }
+  ]
+}

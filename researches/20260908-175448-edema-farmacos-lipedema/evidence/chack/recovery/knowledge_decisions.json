@@ -1,0 +1,1541 @@
+{
+  "knowledge_base": "lipedema",
+  "decisions": [
+    {
+      "filename": "deepchatgpt_researcher/run-1788891396582027677-dfe7f06a/chatgpt-deep-response.md",
+      "disposition": "approved",
+      "reason": "Síntesis terminal durable, con separación explícita entre evidencia directa y adyacente.",
+      "title": "ChatGPT deep research response",
+      "source_url": "",
+      "evidence_type": "terminal research synthesis",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "deepchatgpt_researcher/run-1788891396582027677-dfe7f06a/chatgpt-request.md",
+      "disposition": "archive_only",
+      "reason": "Provenance del prompt, no evidencia independiente.",
+      "title": "ChatGPT deep request",
+      "source_url": "",
+      "evidence_type": "research request",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "deepchatgpt_researcher/run-1788891396582027677-dfe7f06a/chatgpt-run.json",
+      "disposition": "archive_only",
+      "reason": "Metadatos de ejecución para auditoría.",
+      "title": "ChatGPT deep run metadata",
+      "source_url": "",
+      "evidence_type": "run metadata",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "deepchatgpt_researcher/run-1788891396582027677-dfe7f06a/knowledge-retrieval.json",
+      "disposition": "archive_only",
+      "reason": "Receipt de recuperación de conocimiento, no evidencia clínica nueva.",
+      "title": "Knowledge retrieval receipt",
+      "source_url": "",
+      "evidence_type": "knowledge retrieval receipt",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "prochatgpt_researcher/run-1788891396582284661-937b3f55/chatgpt-pro-response.md",
+      "disposition": "approved",
+      "reason": "Nueva investigación Pro terminal; revisión regulatoria durable y adversarial, no reutiliza el timeout.",
+      "title": "ChatGPT Pro research response",
+      "source_url": "",
+      "evidence_type": "terminal research synthesis",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "prochatgpt_researcher/run-1788891396582284661-937b3f55/chatgpt-request.md",
+      "disposition": "archive_only",
+      "reason": "Prompt y provenance, no evidencia independiente.",
+      "title": "ChatGPT Pro request",
+      "source_url": "",
+      "evidence_type": "research request",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "prochatgpt_researcher/run-1788891396582284661-937b3f55/chatgpt-run.json",
+      "disposition": "archive_only",
+      "reason": "Metadatos para auditar terminalidad.",
+      "title": "ChatGPT Pro run metadata",
+      "source_url": "",
+      "evidence_type": "run metadata",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "prochatgpt_researcher/run-1788891396582284661-937b3f55/knowledge-retrieval.json",
+      "disposition": "archive_only",
+      "reason": "Receipt del corpus consultado, no evidencia clínica nueva.",
+      "title": "Pro knowledge retrieval receipt",
+      "source_url": "",
+      "evidence_type": "knowledge retrieval receipt",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/artifact_sha256.txt",
+      "disposition": "archive_only",
+      "reason": "Inventario de integridad; conserva hashes sin promover metadatos a evidencia.",
+      "title": "Scientific artifact SHA-256 inventory",
+      "source_url": "",
+      "evidence_type": "audit metadata",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/awmf-037-012-api-sanitized.json",
+      "disposition": "archive_only",
+      "reason": "Metadatos oficiales útiles para provenance; el texto completo de la guía se conserva aparte.",
+      "title": "AWMF guideline registry metadata",
+      "source_url": "https://leitlinien-api.awmf.org/v1/get/037/012?limit=20&lang=de",
+      "evidence_type": "official guideline metadata",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pdf-text/037-012l_S2k_Lipoedem_2024-01_01_7650f0728ccc4c0b84b11131a4469885.pdf",
+      "disposition": "approved",
+      "reason": "PDF oficial canónico de AWMF, inspeccionable y no sustituible por un snippet.",
+      "title": "AWMF S2k lipedema guideline PDF",
+      "source_url": "https://register.awmf.org/assets/guidelines/037-012l_S2k_Lipoedem_2024-01_01.pdf",
+      "evidence_type": "official guideline PDF",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pdf-text/037-012l_S2k_Lipoedem_2024-01_01_7650f0728ccc4c0b84b11131a4469885.txt",
+      "disposition": "archive_only",
+      "reason": "Extracción derivada del PDF canónico.",
+      "title": "AWMF guideline text extraction",
+      "source_url": "https://register.awmf.org/assets/guidelines/037-012l_S2k_Lipoedem_2024-01_01.pdf",
+      "evidence_type": "derived guideline text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pdf-text/037-012m_S2k_Lipoedem_2024-01_d0e74da65a0341aca80289ad70e741e4.pdf",
+      "disposition": "archive_only",
+      "reason": "Versión alemana companion/duplicada; se conserva por provenance.",
+      "title": "AWMF German guideline PDF",
+      "source_url": "https://register.awmf.org/assets/guidelines/037-012l_S2k_Lipoedem_2024-01_01.pdf",
+      "evidence_type": "official guideline PDF",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pdf-text/037-012m_S2k_Lipoedem_2024-01_d0e74da65a0341aca80289ad70e741e4.txt",
+      "disposition": "archive_only",
+      "reason": "Extracción derivada y duplicada.",
+      "title": "AWMF German text extraction",
+      "source_url": "",
+      "evidence_type": "derived guideline text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/aemps_cima_pregabalina_85276.html",
+      "disposition": "approved",
+      "reason": "Ficha CIMA/AEMPS completa y directamente inspeccionable.",
+      "title": "CIMA pregabalin official label",
+      "source_url": "https://cima.aemps.es/cima/dochtml/ft/85276/FT_85276.html",
+      "evidence_type": "official regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/aemps_cima_pregabalina_85276.txt",
+      "disposition": "archive_only",
+      "reason": "Extracción derivada de la ficha HTML aprobada.",
+      "title": "CIMA pregabalin text extraction",
+      "source_url": "https://cima.aemps.es/cima/dochtml/ft/85276/FT_85276.html",
+      "evidence_type": "derived regulatory text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/dailymed_spl/amlodipine_6efc0ef6-0424-44fc-a9ea-eb30c3b83239.xml",
+      "disposition": "approved",
+      "reason": "SPL oficial canónico con tabla dosis-edema.",
+      "title": "DailyMed amlodipine SPL",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/6efc0ef6-0424-44fc-a9ea-eb30c3b83239.xml",
+      "evidence_type": "official regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/dailymed_spl/amlodipine_6efc0ef6-0424-44fc-a9ea-eb30c3b83239.txt",
+      "disposition": "archive_only",
+      "reason": "Texto derivado del XML canónico.",
+      "title": "DailyMed amlodipine text",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/6efc0ef6-0424-44fc-a9ea-eb30c3b83239.xml",
+      "evidence_type": "derived regulatory text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/dailymed_spl/celecoxib_643e177f-216d-4dfa-824a-7516a488304e.xml",
+      "disposition": "approved",
+      "reason": "SPL oficial para evidencia AINE específica de producto.",
+      "title": "DailyMed celecoxib SPL",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/643e177f-216d-4dfa-824a-7516a488304e.xml",
+      "evidence_type": "official regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/dailymed_spl/celecoxib_643e177f-216d-4dfa-824a-7516a488304e.txt",
+      "disposition": "archive_only",
+      "reason": "Extracción derivada del SPL aprobado.",
+      "title": "DailyMed celecoxib text",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/643e177f-216d-4dfa-824a-7516a488304e.xml",
+      "evidence_type": "derived regulatory text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/dailymed_spl/contraceptive_b2482d51-d606-4aaa-8af4-19e4fe2f8872.xml",
+      "disposition": "approved",
+      "reason": "Etiqueta oficial canónica de anticoncepción; útil solo para formulaciones concretas.",
+      "title": "DailyMed contraceptive SPL",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/b2482d51-d606-4aaa-8af4-19e4fe2f8872.xml",
+      "evidence_type": "official regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/dailymed_spl/contraceptive_b2482d51-d606-4aaa-8af4-19e4fe2f8872.txt",
+      "disposition": "archive_only",
+      "reason": "Extracción derivada del XML aprobado.",
+      "title": "DailyMed contraceptive text",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/b2482d51-d606-4aaa-8af4-19e4fe2f8872.xml",
+      "evidence_type": "derived regulatory text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/dailymed_spl/gabapentin_5a85ea98-4211-54eb-e063-6294a90aff33.xml",
+      "disposition": "approved",
+      "reason": "SPL oficial con tablas por indicación.",
+      "title": "DailyMed gabapentin SPL",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/5a85ea98-4211-54eb-e063-6294a90aff33.xml",
+      "evidence_type": "official regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/dailymed_spl/gabapentin_5a85ea98-4211-54eb-e063-6294a90aff33.txt",
+      "disposition": "archive_only",
+      "reason": "Extracción derivada del XML aprobado.",
+      "title": "DailyMed gabapentin text",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/5a85ea98-4211-54eb-e063-6294a90aff33.xml",
+      "evidence_type": "derived regulatory text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/dailymed_spl/hormone_therapy_59eadb88-c9f3-4871-b176-7ddd98faf9bc.xml",
+      "disposition": "approved",
+      "reason": "SPL oficial canónico para terapia hormonal específica, sin generalizar a toda la clase.",
+      "title": "DailyMed hormone therapy SPL",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/59eadb88-c9f3-4871-b176-7ddd98faf9bc.xml",
+      "evidence_type": "official regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/dailymed_spl/hormone_therapy_59eadb88-c9f3-4871-b176-7ddd98faf9bc.txt",
+      "disposition": "archive_only",
+      "reason": "Extracción derivada del XML aprobado.",
+      "title": "DailyMed hormone therapy text",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/59eadb88-c9f3-4871-b176-7ddd98faf9bc.xml",
+      "evidence_type": "derived regulatory text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/dailymed_spl/nifedipine_c98ecf77-ae9a-438b-9bad-ffbed25d95bc.xml",
+      "disposition": "approved",
+      "reason": "SPL oficial de nifedipino; conserva formulación y dosis.",
+      "title": "DailyMed nifedipine SPL",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/c98ecf77-ae9a-438b-9bad-ffbed25d95bc.xml",
+      "evidence_type": "official regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/dailymed_spl/nifedipine_c98ecf77-ae9a-438b-9bad-ffbed25d95bc.txt",
+      "disposition": "archive_only",
+      "reason": "Extracción derivada del SPL aprobado.",
+      "title": "DailyMed nifedipine text",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/c98ecf77-ae9a-438b-9bad-ffbed25d95bc.xml",
+      "evidence_type": "derived regulatory text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/dailymed_spl/pioglitazone_c748f901-8321-4dc2-8848-b7ed27f11f97.xml",
+      "disposition": "approved",
+      "reason": "SPL oficial con tablas de edema, dosis y co-tratamiento.",
+      "title": "DailyMed pioglitazone SPL",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/c748f901-8321-4dc2-8848-b7ed27f11f97.xml",
+      "evidence_type": "official regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/dailymed_spl/pioglitazone_c748f901-8321-4dc2-8848-b7ed27f11f97.txt",
+      "disposition": "archive_only",
+      "reason": "Extracción derivada del XML aprobado.",
+      "title": "DailyMed pioglitazone text",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/c748f901-8321-4dc2-8848-b7ed27f11f97.xml",
+      "evidence_type": "derived regulatory text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/dailymed_spl/pregabalin_e897d7e8-2743-4512-8417-375cb11ceec6.xml",
+      "disposition": "approved",
+      "reason": "SPL oficial con edema y retiradas específicas.",
+      "title": "DailyMed pregabalin SPL",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/e897d7e8-2743-4512-8417-375cb11ceec6.xml",
+      "evidence_type": "official regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/dailymed_spl/pregabalin_e897d7e8-2743-4512-8417-375cb11ceec6.txt",
+      "disposition": "archive_only",
+      "reason": "Extracción derivada del XML aprobado.",
+      "title": "DailyMed pregabalin text",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/e897d7e8-2743-4512-8417-375cb11ceec6.xml",
+      "evidence_type": "derived regulatory text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/dailymed_spl/rosiglitazone_ef14122b-7fff-45fa-b13b-0ea9e48bd57d.xml",
+      "disposition": "approved",
+      "reason": "Ficha histórica oficial útil para seguridad, sin inferir disponibilidad actual.",
+      "title": "DailyMed rosiglitazone SPL",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/ef14122b-7fff-45fa-b13b-0ea9e48bd57d.xml",
+      "evidence_type": "official regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/official/dailymed_spl/rosiglitazone_ef14122b-7fff-45fa-b13b-0ea9e48bd57d.txt",
+      "disposition": "archive_only",
+      "reason": "Extracción derivada del XML aprobado.",
+      "title": "DailyMed rosiglitazone text",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/ef14122b-7fff-45fa-b13b-0ea9e48bd57d.xml",
+      "evidence_type": "derived regulatory text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC10908346_452c2a5d2e1a49a589524edce88e2f49.xml",
+      "disposition": "approved",
+      "reason": "Review abierta sobre edema farmacológico; se conserva como evidencia adyacente claramente etiquetada.",
+      "title": "Drug-induced edema review XML",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10908346/",
+      "evidence_type": "open full-text review",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC10908346_452c2a5d2e1a49a589524edce88e2f49.txt",
+      "disposition": "archive_only",
+      "reason": "Extracción derivada del XML aprobado.",
+      "title": "Drug-induced edema review text",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10908346/",
+      "evidence_type": "derived review text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC12800713_36853bcf82b54192b54d7a3285446b67.txt",
+      "disposition": "archive_only",
+      "reason": "Copia textual derivada; el XML canónico se conserva aparte.",
+      "title": "Hormonal lipedema study text",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12800713/",
+      "evidence_type": "derived primary text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC12800713_36853bcf82b54192b54d7a3285446b67.xml",
+      "disposition": "approved",
+      "reason": "Texto completo estructurado del estudio hormonal directo, con sus limitaciones.",
+      "title": "Hormonal contraceptive lipedema study XML",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12800713/",
+      "evidence_type": "primary observational study",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC8652358_5fb94ce30ace49ff8996de6216e58e0a.xml",
+      "disposition": "approved",
+      "reason": "Consenso estadounidense abierto; se recupera como consenso, no como estudio de seguridad.",
+      "title": "U.S. lipedema standard of care XML",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8652358/",
+      "evidence_type": "consensus guideline",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC8652358_5fb94ce30ace49ff8996de6216e58e0a.txt",
+      "disposition": "archive_only",
+      "reason": "Extracción derivada del XML aprobado.",
+      "title": "U.S. standard text",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8652358/",
+      "evidence_type": "derived consensus text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pubmed-search/ccbs_esearch.json",
+      "disposition": "archive_only",
+      "reason": "Registro de búsqueda reproducible; no fuente primaria de outcome.",
+      "title": "PubMed CCB search",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "evidence_type": "search log",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pubmed-search/gabapentinoid_esearch.json",
+      "disposition": "archive_only",
+      "reason": "Búsqueda negativa/descubrimiento reproducible.",
+      "title": "PubMed gabapentinoid search",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "evidence_type": "search log",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pubmed-search/hormones_esearch.json",
+      "disposition": "archive_only",
+      "reason": "Búsqueda reproducible, no evidencia clínica por sí sola.",
+      "title": "PubMed hormone search",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "evidence_type": "search log",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pubmed-search/nsair_esearch.json",
+      "disposition": "archive_only",
+      "reason": "Búsqueda reproducible de AINE.",
+      "title": "PubMed NSAID search",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "evidence_type": "search log",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pubmed-search/tzd_esearch.json",
+      "disposition": "archive_only",
+      "reason": "Búsqueda reproducible de TZD; no demuestra ausencia universal.",
+      "title": "PubMed TZD search",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "evidence_type": "search log",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/wayback-cdx/https_register.awmf.org_de_leitlinien_detail_037-012_7b6200231154471fb980c6630d1ae760.json",
+      "disposition": "archive_only",
+      "reason": "Índice Wayback, no el PDF íntegro.",
+      "title": "AWMF Wayback index",
+      "source_url": "https://register.awmf.org/de/leitlinien/detail/037-012",
+      "evidence_type": "archive index",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/api.crossref.org_02c4320682ee430ea5df6fef72a1c69c.txt",
+      "disposition": "archive_only",
+      "reason": "Metadatos bibliográficos, no outcome primario.",
+      "title": "Crossref hormone metadata",
+      "source_url": "https://api.crossref.org/works/10.1111/j.1365-2265.2007.02748.x",
+      "evidence_type": "bibliographic metadata",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/api.crossref.org_90a9c9c4d7434043a2925b9467029d1e.txt",
+      "disposition": "archive_only",
+      "reason": "Metadatos de guideline; duplicado de fuentes completas.",
+      "title": "Crossref AWMF metadata",
+      "source_url": "https://api.crossref.org/v1/works/10.1111%2Fddg.15513/transform",
+      "evidence_type": "bibliographic metadata",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/api.crossref.org_da5bd4598bcc4ff5a6615e070def6a53.txt",
+      "disposition": "archive_only",
+      "reason": "Metadatos del artículo hormonal; el texto completo primario se conserva en otra fuente.",
+      "title": "Crossref Cureus metadata",
+      "source_url": "https://api.crossref.org/v1/works/10.7759%2Fcureus.99189/transform",
+      "evidence_type": "bibliographic metadata",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/api.fda.gov_2e27b15497274b45b1c303ec926cf26f.txt",
+      "disposition": "approved",
+      "reason": "Etiqueta FDA/openFDA inspeccionable de amlodipino; fuente regulatoria primaria.",
+      "title": "FDA amlodipine label",
+      "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:amlodipine&limit=1",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/api.fda.gov_5466240cee8e4f6cb8df61b098f61ddd.txt",
+      "disposition": "approved",
+      "reason": "Etiqueta FDA/openFDA de pregabalina con tablas de edema.",
+      "title": "FDA pregabalin label",
+      "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:pregabalin&limit=2",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/api.fda.gov_7dc2eb320cb3433fa32186630c73deaa.txt",
+      "disposition": "approved",
+      "reason": "Etiqueta FDA/openFDA de nifedipino; conservar formulación.",
+      "title": "FDA nifedipine label",
+      "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:nifedipine&limit=1",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/api.fda.gov_827aac061471431aa8238bed74d63c0b.txt",
+      "disposition": "approved",
+      "reason": "Etiqueta FDA/openFDA de naproxeno para contraste AINE.",
+      "title": "FDA naproxen label",
+      "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:naproxen&limit=1",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/api.fda.gov_c3515b89480747bc99db19daa72d2fef.txt",
+      "disposition": "approved",
+      "reason": "Etiqueta FDA/openFDA de ibuprofeno para contraste AINE.",
+      "title": "FDA ibuprofen label",
+      "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:ibuprofen&limit=1",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/api.fda.gov_c8e996a06cd84f638a9167d2182c67f8.txt",
+      "disposition": "approved",
+      "reason": "Etiqueta FDA/openFDA de gabapentina con 8% frente a 2%.",
+      "title": "FDA gabapentin label",
+      "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:gabapentin&limit=1",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/api.fda.gov_f1037ff7503148be91fc7aa50fa03fef.txt",
+      "disposition": "approved",
+      "reason": "Etiqueta FDA/openFDA de medroxiprogesterona; formulación específica.",
+      "title": "FDA medroxyprogesterone label",
+      "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:medroxyprogesterone&limit=1",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/api.fda.gov_f112fad75173451794e15cd91e27d4de.txt",
+      "disposition": "archive_only",
+      "reason": "Conteo agregado de farmacovigilancia para lipoedema, sin denominador, fármaco ni causalidad.",
+      "title": "openFDA lipoedema aggregate",
+      "source_url": "https://api.fda.gov/drug/event.json?search=patient.reaction.reactionmeddrapt:lipoedema&count=patient.reaction.reactionmeddrapt.exact",
+      "evidence_type": "pharmacovigilance aggregate",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/api.fda.gov_f749c8c6af7142aa9ddebfec64020822.txt",
+      "disposition": "approved",
+      "reason": "Etiqueta FDA/openFDA de pioglitazona con tablas de edema.",
+      "title": "FDA pioglitazone label",
+      "source_url": "https://api.fda.gov/drug/label.json?search=openfda.generic_name:pioglitazone&limit=1",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/cima.aemps.es_2c8e6cbc462946dca4059e71808daab5.txt",
+      "disposition": "approved",
+      "reason": "Texto de ficha CIMA oficial de amlodipino.",
+      "title": "CIMA amlodipine label text",
+      "source_url": "https://cima.aemps.es/cima/dochtml/ft/65461/FT_65461.html",
+      "evidence_type": "official regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/cima.aemps.es_2c8e6cbc462946dca4059e71808daab5.html",
+      "disposition": "archive_only",
+      "reason": "HTML duplicado de la ficha CIMA aprobada.",
+      "title": "CIMA amlodipine HTML duplicate",
+      "source_url": "https://cima.aemps.es/cima/dochtml/ft/65461/FT_65461.html",
+      "evidence_type": "label HTML duplicate",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/cima.aemps.es_7766a7608776497fa6919f4de78a806a.txt",
+      "disposition": "approved",
+      "reason": "Texto de ficha CIMA oficial de naproxeno.",
+      "title": "CIMA naproxen label text",
+      "source_url": "https://cima.aemps.es/cima/dochtml/ft/68435/FT_68435.html",
+      "evidence_type": "official regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/cima.aemps.es_7766a7608776497fa6919f4de78a806a.html",
+      "disposition": "archive_only",
+      "reason": "HTML duplicado de la ficha CIMA de naproxeno.",
+      "title": "CIMA naproxen HTML duplicate",
+      "source_url": "https://cima.aemps.es/cima/dochtml/ft/68435/FT_68435.html",
+      "evidence_type": "label HTML duplicate",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/cima.aemps.es_846884bbfa4649728c731226b94191a9.html",
+      "disposition": "archive_only",
+      "reason": "Ficha CIMA de nifedipino revocada/histórica; no usar como etiqueta actual.",
+      "title": "CIMA nifedipine historical HTML",
+      "source_url": "https://cima.aemps.es/cima/dochtml/ft/61772/FT_61772.html",
+      "evidence_type": "historical regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/cima.aemps.es_c572315d422f4fb3a682b75a4ce486d0.txt",
+      "disposition": "archive_only",
+      "reason": "Consulta CIMA vacía; no demuestra ausencia universal.",
+      "title": "CIMA rosiglitazone empty query",
+      "source_url": "https://cima.aemps.es/cima/rest/medicamentos?nombre=rosiglitazona",
+      "evidence_type": "catalog query",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/cima.aemps.es_60bba98ab7eb4223aec5d3d57db49586.txt",
+      "disposition": "archive_only",
+      "reason": "Consulta CIMA vacía; no demuestra ausencia universal.",
+      "title": "CIMA progesterone empty query",
+      "source_url": "https://cima.aemps.es/cima/rest/medicamentos?nombre=progesterona",
+      "evidence_type": "catalog query",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/cima.aemps.es_a3d7621c2cd1488bafada658b11bb9f7.txt",
+      "disposition": "archive_only",
+      "reason": "Consulta CIMA vacía; no demuestra ausencia universal.",
+      "title": "CIMA medroxyprogesterone empty query",
+      "source_url": "https://cima.aemps.es/cima/rest/medicamentos?nombre=medroxiprogesterona",
+      "evidence_type": "catalog query",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/clinicaltrials-search/lipedema_amlodipine_2d5fd223f5aa46cfacdb7f197543151c.json",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "ClinicalTrials lipedema amlodipine search",
+      "source_url": "https://clinicaltrials.gov/search?term=lipedema%20amlodipine",
+      "evidence_type": "negative registry search",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/clinicaltrials-search/lipedema_gabapentin_88ef438a535d48bf97f3ded4128a7a78.json",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "ClinicalTrials lipedema gabapentin search",
+      "source_url": "https://clinicaltrials.gov/search?term=lipedema%20gabapentin",
+      "evidence_type": "negative registry search",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/clinicaltrials-search/lipedema_hormonal_contraceptive_8d40a2f4d79b45bea27fa2238e081fe1.json",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "ClinicalTrials lipedema hormonal contraceptive search",
+      "source_url": "https://clinicaltrials.gov/search?term=lipedema%20hormonal%20contraceptive",
+      "evidence_type": "negative registry search",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/clinicaltrials-search/lipedema_nifedipine_e2d6dd9535084e0fa03d7af636ed0a99.json",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "ClinicalTrials lipedema nifedipine search",
+      "source_url": "https://clinicaltrials.gov/search?term=lipedema%20nifedipine",
+      "evidence_type": "negative registry search",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/clinicaltrials-search/lipedema_pioglitazone_b45da6421d844333a0d2588660cfd7fe.json",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "ClinicalTrials lipedema pioglitazone search",
+      "source_url": "https://clinicaltrials.gov/search?term=lipedema%20pioglitazone",
+      "evidence_type": "negative registry search",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/clinicaltrials-search/lipedema_pregabalin_339e722e990d42dc9a13c63e110bf806.json",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "ClinicalTrials lipedema pregabalin search",
+      "source_url": "https://clinicaltrials.gov/search?term=lipedema%20pregabalin",
+      "evidence_type": "negative registry search",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/clinicaltrials-search/lipedema_rosiglitazone_982a20e2c8c64fb78376b6f38bcec136.json",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "ClinicalTrials lipedema rosiglitazone search",
+      "source_url": "https://clinicaltrials.gov/search?term=lipedema%20rosiglitazone",
+      "evidence_type": "negative registry search",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/crossref-doi/10.1007_s00404-026-08318-1_4e5fdbb21ae84f0aa435c51dd5550141.json",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Crossref hormone systematic review metadata",
+      "source_url": "https://api.crossref.org/works/10.1007%2Fs00404-026-08318-1",
+      "evidence_type": "Crossref metadata",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/crossref-doi/10.1111_ddg.15513_488da3a8ff1d45ebb11c35f11d5b819d.json",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Crossref AWMF guideline metadata",
+      "source_url": "https://api.crossref.org/works/10.1111%2Fddg.15513",
+      "evidence_type": "Crossref metadata",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/crossref-doi/10.1111_jch.14436_501b05ec85fb41c2949e4481cd495166.json",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Crossref CCB network meta-analysis metadata",
+      "source_url": "https://api.crossref.org/works/10.1111%2Fjch.14436",
+      "evidence_type": "Crossref metadata",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/crossref-doi/10.1371_journal.pone.0319099_3529ae1e07924a35a4f51e762a65ec52.json",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Crossref Swiss lipedema cohort metadata",
+      "source_url": "https://api.crossref.org/works/10.1371%2Fjournal.pone.0319099",
+      "evidence_type": "Crossref metadata",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/crossref-doi/10.7759_cureus.99189_6555fbd95ecb46bdb16df1f87b0cfa78.json",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Crossref hormonal contraceptive study metadata",
+      "source_url": "https://api.crossref.org/works/10.7759%2Fcureus.99189",
+      "evidence_type": "Crossref metadata",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC11117526_e9efd55983d94b8da221bd2e398dd99d.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Estrogen lipedema adipose cell study text",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11117526/",
+      "evidence_type": "derived primary-study text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC11117526_e9efd55983d94b8da221bd2e398dd99d.xml",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Estrogen lipedema adipose cell study XML",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11117526/",
+      "evidence_type": "open full-text primary study",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC11925301_ae1933b9ef47464183eee68bdabf28fc.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Swiss lipedema cohort text",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11925301/",
+      "evidence_type": "derived primary-study text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC11925301_ae1933b9ef47464183eee68bdabf28fc.xml",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Swiss lipedema cohort XML",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11925301/",
+      "evidence_type": "open full-text primary cohort",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC12830482_c761fa93596a4a3b9c1773231797f481.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Hormone impact lipedema review text",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12830482/",
+      "evidence_type": "derived systematic-review text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC12830482_c761fa93596a4a3b9c1773231797f481.xml",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Hormone impact lipedema review XML",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12830482/",
+      "evidence_type": "open full-text systematic review",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC13001965_0589083e498f4f8f812bc31890b39cdf.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Amlodipine peripheral edema cohort text",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13001965/",
+      "evidence_type": "derived primary-study text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC13001965_0589083e498f4f8f812bc31890b39cdf.xml",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Amlodipine peripheral edema cohort XML",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13001965/",
+      "evidence_type": "open full-text primary cohort",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC2453685_74ecb7b049384442b0c97ca95a93019f.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Pregabalin pooled RCT text",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2453685/",
+      "evidence_type": "derived primary-study text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC2453685_74ecb7b049384442b0c97ca95a93019f.xml",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Pregabalin pooled RCT XML",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2453685/",
+      "evidence_type": "open full-text primary RCT analysis",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC7536506_7fd6909d722c424cbe864e5e713c5f61.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Lower limb edema diagnostic review text",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7536506/",
+      "evidence_type": "derived diagnostic-review text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC7536506_7fd6909d722c424cbe864e5e713c5f61.xml",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Lower limb edema diagnostic review XML",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7536506/",
+      "evidence_type": "open full-text diagnostic review",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC9106091_041daef757fb4fb9840454b66b2c550e.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "CCB edema network meta-analysis text",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9106091/",
+      "evidence_type": "derived systematic-review text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pmc-full-text/PMC9106091_041daef757fb4fb9840454b66b2c550e.xml",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "CCB edema network meta-analysis XML",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9106091/",
+      "evidence_type": "open full-text systematic review",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pubmed-search/ccb_dhp_efetch.xml",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "PubMed DHP CCB edema records",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&retmode=xml",
+      "evidence_type": "PubMed metadata and abstracts",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pubmed-search/ccb_dhp_esearch.json",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "PubMed DHP CCB edema search",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/?term=calcium+channel+blocker+dihydropyridine+peripheral+edema",
+      "evidence_type": "PubMed search artifact",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pubmed-search/ccb_meta_efetch.xml",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "PubMed CCB meta-analysis records",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&retmode=xml",
+      "evidence_type": "PubMed metadata and abstracts",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pubmed-search/ccb_meta_esearch.json",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "PubMed CCB meta-analysis search",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/?term=calcium+channel+blocker+peripheral+edema+meta-analysis",
+      "evidence_type": "PubMed search artifact",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pubmed-search/hormones_efetch.xml",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "PubMed lipedema hormone records",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=41542013,41575573,40425048,34769153,32872468,32792644,29522416,29292918,25200646&retmode=xml",
+      "evidence_type": "PubMed metadata and abstracts",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pubmed-search/makani_21558959_efetch.xml",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Makani CCB edema meta-analysis PubMed record",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21558959&retmode=xml",
+      "evidence_type": "PubMed primary abstract",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pubmed-search/pregabalin_edema_dechallenge_esearch.json",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "PubMed pregabalin edema dechallenge search",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/?term=pregabalin+edema+dechallenge",
+      "evidence_type": "PubMed search artifact",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pubmed-search/pregabalin_edema_esearch.json",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "PubMed pregabalin edema search",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/?term=pregabalin+edema",
+      "evidence_type": "PubMed search artifact",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "scientific/pubmed-search/pregabalin_peripheral_edema_esearch.json",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "PubMed pregabalin peripheral edema search",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/?term=pregabalin+peripheral+edema",
+      "evidence_type": "PubMed search artifact",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/cima.aemps.es_846884bbfa4649728c731226b94191a9.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "CIMA nifedipino texto",
+      "source_url": "https://cima.aemps.es/cima/dochtml/ft/61772/FT_61772.html",
+      "evidence_type": "historical label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/cima.aemps.es_8e96e439677448dd8721ac9136b4b535.html",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "CIMA pregabalina HTML",
+      "source_url": "https://cima.aemps.es/cima/dochtml/ft/85276/FT_85276.html",
+      "evidence_type": "label HTML",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/cima.aemps.es_8e96e439677448dd8721ac9136b4b535.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "CIMA pregabalina texto",
+      "source_url": "https://cima.aemps.es/cima/dochtml/ft/85276/FT_85276.html",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/cima.aemps.es_acc8dd7216ea432aab97247cd462aed6.html",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "CIMA estradiol HTML",
+      "source_url": "https://cima.aemps.es/cima/dochtml/ft/90365/FT_90365.html",
+      "evidence_type": "label HTML",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/cima.aemps.es_acc8dd7216ea432aab97247cd462aed6.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "CIMA estradiol texto",
+      "source_url": "https://cima.aemps.es/cima/dochtml/ft/90365/FT_90365.html",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/cima.aemps.es_b3c3c5510eb448948808ab8e2e388104.html",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "CIMA ibuprofeno HTML",
+      "source_url": "https://cima.aemps.es/cima/dochtml/ft/65920/FT_65920.html",
+      "evidence_type": "label HTML",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/cima.aemps.es_b3c3c5510eb448948808ab8e2e388104.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "CIMA ibuprofeno texto",
+      "source_url": "https://cima.aemps.es/cima/dochtml/ft/65920/FT_65920.html",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/cima.aemps.es_e679eaef0f864bc6b00388362850f68a.html",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "CIMA pioglitazona HTML",
+      "source_url": "https://cima.aemps.es/cima/dochtml/ft/76481/FT_76481.html",
+      "evidence_type": "label HTML",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/cima.aemps.es_e679eaef0f864bc6b00388362850f68a.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "CIMA pioglitazona texto",
+      "source_url": "https://cima.aemps.es/cima/dochtml/ft/76481/FT_76481.html",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_032bd8b4650243549050973baad3dcd0.html",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed pregabalina HTML",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f29991e-3bf5-4e48-8fa3-6d4e932ed6de",
+      "evidence_type": "label HTML",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_032bd8b4650243549050973baad3dcd0.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed pregabalina texto",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f29991e-3bf5-4e48-8fa3-6d4e932ed6de",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_12572011911a40208f9bfa80426f6a4f.html",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed nifedipino HTML",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c98ecf77-ae9a-438b-9bad-ffbed25d95bc",
+      "evidence_type": "label HTML",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_12572011911a40208f9bfa80426f6a4f.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed nifedipino texto",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c98ecf77-ae9a-438b-9bad-ffbed25d95bc",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_1c24fafcd62840dfa099eeaeb49c18d6.html",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed pioglitazona HTML",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c748f901-8321-4dc2-8848-b7ed27f11f97",
+      "evidence_type": "label HTML",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_1c24fafcd62840dfa099eeaeb49c18d6.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed pioglitazona texto",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c748f901-8321-4dc2-8848-b7ed27f11f97",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_35267bfb235b4f2eb9293d4101aecd92.html",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed gabapentina HTML",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d35cd5ac-5ed6-2405-e053-2995a90a6946",
+      "evidence_type": "label HTML",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_35267bfb235b4f2eb9293d4101aecd92.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed gabapentina texto",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d35cd5ac-5ed6-2405-e053-2995a90a6946",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_4e880f29a04e44e487f246f1766f94c9.html",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed ibuprofeno HTML",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40071818-5bf0-095b-e063-6294a90ad58a",
+      "evidence_type": "label HTML",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_4e880f29a04e44e487f246f1766f94c9.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed ibuprofeno texto",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40071818-5bf0-095b-e063-6294a90ad58a",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_5d81061c71ee4ab881de1e9537f0e40a.html",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed naproxeno HTML",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5954565a-d9bd-9e26-e063-6294a90a03cb",
+      "evidence_type": "label HTML",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_5d81061c71ee4ab881de1e9537f0e40a.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed naproxeno texto",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5954565a-d9bd-9e26-e063-6294a90a03cb",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_7040357042f4467284078ff273809362.html",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed rosiglitazona HTML",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ef14122b-7fff-45fa-b13b-0ea9e48bd57d",
+      "evidence_type": "historical label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_7040357042f4467284078ff273809362.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed rosiglitazona texto",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ef14122b-7fff-45fa-b13b-0ea9e48bd57d",
+      "evidence_type": "historical label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_7856c01a3241443791139df847d6dc46.html",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed estradiol HTML",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5718f042-e8c0-b721-e063-6294a90a5bef",
+      "evidence_type": "label HTML",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_7856c01a3241443791139df847d6dc46.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed estradiol texto",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5718f042-e8c0-b721-e063-6294a90a5bef",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_83f7f08bfe4940d49caf8e0f38d5b278.html",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed combinado HTML",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fd0c0836-5d23-2183-da81-9dc7f4287052",
+      "evidence_type": "label HTML",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_83f7f08bfe4940d49caf8e0f38d5b278.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed combinado texto",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fd0c0836-5d23-2183-da81-9dc7f4287052",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_c26c3d98fcee49ec892844d9bca0e0d8.html",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed amlodipino HTML",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6efc0ef6-0424-44fc-a9ea-eb30c3b83239",
+      "evidence_type": "label HTML",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_c26c3d98fcee49ec892844d9bca0e0d8.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed amlodipino texto",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6efc0ef6-0424-44fc-a9ea-eb30c3b83239",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_ce540a60098741d6b764ec2591132b7e.html",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed hormonal HTML",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=199cf13e-0859-4a73-9b45-e700d0cd1049",
+      "evidence_type": "label HTML",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_ce540a60098741d6b764ec2591132b7e.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed hormonal texto",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=199cf13e-0859-4a73-9b45-e700d0cd1049",
+      "evidence_type": "regulatory label",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/dailymed.nlm.nih.gov_d76e491446d14ac7bcb14185ffb7c72d.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "DailyMed amlodipino XML",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/6efc0ef6-0424-44fc-a9ea-eb30c3b83239.xml",
+      "evidence_type": "structured XML",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/eutils.ncbi.nlm.nih.gov_060a7a7b13724e5cadd76f6a6a5fa2fb.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "PubMed búsqueda no hormonal",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28lipedema+OR+lipoedema%29+AND+%28amlodipine+OR+nifedipine+OR+pregabalin+OR+gabapentin+OR+pioglitazone+OR+rosiglitazone%29&retmax=100&retmode=json",
+      "evidence_type": "negative index query",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/eutils.ncbi.nlm.nih.gov_0e9b2f88546f463e85f1ab312293d907.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Ensayo lumiracoxib/rofecoxib",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=18778469&retmode=xml",
+      "evidence_type": "trial abstract",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/eutils.ncbi.nlm.nih.gov_4d608da13a7c43b0893ad7e4ab36f23f.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Abstract hormonal",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21295192&retmode=xml",
+      "evidence_type": "PubMed abstract",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/eutils.ncbi.nlm.nih.gov_563f61112fa6428f9875f7553da6b14b.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Meta-análisis pregabalina",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21320112&retmode=xml",
+      "evidence_type": "systematic review",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/eutils.ncbi.nlm.nih.gov_6d9c6a2757074d56a7ec97b34e80b4f0.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Abstracts lipedema/hormonas",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=42558412,42511984,42093722,41988381,41575573,41548036,41542013,41426843,41393612,41278213,41020814,40806207,40575811,39338410,38791004,37757816,35625899,35448699,34769153,33001552,32872468,32792644,30620975,30278848,27715138,25200646,23185156,20358611&rettype=abstract&retmode=text",
+      "evidence_type": "PubMed abstracts",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/eutils.ncbi.nlm.nih.gov_7e9e16b7305a415da6c35e8a35444d58.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Meta-análisis calcioantagonistas",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=21558959&retmode=xml",
+      "evidence_type": "meta-analysis",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/eutils.ncbi.nlm.nih.gov_82ef83352c2743dab536943c35ce144e.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "PubMed búsqueda NSAID",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=(lipedema%20OR%20lipoedema)%20AND%20(NSAID%20OR%20%22nonsteroidal%20anti-inflammatory%22)&retmax=100&retmode=json",
+      "evidence_type": "negative index query",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/eutils.ncbi.nlm.nih.gov_95d4c3382fba43efab30e396eef25244.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Revisión AINE/COX-2",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=15957551&retmode=xml",
+      "evidence_type": "review",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/eutils.ncbi.nlm.nih.gov_af335a5381f149c28b25d932e7f1acc0.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Estradiol/progesterona",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=17302877&retmode=xml",
+      "evidence_type": "human experimental study",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/eutils.ncbi.nlm.nih.gov_d90c03bb740745df9cb3912b8638f2b4.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Revisión renal AINE",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=11992745&retmode=xml",
+      "evidence_type": "review",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/eutils.ncbi.nlm.nih.gov_e1d7ef696cbb4c6197b5aa8e239ee6a8.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "PubMed búsqueda hormonal",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term=%28lipedema%20OR%20lipoedema%29%20AND%20%28estrogen%20OR%20oestrogen%20OR%20progestin%20OR%20contraceptive%29&retmax=100&retmode=json",
+      "evidence_type": "index query",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/eutils.ncbi.nlm.nih.gov_e530159e14454d21b3dfc50f5676479e.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Guía S2k lipedema",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=39188170&rettype=abstract&retmode=text",
+      "evidence_type": "guideline abstract",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/eutils.ncbi.nlm.nih.gov_f6d00e4cac5f41d09218280b8afdc9ab.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Contradicción mecanística TZD",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=20105179&retmode=xml",
+      "evidence_type": "mechanistic study",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/eutils.ncbi.nlm.nih.gov_fa6613d6b262443082c14b3be6e350a5.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Revisión TZD",
+      "source_url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=23577024&retmode=xml",
+      "evidence_type": "review",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/pmc.ncbi.nlm.nih.gov_c467baab903e4a629a09c9d983701186.html",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Review diagnóstico edema HTML",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7536506/",
+      "evidence_type": "secondary review",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/pmc.ncbi.nlm.nih.gov_c467baab903e4a629a09c9d983701186.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "Review diagnóstico edema texto",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7536506/",
+      "evidence_type": "secondary review",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/pmc.ncbi.nlm.nih.gov_d4b0b729aa4a42a9942c02fb5ffea4bb.html",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "PMC Cureus bloqueado HTML",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12800713/",
+      "evidence_type": "blocked full text",
+      "delete_after_ingest": false
+    },
+    {
+      "filename": "websearcher/web-pages/pmc.ncbi.nlm.nih.gov_d4b0b729aa4a42a9942c02fb5ffea4bb.txt",
+      "disposition": "archive_only",
+      "reason": "Runtime fail-safe archived a researcher nomination omitted by the administrator; it was not automatically approved or deleted.",
+      "title": "PMC Cureus bloqueado texto",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12800713/",
+      "evidence_type": "blocked full text",
+      "delete_after_ingest": false
+    }
+  ],
+  "result": {
+    "knowledge_base": "lipedema",
+    "indexed": [
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "89198f3452b06741820737a4c36c4f5c993240c85a71ce1dc618dc4b2bc87fff",
+        "chunks": 31,
+        "sha256": "fd1af12aba7dec03406a90519c385b6c13fc4dd96e2b683e22153fa5d3a9c2cf"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "5ab4d4bfb3d1a5fa54265669a1da295917599675ca41b42a80e9fbc98e36d45a",
+        "chunks": 28,
+        "sha256": "7e85ab79e8f4620cf41b377378144863d858ca88a446d87b4580a9b5087ffc0a"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "644f903a300350f531019ec17ee26fbf57871566c51c80bd93cad9dd7e2f7f03",
+        "chunks": 208,
+        "sha256": "640459e2df750378653d846f8ab19e0cc4d95993ca347277c48e089a920d36db"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "3295ff38451a27aeb54e840c5df53a81faf4359cc9c77ed2235cf3f9d8e4e413",
+        "chunks": 37,
+        "sha256": "1db6a33b581c9cf446d963fe5b9b59013034e2aa62da29afa821aea2bfd054f6"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "6b8726d90001427c110a4ffddb1c4bf99e52fab65b3348dc5c1a7022119b3ac4",
+        "chunks": 36,
+        "sha256": "57edfb22a21cccb9cb75334a44f969bd066be841bf486a460a8a49885e7f61ad"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "6f625c18f940a35b1d9ecfacb2b398f19d4af8cc20d2cd731281eb5f9358f1d3",
+        "chunks": 80,
+        "sha256": "c44ae303ff5290b6dc2be5922b526903e6ad7eaece373b10a162e55df0fa8536"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "f9caefe96640eac35fbaae8c57a60ac74116747d5d16f39aee0dc6b4c97877e0",
+        "chunks": 46,
+        "sha256": "0921547b67e468a182dd7873e924ec6304ac3d8e98bc8ef46e20bf184a15f329"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "8fc70aeb7d33d221f6c536f62fbb3b8dfd98c56ee86eb3b080bfbbc6394f7e9b",
+        "chunks": 61,
+        "sha256": "2921174f828441a39abcd652d710ff3538a7afa89c8d043a5b5a86efa0bea3c4"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "5ac6de3e1394adc0e9ace0e8cc3cc30f12854557e5329bb97c395a253045f22c",
+        "chunks": 45,
+        "sha256": "0d58a170c5d604848e6ed1c4206e799620c13d284371b4c07741d09a0005fe6e"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "84c6db921e9ea61896326fd8e2ccb41ecf385b6540718f0cd2e4a48e2ccd69fa",
+        "chunks": 29,
+        "sha256": "670cede22c347e36fb2e44c5fc522e142ca7191cf62288157cceb31bbf8d18ce"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "a9e2dabab155cd93f08ca02067145045c7e755311a160a7accdb46660ebe0954",
+        "chunks": 70,
+        "sha256": "22c6b1392368e17186f620e47e270642ef8f567188e21eaba3e10de905f876c0"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "388379ceb67b6dd3b555fa97a092a6e4f92a5b9e9ac1d4ef698f1e5e70322315",
+        "chunks": 102,
+        "sha256": "ba7334156e726032ad47193672acd03923d0c2e6088fc7a0aeabc958c4fba012"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "a6f7ba41a29cdb3bbf5637be05de96baad49de0391a64b6e54c830d8ad50c5ef",
+        "chunks": 68,
+        "sha256": "78a6e520f66002216078dddb24e282e52b8c6483af2baf109ab5967c910c33a6"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "2a74d384cdc3aac69e05ef63a75fd6b677e060c4037b8a4af3b1724c79e1d646",
+        "chunks": 38,
+        "sha256": "f1c08621f2e1ee94e8f0767e804169232a93b65fddf608fb423976c01207bf9c"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "1ec6fd3b1b4b976ebec597b5b80d3fd872e2cc6484005b89ff3b3ae75ea9033a",
+        "chunks": 54,
+        "sha256": "d761b945d0350635beb3684f284bf6b5746e9bfadd8e82390156b4965faf51ac"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "0a7e0acc19e5005dee429872f60c06b4a5c30479aab48241b0f1110dbcd69254",
+        "chunks": 64,
+        "sha256": "b047390a8317084c3427960529ded368d99781547ec4c12e745dfea643a3c529"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "b98d44c94caae5e8b0d4be5e2b263adfa53a8c5b95e56b79c6989bf442909f6d",
+        "chunks": 51,
+        "sha256": "0df400be8333ae80f093db2e6ca22d6102f424914169e5281309b68d8886fb80"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "bd69f1e9e4bd262f8ce64cfe8a9565b074241560247576abb03f8955c92284a9",
+        "chunks": 405,
+        "sha256": "32a23df4e526a1535cdc247827ad02a18c22eefad86029d1b2c968c810b3f5b7"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "7b0c8655a2d49fcc5a508c55ea3022ccd4ff1a4a6b0e9bb025e5aafbb18cb015",
+        "chunks": 33,
+        "sha256": "6b74f1fa3460ecc5775823471c2103a0745e42fb94cff42826868bfeed273400"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "d98af32d1a6c5234d580452528c876f92572d4f77b86cc0242908842ccd64441",
+        "chunks": 93,
+        "sha256": "01d52eebf3d6a58130cd5fd074f0e67afdca0d99af58e433c1abeb52b20f236b"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "9c622df4c8cded4a6d875a3af75ac5752cdbf9f09f5f97b9633403d6f490f816",
+        "chunks": 6,
+        "sha256": "3f5286ca0f4f3f7621fe2dc34e60c2a085a8ab1a2a002cde3121141e21921360"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "a859909b74756503f361b6f529bbb997e5e718264679beaa737af13fccd50512",
+        "chunks": 131,
+        "sha256": "f8f1bb96835cad3388932ab7da0e2981c00284d5de13189fb573b0370eee835b"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "fb0eb0101a4aae1d44b3da5a7403c597674144445948d890771516ec58e84751",
+        "chunks": 61,
+        "sha256": "7f88011c36f38178ed6537491eeb6b32fa1228e6295a50e90a8bc860be6be56e"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "source_id": "4d39467d7c962671af55fec655e2680deb58e6b1235814b609271c535263a298",
+        "chunks": 161,
+        "sha256": "632c3ccaf311621842d018a08ebd7ff5da558b80c78cb9a4f8d63cf9e2cb69de"
+      }
+    ],
+    "skipped": [
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "reason": "unchanged"
+      },
+      {
+        "path": "[LOCAL_PATH_REDACTED]",
+        "reason": "unchanged"
+      }
+    ],
+    "deleted": [
+      "[LOCAL_PATH_REDACTED]",
+      "[LOCAL_PATH_REDACTED]",
+      "[LOCAL_PATH_REDACTED]",
+      "[LOCAL_PATH_REDACTED]",
+      "[LOCAL_PATH_REDACTED]",
+      "[LOCAL_PATH_REDACTED]",
+      "[LOCAL_PATH_REDACTED]",
+      "[LOCAL_PATH_REDACTED]",
+      "[LOCAL_PATH_REDACTED]",
+      "[LOCAL_PATH_REDACTED]",
+      "[LOCAL_PATH_REDACTED]",
+      "[LOCAL_PATH_REDACTED]"
+    ],
+    "discard_cleanup": {
+      "deleted": [],
+      "skipped": []
+    }
+  }
+}

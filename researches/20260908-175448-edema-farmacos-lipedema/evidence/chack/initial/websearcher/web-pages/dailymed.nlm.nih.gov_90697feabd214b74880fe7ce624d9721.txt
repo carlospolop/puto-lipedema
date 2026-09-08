@@ -1,0 +1,2401 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://www.accessdata.fda.gov/spl/stylesheet/spl.xsl" type="text/xsl"?>
+<document xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3 https://www.accessdata.fda.gov/spl/schema/spl.xsd">
+   <id root="c446c7b6-aa56-45e7-bb47-5ce71a614719"/>
+   <code code="34391-3" codeSystem="2.16.840.1.113883.6.1" displayName="HUMAN PRESCRIPTION DRUG LABEL"/>
+   <title>These highlights do not include all the information needed to use ESTRADIOL AND NORETHINDRONE ACETATE TABLETS safely and effectively. See full prescribing information for ESTRADIOL AND NORETHINDRONE ACETATE TABLETS.<br/>
+      <br/>ESTRADIOL and NORETHINDRONE ACETATE tablets, for oral use <br/>Initial U.S. Approval: 1998<br/>
+   </title>
+   <effectiveTime value="20260626"/>
+   <setId root="1521007a-546d-421e-99e1-e10d90c0b090"/>
+   <versionNumber value="1"/>
+   <author>
+      <assignedEntity>
+         <representedOrganization>
+            <id extension="830016429" root="1.3.6.1.4.1.519.1"/>
+            <name>A-S Medication Solutions</name>
+            <assignedEntity>
+               <assignedOrganization>
+                  <assignedEntity>
+                     <assignedOrganization>
+                        <id extension="830016429" root="1.3.6.1.4.1.519.1"/>
+                        <name>A-S Medication Solutions</name>
+                     </assignedOrganization>
+                     <performance>
+                        <actDefinition>
+                           <code code="C73607" displayName="RELABEL" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <product>
+                              <manufacturedProduct classCode="MANU">
+                                 <manufacturedMaterialKind>
+                                    <code code="50090-8004" codeSystem="2.16.840.1.113883.6.69"/>
+                                 </manufacturedMaterialKind>
+                              </manufacturedProduct>
+                           </product>
+                        </actDefinition>
+                     </performance>
+                  </assignedEntity>
+               </assignedOrganization>
+            </assignedEntity>
+         </representedOrganization>
+      </assignedEntity>
+   </author>
+   <component>
+      <structuredBody>
+         <component>
+            <section>
+               <id root="b171c4ea-1129-4b01-b7b8-8095bab1c310"/>
+               <code code="48780-1" codeSystem="2.16.840.1.113883.6.1" displayName="SPL Product Data Elements Section"/>
+               <effectiveTime value="20240331"/>
+               <subject>
+                  <manufacturedProduct>
+                     <manufacturedProduct>
+                        <code code="50090-8004" codeSystem="2.16.840.1.113883.6.69"/>
+                        <name>Estradiol and Norethindrone Acetate</name>
+                        <formCode code="C42998" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="TABLET"/>
+                        <asEntityWithGeneric>
+                           <genericMedicine>
+                              <name>Estradiol and Norethindrone Acetate</name>
+                           </genericMedicine>
+                        </asEntityWithGeneric>
+                        <asEquivalentEntity classCode="EQUIV">
+                           <code code="C64637" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <definingMaterialKind>
+                              <code code="50742-658" codeSystem="2.16.840.1.113883.6.69"/>
+                           </definingMaterialKind>
+                        </asEquivalentEntity>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator value="0.5" unit="mg"/>
+                              <denominator value="1" unit="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="4TI98Z838E" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>ESTRADIOL</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="4TI98Z838E" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>ESTRADIOL</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="ACTIB">
+                           <quantity>
+                              <numerator value="0.1" unit="mg"/>
+                              <denominator value="1" unit="1"/>
+                           </quantity>
+                           <ingredientSubstance>
+                              <code code="9S44LIC7OJ" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>NORETHINDRONE ACETATE</name>
+                              <activeMoiety>
+                                 <activeMoiety>
+                                    <code code="T18F433X4S" codeSystem="2.16.840.1.113883.4.9"/>
+                                    <name>NORETHINDRONE</name>
+                                 </activeMoiety>
+                              </activeMoiety>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="EWQ57Q8I5X" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>LACTOSE MONOHYDRATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="O8232NY3SJ" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>STARCH, CORN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="6OZP39ZG8H" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>PEG-20 SORBITAN OLEATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="D9C330MD8B" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>VP/VA COPOLYMER</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="70097M6I30" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>MAGNESIUM STEARATE</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="532B59J990" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>POLYVINYL ALCOHOL</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="15FIX9V2JP" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>CI 77891</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="7SEV7J4R1U" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>TALC</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="G2M7P15E5P" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>POLYETHYLENE GLYCOL 3350</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="1DI56QDM62" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>SOYBEAN LECITHIN</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="35SW5USQ3G" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>D&amp;C YELLOW NO. 10</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="L06K8R7DQK" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>FD&amp;C BLUE NO. 2</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <ingredient classCode="IACT">
+                           <ingredientSubstance>
+                              <code code="H77VEI93A8" codeSystem="2.16.840.1.113883.4.9"/>
+                              <name>KI5</name>
+                           </ingredientSubstance>
+                        </ingredient>
+                        <asContent>
+                           <quantity>
+                              <numerator value="28" unit="1"/>
+                              <denominator value="1" unit="1"/>
+                           </quantity>
+                           <containerPackagedProduct>
+                              <formCode code="C43168" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="BLISTER PACK"/>
+                              <asContent>
+                                 <quantity>
+                                    <numerator value="1" unit="1"/>
+                                    <denominator value="1"/>
+                                 </quantity>
+                                 <containerPackagedProduct>
+                                    <code code="50090-8004-0" codeSystem="2.16.840.1.113883.6.69"/>
+                                    <formCode code="C43182" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="CARTON"/>
+                                 </containerPackagedProduct>
+                                 <subjectOf>
+                                    <marketingAct>
+                                       <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                                       <statusCode code="active"/>
+                                       <effectiveTime>
+                                          <low value="20260625"/>
+                                       </effectiveTime>
+                                    </marketingAct>
+                                 </subjectOf>
+                              </asContent>
+                           </containerPackagedProduct>
+                           <subjectOf>
+                              <characteristic classCode="OBS">
+                                 <code code="SPLCMBPRDTP" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                                 <value code="C112160" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="Type 0: Not a Combination Product" xsi:type="CE"/>
+                              </characteristic>
+                           </subjectOf>
+                        </asContent>
+                     </manufacturedProduct>
+                     <subjectOf>
+                        <approval>
+                           <id extension="ANDA210612" root="2.16.840.1.113883.3.150"/>
+                           <code code="C73584" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ANDA"/>
+                           <author>
+                              <territorialAuthority>
+                                 <territory>
+                                    <code code="USA" codeSystem="2.16.840.1.113883.5.28"/>
+                                 </territory>
+                              </territorialAuthority>
+                           </author>
+                        </approval>
+                     </subjectOf>
+                     <subjectOf>
+                        <marketingAct>
+                           <code code="C53292" codeSystem="2.16.840.1.113883.3.26.1.1"/>
+                           <statusCode code="active"/>
+                           <effectiveTime>
+                              <low value="20190403"/>
+                           </effectiveTime>
+                        </marketingAct>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLCOLOR" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="CE" code="C48330" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="YELLOW">
+                              <originalText>pale yellow</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSHAPE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="CE" code="C48348" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ROUND">
+                              <originalText>round biconvex</originalText>
+                           </value>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSIZE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="PQ" value="5" unit="mm"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLSCORE" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="INT" value="1"/>
+                        </characteristic>
+                     </subjectOf>
+                     <subjectOf>
+                        <characteristic classCode="OBS">
+                           <code code="SPLIMPRINT" codeSystem="2.16.840.1.113883.1.11.19255"/>
+                           <value xsi:type="ST">J1</value>
+                        </characteristic>
+                     </subjectOf>
+                     <consumedIn>
+                        <substanceAdministration>
+                           <routeCode code="C38288" codeSystem="2.16.840.1.113883.3.26.1.1" displayName="ORAL"/>
+                        </substanceAdministration>
+                     </consumedIn>
+                  </manufacturedProduct>
+               </subject>
+            </section>
+         </component>
+         <component>
+            <section ID="ID411">
+               <id root="76e04657-657e-45f8-af43-0f9e180f39b2"/>
+               <code code="34066-1" codeSystem="2.16.840.1.113883.6.1" displayName="BOXED WARNING SECTION"/>
+               <title>WARNING: CARDIOVASCULAR DISORDERS, PROBABLE DEMENTIA, BREAST CANCER, and ENDOMETRIAL CANCER</title>
+               <effectiveTime value="20240331"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">WARNING: CARDIOVASCULAR DISORDERS, PROBABLE DEMENTIA, BREAST CANCER, and ENDOMETRIAL CANCER </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="italics">S</content>
+                           </content>
+                           <content styleCode="bold">
+                              <content styleCode="italics">ee full prescribing information for complete boxed warning</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="underline">Estrogen Plus Progestin Therapy</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>●<content styleCode="bold"> The Women's Health Initiative (WHI) estrogen plus progestin substudy reported increased risks of deep vein thrombosis (DVT), pulmonary embolism (PE), stroke and myocardial infarction (MI) (<linkHtml href="#ID458">5.1</linkHtml>)</content>
+                        </paragraph>
+                        <paragraph>● <content styleCode="bold">The WHI estrogen plus progestin substudy reported increased risks of invasive breast cancer (<linkHtml href="#ID460">5.2</linkHtml>)</content>
+                        </paragraph>
+                        <paragraph>● <content styleCode="bold">The WHI Memory Study (WHIMS) estrogen plus progestin ancillary study of WHI reported an increased risk of probable dementia in postmenopausal women 65 years of age and older (<linkHtml href="#ID462">5.3</linkHtml>)</content>
+                        </paragraph>
+                        <paragraph>● <content styleCode="bold"> Do not use estrogen plus progestogen therapy for the prevention of cardiovascular disease or dementia (<linkHtml href="#ID458">5.1</linkHtml>, <linkHtml href="#ID462">5.3</linkHtml>)</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="underline">Estrogen-Alone Therapy</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>● <content styleCode="bold">There is an increased risk of endometrial cancer in a woman with a uterus who use unopposed estrogens (<linkHtml href="#ID460">5.2</linkHtml>)</content>
+                        </paragraph>
+                        <paragraph>● <content styleCode="bold">The WHI estrogen-alone substudy reported increased risks of stroke and DVT (<linkHtml href="#ID458">5.1</linkHtml>)</content>
+                        </paragraph>
+                        <paragraph>● <content styleCode="bold">The WHIMS estrogen-alone ancillary study of WHI reported an increased risk of probable dementia in postmenopausal women 65 years of age and older (<linkHtml href="#ID462">5.3</linkHtml>)</content>
+                        </paragraph>
+                        <paragraph>●<content styleCode="bold"> Do not use estrogen-alone therapy for the prevention of cardiovascular disease or dementia (<linkHtml href="#ID460">5.2</linkHtml>, <linkHtml href="#ID462">5.3</linkHtml>) </content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID414">
+                     <id root="bb8a9766-1961-4f51-af7a-a6b40e416d3e"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="underline">Estrogen Plus Progestin Therapy</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Cardiovascular Disorders and Probable Dementia</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">The Women's Health Initiative (WHI) estrogen plus progestin substudy reported increased risks of deep vein thrombosis (DVT), pulmonary embolism (PE), stroke and myocardial infarction (MI) in postmenopausal women (50 to 79 years of age) during 5.6 years of treatment with daily oral conjugated estrogen (CE) [0.625 mg] combined with medroxyprogesterone acetate (MPA) [2.5 mg], relative to placebo <content styleCode="italics">[see Warnings and Precautions (</content>
+                           </content>
+                           <content styleCode="bold">
+                              <content styleCode="italics">
+                                 <linkHtml href="#ID458">5.1</linkHtml>
+                              </content>
+                           </content>
+                           <content styleCode="bold">
+                              <content styleCode="italics">), and Clinical Studies (</content>
+                           </content>
+                           <content styleCode="bold">
+                              <content styleCode="italics">
+                                 <linkHtml href="#ID564">14.5</linkHtml>
+                              </content>
+                           </content>
+                           <content styleCode="bold">
+                              <content styleCode="italics">)]</content>
+                           </content>
+                           <content styleCode="bold">.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">The WHI Memory Study (WHIMS) estrogen plus progestin ancillary study of the WHI reported an increased risk of developing probable dementia in postmenopausal women 65 years of age </content>
+                           <content styleCode="bold">and </content>
+                           <content styleCode="bold">older during 4 years of treatment with daily CE (0.625 mg) combined with MPA (2.5 mg), relative to placebo. It is unknown whether this finding applies to younger postmenopausal women <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#ID462">5.3</linkHtml>), Use in Specific Populations (<linkHtml href="#ID520">8.5</linkHtml>), and Clinical Studies (<linkHtml href="#ID570">14.6</linkHtml>)].</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Do not use estrogen plus progestogen therapy for the prevention of cardiovascular disease or dementia [<content styleCode="italics">see Warnings and Precautions (<linkHtml href="#ID458">5.1</linkHtml>, <linkHtml href="#ID462">5.3</linkHtml>), and Clinical Studies (<linkHtml href="#ID564">14.5</linkHtml>, <linkHtml href="#ID570">14.6</linkHtml>)</content>].</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Breast Cancer</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">The WHI estrogen plus progestin substudy also demonstrated an increased risk of invasive breast cancer <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#ID460">5.2</linkHtml>), and Clinical Studies (<linkHtml href="#ID564">14.5</linkHtml>)]</content>.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Only daily oral 0.625 mg CE and 2.5 mg MPA were studied in the estrogen plus progestin substudy of the WHI. Therefore, the relevance of the WHI findings regarding adverse cardiovascular events, dementia and breast cancer to lower CE plus other MPA doses, other routes of administration, or other estrogen plus progestogen products is not known. Without such data, it is not possible to definitively exclude these risks or determine the extent of these risks for other products. Discuss with your patient the benefits and risks of estrogen plus progestogen therapy, taking into account her individual risk profile. </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Prescribe estrogens with or without progestogens at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">
+                              <content styleCode="underline">Estrogen-Alone Therapy</content>
+                           </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Endometrial Cancer</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">There is an increased risk of endometrial cancer in a woman with a uterus who uses unopposed estrogens. Adding a progest</content>
+                           <content styleCode="bold">ogen</content>
+                           <content styleCode="bold"> to estrogen therapy has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer. Adequate diagnostic measures, including directed or random endometrial sampling when indicated, should be undertaken to rule out malignancy in postmenopausal women with undiagnosed persistent or recurring abnormal genital bleeding <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#ID460">5.2</linkHtml>)]</content>.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Cardiovascular Disorders and Probable Dementia</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">The WHI estrogen-alone substudy reported increased risks of stroke and DVT in postmenopausal women (50 to 79 years of age) during 7.1 years of treatment with daily oral CE (0.625 mg)-alone, relative to placebo <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#ID458">5.1</linkHtml>), and Clinical Studies (<linkHtml href="#ID564">14.5</linkHtml>)]</content>.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">The WHIMS estrogen-alone ancillary study of the WHI reported an increased risk of developing probable dementia in postmenopausal women 65 years of age </content>
+                           <content styleCode="bold">and</content>
+                           <content styleCode="bold"> older during 5.2 years of treatment with daily CE (0.625 mg)-alone, relative to placebo. It is unknown whether this finding applies to younger postmenopausal women <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#ID462">5.3</linkHtml>), Use in Specific Populations (<linkHtml href="#ID520">8.5</linkHtml>), and Clinical Studies (<linkHtml href="#ID570">14.6</linkHtml>)]</content>.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Do not use estrogen-alone therapy for the prevention of cardiovascular disease or dementia <content styleCode="italics">[see Warnings and Precautions (<linkHtml href="#ID458">5.1</linkHtml>, <linkHtml href="#ID462">5.3</linkHtml>), and Clinical Studies (<linkHtml href="#ID564">14.5</linkHtml>, <linkHtml href="#ID570">14.6</linkHtml>)]</content>. </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Only daily oral 0.625 mg CE was studied in the estrogen-alone substudy of the WHI. Therefore, the relevance of the WHI findings regarding adverse cardiovascular events and dementia to lower CE doses, other routes of administration, or other estrogen-alone products is not known. Without such data, it is not possible to definitively exclude these risks or determine the extent of these risks for other products. Discuss with your patient the benefits and risks of estrogen-alone therapy, taking into account her individual risk profile. </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Prescribe estrogens with or without progestogens at the lowest effective doses and for the shortest duration consistent with treatment goals and risks for the individual woman.</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID416">
+               <id root="cdaac09f-3fb5-45be-a483-2faa474f962f"/>
+               <code code="43683-2" codeSystem="2.16.840.1.113883.6.1" displayName="RECENT MAJOR CHANGES SECTION"/>
+               <title>RECENT MAJOR CHANGES</title>
+               <effectiveTime value="20240331"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Warnings and Precautions, Malignant Neoplasms (5.2)      11/2023</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+            </section>
+         </component>
+         <component>
+            <section ID="ID419">
+               <id root="12d36c68-3c39-4ff7-8559-e88d75feabd2"/>
+               <code code="34067-9" codeSystem="2.16.840.1.113883.6.1" displayName="INDICATIONS &amp; USAGE SECTION"/>
+               <title>1 INDICATIONS AND USAGE</title>
+               <effectiveTime value="20240331"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>Estradiol and norethindrone acetate tablets are an estrogen and progestin combination indicated in a woman with a uterus for:</paragraph>
+                        <list listType="unordered" ID="ID600" styleCode="Disc">
+                           <item>Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause (<linkHtml href="#ID424">1.1</linkHtml>) </item>
+                           <item>Treatment of Moderate to Severe Symptoms of Vulvar and Vaginal Atrophy due to Menopause (<linkHtml href="#ID425">1.2</linkHtml>)</item>
+                        </list>
+                        <paragraph>
+                           <content styleCode="underline">Limitations of Use: </content>
+                        </paragraph>
+                        <paragraph>When prescribing solely for the treatment of moderate to severe symptoms of vulvar and vaginal atrophy due to menopause, first consider the use of topical vaginal products. </paragraph>
+                        <list listType="unordered" ID="ID601" styleCode="Disc">
+                           <item>Prevention of Postmenopausal Osteoporosis (<linkHtml href="#ID427">1.3</linkHtml>) </item>
+                        </list>
+                        <paragraph>
+                           <content styleCode="underline">Limitations of Use: </content>
+                        </paragraph>
+                        <paragraph>When prescribing solely for the prevention of postmenopausal osteoporosis, first consider the use of non-estrogen medications. Consider estrogen therapy only for women at significant risk of osteoporosis.</paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID422">
+                     <id root="f23fc49a-87fc-43e8-9f76-9cc38bb8ca5c"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">Estradiol and norethindrone acetate tablets are indicated for:</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID424">
+                     <id root="146196c1-5e62-4bd6-a3a7-6a4f197640ce"/>
+                     <title>1.1 Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause</title>
+                     <text>
+                        <paragraph/>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID425">
+                     <id root="4bc4283c-2b75-42f8-a5b7-1f9f7b3eb03e"/>
+                     <title>1.2 Treatment of Moderate to Severe Symptoms of Vulvar and Vaginal Atrophy due to Menopause</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">Limitation of Use</content>
+                        </paragraph>
+                        <paragraph>When prescribing solely for the treatment of moderate to severe symptoms of vulvar and vaginal atrophy due to menopause, first consider the use of topical vaginal products.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID427">
+                     <id root="8e8b9510-46fe-49ce-8cce-f66821b21ff5"/>
+                     <title>1.3 Prevention of Postmenopausal Osteoporosis</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="bold">Limitation of Use</content>
+                        </paragraph>
+                        <paragraph>When prescribing solely for the prevention of postmenopausal osteoporosis, first consider the use of non-estrogen medications. Consider estrogen therapy only for women at significant risk of osteoporosis.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID429">
+               <id root="943cbdd0-2c1d-458a-86cf-ca1becd55d18"/>
+               <code code="34068-7" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE &amp; ADMINISTRATION SECTION"/>
+               <title>2 DOSAGE AND ADMINISTRATION</title>
+               <effectiveTime value="20240331"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" ID="ID431" styleCode="Disc">
+                           <item> Take a single estradiol and norethindrone acetate 1 mg/0.5 mg or 0.5 mg/0.1 mg tablet orally once daily for the Treatment of Moderate to severe Vasomotor Symptoms due to Menopause and for the Prevention of Postmenopausal Osteoporosis (<linkHtml href="#ID434">2.1</linkHtml>, <linkHtml href="#ID440">2.3</linkHtml>)</item>
+                           <item> Estradiol and norethindrone acetate 1 mg/0.5 mg tablets are taken orally once daily for the Treatment of Moderate to Severe Symptoms of Vulvar and Vaginal Atrophy due to Menopause (<linkHtml href="#ID437">2.2</linkHtml>)</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID432">
+                     <id root="d029ba43-b627-4e50-9bcb-2b0c7d085c62"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>Use estrogen-alone, or in combination with a progestogen, at the lowest effective dose and the shortest duration consistent with treatment goals and risks for the individual woman. Reevaluate postmenopausal women periodically as clinically appropriate to determine whether treatment is still necessary.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID434">
+                     <id root="1fcff0a3-68ce-4966-9505-504d77d42df3"/>
+                     <title>2.1 Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause</title>
+                     <text>
+                        <paragraph>Take a single estradiol and norethindrone acetate tablet orally once daily for the treatment of moderate to severe vasomotor symptoms due to menopause.</paragraph>
+                        <list listType="unordered" ID="ID436" styleCode="Disc">
+                           <item>Estradiol and norethindrone acetate tablets 1 mg/0.5 mg</item>
+                           <item>Estradiol and norethindrone acetate tablets 0.5 mg/0.1 mg</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID437">
+                     <id root="097a4323-5e70-4591-a79b-f90f41ba560b"/>
+                     <title>2.2 Treatment of Moderate to Severe Symptoms of Vulvar and Vaginal Atrophy due to Menopause</title>
+                     <text>
+                        <paragraph>Take a single estradiol and norethindrone acetate tablet orally once daily for the treatment of moderate to severe symptoms of vulvar and vaginal atrophy due to menopause.</paragraph>
+                        <list listType="unordered" ID="ID439" styleCode="Disc">
+                           <item>Estradiol and norethindrone acetate tablets 1 mg/0.5 mg</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID440">
+                     <id root="06af5e0f-ab4f-46e8-b988-a07474c23a51"/>
+                     <title>2.3 Prevention of Postmenopausal Osteoporosis</title>
+                     <text>
+                        <paragraph>Take a single estradiol and norethindrone acetate tablet orally once daily for the prevention of postmenopausal osteoporosis.</paragraph>
+                        <list listType="unordered" ID="ID442" styleCode="Disc">
+                           <item>Estradiol and norethindrone acetate tablets 1 mg/0.5 mg</item>
+                           <item>Estradiol and norethindrone acetate tablets 0.5 mg/0.1 mg</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID443">
+               <id root="3a3fa0e0-c53e-4371-8030-f89c04b582a4"/>
+               <code code="43678-2" codeSystem="2.16.840.1.113883.6.1" displayName="DOSAGE FORMS &amp; STRENGTHS SECTION"/>
+               <title>3 DOSAGE FORMS AND STRENGTHS</title>
+               <effectiveTime value="20240331"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" ID="ID445" styleCode="Disc">
+                           <item> Estradiol and norethindrone acetate 1 mg/0.5 mg tablet (<content styleCode="bold">
+                                 <linkHtml href="#ID446">3</linkHtml>
+                              </content> )</item>
+                           <item> Estradiol and norethindrone acetate 0.5 mg/0.1 mg tablet (<content styleCode="bold">
+                                 <linkHtml href="#ID446">3</linkHtml>
+                              </content> )</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID446">
+                     <id root="1dcc6cb6-8843-40ff-acba-da3336be037f"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>Estradiol and norethindrone acetate tablets, USP are available in two strengths:</paragraph>
+                        <list listType="unordered" ID="ID448" styleCode="Disc">
+                           <item>Each tablet of estradiol and norethindrone acetate 1 mg/ 0.5 mg contains 1 mg of estradiol and 0.5 mg of norethindrone acetate. The tablets are yellow, round, bi-convex tablets debossed "J2" on one side.</item>
+                           <item>Each tablet of estradiol and norethindrone acetate 0.5 mg/ 0.1 mg contains 0.5 mg of estradiol and 0.1 mg of norethindrone acetate. The tablets are pale yellow, round, bi-convex tablets debossed "J1" on one side.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID449">
+               <id root="c70a83aa-e429-4b23-bf2e-0595b01c55f6"/>
+               <code code="34070-3" codeSystem="2.16.840.1.113883.6.1" displayName="CONTRAINDICATIONS SECTION"/>
+               <title>4 CONTRAINDICATIONS</title>
+               <effectiveTime value="20240331"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" ID="ID451" styleCode="Disc">
+                           <item> Undiagnosed abnormal genital bleeding (<content styleCode="bold">
+                                 <linkHtml href="#ID452">4</linkHtml>
+                              </content> )</item>
+                           <item> Breast cancer or a history of breast cancer (<content styleCode="bold">
+                                 <linkHtml href="#ID452">4</linkHtml>
+                              </content>,<content styleCode="bold">
+                                 <linkHtml href="#ID460">5.2</linkHtml>
+                              </content> )</item>
+                           <item> Estrogen-dependent neoplasia (<content styleCode="bold">
+                                 <linkHtml href="#ID452">4</linkHtml>
+                              </content>, <content styleCode="bold">
+                                 <linkHtml href="#ID460">5.2</linkHtml>
+                              </content> )</item>
+                           <item> Active DVT, PE, or history of these conditions (<content styleCode="bold">
+                                 <linkHtml href="#ID452">4</linkHtml>
+                              </content>, <content styleCode="bold">
+                                 <linkHtml href="#ID458">5.1</linkHtml>
+                              </content> )</item>
+                           <item> Active arterial thromboembolic disease (for example, stroke and MI), or a history of these conditions (<content styleCode="bold">
+                                 <linkHtml href="#ID452">4</linkHtml>
+                              </content>, <content styleCode="bold">
+                                 <linkHtml href="#ID458">5.1</linkHtml>
+                              </content> )</item>
+                           <item> Known anaphylactic reaction, angioedema, or hypersensitivity to estradiol and norethindrone acetate tablets (<content styleCode="bold">
+                                 <linkHtml href="#ID452">4</linkHtml>
+                              </content> )</item>
+                           <item> Hepatic impairment or disease (<content styleCode="bold">
+                                 <linkHtml href="#ID452">4</linkHtml>
+                              </content>, <content styleCode="bold">
+                                 <linkHtml href="#ID476">5.10</linkHtml>
+                              </content> )</item>
+                           <item> Protein C, protein S, or antithrombin deficiency, or other known thrombophilic disorders (<content styleCode="bold">
+                                 <linkHtml href="#ID452">4</linkHtml>
+                              </content> )</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID452">
+                     <id root="72b068af-e2c4-4dc0-8386-93a778dee3d6"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>Estradiol and norethindrone acetate tablets are contraindicated in women with any of the following conditions:</paragraph>
+                        <paragraph>• Undiagnosed abnormal genital bleeding [<content styleCode="italics">see Warnings and Precautions (<linkHtml href="#ID460">5.2</linkHtml>)</content>] </paragraph>
+                        <paragraph>• Breast cancer or history of breast cancer [<content styleCode="italics">see Warnings and Precautions (<linkHtml href="#ID460">5.2</linkHtml>)</content>]</paragraph>
+                        <paragraph>• Estrogen-dependent neoplasia [<content styleCode="italics">see Warnings and Precautions (<linkHtml href="#ID460">5.2</linkHtml>)</content>]</paragraph>
+                        <paragraph>• Active DVT, PE, or history of these conditions [<content styleCode="italics">see Warnings and Precautions (<linkHtml href="#ID458">5.1</linkHtml>)</content>]</paragraph>
+                        <paragraph>• Active arterial thromboembolic disease (for example, stroke and MI), or a history of these conditions [<content styleCode="italics">see Warnings and Precautions (<linkHtml href="#ID458">5.1</linkHtml>)</content>]</paragraph>
+                        <paragraph>• Known anaphylactic reaction, angioedema, or hypersensitivity to estradiol and norethindrone acetate tablets</paragraph>
+                        <paragraph>• Hepatic impairment or disease</paragraph>
+                        <paragraph>• Protein C, protein S, or antithrombin deficiency, or other known thrombophilic disorders</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID455">
+               <id root="bbbddc14-9a0c-4bea-a728-2b5b1f9110cd"/>
+               <code code="43685-7" codeSystem="2.16.840.1.113883.6.1" displayName="WARNINGS AND PRECAUTIONS SECTION"/>
+               <title>5 WARNINGS AND PRECAUTIONS</title>
+               <effectiveTime value="20240331"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" ID="ID457" styleCode="Disc">
+                           <item> Estrogens increase the risk of gall bladder disease (<content styleCode="bold">
+                                 <linkHtml href="#ID464">5.4</linkHtml>
+                              </content> )</item>
+                           <item> Discontinue estrogen if severe hypercalcemia, loss of vision, severe hypertriglyceridemia or cholestatic jaundice occurs (<content styleCode="bold">
+                                 <linkHtml href="#ID466">5.5</linkHtml>
+                              </content> , <content styleCode="bold">
+                                 <linkHtml href="#ID468">5.6</linkHtml>
+                              </content> , <content styleCode="bold">
+                                 <linkHtml href="#ID474">5.9</linkHtml>
+                              </content> , <content styleCode="bold">
+                                 <linkHtml href="#ID476">5.10</linkHtml>
+                              </content> )</item>
+                           <item> Monitor thyroid function in women on thyroid replacement therapy (<content styleCode="bold">
+                                 <linkHtml href="#ID478">5.11</linkHtml>
+                              </content> , <content styleCode="bold">
+                                 <linkHtml href="#ID492">5.18</linkHtml>
+                              </content> )</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID458">
+                     <id root="26b58a8e-e32f-40d5-9f22-e0c316fc0f10"/>
+                     <title>5.1 Cardiovascular Disorders</title>
+                     <text>
+                        <paragraph>Increased risks of PE, DVT, stroke and MI are reported with estrogen plus progestin therapy. Increased risks of stroke and DVT are reported with estrogen-alone therapy. Immediately discontinue estrogen with or without progestogen therapy if any of these occur or is suspected.</paragraph>
+                        <paragraph>Manage appropriately any risk factors for arterial vascular disease (for example, hypertension, diabetes mellitus, tobacco use, hypercholesterolemia, and obesity) and/or venous thromboembolism (VTE) (for example, personal history or family history of VTE, obesity, and systemic lupus erythematosus).</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Stroke</content>
+                        </paragraph>
+                        <paragraph>The WHI estrogen plus progestin substudy reported a statistically significant increased risk of stroke  in women 50 to 79 years of age receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women in the same age group receiving placebo (33 versus 25 strokes per 10,000 women-years) <content styleCode="italics">[see Clinical Studies (</content>
+                           <linkHtml href="#ID564">14.5</linkHtml>
+                           <content styleCode="italics">)]</content>. The increase in risk was demonstrated after the first year and persisted.<sup>1</sup> Immediately discontinue estrogen with or without progestogen therapy if a stroke occurs or is suspected.</paragraph>
+                        <paragraph>The WHI estrogen-alone substudy reported a statistically significant increased risk of stroke in women 50 to 79 years of age receiving daily CE (0.625 mg)-alone compared to women in the same age group receiving placebo (45 versus 33 strokes per 10,000 women-years, respectively). The increase in risk was demonstrated in year 1 and persisted <content styleCode="italics">[see Clinical Studies (</content>
+                           <linkHtml href="#ID564">14.5</linkHtml>
+                           <content styleCode="italics">)]</content>. Immediately discontinue estrogen-alone therapy if a stroke occurs or is suspected.</paragraph>
+                        <paragraph>Subgroup analyses of women 50 to 59 years of age suggest no increased risk of stroke for those women receiving CE (0.625 mg)-alone versus those receiving placebo (18 versus 21 per 10,000 women-years). <sup>1</sup>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Coronary Heart Disease</content>
+                        </paragraph>
+                        <paragraph>The WHI estrogen plus progestin substudy reported an increased risk (not statistically significant) of coronary heart disease (CHD) events (defined as nonfatal MI, silent MI, or CHD death) in those women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (41 versus 34 per 10,000 women-years). <sup>1</sup> An increase in relative risk was demonstrated in year 1, and a trend toward decreasing relative risk was reported in years 2 through 5 <content styleCode="italics">[see Clinical Studies (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID564">14.5</linkHtml>
+                           </content>
+                           <content styleCode="italics">)]</content>.</paragraph>
+                        <paragraph>The WHI estrogen-alone substudy reported no overall effect on CHD events in women receiving estrogen-alone compared to placebo <sup>2</sup>
+                           <content styleCode="italics">[see Clinical Studies (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID564">14.5</linkHtml>
+                           </content>
+                           <content styleCode="italics">)].</content>
+                        </paragraph>
+                        <paragraph>Subgroup analyses of women 50 to 59 years of age, who were less than 10 years since menopause, suggest a reduction (not statistically significant) in CHD events in those women receiving daily CE (0.625 mg)-alone compared to placebo (8 versus 16 per 10,000 women-years). <sup>1</sup>
+                        </paragraph>
+                        <paragraph>In postmenopausal women with documented heart disease (n=2,763), average 66.7 years of age, in a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/Progestin Replacement Study; HERS), treatment with daily CE (0.625 mg plus MPA (2.5 mg) demonstrated no cardiovascular benefit. During an average follow-up of 4.1 years, treatment with CE plus MPA did not reduce the overall rate of CHD events in postmenopausal women with established CHD. There were more CHD events in the CE plus MPA- treated group than in the placebo group in year 1, but not during the subsequent years. Two thousand three hundred twenty-one (2,321) women from the original HERS trial agreed to participate in an open label extension of HERS, HERS II. Average follow-up in HERS II was an additional 2.7 years, for a total of 6.8 years overall. Rates of CHD events were comparable among women in the CE plus MPA group and the placebo group in HERS, HERS II, and overall.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Venous Thromboembolism</content>
+                        </paragraph>
+                        <paragraph>The WHI estrogen plus progestin substudy reported a statistically significant 2-fold greater rate of VTE (DVT and PE)  in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (35 versus 17 per 10,000 women-years). Statistically significant increases in risk for both DVT (26 versus 13 per 10,000 women-years) and PE (18 versus 8 per 10,000 women-years) were also demonstrated. The increase in VTE risk was demonstrated during the first year and persisted <sup>3</sup>
+                           <content styleCode="italics">[see Clinical Studies (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID564">14.5</linkHtml>
+                           </content>
+                           <content styleCode="italics">)]. </content>Immediately discontinue estrogen plus progestogen therapy if a VTE occurs or is suspected.</paragraph>
+                        <paragraph>In the WHI estrogen-alone substudy, the risk of VTE was increased for women receiving daily CE (0.625 mg)-alone compared to placebo (30 versus 22 per 10,000 women-years), although only the increased risk of DVT reached statistical significance (23 versus 15 per 10,000 women-years). The increase in VTE risk was demonstrated during the first 2 years <sup>4</sup>
+                           <content styleCode="italics">[see Clinical Studies (</content>
+                           <content styleCode="bold">
+                              <content styleCode="italics">
+                                 <linkHtml href="#ID564">14.5</linkHtml>
+                              </content>
+                           </content>
+                           <content styleCode="italics">)]. </content>Immediately discontinue estrogen-alone therapy if a VTE occurs or is suspected.</paragraph>
+                        <paragraph>If feasible, discontinue estrogens at least 4 to 6 weeks before surgery of the type associated with an increased risk of thromboembolism, or during periods of prolonged immobilization.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID460">
+                     <id root="1a29277b-3c7f-4c7d-ba9b-18f04da361f3"/>
+                     <title>5.2 Malignant Neoplasms</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Breast Cancer</content>
+                        </paragraph>
+                        <paragraph>After a mean follow-up of 5.6 years, the WHI substudy of daily CE (0.625 mg) plus MPA (2.5 mg) reported an increased risk of invasive breast cancer in women who took daily CE plus MPA compared to placebo. </paragraph>
+                        <paragraph>In this substudy, prior use of estrogen-alone or estrogen plus progestin therapy was reported by 26 percent of the women. The relative risk of invasive breast cancer was 1.24, and the absolute risk was 41 versus 33 cases per 10,000 women-years, for CE plus MPA compared with placebo. Among women who reported prior use of hormone therapy, the relative risk of invasive breast cancer was 1.86, and the absolute risk was 46 versus 25 cases per 10,000 women-years, for CE plus MPA compared with placebo. Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09, and the absolute risk was 40 versus 36 cases per 10,000 women-years, for CE plus MPA compared with placebo. In the same substudy, invasive breast cancers were larger, were more likely to be node positive, and were diagnosed at a more advanced stage in the CE (0.625 mg) plus MPA (2.5 mg) group compared with the placebo group. Metastatic disease was rare, with no apparent difference between the two groups. Other prognostic factors, such as histologic subtype, grade and hormone receptor status did not differ between the groups <sup>5</sup>
+                           <content styleCode="italics">[see Clinical Studies (<linkHtml href="#ID564">14.5</linkHtml>)]</content>.</paragraph>
+                        <paragraph>The WHI substudy of daily CE (0.625 mg)-alone provided information about breast cancer in estrogen-alone users. In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE-alone was not associated with an increased risk of invasive breast cancer <content styleCode="italics">[relative risk (RR) 0.80] compared to placebo <sup> 6</sup>  [see Clinical Studies (<linkHtml href="#ID564">14.5</linkHtml>)]</content>.</paragraph>
+                        <paragraph>Consistent with the WHI clinical trials, observational studies have also reported an increased risk of breast cancer with estrogen plus progestin therapy, and a smaller increase in the risk for breast cancer with  estrogen-alone therapy, after several years of use. One large meta-analysis of prospective cohort studies reported increased risks that were dependent upon duration of use and could last up to &gt;10 years after discontinuation of estrogen plus progestin therapy and estrogen-alone therapy. Extension of the WHI Trials also demonstrated increased breast cancer risk associated with estrogen plus progestin therapy. Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to estrogen-alone therapy. These studies have not generally found significant variation in the risk of breast cancer among different estrogen plus progestin combinations, doses, or routes of administration.</paragraph>
+                        <paragraph>The use of estrogen-alone and estrogen plus progestin therapy has been reported to result in an increase in abnormal mammograms requiring further evaluation.</paragraph>
+                        <paragraph>In a one-year trial among 1,176 women who received either unopposed 1 mg estradiol or a combination of 1 mg estradiol plus one of three different doses of NETA (0.1, 0.25, 0.5 mg), seven new cases of breast cancer were diagnosed, two of which occurred among the group of 295 women treated with estradiol and norethindrone acetate tablets 1 mg/0.5 mg and two of which occurred among the group of 294 women treated with 1 mg estradiol/0.1 mg NETA.</paragraph>
+                        <paragraph>All women should receive yearly breast examinations by a healthcare provider and perform monthly breast self- examinations. In addition, mammography examinations should be scheduled based on patient age, risk factors, and prior mammogram results.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Endometrial Cancer</content>
+                        </paragraph>
+                        <paragraph>An increased risk of endometrial cancer has been reported with the use of unopposed estrogen therapy in a woman with a uterus. The reported endometrial cancer risk among unopposed estrogen users is about 2- to 12- fold greater than in nonusers, and appears dependent on duration of treatment and on estrogen dose. Most studies show no significant increased risk associated with use of estrogens for less than 1 year. The greatest risk appears to be associated with prolonged use, with increased risks of 15- to 24-fold for 5 to 10 years or more. This risk has been shown to persist for at least 8 to 15 years after estrogen therapy is discontinued.</paragraph>
+                        <paragraph>Clinical surveillance of all women using estrogen-alone or estrogen plus progestogen therapy is important. Perform adequate diagnostic measures, including directed or random endometrial sampling when indicated, to rule out malignancy in postmenopausal women with undiagnosed persistent or recurring abnormal genital bleeding with unknown etiology.</paragraph>
+                        <paragraph>There is no evidence that the use of natural estrogens results in a different endometrial risk profile than synthetic estrogens of equivalent estrogen dose. Adding a progestogen to estrogen therapy in postmenopausal women has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer.</paragraph>
+                        <paragraph>Endometrial hyperplasia occurred at a rate of approximately 1 percent or less with estradiol and norethindrone acetate tablets in a clinical trial.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Ovarian Cancer</content>
+                        </paragraph>
+                        <paragraph>The CE plus MPA substudy of WHI reported that estrogen plus progestin increased the risk of ovarian cancer.  After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo was 1.58 (95 percent confidence interval [CI], 0.77-3.24), but it was not statistically significant. The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.<sup>7</sup>
+                        </paragraph>
+                        <paragraph>A meta-analysis of 17 prospective and 35 retrospective epidemiology studies found that women who used hormonal therapy for menopausal symptoms had an increased risk for ovarian cancer. The primary analysis, using case-control comparisons, included 12,110 cancer cases from the 17 prospective studies. The relative risks associated with current use of hormonal therapy was 1.41 (95% CI 1.32 to 1.50); there was no difference in the risk estimates by duration of the exposure (less than 5 years [median of 3 years] vs. greater than 5 years [median of 10 years] of use before the cancer diagnosis). The relative risk associated with combined current and recent use (discontinued use within 5 years before cancer diagnosis) was 1.37 (95% CI 1.27-1.48), and the elevated risk was significant for both estrogen-alone and estrogen plus progestin products. The exact duration of hormone therapy use associated with an increased risk of ovarian cancer, however, is unknown.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID462">
+                     <id root="b9963318-51fb-4e71-99ac-106fc0ebab97"/>
+                     <title>5.3 Probable Dementia</title>
+                     <text>
+                        <paragraph>In the WHI Memory Study (WHIMS) estrogen plus progestin ancillary study, a population of 4,532 postmenopausal women 65 to 79 years of age was randomized to daily CE (0.625 mg) plus MPA (2.5 mg) or placebo.</paragraph>
+                        <paragraph>After an average follow-up of 4 years, 40 women in the CE plus MPA group and 21 women in the placebo group were diagnosed with probable dementia. The relative risk of probable dementia for the CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21-3.48). The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years <sup>8</sup>
+                           <content styleCode="italics">[see Use in Specific Populations (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID520">8.5</linkHtml>
+                           </content>
+                           <content styleCode="italics">), and Clinical Studies (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID570">14.6</linkHtml>
+                           </content>
+                           <content styleCode="italics">)].</content>
+                        </paragraph>
+                        <paragraph>In the WHIMS estrogen-alone ancillary study, a population of 2,947 hysterectomized women 65 to 79 years of age was randomized to daily CE (0.625 mg)-alone or placebo. After an average follow-up of 5.2 years, 28 women in the estrogen-alone group and 19 women in the placebo group were diagnosed with probable dementia. The relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent CI, 0.83- 2.66). The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years <sup>8</sup>
+                           <content styleCode="italics">[see Use in Specific Populations (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID520">8.5</linkHtml>
+                           </content>
+                           <content styleCode="italics">), and Clinical Studies (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID570">14.6</linkHtml>
+                           </content>
+                           <content styleCode="italics">)].</content>
+                        </paragraph>
+                        <paragraph>When data from the two populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall relative risk of probable dementia was 1.76 (95 percent CI, 1.19-2.60). Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women <sup>8</sup>
+                           <content styleCode="italics">[see Use in Specific Populations (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID520">8.5</linkHtml>
+                           </content>
+                           <content styleCode="italics">), and Clinical Studies (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID570">14.6</linkHtml>
+                           </content>
+                           <content styleCode="italics">)].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID464">
+                     <id root="b266556a-36bf-42f2-bece-3c3593b37f1c"/>
+                     <title>5.4 Gallbladder Disease</title>
+                     <text>
+                        <paragraph>A 2- to 4-fold increase in the risk of gallbladder disease requiring surgery in postmenopausal women receiving estrogens has been reported.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID466">
+                     <id root="7ac61e64-d6dd-428b-8aff-cc1d46798d58"/>
+                     <title>5.5 Hypercalcemia</title>
+                     <text>
+                        <paragraph>Estrogen administration may lead to severe hypercalcemia in women with breast cancer and bone metastases. Discontinue estrogens, including estradiol and norethindrone acetate tablets if hypercalcemia occurs, and take appropriate measures to reduce the serum calcium level.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID468">
+                     <id root="0bfff507-bfe2-4135-98dd-caa6bf86b188"/>
+                     <title>5.6 Vision Abnormalities</title>
+                     <text>
+                        <paragraph>Retinal vascular thrombosis has been reported in women receiving estrogens. Discontinue estradiol and norethindrone acetate tablets pending examination if there is a sudden partial or complete loss of vision, or a sudden onset of proptosis, diplopia, or migraine. Permanently discontinue estrogens, including estradiol and norethindrone acetate tablets, if examination reveals papilledema or retinal vascular lesions.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID470">
+                     <id root="d4b69a9c-e97c-4089-9d52-25bc83928c5f"/>
+                     <title>5.7 Addition of a Progestogen When a Woman Has Not Had a Hysterectomy</title>
+                     <text>
+                        <paragraph>Studies of the addition of a progestogen for 10 or more days of a cycle of estrogen administration, or daily with estrogen in a continuous regimen, have reported a lowered incidence of endometrial hyperplasia than would be induced by estrogen treatment alone.  Endometrial hyperplasia may be a precursor to endometrial cancer. There are, however, possible risks that may be associated with the use of progestogens with estrogens compared to estrogen-alone regimens.  These include an increased risk of breast cancer.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID472">
+                     <id root="0d848e22-0815-4b64-b5ca-15a870d287d3"/>
+                     <title>5.8 Elevated Blood Pressure</title>
+                     <text>
+                        <paragraph>In a small number of case reports, substantial increases in blood pressure have been attributed to idiosyncratic reactions to estrogens. In a large, randomized, placebo-controlled clinical trial, a generalized effect of estrogen therapy on blood pressure was not seen.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID474">
+                     <id root="32800506-f102-44f2-b078-04f7fbf1f1b6"/>
+                     <title>5.9 Exacerbation of Hypertriglyceridemia</title>
+                     <text>
+                        <paragraph>In women with pre-existing hypertriglyceridemia, estrogen therapy may be associated with elevations of plasma triglycerides leading to pancreatitis. Discontinue estradiol and norethindrone acetate tablets if pancreatitis occurs.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID476">
+                     <id root="160bfbd5-585a-4afd-b081-ff12882d18c1"/>
+                     <title>5.10 Hepatic Impairment and/or Past History of Cholestatic Jaundice</title>
+                     <text>
+                        <paragraph>Estrogens may be poorly metabolized in women with hepatic impairment. Exercise caution in any woman with a history of cholestatic jaundice associated with past estrogen use or with pregnancy. In the case of recurrence of cholestatic jaundice, discontinue estradiol and norethindrone acetate tablets.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID478">
+                     <id root="93c0f297-5ab0-462d-ab67-69c229385a65"/>
+                     <title>5.11 Exacerbation of Hypothyroidism</title>
+                     <text>
+                        <paragraph>Estrogen administration leads to increased thyroid-binding globulin (TBG) levels. Women with normal thyroid function can compensate for the increased TBG by making more thyroid hormone, thus maintaining free T<sub>4</sub> and T<sub>3</sub> serum concentrations in the normal range. Women dependent on thyroid hormone replacement therapy who are also receiving estrogen may require increased doses of their thyroid replacement therapy. Monitor thyroid function in these women during treatment with estradiol and norethindrone acetate tablets to maintain their free thyroid hormone levels in an acceptable range.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID480">
+                     <id root="60c3643e-0ed2-4208-9cb3-3419fe8644b8"/>
+                     <title>5.12 Fluid Retention</title>
+                     <text>
+                        <paragraph>Estrogens plus progestogens may cause some degree of fluid retention. Monitor any woman with a condition(s) that might predispose her to fluid retention, such as a cardiac or renal impairment. Discontinue estrogen plus progestogen therapy, including estradiol and norethindrone acetate tablets, with evidence of medically concerning fluid retention.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID482">
+                     <id root="89f9eb85-a8ca-4860-8505-456e2a39bd34"/>
+                     <title>5.13 Hypocalcemia</title>
+                     <text>
+                        <paragraph>Estrogen-induced hypocalcemia may occur in women with hypoparathyroidism. Consider whether the benefits of estrogen therapy, including estradiol and norethindrone acetate tablets, outweigh the risks in such women.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID484">
+                     <id root="051d8120-26e7-47f0-a281-00accbc3d389"/>
+                     <title>5.14 Exacerbation of Endometriosis</title>
+                     <text>
+                        <paragraph>A few cases of malignant transformation of residual endometrial implants have been reported in women treated post-hysterectomy with estrogen-alone therapy.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID486">
+                     <id root="855ce1b2-2f77-45a1-b2f1-71575d9ebf6b"/>
+                     <title>5.15 Hereditary Angioedema</title>
+                     <text>
+                        <paragraph>Exogenous estrogens may exacerbate symptoms of angioedema in women with hereditary angioedema. Consider whether the benefits of estrogen therapy, including estradiol and norethindrone acetate tablets, outweigh the risks in such women.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID488">
+                     <id root="43a78524-149f-4495-bdd7-c3f66fb528d5"/>
+                     <title>5.16 Exacerbation of Other Conditions</title>
+                     <text>
+                        <paragraph>Estrogen therapy, including estradiol and norethindrone acetate tablets, may cause an exacerbation of asthma, diabetes mellitus, epilepsy, migraine, porphyria, systemic lupus erythematosus, and hepatic hemangiomas. Consider whether the benefits of estrogen therapy outweigh the risks in such women.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID490">
+                     <id root="36005a50-ae2b-4a68-9a42-c60580afb773"/>
+                     <code code="34075-2" codeSystem="2.16.840.1.113883.6.1" displayName="LABORATORY TESTS SECTION"/>
+                     <title>5.17 Laboratory Tests</title>
+                     <text>
+                        <paragraph>Serum follicle stimulating hormone (FSH) and estradiol levels have not been shown to be useful in the management of moderate to severe vasomotor symptoms and moderate to severe symptoms of vulvar and vaginal atrophy.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID492">
+                     <id root="8d78fe8e-bf45-43dc-9eef-6333e4401729"/>
+                     <title>5.18 Drug-Laboratory Test Interactions</title>
+                     <text>
+                        <list listType="unordered" ID="ID493" styleCode="Disc">
+                           <item>Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, and beta- thromboglobulin; decreased levels of anti-factor Xa and antithrombin III, decreased antithrombin III activity, increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.</item>
+                           <item>Increased thyroid-binding globulin (TBG) levels leading to increased circulating total thyroid hormone levels as measured by protein- bound iodine (PBI), T<sub>4</sub> levels (by column or by radioimmunoassay), or T<sub>3</sub> levels by radioimmunoassay. T<sub>3</sub> resin uptake is decreased, reflecting the elevated TBG. Free T<sub>4</sub> and free T<sub>3</sub> concentrations are unaltered. Women on thyroid replacement therapy may require higher doses of thyroid hormone.</item>
+                           <item>Other binding proteins may be elevated in serum, for example, corticosteroid binding globulin (CBG), sex hormone-binding globulin (SHBG), leading to increased total circulating corticosteroids and sex steroids, respectively. Free hormone concentrations, such as testosterone and estradiol, may be decreased. Other plasma proteins may be increased (angiotensinogen/rennin substrate, alpha-1 antitrypsin, ceruloplasmin).</item>
+                           <item>Increased plasma high-density lipoprotein (HDL) and HDL<sub>2</sub> cholesterol subfraction concentration, reduced low-density lipoprotein (LDL) cholesterol concentration, increased triglyceride levels.</item>
+                           <item>Impaired glucose tolerance.</item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID494">
+               <id root="a0337675-817d-49bb-ac05-9eb96824c450"/>
+               <code code="34084-4" codeSystem="2.16.840.1.113883.6.1" displayName="ADVERSE REACTIONS SECTION"/>
+               <title>6 ADVERSE REACTIONS</title>
+               <effectiveTime value="20240331"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <paragraph>The most common adverse reactions (incidence ≥ 5 percent) with estradiol and norethindrone acetate tablets are: back pain, headache, pain in the extremity, nausea, diarrhea, gastroenteritis, insomnia, emotional lability, upper respiratory tract infection, sinusitis, nasopharyngitis, weight increase, breast pain, post-menopausal bleeding, uterine fibroid vaginal hemorrhage, ovarian cyst, endometrial thickening, viral infection, moniliasis genital, and accidental injury. (<content styleCode="bold">
+                              <linkHtml href="#ID500">6.1</linkHtml>
+                           </content>)</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">To report SUSPECTED ADVERSE REACTIONS, contact </content>
+                           <content styleCode="bold">Ingenus Pharmaceuticals,</content>
+                           <content styleCode="bold"> LLC Toll-Free at 1-</content>
+                           <content styleCode="bold">877-748-1970</content>
+                           <content styleCode="bold"> or FDA at 1-800-FDA-1088 or </content>
+                           <content styleCode="bold">www.fda.gov/medwatch</content>
+                           <content styleCode="bold">.</content>
+                        </paragraph>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID497">
+                     <id root="846cc023-8298-4a24-a451-dfbbf8726b60"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>The following serious adverse reactions are discussed elsewhere in the labeling:</paragraph>
+                        <list listType="unordered" ID="ID499" styleCode="Disc">
+                           <item> Cardiovascular Disorders <content styleCode="italics">[see Boxed Warning, Warnings and Precautions (</content>
+                              <content styleCode="italics">
+                                 <linkHtml href="#ID458">5.1</linkHtml>
+                              </content>
+                              <content styleCode="italics">)]</content>
+                           </item>
+                           <item> Malignant Neoplasms <content styleCode="italics">[see Boxed Warning, Warnings and Precautions, (</content>
+                              <content styleCode="italics">
+                                 <linkHtml href="#ID460">5.2</linkHtml>
+                              </content>
+                              <content styleCode="italics">)]</content>
+                           </item>
+                        </list>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID500">
+                     <id root="1ba72a0b-43e3-4e5e-9f85-c7828e4cf86b"/>
+                     <title>6.1 Clinical Trials Experience</title>
+                     <text>
+                        <paragraph>Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.</paragraph>
+                        <paragraph>Adverse reactions reported with estradiol and norethindrone acetate tablets 1 mg/0.5 mg by investigators during clinical trials regardless of causality assessment are shown in Table 1.</paragraph>
+                        <renderMultiMedia referencedObject="MM18"/>
+                        <paragraph>Adverse reactions reported with estradiol and norethindrone acetate tablets 0.5 mg/0.1 mg by investigators during clinical trials regardless of causality assessment are shown in Table 2.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">TABLE 2</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPORTED AT A FREQUENCY OF ≥5 PERCENT WITH ESTRADIOL AND NORETHINDRONE ACETATE TABLETS 0.5 MG/0.1 MG</content>
+                        </paragraph>
+                        <table width="907">
+                           <colgroup>
+                              <col width="409"/>
+                              <col width="302"/>
+                              <col width="196"/>
+                           </colgroup>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Botrule Toprule" valign="top"/>
+                                 <td styleCode="Botrule Toprule" align="center" valign="top">E<sub>2</sub>/NETA Tablets<br/> 0.5 mg/0.1 mg (n=194)</td>
+                                 <td styleCode="Botrule Toprule" align="left" valign="top">Placebo (n=200)</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">
+                                    <content styleCode="bold">
+                                       <content styleCode="italics">Body as a Whole</content>
+                                    </content>
+                                    <br/> Back Pain</td>
+                                 <td align="center" valign="top">
+                                    <br/> 10%</td>
+                                 <td align="center" valign="top">
+                                    <br/> 4%</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">Headache</td>
+                                 <td align="center" valign="top">22%</td>
+                                 <td align="center" valign="top">19%</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">Pain in extremity</td>
+                                 <td align="center" valign="top">5%</td>
+                                 <td align="center" valign="top">4%</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">
+                                    <br/>
+                                    <content styleCode="bold">
+                                       <content styleCode="italics">Digestive System</content>
+                                    </content>
+                                    <br/> Nausea</td>
+                                 <td align="center" valign="top">
+                                    <br/>
+                                    <br/> 5%</td>
+                                 <td align="center" valign="top">
+                                    <br/>
+                                    <br/> 4%</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">Diarrhea</td>
+                                 <td align="center" valign="top">6%</td>
+                                 <td align="center" valign="top">6%</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">
+                                    <content styleCode="bold">
+                                       <content styleCode="italics">Respiratory System</content>
+                                    </content>
+                                    <br/> Nasopharyngitis</td>
+                                 <td align="center" valign="top">
+                                    <br/> 21%</td>
+                                 <td align="center" valign="top">
+                                    <br/> 18%</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">
+                                    <content styleCode="bold">
+                                       <content styleCode="italics">Urogenital System</content>
+                                    </content>
+                                    <br/> Endometrial thickening</td>
+                                 <td align="center" valign="top">
+                                    <br/> 10%</td>
+                                 <td align="center" valign="top">
+                                    <br/> 4%</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule" align="left" valign="top">Vaginal hemorrhage</td>
+                                 <td styleCode="Botrule" align="center" valign="top">26%</td>
+                                 <td styleCode="Botrule" align="center" valign="top">12%</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>E<sub>2</sub>/NETA Tablets = Estradiol and Norethindrone Acetate Tablets</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <observationMedia ID="MM18">
+                     <text>Image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="image-18.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <section ID="ID506">
+                     <id root="230cb559-b0ad-4fe2-b34f-ef08381c874f"/>
+                     <title>6.2 Postmarketing Experience</title>
+                     <text>
+                        <paragraph>The following adverse reactions have been identified during post-approval use of estradiol and norethindrone acetate tablets. Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Genitourinary System</content>
+                        </paragraph>
+                        <paragraph>Changes in vaginal bleeding pattern and abnormal withdrawal bleeding or flow; breakthrough bleeding; spotting; dysmenorrhea, increase in size of uterine leiomyomata; vaginitis, including vaginal candidiasis; change in amount of cervical secretion; changes in cervical ectropion; pre-menstrual-like syndrome; cystitis- like syndrome; ovarian cancer; endometrial hyperplasia; endometrial cancer.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Breast</content>
+                        </paragraph>
+                        <paragraph>Tenderness, enlargement, pain, nipple discharge, galactorrhea; fibrocystic breast changes; breast cancer.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Cardiovascular</content>
+                        </paragraph>
+                        <paragraph>Deep and superficial venous thrombosis; pulmonary embolism; thrombophlebitis; myocardial infarction, stroke; increase in blood pressure.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Gastrointestinal</content>
+                        </paragraph>
+                        <paragraph>Nausea, vomiting; changes in appetite; cholestatic jaundice; abdominal pain/cramps, flatulence, bloating; increased incidence of gallbladder disease and pancreatitis.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Skin</content>
+                        </paragraph>
+                        <paragraph>Chloasma or melasma that may persist when drug is discontinued; erythema multiforme; erythema nodosum; hemorrhagic eruption; loss of scalp hair; seborrhea; hirsutism; itching; skin rash; pruritus.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Eyes</content>
+                        </paragraph>
+                        <paragraph>Retinal vascular thrombosis, intolerance to contact lenses.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Central Nervous System</content>
+                        </paragraph>
+                        <paragraph>Headache; migraine; dizziness; mental depression; chorea; insomnia; nervousness; mood disturbances; irritability; exacerbation of epilepsy; dementia.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">Miscellaneous</content>
+                        </paragraph>
+                        <paragraph>Increase or decrease in weight; edema; leg cramps; changes in libido; fatigue; exacerbation of asthma; increased triglycerides; hypersensitivity; anaphylactoid/anaphylactic reactions.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID508">
+               <id root="b1924204-3a34-490a-8aa5-bc65e63e0d09"/>
+               <code code="34073-7" codeSystem="2.16.840.1.113883.6.1" displayName="DRUG INTERACTIONS SECTION"/>
+               <title>7 DRUG INTERACTIONS</title>
+               <effectiveTime value="20240331"/>
+               <excerpt>
+                  <highlight>
+                     <text>
+                        <list listType="unordered" ID="ID510" styleCode="Disc">
+                           <item> Inducers and/or inhibitors of CYP3A4 may affect estrogen drug metabolism and decrease or increase the estrogen plasma concentration. (<content styleCode="bold">
+                                 <linkHtml href="#ID511">7</linkHtml>
+                              </content> )</item>
+                        </list>
+                     </text>
+                  </highlight>
+               </excerpt>
+               <component>
+                  <section ID="ID511">
+                     <id root="5738f068-7259-4947-90d3-f09cb6681e96"/>
+                     <code code="42229-5" codeSystem="2.16.840.1.113883.6.1" displayName="SPL UNCLASSIFIED SECTION"/>
+                     <text>
+                        <paragraph>Co-administration of estradiol with norethindrone acetate did not elicit any apparent influence on the pharmacokinetics of norethindrone acetate. Similarly, no relevant interaction of norethindrone acetate on the pharmacokinetics of estradiol was found within the NETA dose range investigated in a single dose study.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Estradiol</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">In-vitro </content>and <content styleCode="italics">in-vivo </content>studies have shown that estrogens are metabolized partially by cytochrome P450 3A4 (CYP3A4). Therefore, inducers or inhibitors of CYP3A4 may affect estrogen drug metabolism. Inducers of CYP3A4 such as St. John's wort (<content styleCode="italics">Hypericum perforatum</content>) preparations, phenobarbital, carbamazepine, and rifampin may reduce plasma concentrations of estrogens, possibly resulting in a decrease in therapeutic effects and/or changes in the uterine bleeding profile. Inhibitors of CYP3A4 such as erythromycin, clarithromycin, ketoconazole, itraconazole, ritonavir and grapefruit juice may increase plasma concentrations of estrogens and result in adverse reactions.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Norethindrone Acetate</content>
+                        </paragraph>
+                        <paragraph>Drugs or herbal products that induce or inhibit cytochrome P-450 enzymes, including CYP3A4, may decrease or increase the serum concentrations of norethindrone.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID513">
+               <id root="92cb39a6-58e5-4aad-8b84-4a48e99acc30"/>
+               <code code="43684-0" codeSystem="2.16.840.1.113883.6.1" displayName="USE IN SPECIFIC POPULATIONS SECTION"/>
+               <title>8 USE IN SPECIFIC POPULATIONS</title>
+               <effectiveTime value="20240331"/>
+               <component>
+                  <section ID="ID514">
+                     <id root="8d8ff6e1-2792-4165-bfe0-b940a7d060c4"/>
+                     <title>8.1 Pregnancy</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary </content>
+                        </paragraph>
+                        <paragraph>Estradiol and norethindrone acetate tablets are not indicated for use in pregnancy. There are no data with the use of estradiol and norethindrone acetate tablets in pregnant women; however, epidemiologic studies and meta-analyses have not found an increased risk of genital or nongenital birth defects (including cardiac anomalies and limb-reduction defects) following exposure to combined hormonal contraceptives (estrogen and progestins) before conception or during early pregnancy.</paragraph>
+                        <paragraph>In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID516">
+                     <id root="f1690280-d972-4b43-9b62-144cf1515d96"/>
+                     <title>8.2 Lactation</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Risk Summary </content>
+                        </paragraph>
+                        <paragraph>Estrogens plus progestogens are present in human milk and can reduce milk production in breast-feeding women. This reduction can occur at any time but is less likely to occur once breast-feeding is well established. The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for estradiol and norethindrone acetate tablets and any potential adverse effects on the breastfed child from estradiol and norethindrone acetate tablets or from the underlying maternal condition.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID518">
+                     <id root="180089c8-fcfc-44c3-bf6b-5defb60c749b"/>
+                     <code code="34081-0" codeSystem="2.16.840.1.113883.6.1" displayName="PEDIATRIC USE SECTION"/>
+                     <title>8.4 Pediatric Use</title>
+                     <text>
+                        <paragraph>Estradiol and norethindrone acetate tablets are not indicated for use in pediatric patients. Clinical studies have not been conducted in the pediatric population.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID520">
+                     <id root="f1bf541d-1d36-419b-9031-ee26bb22c409"/>
+                     <code code="34082-8" codeSystem="2.16.840.1.113883.6.1" displayName="GERIATRIC USE SECTION"/>
+                     <title>8.5 Geriatric Use</title>
+                     <text>
+                        <paragraph>There have not been sufficient numbers of geriatric women involved in clinical studies utilizing estradiol and norethindrone acetate tablets to determine whether those over 65 years of age differ from younger subjects in their response to estradiol and norethindrone acetate tablets.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">The Women's Health Initiative Studies</content>
+                        </paragraph>
+                        <paragraph>In the WHI estrogen plus progestin substudy (daily CE [0.625 mg] plus MPA [2.5 mg] versus placebo), there was a higher relative risk of nonfatal stroke and invasive breast cancer in women greater than 65 years of age <content styleCode="italics">[see Clinical Studies (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID564">14.5</linkHtml>
+                           </content>
+                           <content styleCode="italics">)]</content>.</paragraph>
+                        <paragraph>In the WHI estrogen-alone substudy (daily CE [0.625 mg]-alone versus placebo), there was a higher relative risk of stroke in women greater than 65 years of age <content styleCode="italics">[see Clinical Studies (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID564">14.5</linkHtml>
+                           </content>
+                           <content styleCode="italics">)]</content>.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">The Women's Health Initiative Memory Study</content>
+                        </paragraph>
+                        <paragraph>In the WHIMS ancillary studies of postmenopausal women 65 to 79 years of age, there was an increased risk of developing probable dementia in women receiving estrogen plus progestin or estrogen-alone when compared to placebo. It is unknown whether this finding applies to younger postmenopausal women <content styleCode="italics">[see Warnings and Precautions (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID462">5.3</linkHtml>
+                           </content>
+                           <content styleCode="italics">), and Clinical Studies (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID570">14.6</linkHtml>
+                           </content>
+                           <content styleCode="italics">)]</content>.</paragraph>
+                        <paragraph>Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women <sup>8</sup>
+                           <content styleCode="italics">[see Warnings and Precautions (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID462">5.3</linkHtml>
+                           </content>
+                           <content styleCode="italics">), and Clinical Studies (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID570">14.6</linkHtml>
+                           </content>
+                           <content styleCode="italics">)]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID522">
+               <id root="6def256d-a40a-4128-a3ae-cbb5505d38f0"/>
+               <code code="34088-5" codeSystem="2.16.840.1.113883.6.1" displayName="OVERDOSAGE SECTION"/>
+               <title>10 OVERDOSAGE</title>
+               <text>
+                  <paragraph>Overdosage of estrogen plus progestogen may cause nausea, vomiting, breast tenderness, abdominal pain, drowsiness and fatigue, and withdrawal bleeding may occur in women. Treatment of overdose consists of discontinuation of estradiol and norethindrone acetate tablets therapy with institution of appropriate symptomatic care.</paragraph>
+               </text>
+               <effectiveTime value="20240331"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID524">
+               <id root="1582aae7-25d9-4d43-8a21-99079a1b580c"/>
+               <code code="34089-3" codeSystem="2.16.840.1.113883.6.1" displayName="DESCRIPTION SECTION"/>
+               <title>11 DESCRIPTION</title>
+               <text>
+                  <paragraph>Estradiol and norethindrone acetate tablets USP, 1 mg/0.5 mg is a single tablet for oral administration containing 1 mg of estradiol and 0.5 mg of norethindrone acetate and the following excipients: lactose monohydrate, starch (corn), polysorbate 80, copovidone, magnesium stearate, polyvinyl alcohol, titanium dioxide, talc, macrogol/polyethylglycol 3350, lecithin (soya), D&amp;C Yellow NO.10 Aluminum lake, FD&amp;C Blue NO.2 Aluminum lake and FD&amp;C Red NO.40 Aluminum lake.</paragraph>
+                  <paragraph>Estradiol and norethindrone acetate tablets USP, 0.5 mg/0.1 mg is a single tablet for oral administration containing 0.5 mg of estradiol and 0.1 mg of norethindrone acetate and the following excipients: lactose monohydrate, starch (corn), polysorbate 80, copovidone, magnesium stearate, polyvinyl alcohol, titanium dioxide, talc, macrogol/polyethylglycol 3350, lecithin (soya), D&amp;C Yellow NO.10 Aluminum lake, FD&amp;C Blue NO.2 Aluminum lake and FD&amp;C Yellow NO.6 Aluminum lake.</paragraph>
+                  <paragraph>Estradiol is a white or almost white crystalline powder. Its chemical name is estra-1, 3, 5 (10)- triene-3, 17β-diol hemihydrate with the empirical formula of C<sub>18</sub>H<sub>24</sub>O<sub>2</sub>, ½ H<sub>2</sub>O and a molecular weight of 281.4. The structural formula of E<sub>2</sub> is as follows:</paragraph>
+                  <renderMultiMedia referencedObject="MM1"/>
+                  <paragraph>Norethindrone acetate (NETA) is a white or yellowish-white crystalline powder. Its chemical name is 17β -acetoxy-19-nor-17α -pregn-4-en-20-yn-3-one with the empirical formula of C<sub>22</sub>H<sub>28</sub>O<sub>3</sub> and molecular weight of 340.5.  The structural formula of NETA is as follows:</paragraph>
+                  <renderMultiMedia referencedObject="MM2"/>
+                  <paragraph>
+                     <content>Product meets USP dissolution test 2.</content>
+                  </paragraph>
+               </text>
+               <effectiveTime value="20240331"/>
+               <component>
+                  <observationMedia ID="MM1">
+                     <text>Image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="image-01.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM2">
+                     <text>Image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="image-02.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID529">
+               <id root="d3951d40-e3d4-4294-a60f-24262ced8ccc"/>
+               <code code="34090-1" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL PHARMACOLOGY SECTION"/>
+               <title>12 CLINICAL PHARMACOLOGY</title>
+               <effectiveTime value="20240331"/>
+               <component>
+                  <section ID="ID530">
+                     <id root="397ae331-226c-4c56-be80-4e6209072ee6"/>
+                     <code code="43679-0" codeSystem="2.16.840.1.113883.6.1" displayName="MECHANISM OF ACTION SECTION"/>
+                     <title>12.1 Mechanism of Action</title>
+                     <text>
+                        <paragraph>Endogenous estrogens are largely responsible for the development and maintenance of the female reproductive system and secondary sexual characteristics. Although circulating estrogens exist in a dynamic equilibrium of metabolic interconversions, estradiol is the principal intracellular human estrogen and is substantially more potent than its metabolites, estrone and estriol, at the receptor level.</paragraph>
+                        <paragraph>The primary source of estrogen in normally cycling adult women is the ovarian follicle, which secretes 70 to 500 mcg of estradiol daily, depending on the phase of the menstrual cycle. After menopause, most endogenous estrogen is produced by conversion of androstenedione, secreted by the adrenal cortex, to estrone in the peripheral tissues. Thus, estrone and the sulfate-conjugated form, estrone sulfate, are the most abundant circulating estrogens in postmenopausal women.</paragraph>
+                        <paragraph>Estrogens act through binding to nuclear receptors in estrogen-responsive tissues. To date, two estrogen receptors have been identified.  These vary in proportion from tissue to tissue. Circulating estrogens modulate the pituitary secretion of the gonadotropins, luteinizing hormone (LH), and FSH through a negative feedback mechanism. Estrogens act to reduce the elevated levels of these hormones seen in postmenopausal women.</paragraph>
+                        <paragraph>Progestin compounds enhance cellular differentiation and generally oppose the actions of estrogens by decreasing estrogen receptor levels, increasing local metabolism of estrogens to less active metabolites, or inducing gene products that blunt cellular responses to estrogen. Progestins exert their effects in target cells by binding to specific progesterone receptors that interact with progesterone response elements in target genes. Progesterone receptors have been identified in the female reproductive tract, breast, pituitary, hypothalamus, and central nervous system.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID532">
+                     <id root="52012d3b-a077-4b10-9e56-7aa83ea803ad"/>
+                     <code code="43681-6" codeSystem="2.16.840.1.113883.6.1" displayName="PHARMACODYNAMICS SECTION"/>
+                     <title>12.2 Pharmacodynamics</title>
+                     <text>
+                        <paragraph>Generally, a serum estrogen concentration does not predict an individual woman's therapeutic response to estradiol and norethindrone acetate tablets nor her risk for adverse outcomes. Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID534">
+                     <id root="cc332d50-8528-4904-bc9c-f8406ee5eb22"/>
+                     <title>12.3 Pharmacokinetics</title>
+                     <text>
+                        <paragraph>
+                           <content styleCode="underline">Absorption</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Estradiol</content>
+                        </paragraph>
+                        <paragraph>Estradiol is absorbed through the gastrointestinal tract. Following oral administration of estradiol and norethindrone acetate tablets, peak plasma estradiol concentrations are reached within 5 to 8 hours. The oral bioavailability of estradiol following administration of estradiol and norethindrone acetate tablets 1 mg/0.5 mg when compared to a combination oral solution is 53%. Administration of estradiol and norethindrone acetate tablets 1 mg/0.5 mg with food did not modify the bioavailability of estradiol.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Norethindrone Acetate</content>
+                        </paragraph>
+                        <paragraph>After oral administration, norethindrone acetate is absorbed and transformed to norethindrone. Norethindrone reaches a peak plasma concentration within 0.5 to 1.5 hours after the administration of estradiol and norethindrone acetate tablets. The oral bioavailability of norethindrone following administration of estradiol and norethindrone acetate tablets 1 mg/0.5 mg when compared to a combination oral solution is 100%. Administration of estradiol and norethindrone acetate tablets 1 mg/0.5 mg with food increases norethindrone AUC<sub>0-72</sub> by 19% and decreases C<sub>max</sub> by 36%.</paragraph>
+                        <paragraph>The pharmacokinetic parameters of estradiol (E<sub>2</sub>), estrone (E<sub>1</sub>), and norethindrone (NET) following oral administration of 1 estradiol and norethindrone acetate 1 mg/0.5 mg tablet or 2 estradiol and norethindrone acetate 0.5 mg/0.1 mg tablet(s) to healthy postmenopausal women are summarized in Table 3.</paragraph>
+                        <renderMultiMedia referencedObject="MM19"/>
+                        <paragraph>Following continuous dosing with once-daily administration of estradiol and norethindrone acetate tablets 1 mg/0.5 mg, serum concentrations of estradiol, estrone, and norethindrone reached steady-state within two weeks with an accumulation of 33 to 47% above concentrations following single dose administration. Unadjusted circulating concentrations of E<sub>2</sub>, E<sub>1</sub>, and NET during estradiol and norethindrone acetate tablets 1 mg/0.5 mg treatment at steady-state (dosing at time 0) are provided in Figures <linkHtml href="#ID538">1a</linkHtml> and <linkHtml href="#ID539">1b</linkHtml>.</paragraph>
+                        <renderMultiMedia referencedObject="MM3"/>
+                        <renderMultiMedia referencedObject="MM4"/>
+                        <paragraph>
+                           <content styleCode="underline">Distribution </content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Estradiol</content>
+                        </paragraph>
+                        <paragraph>The distribution of exogenous estrogens is similar to that of endogenous estrogens. Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs. Estradiol circulates in the blood bound to SHBG (37%) and to albumin (61%), while only approximately 1 to 2% is unbound.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Norethindrone Acetate</content>
+                        </paragraph>
+                        <paragraph>Norethindrone also binds to a similar extent to SHBG (36%) and to albumin (61%).</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Metabolism</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Estradiol</content>
+                        </paragraph>
+                        <paragraph>Exogenous estrogens are metabolized in the same manner as endogenous estrogens. Circulating estrogens exist in a dynamic equilibrium of metabolic interconversions. These transformations take place mainly in the liver. Estradiol is converted reversibly to estrone, and both can be converted to estriol, which is a major urinary metabolite. Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the intestine followed by reabsorption. <content>In postmenopausal women, a significant proportion of the circulating estrogens exist as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Norethindrone Acetate</content>
+                        </paragraph>
+                        <paragraph>The most important metabolites of norethindrone are isomers of 5α-dihydro-norethindrone and tetrahydro- norethindrone, which are excreted mainly in the urine as sulfate or glucuronide conjugates.</paragraph>
+                        <paragraph>
+                           <content styleCode="underline">Excretion</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Estradiol</content>
+                        </paragraph>
+                        <paragraph>Estradiol, estrone, and estriol are excreted in the urine along with glucuronide and sulfate conjugates. The half- life of estradiol following single dose administration of estradiol and norethindrone acetate tablets 1 mg/0.5 mg is 12 to 14 hours.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Norethindrone Acetate</content>
+                        </paragraph>
+                        <paragraph>The terminal half-life of norethindrone is about 8 to 11 hours.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <observationMedia ID="MM19">
+                     <text>Image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="image-19.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM3">
+                     <text>Image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="image-03.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM4">
+                     <text>Image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="image-04.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID541">
+               <id root="16f428d9-001a-4049-9f11-753c52a3537b"/>
+               <code code="43680-8" codeSystem="2.16.840.1.113883.6.1" displayName="NONCLINICAL TOXICOLOGY SECTION"/>
+               <title>13 NONCLINICAL TOXICOLOGY</title>
+               <effectiveTime value="20240331"/>
+               <component>
+                  <section ID="ID542">
+                     <id root="2beb624c-37bf-4e74-8acf-02e0a2ab8a0f"/>
+                     <code code="34083-6" codeSystem="2.16.840.1.113883.6.1" displayName="CARCINOGENESIS &amp; MUTAGENESIS &amp; IMPAIRMENT OF FERTILITY SECTION"/>
+                     <title>13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility</title>
+                     <text>
+                        <paragraph>Long-term continuous administration of natural and synthetic estrogens in certain animal species increases the frequency of carcinomas of the breast, uterus, cervix, vagina, testis, and liver.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID544">
+               <id root="5cb5f01d-db19-46a5-977b-a6d2e3a7aa36"/>
+               <code code="34092-7" codeSystem="2.16.840.1.113883.6.1" displayName="CLINICAL STUDIES SECTION"/>
+               <title>14 CLINICAL STUDIES</title>
+               <effectiveTime value="20240331"/>
+               <component>
+                  <section ID="ID545">
+                     <id root="112dc3b1-19e1-466a-986a-4eb1027fa15f"/>
+                     <title>14.1 Effects on Vasomotor Symptoms in Postmenopausal Women</title>
+                     <text>
+                        <paragraph>In a 12-week randomized clinical trial involving 92 subjects, estradiol and norethindrone acetate tablets 1 mg/0.5 mg was compared to 1 mg of estradiol and to placebo. The mean number and intensity of hot flushes were significantly reduced from baseline to week 4 and 12 in both the estradiol and norethindrone acetate tablets 1 mg/0.5 mg and the 1 mg estradiol group compared to placebo (see <linkHtml href="#ID547">Figure 2</linkHtml>).</paragraph>
+                        <renderMultiMedia referencedObject="MM5"/>
+                        <paragraph>In a study conducted in Europe a total of 577 postmenopausal women were randomly assigned to either estradiol and norethindrone acetate tablets 0.5 mg/0.1 mg, 0.5 mg E2/0.25 mg NETA, or placebo for 24 weeks of treatment. The mean number and severity of hot flushes were significantly reduced at week 4 and week 12 in the estradiol and norethindrone acetate tablets 0.5 mg/0.1 mg (see <linkHtml href="#ID549">Figure 3</linkHtml>) and 0.5 mg E<sub>2</sub>/0.25 mg NETA groups compared to placebo.</paragraph>
+                        <renderMultiMedia referencedObject="MM6"/>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID550">
+                     <id root="6e875252-5d77-4600-8fc8-755b71ed5599"/>
+                     <title>14.2 Effects on the Endometrium in Postmenopausal Women</title>
+                     <text>
+                        <paragraph>Estradiol and norethindrone acetate tablets 1 mg/0.5 mg reduced the incidence of estrogen-induced endometrial hyperplasia at 1 year in a randomized, controlled clinical trial. This trial enrolled 1,176 postmenopausal women who were randomized to one of 4 arms: 1 mg estradiol unopposed (n=296), 1 mg E<sub>2</sub> + 0.1 mg NETA (n=294), 1 mg E<sub>2</sub> + 0.25 mg NETA (n=291), and estradiol and norethindrone acetate tablets 1 mg/0.5 mg (n=295). At the end of the study, endometrial biopsy results were available for 988 women. The results of the 1 mg estradiol unopposed arm compared to estradiol and norethindrone acetate tablets 1 mg/0.5 mg are shown in <linkHtml href="#ID552">Table 4</linkHtml>.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">TABLE 4</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">INCIDENCE OF ENDOMETRIAL HYPERPLASIA WITH UNOPPOSED ESTRADIOL AND ESTRADIOL AND NORETHINDRONE ACETATE TABLETS 1 MG/0.5 MG IN A 12-MONTH STUDY</content>
+                        </paragraph>
+                        <table width="909">
+                           <colgroup>
+                              <col width="255"/>
+                              <col width="119"/>
+                              <col width="185"/>
+                              <col width="179"/>
+                              <col width="171"/>
+                           </colgroup>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Toprule" colspan="5" align="center" valign="top">Estradiol and norethindrone acetate tablets</td>
+                              </tr>
+                              <tr>
+                                 <td valign="top"/>
+                                 <td align="center" valign="top">1 mg E<sub>2</sub>
+                                 </td>
+                                 <td align="center" valign="top">1 mg E<sub>2</sub>/0.5 mg NETA</td>
+                                 <td align="center" valign="top">1 mg E<sub>2</sub>/0.25 mg NETA</td>
+                                 <td align="center" valign="top">1 mg E<sub>2</sub>/0.1 mg NETA</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule" valign="top"/>
+                                 <td styleCode="Botrule" align="center" valign="top">(n=296)</td>
+                                 <td styleCode="Botrule" align="center" valign="top">(n=295)</td>
+                                 <td styleCode="Botrule" align="center" valign="top">(n=291 )</td>
+                                 <td styleCode="Botrule" align="center" valign="top">(n=294 )</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">No. of subjects with histological evaluation at the end of the study</td>
+                                 <td align="center" valign="top">247</td>
+                                 <td align="center" valign="top">241</td>
+                                 <td align="center" valign="top">251</td>
+                                 <td align="center" valign="top">249</td>
+                              </tr>
+                              <tr>
+                                 <td colspan="5" align="left" valign="top">No. (%) of subjects with</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">endometrial hyperplasia at the end</td>
+                                 <td align="center" valign="top">36 (14.6%)</td>
+                                 <td align="center" valign="top">1 (0.4%)</td>
+                                 <td align="center" valign="top">1 (0.4%)</td>
+                                 <td align="center" valign="top">2 (0.8%)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule" colspan="5" align="left" valign="top">of the study</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>E<sub>2</sub> = Estradiol</paragraph>
+                        <paragraph>NETA = Norethindrone Acetate</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID554">
+                     <id root="41cba9da-2260-4cdf-8c10-d6dd8ea63913"/>
+                     <title>14.3 Effects on Uterine Bleeding or Spotting in Postmenopausal Women</title>
+                     <text>
+                        <paragraph>During the initial months of therapy, irregular bleeding or spotting occurred with estradiol and norethindrone acetate tablets 1 mg/0.5 mg treatment. However, bleeding tended to decrease over time, and after 12 months of treatment with estradiol and norethindrone acetate tablets 1 mg/0.5 mg, about 86 percent of women were amenorrheic (see <linkHtml href="#ID556">Figure 4</linkHtml>).</paragraph>
+                        <renderMultiMedia referencedObject="MM7"/>
+                        <paragraph>In the clinical trial with estradiol and norethindrone acetate tablets 0.5 mg/0.1 mg, 88 percent of women were amenorrheic after 6 months of treatment (See <linkHtml href="#ID558">Figure 5</linkHtml>).</paragraph>
+                        <renderMultiMedia referencedObject="MM8"/>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID559">
+                     <id root="8df07503-fb01-4421-85fc-72fc9f766559"/>
+                     <title>14.4 Effects on Bone Mineral Density in Postmenopausal Women</title>
+                     <text>
+                        <paragraph>The results of two randomized, multicenter, calcium-supplemented (500 to 1,000 mg per day), placebo-controlled, 2 year clinical trials have shown that estradiol and norethindrone acetate tablets 1 mg/0.5 mg and estradiol 0.5 mg are effective in preventing bone loss in postmenopausal women. A total of 462 postmenopausal women with intact uteri and baseline BMD values for lumbar spine within 2 standard deviations of the mean in healthy young women (T-score &gt; - 2.0) were enrolled. In a US trial, 327 postmenopausal women (mean time from menopause 2.5 to 3.1 years) with a mean age of 53 years were randomized to 7 groups (0.25 mg, 0.5 mg, and 1 mg of estradiol alone, 1 mg estradiol with 0.25 mg norethindrone acetate, 1 mg estradiol with 0.5 mg norethindrone acetate, and 2 mg estradiol with 1 mg norethindrone acetate, and placebo.) In a European trial (EU trial), 135 postmenopausal women (mean time from menopause 8.4 to 9.3 years) with a mean age of 58 years were randomized to 1 mg estradiol with 0.25 mg norethindrone acetate, 1 mg estradiol with 0.5 mg norethindrone acetate, and placebo. Approximately 58 percent and 67 percent of the randomized subjects in the two clinical trials, respectively, completed the two clinical trials.  BMD was measured using dual-energy x-ray absorptiometry (DXA).</paragraph>
+                        <paragraph>A summary of the results comparing estradiol and norethindrone acetate tablets 1 mg/0.5 mg and estradiol 0.5 mg to placebo from the two prevention trials is shown in <linkHtml href="#ID561">Table 5</linkHtml>.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">TABLE 5</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="bold">PERCENTAGE CHANGE (MEAN </content>
+                           <content styleCode="bold">SD) IN BONE MINERAL DENSITY (BMD) FOR ESTRADIOL AND NORETHINDRONE ACETATE TABLETS 1 MG/0.5 MG AND 0.5 MG E</content>
+                           <content styleCode="bold">
+                              <sub>2</sub>
+                           </content>†</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">(Intent to Treat Analysis, Last Observation Carried Forward)</content>
+                        </paragraph>
+                        <table width="918">
+                           <colgroup>
+                              <col width="196"/>
+                              <col width="146"/>
+                              <col width="146"/>
+                              <col width="147"/>
+                              <col width="131"/>
+                              <col width="152"/>
+                           </colgroup>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule Toprule" valign="top"/>
+                                 <td styleCode="Botrule Rrule Toprule" colspan="3" align="center" valign="top">US Trial</td>
+                                 <td styleCode="Botrule Rrule Toprule" colspan="2" align="center" valign="top">EU Trial</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule" valign="top"/>
+                                 <td styleCode="Botrule Rrule" align="left" valign="top">Placebo (n=37)</td>
+                                 <td styleCode="Botrule Rrule" align="center" valign="top">0.5 mg E<sub>2</sub>†<br/> (n=31)</td>
+                                 <td styleCode="Botrule Rrule" align="center" valign="top">E<sub>2</sub>/NETA Tablets<br/> 1 mg/0.5 mg (n=37)</td>
+                                 <td styleCode="Botrule Rrule" align="left" valign="top">Placebo (n=40)</td>
+                                 <td styleCode="Botrule Rrule" align="center" valign="top">E<sub>2</sub>/NETA Tablets<br/> 1 mg/0.5 mg (n=38)</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule" align="left" valign="top">Lumbar spine</td>
+                                 <td styleCode="Botrule Rrule" align="left" valign="top">-2.1 ± 2.9</td>
+                                 <td styleCode="Botrule Rrule" align="left" valign="top">2.3 ± 2.8 *</td>
+                                 <td styleCode="Botrule Rrule" align="left" valign="top">3.8 ±3.0 *</td>
+                                 <td styleCode="Botrule Rrule" align="left" valign="top">-0.9 ± 4.0</td>
+                                 <td styleCode="Botrule Rrule" align="left" valign="top">5.4 ± 4.8 *</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule" align="left" valign="top">Femoral neck</td>
+                                 <td styleCode="Botrule Rrule" align="left" valign="top">-2.3 ± 3.4</td>
+                                 <td styleCode="Botrule Rrule" align="left" valign="top">0.3 ± 2.9 **</td>
+                                 <td styleCode="Botrule Rrule" align="left" valign="top">1.8 ± 4.1 *</td>
+                                 <td styleCode="Botrule Rrule" align="left" valign="top">-1.0 ± 4.6</td>
+                                 <td styleCode="Botrule Rrule" align="left" valign="top">0.7 ± 6.1</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule Lrule Rrule" align="left" valign="top">Femoral trochanter</td>
+                                 <td styleCode="Botrule Rrule" align="left" valign="top">-2.0 ± 4.3</td>
+                                 <td styleCode="Botrule Rrule" align="left" valign="top">1.7 ± 4.1***</td>
+                                 <td styleCode="Botrule Rrule" align="left" valign="top">3.7 ± 4.3 *</td>
+                                 <td styleCode="Botrule Rrule" align="left" valign="top">0.8 ± 6.9</td>
+                                 <td styleCode="Botrule Rrule" align="left" valign="top">6.3 ± 7.6 *</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>US= United States, EU = European</paragraph>
+                        <paragraph>† While estradiol and norethindrone acetate tablets 0.5 mg/0.1 mg was not directly studied in these trials, the US trial showed that addition of NETA to estradiol enhances the effect on BMD; therefore the BMD changes expected from treatment with estradiol and norethindrone acetate tablets 0.5 mg/0.1 mg should be at least as great as observed with estradiol 0.5 mg.</paragraph>
+                        <paragraph>* Significantly (p&lt;0.001) different from placebo</paragraph>
+                        <paragraph>** Significantly (p&lt;0.007) different from placebo</paragraph>
+                        <paragraph>***Significantly (p&lt;0.002) different from placebo</paragraph>
+                        <paragraph>E<sub>2</sub> = Estradiol<br/>E<sub>2</sub>/NETA Tablets = Estradiol and Norethindrone Acetate Tablets</paragraph>
+                        <paragraph>The overall difference in mean percentage change in BMD at the lumbar spine in the US trial (1000 mg per day calcium) between estradiol and norethindrone acetate tablets 1 mg/0.5 mg and placebo was 5.9 percent and between estradiol 0.5 mg and placebo was 4.4 percent. In the European trial (500 mg per day calcium), the overall difference in mean percentage change in BMD at the lumbar spine was 6.3 percent. Estradiol and norethindrone acetate tablets 1 mg/0.5 mg and estradiol 0.5 mg also increased BMD at the femoral neck and femoral trochanter compared to placebo.  The increase in lumbar spine BMD in the US and European clinical trials for estradiol and norethindrone acetate tablets 1 mg/0.5 mg and estradiol 0.5 mg is displayed in <linkHtml href="#ID563">Figure 6</linkHtml>.</paragraph>
+                        <renderMultiMedia referencedObject="MM9"/>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID564">
+                     <id root="2f431742-f148-4a7f-8ea4-7333309d2268"/>
+                     <title>14.5 Women’s Health Initiative Studies</title>
+                     <text>
+                        <paragraph>The WHI enrolled approximately 27,000 predominantly healthy postmenopausal women in two substudies to assess the risks and benefits of daily oral CE (0.625 mg)-alone or in combination with MPA (2.5 mg) compared to placebo in the prevention of certain chronic diseases. The primary endpoint was the incidence of CHD (defined as nonfatal MI, silent MI and CHD death), with invasive breast cancer as the primary adverse outcome. A "global index" included the earliest occurrence of CHD, invasive breast cancer, stroke, PE, endometrial cancer (only in the CE plus MPA substudy), colorectal cancer, hip fracture, or death due to other cause. These substudies did not evaluate the effects of CE plus MPA or CE-alone on menopausal symptoms.</paragraph>
+                        <paragraph>
+                           <content styleCode="italics">WHI Estrogen Plus Progestin Substudy</content>
+                        </paragraph>
+                        <paragraph>The WHI estrogen plus progestin substudy was stopped early. According to the predefined stopping rule, after an average follow-up of 5.6 years of treatment, the increased risk of invasive breast cancer and cardiovascular events exceeded the specified benefits included in the "global index." The absolute excess risk of events included in the "global index" was 19 per 10,000 women-years.</paragraph>
+                        <paragraph>For those outcomes included in the WHI "global index," that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women-years in the group treated with CE plus MPA were 7 more CHD events, 8 more strokes, 10 more PEs, and 8 more invasive breast cancers, while the absolute risk reductions per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.</paragraph>
+                        <paragraph>Results of the CE plus MPA substudy, which included 16,608 women (average 63 years of age, range 50 to 79; 83.9 percent White, 6.8 percent Black, 5.4 percent Hispanic, 3.9 percent Other) are presented in Table 6. These results reflect centrally adjudicated data after an average follow-up of 5.6 years.</paragraph>
+                        <renderMultiMedia referencedObject="MM10"/>
+                        <paragraph>Timing of the initiation of estrogen plus progestin therapy relative to the start of menopause may affect the overall risk benefit profile. The WHI estrogen plus progestin substudy, stratified by age, showed in women 50 to 59 years of age a non-significant trend toward reduced risk for overall mortality <content styleCode="italics">[hazard ratio (HR) 0.69 (95 percent CI, 0.44-1.07)].</content>
+                        </paragraph>
+                        <paragraph>
+                           <content styleCode="italics">WHI Estrogen-Alone Substudy</content>
+                        </paragraph>
+                        <paragraph>The WHI estrogen-alone substudy was stopped early because an increased risk of stroke was observed, and it was deemed that no further information would be obtained regarding the risks and benefits of estrogen-alone in predetermined primary endpoints.</paragraph>
+                        <paragraph>Results of the estrogen-alone substudy, which included 10,739 women (average 63 years of age, range 50 to 79; 75.3 percent White, 15.1 percent Black, 6.1 percent Hispanic, 3.6 percent Other), after an average follow-up of 7.1 years, are presented in <linkHtml href="#ID568">Table 7</linkHtml>.</paragraph>
+                        <paragraph>
+                           <content styleCode="bold">Table 7: Relative and Absolute Risk Seen in the Estrogen-Alone Substudy of WHI</content>
+                           <content styleCode="bold">
+                              <sup>a</sup>
+                           </content>
+                        </paragraph>
+                        <table width="920">
+                           <colgroup>
+                              <col width="295"/>
+                              <col width="273"/>
+                              <col width="172"/>
+                              <col width="180"/>
+                           </colgroup>
+                           <tbody>
+                              <tr>
+                                 <td styleCode="Toprule" align="left" valign="top">Event</td>
+                                 <td styleCode="Toprule" align="center" valign="top">Relative Risk</td>
+                                 <td styleCode="Toprule" align="center" valign="top">CE</td>
+                                 <td styleCode="Toprule" align="center" valign="top">Placebo</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule" valign="top"/>
+                                 <td styleCode="Botrule" align="center" valign="top">  CE versus Placebo<br/>                  (95% nCI<sup>b</sup>)</td>
+                                 <td styleCode="Botrule" colspan="2" align="center" valign="top">n = 5,310                          n = 5,429<br/> Absolute Risk per 10,000 Women-Years</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">CHD events<sup>c</sup>
+                                 </td>
+                                 <td align="left" valign="top">0.95(0.78-1.16)</td>
+                                 <td align="center" valign="top">54</td>
+                                 <td align="center" valign="top">57</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">
+                                    <content styleCode="italics">Non-fatal </content>
+                                    <content styleCode="italics">MI<sup>C</sup>
+                                    </content>
+                                 </td>
+                                 <td align="left" valign="top">
+                                    <content styleCode="italics">0.91(0.73-1.14)</content>
+                                 </td>
+                                 <td align="center" valign="top">
+                                    <content styleCode="italics">40</content>
+                                 </td>
+                                 <td align="center" valign="top">
+                                    <content styleCode="italics">43</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">
+                                    <content styleCode="italics">CHD death</content>
+                                    <content styleCode="italics">
+                                       <sup>c</sup>
+                                    </content>
+                                 </td>
+                                 <td align="left" valign="top">
+                                    <content styleCode="italics">1.01(0.71-1.43)</content>
+                                 </td>
+                                 <td align="center" valign="top">
+                                    <content styleCode="italics">16</content>
+                                 </td>
+                                 <td align="center" valign="top">
+                                    <content styleCode="italics">16</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">All strokes<sup>c</sup>
+                                 </td>
+                                 <td align="left" valign="top">1.33 (1.05-1.68)</td>
+                                 <td align="center" valign="top">45</td>
+                                 <td align="center" valign="top">33</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">
+                                    <content styleCode="italics">Ischemic stroke</content>
+                                    <content styleCode="italics">
+                                       <sup>b</sup>
+                                    </content>
+                                 </td>
+                                 <td align="left" valign="top">
+                                    <content styleCode="italics">1.55 (1.19 – 2.01)</content>
+                                 </td>
+                                 <td align="center" valign="top">
+                                    <content styleCode="italics">38</content>
+                                 </td>
+                                 <td align="center" valign="top">
+                                    <content styleCode="italics">25</content>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">Deep vein thrombosis<sup>c,d</sup>
+                                 </td>
+                                 <td align="left" valign="top">1.47 (1.06–2.06)</td>
+                                 <td align="center" valign="top">23</td>
+                                 <td align="center" valign="top">15</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">Pulmonary embolism<sup>c</sup>
+                                 </td>
+                                 <td align="left" valign="top">1.37 (0.90–2.07)</td>
+                                 <td align="center" valign="top">14</td>
+                                 <td align="center" valign="top">10</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">Invasive breast cancer<sup>c</sup>
+                                 </td>
+                                 <td align="left" valign="top">0.80 (0.62–1.04)</td>
+                                 <td align="center" valign="top">28</td>
+                                 <td align="center" valign="top">34</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">Colorectal cancer<sup>e</sup>
+                                 </td>
+                                 <td align="left" valign="top">1.08 (0.75–1.55)</td>
+                                 <td align="center" valign="top">17</td>
+                                 <td align="center" valign="top">16</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">Hip fracture<sup>c</sup>
+                                 </td>
+                                 <td align="left" valign="top">0.65 (0.45–0.94)</td>
+                                 <td align="center" valign="top">12</td>
+                                 <td align="center" valign="top">19</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">Vertebral fractures<sup>c,d</sup>
+                                 </td>
+                                 <td align="left" valign="top">0.64 (0.44-0.93)</td>
+                                 <td align="center" valign="top">11</td>
+                                 <td align="center" valign="top">18</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">Lower arm/wrist fractures<sup>c,d</sup>
+                                 </td>
+                                 <td align="left" valign="top">0.58 (0.47-0.72)</td>
+                                 <td align="center" valign="top">35</td>
+                                 <td align="center" valign="top">59</td>
+                              </tr>
+                              <tr>
+                                 <td align="left" valign="top">Total fractures<sup>c,d</sup>
+                                 </td>
+                                 <td align="left" valign="top">0.71 (0.64-0.80)</td>
+                                 <td align="center" valign="top">144</td>
+                                 <td align="center" valign="top">197</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule" align="left" valign="top">Death due to other causes<sup>e,f</sup>
+                                 </td>
+                                 <td styleCode="Botrule" align="left" valign="top">1.08 (0.88–1.32)</td>
+                                 <td styleCode="Botrule" align="center" valign="top">53</td>
+                                 <td styleCode="Botrule" align="center" valign="top">50</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule" align="left" valign="top">Overall mortality<sup>c,d</sup>
+                                 </td>
+                                 <td styleCode="Botrule" align="left" valign="top">1.04 (0.88–1.22)</td>
+                                 <td styleCode="Botrule" align="center" valign="top">79</td>
+                                 <td styleCode="Botrule" align="center" valign="top">75</td>
+                              </tr>
+                              <tr>
+                                 <td styleCode="Botrule" align="left" valign="top">Global Index<sup>g</sup>
+                                 </td>
+                                 <td styleCode="Botrule" align="left" valign="top">1.02 (0.92–1.13)</td>
+                                 <td styleCode="Botrule" align="center" valign="top">206</td>
+                                 <td styleCode="Botrule" align="center" valign="top">201</td>
+                              </tr>
+                           </tbody>
+                        </table>
+                        <paragraph>
+                           <sup>a</sup> Adapted from numerous WHI publications. WHI publications can be viewed at <content styleCode="underline">www.nhlbi.nih.gov/whi.</content>
+                        </paragraph>
+                        <paragraph>
+                           <sup>b</sup> Nominal confidence intervals unadjusted for multiple looks and multiple comparisons.</paragraph>
+                        <paragraph>
+                           <sup>c</sup> Results are based on centrally adjudicated data for an average follow-up of 7.1 years.</paragraph>
+                        <paragraph>
+                           <sup>d</sup> Not included in "global index".</paragraph>
+                        <paragraph>
+                           <sup>e</sup> Results are based on an average follow-up of 6.8 years.</paragraph>
+                        <paragraph>
+                           <sup>f</sup> All deaths, except from breast or colorectal cancer, definite or probable CHD, PE or cerebrovascular disease.</paragraph>
+                        <paragraph>
+                           <sup>g</sup> A subset of the events was combined in a "global index," defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes.</paragraph>
+                        <paragraph>For those outcomes included in the WHI "global index" that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures.<sup>9</sup>   The absolute excess risk of events included in the "global index" was a non-significant 5 events per 10,000 women-years.  There was no difference between the groups in terms of all-cause mortality.</paragraph>
+                        <paragraph>No overall difference for primary CHD events (nonfatal MI, silent MI and CHD death) and invasive breast cancer incidence in women receiving CE-alone compared with placebo was reported in final centrally adjudicated results from the estrogen-alone substudy, after an average follow up of 7.1 years.</paragraph>
+                        <paragraph>Centrally adjudicated results for stroke events from the estrogen-alone substudy, after an average follow-up of 7.1 years, reported no significant difference in distribution of stroke subtype or severity, including fatal strokes, in women receiving CE-alone compared to placebo. Estrogen-alone increased the risk for ischemic stroke, and this excess risk was present in all subgroups of women examined.<sup>10</sup>
+                        </paragraph>
+                        <paragraph>Timing of the initiation of estrogen-alone therapy relative to the start of menopause may affect the overall risk benefit profile. The WHI estrogen-alone substudy, stratified by age, showed in women 50 to 59 years of age a non-significant trend toward reduced risk for CHD <content styleCode="italics">[HR 0.63 (95 percent CI, 0.36-1.09)] </content>and overall mortality <content styleCode="italics">[HR 0.71 (95 percent CI, 0.46-1.11)]</content>.</paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <section ID="ID570">
+                     <id root="f8846a8f-c2c3-4234-9c1f-0cbe4f688327"/>
+                     <title>14.6 Women’s Health Initiative Memory Study</title>
+                     <text>
+                        <paragraph>The WHIMS estrogen plus progestin ancillary study of WHI enrolled 4,532 predominantly healthy postmenopausal women 65 years of age and older (47 percent were 65 to 69 years of age, 35 percent were 70 to 74 years of age, 18 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg) plus MPA (2.5 mg) on the incidence of probable dementia (primary outcome) compared to placebo.</paragraph>
+                        <paragraph>After an average follow-up of 4 years, the relative risk of probable dementia for CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21-3.48). The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years. Probable dementia as defined in this study included Alzheimer's disease (AD), vascular dementia (VaD) and mixed types (having features of both AD and VaD). The most common classification of probable dementia in the treatment group and the placebo group was AD. Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women <content styleCode="italics">[see Warnings and Precautions (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID462">5.3</linkHtml>
+                           </content>
+                           <content styleCode="italics">), and Use in Specific Populations (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID520">8.5</linkHtml>
+                           </content>
+                           <content styleCode="italics">)].</content>
+                        </paragraph>
+                        <paragraph>The WHIMS estrogen-alone ancillary study of WHI study enrolled 2,947 predominantly healthy hysterectomized postmenopausal women 65 to 79 years of age (45 percent were 65 to 69 years of age, 36 percent were 70 to 74 years of age, 19 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg)-alone on the incidence of probable dementia (primary outcome) compared to placebo.</paragraph>
+                        <paragraph>After an average follow-up of 5.2 years, the relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent CI, 0.83-2.66). The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years. Probable dementia as defined in this study included AD, VaD and mixed types (having features of both AD and VaD). The most common classification of probable dementia in the treatment group and the placebo group was AD. Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women <content styleCode="italics">[see Warnings and Precautions (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID462">5.3</linkHtml>
+                           </content>
+                           <content styleCode="italics">), and Use in Specific Populations (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID520">8.5</linkHtml>
+                           </content>
+                           <content styleCode="italics">)]</content>.</paragraph>
+                        <paragraph>When data from the two populations were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19-2.60). Differences between groups became apparent in the first year of treatment. It is unknown whether these findings apply to younger postmenopausal women <content styleCode="italics">[see Warnings and Precautions (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID462">5.3</linkHtml>
+                           </content>
+                           <content styleCode="italics">), and Use in Specific Populations (</content>
+                           <content styleCode="italics">
+                              <linkHtml href="#ID520">8.5</linkHtml>
+                           </content>
+                           <content styleCode="italics">)].</content>
+                        </paragraph>
+                     </text>
+                     <effectiveTime value="20240331"/>
+                  </section>
+               </component>
+               <component>
+                  <observationMedia ID="MM5">
+                     <text>Image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="image-05.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM6">
+                     <text>Image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="image-06.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM7">
+                     <text>Image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="image-07.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM8">
+                     <text>Image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="image-08.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM9">
+                     <text>Image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="image-09.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM10">
+                     <text>Image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="image-10.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID572">
+               <id root="a4788429-a56d-4dfd-8fd6-94a3fcfce655"/>
+               <code code="34093-5" codeSystem="2.16.840.1.113883.6.1" displayName="REFERENCES SECTION"/>
+               <title>15 REFERENCES</title>
+               <text>
+                  <paragraph>1.               Rossouw JE, et al. Postmenopausal Hormone Therapy and Risk of Cardiovascular Disease by Age and Years Since Menopause. <content styleCode="italics">JAMA</content>. 2007; 297:1465-1477.</paragraph>
+                  <paragraph>2.               Hsia J, et al. Conjugated Equine Estrogens and Coronary Heart Disease. <content styleCode="italics">Arch Int Med</content>. 2006; 166:357-365.</paragraph>
+                  <paragraph>3.               Cushman M, et al. Estrogen Plus Progestin and Risk of Venous Thrombosis. <content styleCode="italics">JAMA</content>. 2004; 292:1573-1580.</paragraph>
+                  <paragraph>4.               Curb JD, et al. Venous Thrombosis and Conjugated Equine Estrogen in Women Without a Uterus. <content styleCode="italics">Arch Int Med</content>. 2006; 166:772-780.</paragraph>
+                  <paragraph>5.               Chlebowski RT, et al. Influence of Estrogen Plus Progestin on Breast Cancer and Mammography in Healthy Postmenopausal Women. <content styleCode="italics">JAMA</content>. 2003; 289:3234-3253.</paragraph>
+                  <paragraph>6.               Stefanick ML, et al. Effects of Conjugated Equine Estrogens on Breast Cancer and Mammography Screening in Postmenopausal Women With Hysterectomy. <content styleCode="italics">JAMA</content>. 2006; 295:1647-1657.</paragraph>
+                  <paragraph>7.               Anderson GL, et al. Effects of Estrogen Plus Progestin on Gynecologic Cancers and Associated Diagnostic Procedures. <content styleCode="italics">JAMA</content>. 2003; 290:1739-1748.</paragraph>
+                  <paragraph>8.               Shumaker SA, et al. Conjugated Equine Estrogens and Incidence of Probable Dementia and Mild Cognitive Impairment in Postmenopausal Women. <content styleCode="italics">JAMA</content>. 2004; 291:2947-2958.</paragraph>
+                  <paragraph>9.               Jackson RD, et al. Effects of Conjugated Equine Estrogen on Risk of Fractures and BMD in Postmenopausal Women With Hysterectomy: Results From the Women's Health Initiative Randomized Trial. <content styleCode="italics">J Bone Miner Res</content>. 2006; 21:817-828.</paragraph>
+                  <paragraph>10.            Hendrix SL, et al. Effects of Conjugated Equine Estrogen on Stroke in the Women's Health Initiative. <content styleCode="italics">Circulation</content>. 2006; 113:2425-2434.</paragraph>
+               </text>
+               <effectiveTime value="20240331"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID574">
+               <id root="ad3d8c19-0720-4fb8-af20-145a6a4e0770"/>
+               <code code="34069-5" codeSystem="2.16.840.1.113883.6.1" displayName="HOW SUPPLIED SECTION"/>
+               <title> 16 HOW SUPPLIED/STORAGE AND HANDLING</title>
+               <text>
+                  <paragraph>Product:    50090-8004</paragraph>
+                  <paragraph>NDC:    50090-8004-0   28 TABLET in a BLISTER PACK   /  1  in a  CARTON </paragraph>
+               </text>
+               <effectiveTime value="20260626"/>
+            </section>
+         </component>
+         <component>
+            <section ID="ID579">
+               <id root="05e416c1-163e-4d4c-b642-01dedebd1259"/>
+               <code code="34076-0" codeSystem="2.16.840.1.113883.6.1" displayName="INFORMATION FOR PATIENTS SECTION"/>
+               <title>17 PATIENT COUNSELING INFORMATION</title>
+               <text>
+                  <paragraph>Advise women to read the FDA-approved patient labeling (<linkHtml href="#ID582">Patient Information</linkHtml>)</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Vaginal Bleeding</content>
+                  </paragraph>
+                  <paragraph>Inform postmenopausal women to report any vaginal bleeding to their healthcare provider as soon as possible <content styleCode="italics">[see Warnings and Precautions (</content>
+                     <content styleCode="italics">
+                        <linkHtml href="#ID460">5.2</linkHtml>
+                     </content>
+                     <content styleCode="italics">)]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Possible Serious Adverse Reactions with Estrogen Plus Progestogen Therapy</content>
+                  </paragraph>
+                  <paragraph>Inform postmenopausal women of possible serious adverse reactions of estrogen plus progestogen therapy including Cardiovascular Disorders, Malignant Neoplasms, and Probable Dementia <content styleCode="italics">[see Warnings and Precautions (</content>
+                     <content styleCode="italics">
+                        <linkHtml href="#ID458">5.1</linkHtml>
+                     </content>
+                     <content styleCode="italics">, </content>
+                     <content styleCode="italics">
+                        <linkHtml href="#ID460">5.2</linkHtml>
+                     </content>
+                     <content styleCode="italics">,</content>
+                     <content styleCode="italics">
+                        <linkHtml href="#ID462">5.3</linkHtml>
+                     </content>
+                     <content styleCode="italics">)]</content>.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Possible Common Adverse Reactions with Estrogen Plus Progest</content>
+                     <content styleCode="bold">ogen </content>
+                     <content styleCode="bold">Therapy</content>
+                  </paragraph>
+                  <paragraph>Inform postmenopausal women of possible less serious but common adverse reactions of estrogen plus progestogen therapy such as headache, breast pain and tenderness, nausea and vomiting.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Rx Only</content>
+                  </paragraph>
+                  <paragraph>Iss: 03/2024</paragraph>
+                  <paragraph>I0115</paragraph>
+                  <paragraph>Rev.D</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Manufactured for:  </content>
+                  </paragraph>
+                  <paragraph>Ingenus Pharmaceuticals, LLC</paragraph>
+                  <paragraph>Orlando, FL 32839-6408</paragraph>
+                  <paragraph>Product of China</paragraph>
+                  <renderMultiMedia referencedObject="MM11"/>
+               </text>
+               <effectiveTime value="20240331"/>
+               <component>
+                  <observationMedia ID="MM11">
+                     <text>Image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="image-11.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section ID="ID582">
+               <id root="a6955a9d-7bc5-4825-8cbf-db31b6b4cdae"/>
+               <code code="42230-3" codeSystem="2.16.840.1.113883.6.1" displayName="SPL PATIENT PACKAGE INSERT SECTION"/>
+               <text>
+                  <paragraph>
+                     <content styleCode="bold">Patient Information</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Estradiol and Norethindrone Acetate </content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">(ES-tra-DYE-ol/nor-eth-IN-drone as-i-teyt)</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Tablets</content>
+                     <content styleCode="bold">, USP</content>
+                  </paragraph>
+                  <paragraph>Read this Patient Information before you start using estradiol and norethindrone acetate tablets and each time you get a refill. There may be new information. This information does not take the place of talking to your healthcare provider about your menopausal symptoms or your treatment.</paragraph>
+                  <renderMultiMedia referencedObject="MM12"/>
+                  <paragraph>
+                     <content styleCode="bold">What are estradiol and norethindrone acetate tablets?</content>
+                  </paragraph>
+                  <paragraph>Estradiol and norethindrone acetate tablets are prescription medicines that contain two kinds of hormones, an estrogen and a progestogen.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What are estradiol and norethindrone acetate tablets used for?</content>
+                  </paragraph>
+                  <paragraph>Estradiol and norethindrone acetate tablets are used after menopause to:</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">• </content>
+                     <content styleCode="bold">R</content>
+                     <content styleCode="bold">educe moderate to severe hot flushes</content>
+                  </paragraph>
+                  <paragraph>Estrogens are hormones made by a woman's ovaries. The ovaries normally stop making estrogens when a woman is between 45 and 55 yrs old. This drop in body estrogen levels causes the "change of life" or menopause, the end of monthly menstrual periods. Sometimes both ovaries are removed during an operation before natural menopause takes place. The sudden drop in estrogen levels causes "surgical menopause."</paragraph>
+                  <paragraph>When estrogen levels begin dropping, some women get very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden, intense feelings of heat and sweating ("hot flashes" or "hot flushes"). In some women, the symptoms are mild, and they will not need to use estrogens. In other women, symptoms can be more severe.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">• </content>
+                     <content styleCode="bold">T</content>
+                     <content styleCode="bold">reat moderate to severe menopausal changes in and around the vagina</content>
+                  </paragraph>
+                  <paragraph>You and your healthcare provider should talk regularly about whether you still need treatment with estradiol and norethindrone acetate tablets 1.0 mg/0.5 mg to treat these problems. If you use estradiol and norethindrone acetate tablets 1.0 mg/0.5 mg only to treat your menopausal changes in and around your vagina, talk with your healthcare provider about whether a topical vaginal product would be better for you.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">• </content>
+                     <content styleCode="bold">H</content>
+                     <content styleCode="bold">elp reduce your chances of getting osteoporosis (thin weak bones)</content>
+                  </paragraph>
+                  <paragraph>Osteoporosis from menopause is a thinning of the bones that makes them weaker and easier to break. If you use estradiol and norethindrone acetate tablets to prevent osteoporosis due to menopause, talk with your healthcare provider about whether a different treatment or medicine without estrogens might be better for you.</paragraph>
+                  <paragraph>You and your healthcare provider should talk regularly about whether you still need treatment with estradiol and norethindrone acetate tablets.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Who should not </content>
+                     <content styleCode="bold">use </content>
+                     <content styleCode="bold">estradiol and norethindrone acetate tablets</content>
+                     <content styleCode="bold">?</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Do not </content>
+                     <content styleCode="bold">use </content>
+                     <content styleCode="bold">estradiol and norethindrone acetate tablets if you have had your uterus (womb) removed (hysterectomy).</content>
+                  </paragraph>
+                  <paragraph>Estradiol and norethindrone acetate tablets contain a progestogen to decrease the chance of getting cancer of the uterus. If you do not have a uterus, you do not need a progestogen and you should not use estradiol and norethindrone acetate tablets.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Do not </content>
+                     <content styleCode="bold">start using</content>
+                     <content styleCode="bold"> estradiol and norethindrone acetate tablets if you:</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">• have unusual vaginal bleeding</content>
+                  </paragraph>
+                  <paragraph>Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">• </content>
+                     <content styleCode="bold">have been diagnosed with a bleeding disorder </content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">• currently have or have had certain cancers</content>
+                  </paragraph>
+                  <paragraph>Estrogens may increase the chance of getting certain types of cancers, including cancer of the breast or uterus (womb). If you have or have had cancer, talk with your healthcare provider about whether you should use estradiol and norethindrone acetate tablets.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">• had a stroke or heart attack</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">• currently have or have had blood clots</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">• currently have or have had liver problems</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">• are allergic to </content>
+                     <content styleCode="bold">estradiol and norethindrone acetate tablets</content>
+                     <content styleCode="bold"> or any of its ingredients</content>
+                     <content styleCode="bold"> in it</content>
+                  </paragraph>
+                  <paragraph>See the list of ingredients in estradiol and norethindrone acetate tablets at the end of this leaflet.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Before you </content>
+                     <content styleCode="bold">use </content>
+                     <content styleCode="bold">estradiol and norethindrone acetate tablets</content>
+                     <content styleCode="bold">, tell your healthcare provider </content>
+                     <content styleCode="bold">about all of your medical conditions, including </content>
+                     <content styleCode="bold">if you:</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">• have any unusual vaginal bleeding</content>
+                  </paragraph>
+                  <paragraph>Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find out the cause.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">• have any other medical conditions that may become worse while you are using estradiol and norethindrone acetate tablets</content>
+                  </paragraph>
+                  <paragraph>Your healthcare provider may need to check you more carefully if you have certain conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">• are going to have surgery or will be on bed rest</content>
+                  </paragraph>
+                  <paragraph>Your healthcare provider will let you know if you need to stop using estradiol and norethindrone acetate tablets.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">• are pregnant or think you may be pregnant</content>
+                  </paragraph>
+                  <paragraph>Estradiol and norethindrone acetate tablets are not for pregnant women.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">• are breast feeding</content>
+                  </paragraph>
+                  <paragraph>The hormones in estradiol and norethindrone acetate tablets can pass into your breast milk.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Tell your healthcare provider about all the medicines you take, </content>including prescription and over-the-counter medicines, vitamins, and herbal supplements. Some medicines may affect how estradiol and norethindrone acetate tablets work. Estradiol and norethindrone acetate tablets may also affect how your other medicines work. Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">How should I </content>
+                     <content styleCode="bold">use </content>
+                     <content styleCode="bold">estradiol and norethindrone acetate tablets</content>
+                     <content styleCode="bold">?</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">• </content>Use estradiol and norethindrone acetate tablets exactly as your healthcare provider tells you to use it.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">• </content>Take 1 tablet at the same time each day.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">• </content>You and your healthcare provider should talk regularly (every 3 to 6 months) about your dose and whether you still need treatment with estradiol and norethindrone acetate tablets.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Follow the instructions below to use your </content>
+                     <content styleCode="bold">estradiol and norethindrone acetate tablets</content>
+                     <content styleCode="bold"> compact</content>
+                  </paragraph>
+                  <paragraph>Estradiol and norethindrone acetate tablets are available as a blister card placed within a white compact with the days of the week imprinted on the white compact preset for a Sunday start. The estradiol and norethindrone acetate tablets blister card and the imprinted days of the week on the compact is shown in the picture below.</paragraph>
+                  <renderMultiMedia referencedObject="MM13"/>
+                  <paragraph>On the above blister card find where on the card to start taking tablets, in what order to take the tablets and the week numbers. Day 1 stickers are also provided.</paragraph>
+                  <paragraph>You will use a Day 1 Start if you take your first tablet not on Sunday. Refer to Day 1 Start instructions below:</paragraph>
+                  <paragraph>1. Pick the day label strip that starts with the first day of you first tablet.</paragraph>
+                  <paragraph>2. Place this day label strip over the area on the plastic compact which already has the days of the week (starting with Sunday) imprinted and press firmly. See the picture below as an example.</paragraph>
+                  <renderMultiMedia referencedObject="MM14"/>
+                  <paragraph>To remove a tablet, i) ensure the blister is properly placed into the compact with the entire blister locked on the right V notch and placed under the six plastic lips of the compact, ii) press down the tablet with even pressure with your thumb or finger. The tablet will be pushed through the back of the compact tablet dispenser. Do not press with your thumbnail, fingernail, or any other sharp object.</paragraph>
+                  <paragraph>•  Take 1 tablet every day in the order on the blister card at the same time each day.</paragraph>
+                  <paragraph>•  After taking the last tablet on Day 28 from the blister card, start taking the first tablet from a new pack, on the same day of the week as the first pack.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What are the possible side effects of estradiol and norethindrone acetate tablets?</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Side effects are grouped by how serious they are and how often they happen when you are treated.</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Serious, but less common side effects include:</content>
+                  </paragraph>
+                  <paragraph>•  heart attack</paragraph>
+                  <paragraph>•  stroke</paragraph>
+                  <paragraph>•  blood clots</paragraph>
+                  <paragraph>•  dementia</paragraph>
+                  <paragraph>•  breast cancer</paragraph>
+                  <paragraph>•  cancer of the lining of the uterus (womb)</paragraph>
+                  <paragraph>•  cancer of the ovary</paragraph>
+                  <paragraph>•  liver problems</paragraph>
+                  <paragraph>•  changes in your thyroid hormone levels</paragraph>
+                  <paragraph>•  fluid retention</paragraph>
+                  <paragraph>•  cancer changes of endometriosis</paragraph>
+                  <paragraph>•  enlargement of benign tumors of the uterus ("fibroids")</paragraph>
+                  <paragraph>•  high or low blood calcium levels</paragraph>
+                  <paragraph>•  gallbladder disease</paragraph>
+                  <paragraph>•  visual abnormalities</paragraph>
+                  <paragraph>•  high blood pressure</paragraph>
+                  <paragraph>•  high levels of fat (triglycerides) in your blood</paragraph>
+                  <paragraph>•  worsening swelling of face and tongue (angioedema) in women who have a history of angioedema</paragraph>
+                  <paragraph>•  changes in laboratory tests results such as bleeding times and high blood sugar levels</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:</content>
+                  </paragraph>
+                  <paragraph>•  new breast lumps</paragraph>
+                  <paragraph>•  unusual vaginal bleeding</paragraph>
+                  <paragraph>•  changes in vision or speech</paragraph>
+                  <paragraph>•  sudden new severe headaches</paragraph>
+                  <paragraph>•  severe pains in your chest or legs with or without shortness of breath, weakness and fatigue</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Common side effects of estradiol and norethindrone acetate tablets include:</content>
+                  </paragraph>
+                  <paragraph>•  irregular vaginal bleeding or spotting</paragraph>
+                  <paragraph>•  nausea</paragraph>
+                  <paragraph>•  stomach or abdominal cramps, bloating</paragraph>
+                  <paragraph>•  headache</paragraph>
+                  <paragraph>•  vomiting</paragraph>
+                  <paragraph>•  back pain</paragraph>
+                  <paragraph>•  breast pain</paragraph>
+                  <paragraph>•  diarrhea</paragraph>
+                  <paragraph>•  fluid retention</paragraph>
+                  <paragraph>•  vaginal yeast infection</paragraph>
+                  <paragraph>These are not all the possible side effects of estradiol and norethindrone acetate tablets. For more information, ask your healthcare provider or pharmacist. Tell your healthcare provider if you have any side effects that bother you or do not go away.</paragraph>
+                  <paragraph>You may report side effects to Ingenus Pharmaceuticals, LLC. at 1-877-748-1970 or to FDA at 1-800-FDA-1088.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What can I do to lower my chances of a serious side effect with estradiol and norethindrone acetate tablets?</content>
+                  </paragraph>
+                  <paragraph>•  Talk with your healthcare provider regularly about whether you should continue using estradiol and norethindrone acetate tablets.</paragraph>
+                  <paragraph>•  If you have a uterus, talk with your healthcare provider about whether estradiol and norethindrone acetate tablets is right for you.</paragraph>
+                  <paragraph>•  In general, the addition of a progestogen is generally recommended for a woman with a uterus to reduce the chance of getting cancer of the uterus (womb).</paragraph>
+                  <paragraph>•  See your healthcare provider right away if you get vaginal bleeding while using estradiol and norethindrone acetate tablets.</paragraph>
+                  <paragraph>•  Have a pelvic exam, breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.</paragraph>
+                  <paragraph>•  If members of your family have had breast cancer or if you have ever had breast lumps or an abnormal mammogram (breast x-ray), you may need to have breast exams more often.</paragraph>
+                  <paragraph>•  If you have high blood pressure, high cholesterol (fat in the blood), diabetes, are overweight, or if you use tobacco, you may have higher chances for getting heart disease.</paragraph>
+                  <paragraph>•  Ask your healthcare provider for ways to lower your chances for getting heart disease.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">How should I store estradiol and norethindrone acetate tablets?</content>
+                  </paragraph>
+                  <paragraph>•  Store estradiol and norethindrone acetate tablets at room temperature between 68°F to 77°F (20°C to 25°C).</paragraph>
+                  <paragraph>•  Store estradiol and norethindrone acetate tablets in a dry place protected from light.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">KEEP estradiol and norethindrone acetate tablets and all medicines out of the reach of children. </content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">General information about the safe and effective use of estradiol and norethindrone acetate tablets.</content>
+                  </paragraph>
+                  <paragraph>Medicines are sometimes prescribed for purposes other than those listed in Patient Information leaflets. Do not use estradiol and norethindrone acetate tablets for conditions for which it was not prescribed. Do not give estradiol and norethindrone acetate tablets to other people, even if they have the same symptoms you have.  It may harm them.</paragraph>
+                  <paragraph>You can ask your healthcare provider or pharmacist for information about estradiol and norethindrone acetate tablets that is written for health professionals.</paragraph>
+                  <paragraph>For more information go to www.ingenus.com or call 1-877-748-1970.</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">What are the ingredients in estradiol and norethindrone acetate tablets?</content>
+                  </paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Active ingredients: </content> estradiol and norethindrone acetate</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Inactive Ingredients: </content>lactose monohydrate, starch (corn), polysorbate 80, copovidone, magnesium stearate, polyvinyl alcohol, titanium dioxide, talc, macrogol/polyethylglycol 3350, lecithin (soya), D&amp;C Yellow NO.10 Aluminum lake and FD&amp;C Blue NO.2 Aluminum lake.</paragraph>
+                  <paragraph>The 1 mg/0.5 mg tablet also contains FD&amp;C Red No.40 Aluminum lake.</paragraph>
+                  <paragraph>The 0.5 mg/0.1 mg tablet also contains FD&amp;C Yellow No.6 Aluminum lake.</paragraph>
+                  <paragraph>This Patient Information has been approved by the U.S. Food and Drug Administration.</paragraph>
+                  <paragraph/>
+                  <paragraph>
+                     <content styleCode="bold">Rx Only</content>
+                  </paragraph>
+                  <paragraph>Iss: 03/2024</paragraph>
+                  <paragraph>Rev.D</paragraph>
+                  <paragraph>
+                     <content styleCode="bold">Manufactured for:  </content>
+                  </paragraph>
+                  <paragraph>Ingenus Pharmaceuticals, LLC</paragraph>
+                  <paragraph>Orlando, FL 32839-6408</paragraph>
+                  <paragraph>Product of China</paragraph>
+                  <renderMultiMedia referencedObject="MM15"/>
+               </text>
+               <effectiveTime value="20240331"/>
+               <component>
+                  <observationMedia ID="MM12">
+                     <text>Image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="image-12.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM13">
+                     <text>Image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="image-13.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM14">
+                     <text>Image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="image-14.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+               <component>
+                  <observationMedia ID="MM15">
+                     <text>Image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="image-15.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+         <component>
+            <section>
+               <id root="e7375476-54b0-4e6f-8e27-52d0b63a90fb"/>
+               <code code="51945-4" codeSystem="2.16.840.1.113883.6.1" displayName="PACKAGE LABEL.PRINCIPAL DISPLAY PANEL"/>
+               <title>Estradiol and Norethindrone Acetate</title>
+               <text>
+                  <renderMultiMedia referencedObject="lbl500908004"/>
+               </text>
+               <effectiveTime value="20260626"/>
+               <component>
+                  <observationMedia ID="lbl500908004">
+                     <text>Label Image</text>
+                     <value xsi:type="ED" mediaType="image/jpeg">
+                        <reference value="lbl500908004.jpg"/>
+                     </value>
+                  </observationMedia>
+               </component>
+            </section>
+         </component>
+      </structuredBody>
+   </component>
+</document>

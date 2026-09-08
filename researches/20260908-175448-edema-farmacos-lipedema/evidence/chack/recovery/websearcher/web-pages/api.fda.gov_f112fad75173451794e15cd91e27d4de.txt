@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30"
+  },
+  "results": [
+    {
+      "term": "LIPOEDEMA",
+      "count": 373
+    },
+    {
+      "term": "FATIGUE",
+      "count": 62
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 61
+    },
+    {
+      "term": "LYMPHOEDEMA",
+      "count": 47
+    },
+    {
+      "term": "PAIN",
+      "count": 40
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 37
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 34
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 34
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 33
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 33
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 31
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 30
+    },
+    {
+      "term": "GAIT DISTURBANCE",
+      "count": 27
+    },
+    {
+      "term": "OEDEMA",
+      "count": 26
+    },
+    {
+      "term": "COUGH",
+      "count": 22
+    },
+    {
+      "term": "HEADACHE",
+      "count": 21
+    },
+    {
+      "term": "NAUSEA",
+      "count": 21
+    },
+    {
+      "term": "FIBROMYALGIA",
+      "count": 20
+    },
+    {
+      "term": "GENERAL PHYSICAL HEALTH DETERIORATION",
+      "count": 19
+    },
+    {
+      "term": "OSTEOARTHRITIS",
+      "count": 19
+    },
+    {
+      "term": "SLEEP DISORDER",
+      "count": 19
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 18
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 18
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 17
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 17
+    },
+    {
+      "term": "DYSURIA",
+      "count": 17
+    },
+    {
+      "term": "POLLAKIURIA",
+      "count": 17
+    },
+    {
+      "term": "THROMBOSIS",
+      "count": 17
+    },
+    {
+      "term": "COVID-19",
+      "count": 16
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 16
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 16
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 16
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 16
+    },
+    {
+      "term": "SWELLING",
+      "count": 16
+    },
+    {
+      "term": "ANAL INCONTINENCE",
+      "count": 15
+    },
+    {
+      "term": "CARPAL TUNNEL SYNDROME",
+      "count": 15
+    },
+    {
+      "term": "MALAISE",
+      "count": 15
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 15
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 14
+    },
+    {
+      "term": "INFLAMMATION",
+      "count": 14
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 14
+    },
+    {
+      "term": "NEUROPATHY PERIPHERAL",
+      "count": 14
+    },
+    {
+      "term": "SNEEZING",
+      "count": 14
+    },
+    {
+      "term": "SPINAL CORD DISORDER",
+      "count": 14
+    },
+    {
+      "term": "URINARY INCONTINENCE",
+      "count": 14
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 13
+    },
+    {
+      "term": "BALANCE DISORDER",
+      "count": 13
+    },
+    {
+      "term": "BLADDER SPASM",
+      "count": 13
+    },
+    {
+      "term": "ENDOMETRIAL CANCER",
+      "count": 13
+    },
+    {
+      "term": "FISTULA DISCHARGE",
+      "count": 13
+    },
+    {
+      "term": "MYELOPATHY",
+      "count": 13
+    },
+    {
+      "term": "PALPITATIONS",
+      "count": 13
+    },
+    {
+      "term": "POLYARTHRITIS",
+      "count": 13
+    },
+    {
+      "term": "PROCEDURAL COMPLICATION",
+      "count": 13
+    },
+    {
+      "term": "PYREXIA",
+      "count": 13
+    },
+    {
+      "term": "SPINAL PAIN",
+      "count": 13
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 13
+    },
+    {
+      "term": "URINARY TRACT INFECTION ENTEROCOCCAL",
+      "count": 13
+    },
+    {
+      "term": "VAGINAL HAEMORRHAGE",
+      "count": 13
+    },
+    {
+      "term": "ANXIETY",
+      "count": 12
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 12
+    },
+    {
+      "term": "FALL",
+      "count": 12
+    },
+    {
+      "term": "FLUID RETENTION",
+      "count": 12
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 12
+    },
+    {
+      "term": "ARTHRITIS",
+      "count": 11
+    },
+    {
+      "term": "BLOOD CHOLESTEROL INCREASED",
+      "count": 11
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 11
+    },
+    {
+      "term": "MEMORY IMPAIRMENT",
+      "count": 11
+    },
+    {
+      "term": "RASH",
+      "count": 11
+    },
+    {
+      "term": "SOMNOLENCE",
+      "count": 11
+    },
+    {
+      "term": "STRESS",
+      "count": 11
+    },
+    {
+      "term": "MYALGIA",
+      "count": 10
+    },
+    {
+      "term": "POLYURIA",
+      "count": 10
+    },
+    {
+      "term": "BONE PAIN",
+      "count": 9
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 9
+    },
+    {
+      "term": "GASTROOESOPHAGEAL REFLUX DISEASE",
+      "count": 9
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 9
+    },
+    {
+      "term": "IMPAIRED WORK ABILITY",
+      "count": 9
+    },
+    {
+      "term": "INJECTION SITE PAIN",
+      "count": 9
+    },
+    {
+      "term": "LIMB INJURY",
+      "count": 9
+    },
+    {
+      "term": "MOBILITY DECREASED",
+      "count": 9
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 9
+    },
+    {
+      "term": "RASH PRURITIC",
+      "count": 9
+    },
+    {
+      "term": "SKIN DISCOLOURATION",
+      "count": 9
+    },
+    {
+      "term": "VISUAL IMPAIRMENT",
+      "count": 9
+    },
+    {
+      "term": "WEIGHT BEARING DIFFICULTY",
+      "count": 9
+    },
+    {
+      "term": "ABDOMINAL PAIN LOWER",
+      "count": 8
+    },
+    {
+      "term": "ASTHMA",
+      "count": 8
+    },
+    {
+      "term": "CHILLS",
+      "count": 8
+    },
+    {
+      "term": "DRY EYE",
+      "count": 8
+    },
+    {
+      "term": "IMPAIRED QUALITY OF LIFE",
+      "count": 8
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 8
+    },
+    {
+      "term": "LOW DENSITY LIPOPROTEIN INCREASED",
+      "count": 8
+    },
+    {
+      "term": "MICTURITION URGENCY",
+      "count": 8
+    },
+    {
+      "term": "MUSCULOSKELETAL DISCOMFORT",
+      "count": 8
+    },
+    {
+      "term": "SWELLING FACE",
+      "count": 8
+    },
+    {
+      "term": "CARDIAC FAILURE",
+      "count": 7
+    },
+    {
+      "term": "CELLULITIS",
+      "count": 7
+    },
+    {
+      "term": "DERMATITIS ALLERGIC",
+      "count": 7
+    },
+    {
+      "term": "DIABETES MELLITUS",
+      "count": 7
+    }
+  ]
+}

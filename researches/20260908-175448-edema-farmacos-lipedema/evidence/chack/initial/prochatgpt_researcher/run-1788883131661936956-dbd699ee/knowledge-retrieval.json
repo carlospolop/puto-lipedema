@@ -1,0 +1,43 @@
+{
+  "knowledge_base": "lipedema",
+  "query": "Realiza una investigación independiente y complementaria, hasta 2026-09-08, centrada en evidencia directa en adultos con lipedema/lipoedema (y, claramente rotulada, lipolinfedema) sobre edema o aumento de volumen asociado a amlodipino, nifedipino y otras dihidropiridinas, AINE, pregabalina/gabapentina, pioglitazona/rosiglitazona y estrógenos/progestágenos, incluidos anticonceptivos y terapia hormonal. Antes de cualquier búsqueda web o científica llama a knowledge_search usando knowledge_base=lipedema y consulta enfocada; anota qué rutas/pasajes recuperaste, leads y duplicados, y solo luego reabre evidencia primaria. No escribas en Qdrant. Prioriza guías internacionales y españolas/UE de lipedema, cohortes/casos directos, estudios sobre hormonas y lipedema, y busca explícitamente publicaciones que NO hayan encontrado asociación. Después cubre farmacología general solo como evidencia adyacente: mecanismo capilar/retención, incidencia, latencia, dependencia de dosis, edema con fóvea, unilateralidad o ausencia de edema, reversibilidad y casos persistentes; incluye corticosteroides/fludrocortisona/minoxidil únicamente para diferenciar. Examina la hipótesis alternativa de progresión de grasa dolorosa, lipolinfedema, edema venoso/linfático, insuficiencia cardiaca/renal/hepática, TVP, infección y edema idiopático. Debes intentar refutar tanto ‘toda hinchazón en lipedema es progresión’ como ‘todo fármaco cambiado requiere diurético’, incluyendo daños de retirada errónea, interacciones y decisiones que solo corresponden al prescriptor. No aconsejes suspender/sustituir/añadir nada. Abre las URLs/PDFs completos; para cada fuente registra URL pública directa, fecha, población, tipo de evidencia, limitaciones y estado opened, blocked/paywalled, snippet-only o not relevant. Identifica",
+  "vector_requested": 6,
+  "exact_requested": 4,
+  "max_returned_text_chars": 6000,
+  "result_count": 4,
+  "passage_chars": 6000,
+  "sources": [
+    {
+      "source_path": "researches/20260711-100036-edema-ciclico-idiopatico-lipedema/chatgpt/6a51f8bf-1860-83eb-b5fe-2c51874e6118.md",
+      "source_url": "",
+      "content_hash": "cd58962bf02013259356269c9f21f262f323a52ebeeceacf2baad28a1e106393",
+      "chunk_index": 0,
+      "vector_rank": 1,
+      "exact_rank": 2
+    },
+    {
+      "source_path": "research-artifact/deepchatgpt_researcher/run-1788855692356157929-a12ba97e/chatgpt-deep-response.md",
+      "source_url": "",
+      "content_hash": "960a12d14ca4a4be26debd4b622ea945260e0b385ce661923ab75ae25cf69904",
+      "chunk_index": 2,
+      "vector_rank": null,
+      "exact_rank": 1
+    },
+    {
+      "source_path": "index.html",
+      "source_url": "",
+      "content_hash": "5028ea02232e98350643f108cc6e36a62dd1c20c9b3685c96b9c0a3a2ef2368c",
+      "chunk_index": 1,
+      "vector_rank": 2,
+      "exact_rank": null
+    },
+    {
+      "source_path": "research-artifact/deepchatgpt_researcher/run-1788855692356157929-a12ba97e/chatgpt-deep-response.md",
+      "source_url": "",
+      "content_hash": "960a12d14ca4a4be26debd4b622ea945260e0b385ce661923ab75ae25cf69904",
+      "chunk_index": 3,
+      "vector_rank": null,
+      "exact_rank": 3
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+S2k-Leitlinie (037-012)- Leitlinienreport 5.0 
+Lipödem - Stand: 22.1.2024 
+___________________________________________________________________________ 
+Leitlinienreport 
+S2k-Leitlinie Lipödem 
+AWMF-Registernummer 037 – 012 
+Stand: 22.1.2024; Gültig bis: 22.1.2029 
+S
+chlüsselwörter (Deutsch): Lipödem, Kompressionstherapie, Intermittierende pneumatische 
+Kompression, Physiotherapie, Selbstmanagement, Ernährung, Liposuktion. 
+Schlüsselwörter (Englisch): Lipoedema, compression therapy, intermittent pneumatic 
+compression, physiotherapy, self management, nutrition, liposuction. 
+Erklärung zur Schreibweise 
+Zur besseren Lesbarkeit wird in dem vorliegenden Leitlinientext das generische Maskulinum 
+verwendet. Die in dieser Arbeit verwendeten Personenbezeichnungen beziehen sich – sofern 
+nicht anders kenntlich gemacht – auf alle Geschlechter.   
+1. Geltungsbereich und Zweck
+Begründung für die Auswahl des Leitlinienthemas
+Das Lipödem ist eine chronische, schmerzhafte Erkrankung, die die Lebensqualität der 
+Patientinnen erheblich einschränken kann. Ein normales Leben ist oft nur unter erschwerten 
+Bedingungen möglich  und die Behandlung mit hohen Kosten für Kostenträger
+  und 
+Patientinnen verbunden.   
+Neben der ökonomischen Belastung ist die sozialmediz inische Relevanz des Lipödems von 
+Bedeutung.  Insbesondere die Faktoren Schmerz und Gewichtszunahme wirken sich negativ 
+auf die Lebensqualität der Betroffenen aus und haben zusätzlich kumulative Effekte auf 
+weitere Aspekte wie Schlaf, Mobilität, psychische Gesundheit und die Teilhabe am 
+allgemeinen Sozialleben.
+ 
+Für die Behandler gilt es, die Komplexität des Erkrankungsbildes zu erfassen und auch die 
+psychosoziale Belastung in die Versorgung der Patienten mit einzubeziehen bzw. erforderliche 
+Interventionen einzuleiten.
+ 
+B
+islang gab es eine S1-Leitlinie zum Lipödem, die einer Verlängerung bedurfte. Die 
+Leitliniengruppe hat sich für eine Aufwertung der Leitlinie in eine S2k-Leitlinie entschieden. 
+Dem methodischen Element der Konsensusfindung wurde besonderer Wert beigemessen, 
+weil eine Vielzahl medizinischer Disziplinen in die Behandlung von Patientinnen mit Lipödem 
+eingebunden ist. 
+Zielorientierung der Leitlinie 
+Ziel der Leitlinie ist die Optimierung von Diagnostik und Therapie des Lipödems. Die Leitlinie 
+soll damit die unterschiedlichen Herangehensweisen und Wissensstände der jeweiligen 
+Berufsgruppen konsensbasiert vereinen und ein Basiskonzept für die Behandlung des 
+Lipödems anbieten. Im Vordergrund standen die Qualität von Untersuchungs- und 
+Behandlungsverfahren. Ökonomische Aspekte waren nicht entscheidungsbestimmend. Die 
+Leitlinie bildet den aktuellen wissenschaftlichen Stand ab und soll als bestverfügbares 
+publiziert bei:
+
+S2k-Leitlinie (037-012)- Leitlinienreport 5.0 
+Lipödem - Stand: 22.1.2024 
+___________________________________________________________________________ 
+Dokument zu Diagnostik- und Therapieempfehlungen be i Patientinnen mit Lipödem breit 
+eingesetzt werden. 
+ 
+Die Leitlinie nimmt insbesondere zu folgenden Fragen Stellung:  
+• Welche diagnostischen Kriterien sind bei der Diagnostik des Lipödems anzuwenden? 
+• Welche Differenzialdiagnosen und Komorbiditäten sin d zu berücksichtigen und 
+welchen Einfluss haben diese auf diagnostische und therapeutische Maßnahmen?  
+• Welche Therapiemaßnahmen sind beim Lipödem sinnvoll? 
+• Welche Möglichkeiten zum Selbstmanagement gibt es beim Lipödem?  
+ 
+Die Leitlinie Lipödem fasst die aktuelle nationale und internationale Evidenz sowie den 
+deutschen Expertenkonsens zusammen und leitet darau s Empfehlungen ab, die zur 
+bestmöglichen Behandlung von Patientinnen mit einem  Lipödem führen sollen. Die 
+Leitlinienempfehlungen verstehen sich als Orientier ungshilfe im Sinne von Handlungs- und 
+Entscheidungskorridoren, von denen in begründeten Fällen abgewichen werden kann.  
+ 
+Zielgruppe    
+Patientinnen, bei denen ein Lipödem ausgeschlossen bzw. diagnostiziert und behandelt 
+werden soll. 
+ 
+Versorgungsbereich   
+Ambulant und stationär. 
+Diagnostik und Therapie. 
+ 
+Anwenderzielgruppe  
+ 
+Die Leitlinie richtet sich an ambulant und stationä r tätige Phlebologen, Lymphologen, 
+Angiologen, Chirurgen, Dermatologen, Gefäßchirurgen , Internisten, Physiotherapeuten und 
+dient der Information für Allgemeinmediziner, Ernäh rungsmediziner und -berater und die 
+Gesamtheit weiterer Personengruppen, die an der Beh andlung und / oder Versorgung von 
+Patientinnen mit Lipödem beteiligt sind. Sie dient zur Information für o. g. Personengruppen 
+im niedergelassenen, teilstationären und stationäre n Bereich. Weitere Adressaten sind 
+Berufsgruppen, die im Rahmen ihrer Tätigkeit innerh alb der Versorgungskette oder an 
+Schnittstellen der Versorgungsebenen Patientinnen m it Lipödem beraten, betreuen oder 
+behandeln. 
+ 
+ 
+Die Leitlinie soll auch eine aktuelle Informationsq uelle für alle in Gesundheitswesen tätige 
+Institutionen sein.  
+Darüber hinaus soll diese Leitlinie auch eine Orien tierungshilfe für betroffene Patientinnen 
+und Angehörige sein.  
+ 
+2.   Zusammensetzung der Leitliniengruppe: Beteilig ung von Interessensgruppen 
+Repräsentativität der Leitliniengruppe: Beteiligte Berufsgruppen  
+ 
+Die Leitlinie wurde auf Initiative und unter Federf ührung der Deutschen Gesellschaft für 
+Phlebologie und Lymphologie (DGPL) e. V. erstellt. Alle stimmberechtigten Teilnehmer 
+wurden an dem Leitlinienverfahren durch ein schrift liches Mandat als Fachvertreter über die 
+Vorstände der beteiligten wissenschaftlichen medizi nischen Fachgesellschaften und
+
+S2k-Leitlinie (037-012)- Leitlinienreport 5.0 
+Lipödem - Stand: 22.1.2024 
+___________________________________________________________________________ 
+Organisationen benannt. Die Lipödem Hilfe Deutschla nd e.V. wurde zur Mitarbeit angefragt, 
+die aber leider nicht zustande kam. Aus diesem Grun d ist die Lymphselbsthilfe e. V. als 
+Patientenvertreterorganisation an der Erstellung de r Leitlinie beteiligt. Eine  Übersicht der 
+Zusammensetzung der Leitliniengruppe ergibt sich wie folgt:    
+ 
+Leitlinienkoordination: Dr. Gabriele Faerber, Hamburg 
+Anja Pielhau*, Bonn 
+Redaktion Prof. Dr. Erich Brenner, Innsbruck 
+Dr. Gabriele Faerber, Hamburg 
+Leitliniensteuerungsgruppe Prof. Dr. Erich Brenner, Innsbruck 
+Prof. Dr. Manuel Cornely, Köln 
+Prof. Dr. Constanze Daubert, Karlsruhe 
+Gabriele Erbacher, Freiburg 
+Dr. Gabriele Faerber, Hamburg 
+Prof. Dr. Jodok Fink, Freiburg 
+Dr. Tobias Hirsch, Halle 
+Dr. Erika Mendoza, Hannover 
+Dr. Anya Miller, Berlin 
+Prof. Dr. Eberhard Rabe, Bonn 
+Dr. Stefan Rapprich, Bad Soden 
+Prof. Dr.  Stefanie Reich-Schupke, Recklinghausen 
+Prof. Dr. Markus Stücker, Bochum  
+Federführende Fachgesellschaft Mandatsträger 
+Deutsche Gesellschaft für Phlebologie und 
+Lymphologie (DGPL) 
+Prof. Dr. Erich Brenner, Innsbruck 
+Prof. Constanze Daubert, Karlsruhe  
+Dr. Gabriele Faerber 
+Dr. Tobias Hirsch, Halle 
+Dr. Erika Mendoza, Hannover (Delegation des Stimmrechts Dr. 
+Tobias Hirsch) 
+Prof. Dr. Eberhard Rabe 
+Prof. Dr. Markus Stücker 
+Beteiligte 
+Fachgesellschaften/Organisationen 
+Mandatsträger 
+Deutsche Dermatologische Gesellschaft 
+(DDG) 
+Dr. Stefan Rapprich, Bad Soden 
+Deutsche Gesellschaft für Innere Medizin Prof. Dr. Oliver Müller, Kiel (Delegation des Stimmrechts Dr.  
+Katja Mühlberg) 
+Deutsche Gesellschaft für Angiologie (DGA) Dr. Katj a Mühlberg, Leipzig 
+Deutsche Gesellschaft für Gefäßchirurgie 
+und Gefäßmedizin (DGG) 
+Prof. Dr. Gerd Lulay, Rheine 
+Deutsche Gesellschaft für Allgemein- und 
+Viszeralchirurgie 
+ (DGAV)  
+Prof. Dr. Jodok Fink, Freiburg 
+Deutsche Gesellschaft für Plastische, 
+Rekonstruktive und Ästhetische Chirurgie 
+ 
+PD. Dr. Mojtaba Ghods, Potsdam 
+Gesellschaft deutschsprachiger 
+Lymphologen 
+Dr. Vivien Schacht, Hannover 
+Milton Erickson Gesellschaft  für Klinische 
+Hypnose 
+Gabriele Erbacher, Freiburg 
+Berufsverband der Phlebologen und 
+Lymphologen 
+Dr. Stefan Rapprich, Bad Soden 
+Verband für Physiotherapie Thomas Künzel, Aschaffen burg 
+Lymphselbsthilfe e. V.  Susanne Helmbrecht, Herzoge naurach 
+Neutrale Moderation  PD Dr. Dr. Dominic Mühlberger*, Herne 
+Teilnehmer ohne Stimmrecht  PD Dr. Dr. Dominic Mühlberger*, Herne 
+Anja Pielhau*, Bonn
+
+S2k-Leitlinie (037-012)- Leitlinienreport 5.0 
+Lipödem - Stand: 22.1.2024 
+___________________________________________________________________________ 
+ 
+Arbeitsgruppenleiter (fettgedruckt) und 
+Autoren:  
+ 
+Definition, Klinik, Diagnostik und 
+Differenzialdiagnostik 
+T. Hirsch , T. Bertsch 
+ 
+Aetiopathogenese, Pathophysiologie, 
+Symptom Schmerz 
+E. Brenner , M. Cornely, G. Faerber 
+ 
+Epidemiologie A.Miller  
+Kompressionstherapie E. Rabe 
+Intermittierende pneumatische Kompression S. Reich-Schupke  
+Medikamentöse Therapie M. Stücker, G. Faerber  
+Physiotherapie C. Daubert 
+Psychosoziale Therapie G. Erbacher 
+Selbstmanagement G. Erbacher , S. Helmbrecht  
+Ernährung und Gewichtsmanagement G. Faerber 
+Bariatrische Therapie J. Fink 
+Operative Therapie M. Cornely, S. Rapprich , M. Ghods 
+ 
+3. Genauigkeit der Leitlinienentwicklung – Recherch e, Auswahl und Bewertung 
+wissenschaftlicher Belege (Evidenzbasierung) 
+Die Literaturrecherche erfolgte durch die jeweilige n Autoren manuell über anerkannte 
+Datenbanken (z. B. Pubmed, Web of Science, Research Net). Außerdem wurden die 
+verfügbaren internationalen Leitlinien berücksichtigt. 
+Formulierung von klinisch relevanten Fragestellungen, Priorisierung von Endpunkten 
+Die Leitliniengruppe stimmte in der konstituierende n Sitzung am 02.09.2020 in Leipzig dem 
+von der Koordinatorin vorgeschlagenen Inhaltsverzei chnis mit den klinisch relevanten 
+Fragestellungen zu. Die Autoren der einzelnen Kapitel wurden gebeten, ggf. unter Mitwirkung 
+weiterer Experten, Hintergrundtexte zu erstellen un d Kernausaussagen zu den festgelegten 
+Themenbereichen vorzuformulieren. Es folgten 13 wei tere virtuelle Sitzungen mit intensiven 
+Diskussionen der Kernaussagen und deren Empfehlungs graden sowie der Hintergrundtexte 
+(11.12.20, 20.1.21, 26.2.21, 14.4.21, 18.6.21, 15.1 0.21, 27.4.22, 20.5.22, 14.9.22, 2.11.22, 
+12.12.22, 20.1.23, 21.4.23). 
+Nach abschließender Überarbeitung und Erstellung ei ner Entwurfsversion durch das 
+Redaktionsteam wurde diese durch die Leitliniengrup pe konsentiert und >14 Tage vor der 
+Konsensuskonferenz an die Delegierten versandt. Im Anschluss an die strukturierte 
+Konsensfindung mit Abstimmung der Empfehlungen erfo lgte die finale Überarbeitung durch 
+die Leitliniensteuerungs-/ Redaktionsgruppe. Die vo rliegende Version erzielte in der 
+Leitliniengruppe einen Gesamtkonsens, bevor diese an die Vorstände der mitherausgebenden 
+Fachgesellschaften und Organisationen zur Verabschi edung und Autorisierung versendet 
+wurde.  
+ 
+Formulierung und Graduierung von Empfehlungen und strukturierte Konsensfindung  
+ 
+Strukturierte Konsensfindung: Verfahren und Durchführung  
+Die strukturierte Konsensfindung mit Abstimmung der  Empfehlungen erfolgte im Rahmen 
+einer Präsenzveranstaltung am 18.10.2023 in Frankfu rt am Main. Die Moderation der 
+Konsensuskonferenz übernahm Herr PD. Dr. Dominic Mühlberger. Für die Konsensfindung mit 
+Beschluss und Abstimmung der Empfehlungen wurde auf  die Methodik des Nominalen 
+Gruppenprozesses zurückgegriffen. Der Ablauf gestaltete sich wie folgt:
+
+S2k-Leitlinie (037-012)- Leitlinienreport 5.0 
+Lipödem - Stand: 22.1.2024 
+___________________________________________________________________________ 
+1.  Vorlesen jeder Empfehlung / Kernaussage durch den Moderator.   
+2.  Durchsicht und Gelegenheit zur Kommentierung der Em pfehlungen einschließlich 
+der vorgeschlagenen Graduierung durch die Teilnehmer.   
+3.  Registrierung der Stellungnahmen und Erarbeitung vo n Alternativvorschlägen zu 
+allen strittigen Aussagen durch alle Teilnehmer und den Moderator.  
+4.  Abstimmung aller Empfehlungen und Empfehlungsgrade sowie der ggf. 
+erarbeiteten Alternativen unter Berücksichtigung de r jeweiligen 
+Interessenkonflikte aller Beteiligten.   
+5.  Beim Vorliegen von moderaten Interessenkonflikten e rfolgte bei thematisch 
+relevanten Empfehlungen, die im Vorfeld durch die L eitlinienkoordinatorin 
+festgelegt waren, eine Doppelabstimmung sofern kein  100 %iger Konsens in der 
+ersten Abstimmung erzielt wurde.   
+ 
+Bei den Empfehlungen wird zwischen drei Empfehlungs graden unterschieden, deren 
+unterschiedliche Qualität bzw. Härte durch die Form ulierungen „soll“, „sollte“ und „kann“ 
+entsprechend dem AWMF-Regelwerk ausgedrückt wird. D ie Empfehlungsgrade werden 
+zusätzlich mit Pfeilen symbolisiert (Tabelle A).   
+ 
+Die Konsensstärke wurde gemäß Tab. B klassifiziert.  Die Empfehlungen mit ihren 
+Graduierungen wurden im "starken Konsens" (Zustimmu ng von > 95 % der Teilnehmer) oder 
+im Konsens (Zustimmung von > 75 % der Teilnehmer) v erabschiedet. Die vollständige 
+Dokumentation der einzelnen Schritte der gesamten K onsensfindung ist bei der 
+Leitlinienkoordination hinterlegt.  
+ 
+ 
+ 
+An der Konsensuskonferenz am 18.10.2023 haben sich 18 Personen am Abstimmungsprozess 
+beteiligt. Bei dieser Personenzahl ergab sich ein s tarker Konsens (> 95 % der 
+Stimmberechtigten) nur, wenn alle Personen konform abgestimmt haben. Bereits eine 
+Gegenstimme bzw. Enthaltung hatte zur Folge, dass sich nur noch ein Konsens (> 75-95 % der 
+Stimmberechtigten) ergab. Wir haben uns deshalb ent schlossen, für jede Empfehlung die 
+Prozentzahl des Abstimmungsergebnisses gemeinsam mit der Konsensstärke anzugeben.     
+ 
+Berücksichtigung von Nutzen, Nebenwirkungen und Risiken
+
+S2k-Leitlinie (037-012)- Leitlinienreport 5.0 
+Lipödem - Stand: 22.1.2024 
+___________________________________________________________________________ 
+In Situationen gering verfügbarer Evidenz wurde bei  der Festlegung des Empfehlungsgrades 
+das Nutzen-Schaden Verhältnis, Patientenpräferenzen  sowie die Verbesserung der 
+Patientenversorgung besonders berücksichtig und der Stellenwert der Evidenz hintangestellt. 
+ 
+4.   Externe Begutachtung und Verabschiedung   
+Externe Begutachtung   
+ 
+In Absprache mit der Leitliniensteuerungsgruppe wur de auf eine fakultative öffentliche 
+Konsultationsphase verzichtet.   
+ 
+Verabschiedung durch die Vorstände der herausgebend en 
+Fachgesellschaften/Organisationen   
+Die Verabschiedung der finalen Leitlinienversion du rch die Vorstände und Präsidien der 
+beteiligten Fachgesellschaften und Organisationen e rfolgte in der Zeit vom 6.12.2023 – 
+15.1.2024.  
+ 
+5. Redaktionelle Unabhängigkeit 
+ 
+Finanzierung der Leitlinie 
+Die Erstellung der Leitlinie erfolgte in redaktioneller Unabhängigkeit. Eine Finanzierung durch 
+Dritte wurde ausgeschlossen. Die 13 Arbeitssitzunge n im Zeitraum vom 11.12.2020 bis 
+21.04.2023 erfolgten alle virtuell. Die Kosten der Konsensuskonferenz (Raummiete, Catering) 
+beliefen sich auf insgesamt ca. 3.100 Euro und wurd en von der federführenden 
+Fachgesellschaft getragen. Der Moderator hat auf se in Honorar verzichtet. Die Reisekosten 
+der Delegierten der DGPL wurden von der federführenden Fachgesellschaft übernommen. Die 
+Leitliniengruppe und die am Konsensverfahren beteil igten Personen haben ausschließlich 
+ehrenamtliche Arbeit geleistet.   
+ 
+Darlegung von Interessen und Umgang mit Interessenkonflikten   
+Die an der Konsensuskonferenz teilnehmenden Experte n und Mandatstragenden haben vor 
+der Konsensuskonferenz ihre potenziellen aktuellen Interessenkonflikte im AWMF-
+OnlinePortal (https://interessenerklaerung-online.a wmf.org/) hinterlegt. Alle mit 
+finanziellem Gegenwert geleisteten Tätigkeiten mit Medizinprodukten- oder 
+Pharmaunternehmen wurden als Interessenkonflikt gew ertet. Die Einschätzung des 
+thematischen Bezugs zur Leitlinie und dessen Bewert ung erfolgte durch die 
+Leitlinienkoordinatorin. Begleitet wurde das Interessenkonfliktmanagement durch Frau Dipl.-
+Biol. Simone Witzel (AWMF-Institut für Medizinische s Wissensmanagement). Als geringe 
+Interessenkonflikte wurden gelegentliche Vortragsho norare, als moderate 
+Interessenkonflikte die Tätigkeit in Advisory Boards, Berater- und Gutachteraktivitäten sowie 
+Drittmittelforschung mit Bezug zur Leitlinie und al s hohe Interessenkonflikte Aktienbesitz, 
+Patentrechte sowie Haupteinkommen durch kommerziell e Unternehmen im 
+Gesundheitssektor gewertet.  In Vorbereitung auf di e abzustimmenden Empfehlungen 
+wurden diese einzeln auf bestehende Interessenkonflikte geprüft und alle Mandatstragenden 
+durch die Koordinatorin im Vorfeld diesbezüglich be wertet. Ein geringer Interessenkonflikt 
+hatte keinen Einfluss auf die Abstimmung. Ein moder ater thematischer Interessenkonflikt zu 
+der jeweiligen Empfehlung hatte eine Doppelabstimmung mit Stimmenthaltung in der zweiten 
+Abstimmung zur Konsequenz. Ein hoher Interessenkonf likt führte zum Ausschluss von der 
+Beratung und Abstimmung zum betreffenden Thema. Eine Zusammenfassung der Angaben zu
+
+S2k-Leitlinie (037-012)- Leitlinienreport 5.0 
+Lipödem - Stand: 22.1.2024 
+___________________________________________________________________________ 
+den Interessenkonflikten der Leitliniengruppe und d ie daraus resultierenden Konsequenzen 
+finden sich in der Tabelle im Anhang. Ein geringer Interessenkonflikt hatte eine Limitierung 
+der Leitungsfunktion zur Folge. (wie in der Tabelle angegeben). 
+Als protektive Faktoren, die einer Verzerrung durch  Interessenkonflikte entgegenwirken, 
+können die pluralistische Zusammensetzung der Leitl iniengruppe, die strukturierte 
+Konsensfindung unter neutraler Moderation, die Meth odik der Doppelabstimmung bei 
+Interessenkonflikten, die Diskussion zu den Interes sen und Umgang mit Interessenkonflikten 
+zu Beginn der Konsensuskonferenzen sowie die Begutachtung der Konsultationsfassung durch 
+die Vorstände der beteiligten Fachgesellschaften ge wertet werden. Angemerkt sei, dass die 
+bei moderatem Interessenkonflikt durchgeführten Dop pelabstimmungen in keinem Fall eine 
+Änderung der Konsensstärke nach sich zogen. Die prozentualen Abweichungen zwischen den 
+zwei Abstimmungsergebnissen waren marginal.  
+ 
+ 
+6. Verbreitung und Implementierung   
+ 
+Konzept zur Verbreitung und Implementierung  
+Zur Einführung der Leitlinie werden folgende Verfah ren von der Leitliniengruppe unterstützt 
+und veranlasst:  
+• Kostenfreier Zugang über das Internet (http://awmf-online.de)  
+• Publikation in medizinischen Fachzeitschriften   
+• Verlinkung auf die Websites der Fachgesellschaften   
+• Pressemitteilungen   
+• Kontinuierliche Fortbildungsveranstaltungen  
+• Leitlinienversion in leicht verständlicher Sprache   
+ 
+Unterstützende Materialien für die Anwendung der Leitlinie 
+Leitlinienversion in leicht verständlicher Sprache 
+ 
+ 
+Diskussion möglicher förderlicher und hinderlicher Faktoren für die Anwendung der Leitlinie  
+Förderliche Faktoren für die Anwendung der Leitlinie sind die im Vorfeld definierten klinischen 
+Problemstellungen und Herausforderungen, die praxis orientiert in der Leitlinie aufgegriffen 
+werden. Die daraus resultierenden Empfehlungen biet en eine klare Handlungsorientierung.  
+Mögliche hinderliche Faktoren sind regionale Unters chiede in der Verfügbarkeit von 
+Diagnostik- und Therapieexpertise.   
+ 
+Messkriterien für die Bewertung der Prozess - und / oder Ergebnisqualität der Leitlinie:  
+Qualitätsziele, Qualitätsindikatoren  
+Derzeit sind keine Ressourcen für die Entwicklung von Messgrößen oder Qualitätsindikatoren 
+verfügbar, so dass diese Bewertung derzeit nicht möglich ist. 
+ 
+7. Gültigkeitsdauer und Aktualisierungsverfahren   
+Datum der letzten inhaltlichen Überarbeitung und Status   
+Die Leitlinie ist gültig bis spätestens 22.1.2029. Bis zu diesem Zeitpunkt erfolgt eine 
+vollständige Überprüfung der Inhalte. Verantwortlich für das Aktualisierungsverfahren ist die 
+Deutsche Gesellschaft für Phlebologie und Lympholog ie e.V., vertreten durch ihren Vorstand 
+(info@phlebology.de).
+
+S2k-Leitlinie (037-012)- Leitlinienreport 5.0 
+Lipödem - Stand: 22.1.2024 
+___________________________________________________________________________ 
+ 
+Aktualisierungsverfahren  
+Eine erneute Überarbeitung der Leitlinie ist in 5 J ahren geplant. Verantwortlich für den 
+Aktualisierungsprozess ist die Deutsche Gesellschaft für Phlebologie und Lymphologie e.V. als 
+federführende Fachgesellschaft. Wenn sich zwischenz eitlich grundsätzliche neue 
+wissenschaftliche Erkenntnisse mit dringend notwend igen Änderungen ergeben, ist deren 
+Bekanntmachung nach Rücksprache mit den Mitgliedern  der Leitliniengruppe als Addendum 
+vorgesehen.

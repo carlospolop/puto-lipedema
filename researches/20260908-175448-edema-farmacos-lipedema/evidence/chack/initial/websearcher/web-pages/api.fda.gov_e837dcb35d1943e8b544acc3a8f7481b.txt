@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-07-30"
+  },
+  "results": [
+    {
+      "term": "PAIN",
+      "count": 22427
+    },
+    {
+      "term": "DRUG INEFFECTIVE",
+      "count": 15590
+    },
+    {
+      "term": "PULMONARY EMBOLISM",
+      "count": 15372
+    },
+    {
+      "term": "NAUSEA",
+      "count": 15007
+    },
+    {
+      "term": "HEADACHE",
+      "count": 14021
+    },
+    {
+      "term": "ANXIETY",
+      "count": 12873
+    },
+    {
+      "term": "OFF LABEL USE",
+      "count": 12870
+    },
+    {
+      "term": "FATIGUE",
+      "count": 12834
+    },
+    {
+      "term": "INJURY",
+      "count": 12676
+    },
+    {
+      "term": "PRODUCT ADHESION ISSUE",
+      "count": 12608
+    },
+    {
+      "term": "DEEP VEIN THROMBOSIS",
+      "count": 12240
+    },
+    {
+      "term": "DYSPNOEA",
+      "count": 9911
+    },
+    {
+      "term": "NO ADVERSE EVENT",
+      "count": 9413
+    },
+    {
+      "term": "VOMITING",
+      "count": 8568
+    },
+    {
+      "term": "DIARRHOEA",
+      "count": 8266
+    },
+    {
+      "term": "DIZZINESS",
+      "count": 8054
+    },
+    {
+      "term": "RASH",
+      "count": 7831
+    },
+    {
+      "term": "ARTHRALGIA",
+      "count": 7751
+    },
+    {
+      "term": "PRURITUS",
+      "count": 7376
+    },
+    {
+      "term": "EMOTIONAL DISTRESS",
+      "count": 7242
+    },
+    {
+      "term": "DEPRESSION",
+      "count": 7223
+    },
+    {
+      "term": "WEIGHT INCREASED",
+      "count": 7112
+    },
+    {
+      "term": "ABDOMINAL PAIN",
+      "count": 6823
+    },
+    {
+      "term": "PAIN IN EXTREMITY",
+      "count": 6280
+    },
+    {
+      "term": "INSOMNIA",
+      "count": 6233
+    },
+    {
+      "term": "MALAISE",
+      "count": 5824
+    },
+    {
+      "term": "ABDOMINAL PAIN UPPER",
+      "count": 5790
+    },
+    {
+      "term": "ALOPECIA",
+      "count": 5674
+    },
+    {
+      "term": "CHOLECYSTITIS CHRONIC",
+      "count": 5585
+    },
+    {
+      "term": "CHEST PAIN",
+      "count": 5288
+    },
+    {
+      "term": "PRODUCT QUALITY ISSUE",
+      "count": 5231
+    },
+    {
+      "term": "PYREXIA",
+      "count": 5222
+    },
+    {
+      "term": "HOT FLUSH",
+      "count": 5114
+    },
+    {
+      "term": "GENERAL PHYSICAL HEALTH DETERIORATION",
+      "count": 5081
+    },
+    {
+      "term": "SINUSITIS",
+      "count": 5008
+    },
+    {
+      "term": "HYPERSENSITIVITY",
+      "count": 4963
+    },
+    {
+      "term": "ASTHENIA",
+      "count": 4907
+    },
+    {
+      "term": "MIGRAINE",
+      "count": 4886
+    },
+    {
+      "term": "NASOPHARYNGITIS",
+      "count": 4865
+    },
+    {
+      "term": "PERIPHERAL SWELLING",
+      "count": 4745
+    },
+    {
+      "term": "CHOLELITHIASIS",
+      "count": 4676
+    },
+    {
+      "term": "INAPPROPRIATE SCHEDULE OF DRUG ADMINISTRATION",
+      "count": 4609
+    },
+    {
+      "term": "CONDITION AGGRAVATED",
+      "count": 4586
+    },
+    {
+      "term": "METRORRHAGIA",
+      "count": 4429
+    },
+    {
+      "term": "MUSCLE SPASMS",
+      "count": 4421
+    },
+    {
+      "term": "BACK PAIN",
+      "count": 4373
+    },
+    {
+      "term": "ABDOMINAL DISCOMFORT",
+      "count": 4335
+    },
+    {
+      "term": "GALLBLADDER DISORDER",
+      "count": 4289
+    },
+    {
+      "term": "FEELING ABNORMAL",
+      "count": 4241
+    },
+    {
+      "term": "JOINT SWELLING",
+      "count": 4203
+    },
+    {
+      "term": "VAGINAL HAEMORRHAGE",
+      "count": 4100
+    },
+    {
+      "term": "WRONG TECHNIQUE IN PRODUCT USAGE PROCESS",
+      "count": 4022
+    },
+    {
+      "term": "CONFUSIONAL STATE",
+      "count": 3987
+    },
+    {
+      "term": "SWELLING",
+      "count": 3931
+    },
+    {
+      "term": "URTICARIA",
+      "count": 3888
+    },
+    {
+      "term": "PRODUCT USE ISSUE",
+      "count": 3882
+    },
+    {
+      "term": "INFECTION",
+      "count": 3796
+    },
+    {
+      "term": "DRUG DOSE OMISSION",
+      "count": 3786
+    },
+    {
+      "term": "WEIGHT DECREASED",
+      "count": 3702
+    },
+    {
+      "term": "PRODUCT USE IN UNAPPROVED INDICATION",
+      "count": 3641
+    },
+    {
+      "term": "GASTROINTESTINAL DISORDER",
+      "count": 3617
+    },
+    {
+      "term": "HYPOAESTHESIA",
+      "count": 3599
+    },
+    {
+      "term": "HYPERTENSION",
+      "count": 3569
+    },
+    {
+      "term": "THROMBOSIS",
+      "count": 3553
+    },
+    {
+      "term": "DISCOMFORT",
+      "count": 3305
+    },
+    {
+      "term": "CONTUSION",
+      "count": 3299
+    },
+    {
+      "term": "BLISTER",
+      "count": 3273
+    },
+    {
+      "term": "LOWER RESPIRATORY TRACT INFECTION",
+      "count": 3265
+    },
+    {
+      "term": "PRODUCT DOSE OMISSION ISSUE",
+      "count": 3249
+    },
+    {
+      "term": "PARAESTHESIA",
+      "count": 3225
+    },
+    {
+      "term": "RHEUMATOID ARTHRITIS",
+      "count": 3135
+    },
+    {
+      "term": "URINARY TRACT INFECTION",
+      "count": 3133
+    },
+    {
+      "term": "IRRITABLE BOWEL SYNDROME",
+      "count": 3122
+    },
+    {
+      "term": "CEREBROVASCULAR ACCIDENT",
+      "count": 3100
+    },
+    {
+      "term": "PNEUMONIA",
+      "count": 3091
+    },
+    {
+      "term": "STOMATITIS",
+      "count": 3039
+    },
+    {
+      "term": "ABDOMINAL DISTENSION",
+      "count": 3023
+    },
+    {
+      "term": "FALL",
+      "count": 2994
+    },
+    {
+      "term": "DRUG HYPERSENSITIVITY",
+      "count": 2986
+    },
+    {
+      "term": "INFUSION RELATED REACTION",
+      "count": 2891
+    },
+    {
+      "term": "IMPAIRED HEALING",
+      "count": 2871
+    },
+    {
+      "term": "HEPATIC ENZYME INCREASED",
+      "count": 2865
+    },
+    {
+      "term": "COUGH",
+      "count": 2848
+    },
+    {
+      "term": "DECREASED APPETITE",
+      "count": 2796
+    },
+    {
+      "term": "BREAST CANCER FEMALE",
+      "count": 2754
+    },
+    {
+      "term": "FOLLICULITIS",
+      "count": 2732
+    },
+    {
+      "term": "PALPITATIONS",
+      "count": 2709
+    },
+    {
+      "term": "DRUG INTOLERANCE",
+      "count": 2697
+    },
+    {
+      "term": "OEDEMA PERIPHERAL",
+      "count": 2691
+    },
+    {
+      "term": "CONSTIPATION",
+      "count": 2664
+    },
+    {
+      "term": "SYSTEMIC LUPUS ERYTHEMATOSUS",
+      "count": 2657
+    },
+    {
+      "term": "APPLICATION SITE ERYTHEMA",
+      "count": 2627
+    },
+    {
+      "term": "APPLICATION SITE PRURITUS",
+      "count": 2624
+    },
+    {
+      "term": "MATERNAL EXPOSURE DURING PREGNANCY",
+      "count": 2624
+    },
+    {
+      "term": "ARTHROPATHY",
+      "count": 2610
+    },
+    {
+      "term": "MUSCLE INJURY",
+      "count": 2597
+    },
+    {
+      "term": "NIGHT SWEATS",
+      "count": 2594
+    },
+    {
+      "term": "THERAPEUTIC PRODUCT EFFECT DECREASED",
+      "count": 2582
+    },
+    {
+      "term": "PRODUCT SUBSTITUTION ISSUE",
+      "count": 2566
+    },
+    {
+      "term": "SYNOVITIS",
+      "count": 2553
+    }
+  ]
+}
