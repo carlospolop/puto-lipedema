@@ -19,4 +19,5 @@
 | workers auxiliares intento seguro | mismo sentinel + `--safe-mode` | SerpAPI/fallback terminó código 0; OSINT terminó código 1 (`Broken pipe`); ambos terminales, sin MCP activo |
 | fuentes centrales | web_extract/fetch público | PMC3506057, PMC10908346, PMC11117526, PMC12800713, PMC8652358, PubMed 21558959, AWMF y fichas DailyMed abiertas; el endpoint PMC10855605 se verificó por XML de Europe PMC tras una extracción mal resuelta |
 | publicación | web y anexos | añadida explicación de fármacos, grados, riesgos, señales y referencias; `build-search-index.js` generó 99 páginas; verificación HTTP 99/99, enlaces internos 1.940/1.940, sin rutas `researches/` en el índice |
-| seguridad/espacio | artefactos | el árbol bruto de la cola no se copia a git; quedan receipts resumidos, hashes y URLs, sin credenciales ni URLs privadas |
+| seguridad/espacio | artefactos | se conservaron 268 artefactos de las administraciones inicial/recovery, sanitizados; el árbol bruto de la cola no se copia a git y no quedan credenciales ni URLs privadas |
+| cierre | push/CI/producción | commits `1a5d5a4` y `a6404d9` leídos de vuelta en `origin/main`; Search index `34273372144` y Deploy Pages `34273371163` concluyeron `success`; `putolipedema.com` devolvió 200 en página, anexo e índice; heartbeat `message_id=1291` |
