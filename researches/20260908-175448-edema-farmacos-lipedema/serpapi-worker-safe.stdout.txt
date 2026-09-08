@@ -1,0 +1,342 @@
+Warning: Unknown toolsets: no_mcp
+1. Executive answer
+
+- The blanket conclusion “direct drug-provocation evidence in lipedema is absent” needs correction for hormonal contraception. I found an explicitly relevant 2012 case report, a 2024 Italian observational cohort, and a December 2025 Brazilian questionnaire study. All were opened, including the 2012 full text through Europe PMC XML.
+- These sources support a direct, low-certainty signal of contraceptive-associated worsening of swelling/pain in people with lipedema. They do not establish causation, formulation-specific risk, or objectively measured drug-induced lipedema-fat growth.
+- The Brazilian study reports worsening in 346/588 respondents with contraceptive-exposure outcome data, but its exposure denominators conflict with its own table. The Italian paper prints “44.4% (102 of 262),” an arithmetic inconsistency: 102/262 is approximately 38.9%.
+- I found no clinical lipedema-specific provocation study for amlodipine/nifedipine, NSAIDs, pregabalin/gabapentin, or pioglitazone/rosiglitazone in the retrieved material. This is a bounded negative finding, not proof of absence; commercial search coverage was seriously impaired.
+- General-population evidence establishes peripheral edema with these nonhormonal classes. Mechanisms differ: dihydropyridine CCB edema is predominantly dependent microvascular fluid redistribution; NSAIDs and thiazolidinediones can produce systemic fluid retention; gabapentinoids can cause noncardiogenic edema, with separate heart-failure safety signals.
+- Pregabalin and thiazolidinediones can also increase body weight independently of clinically apparent edema. Volume or weight change must not automatically be called either “water” or “lipedema fat.”
+- A 2024 experiment exposed lipedema-derived cells to estradiol and found altered adipogenic-marker expression. This is direct lipedema-tissue evidence, not an adult contraceptive/HRT provocation experiment or an edema outcome.
+- HRT-specific clinical evidence remained very limited. Mechanistic reviews make competing claims about estrogen excess, estrogen deficiency, and potential HRT benefits. None justifies treating all estrogen/progestin preparations as having the same effect.
+- Suggested revised conclusion: “Direct clinical evidence is sparse and largely uncontrolled. Hormonal contraception has published lipedema-specific adverse-symptom reports and observational associations; causal, formulation-specific, objectively measured provocation evidence remains lacking. For the other requested classes, the evidence located is predominantly extrapolated pharmacology.”
+
+2. Engine/query coverage and failures
+
+SerpAPI
+
+Available exported credentials represented one distinct key, exposed through two environment variables. No credential values were printed or written.
+
+Authenticated attempts returned HTTP 429 with this exact non-secret body:
+
+  {
+    "error": "Your account has run out of searches."
+  }
+
+There was no distinct alternative exported key. Changing engines did not help.
+
+Google web queries attempted:
+  lipedema amlodipine nifedipine edema
+  "lipedema" "pregabalin"
+  "lipoedema" "amlodipine"
+  "lipedema" "NSAIDs"
+
+Bing queries attempted:
+  "lipoedema" "pioglitazone"
+  lipedema estrogen contraception hormone therapy edema
+  "lipedema" "gabapentin"
+  "lipedema" "rosiglitazone"
+
+Google Scholar queries attempted:
+  lipedema medication calcium channel blockers edema
+  lipedema hormonal contraception estrogen study
+  lipedema contraceptive hormone therapy edema study
+
+Discovery-only channels attempted:
+  Google News: lipedema medication edema study
+  Google Forums: lipedema birth control swelling
+  YouTube: lipedema amlodipine pregabalin swelling
+
+All those authenticated SerpAPI requests failed; no News, Forums, YouTube, or Scholar results were used as evidence. An initial unauthenticated connectivity probe returned HTTP 401, “Invalid API key. Your API key should be here: https://serpapi.com/manage-api-key”.
+
+Other tools and fallback
+
+- web_search failed because its configured provider, “brave-free,” was not registered.
+- web_extract failed because its configured provider, “firecrawl,” was not registered.
+- Public Brave search through requests worked intermittently. Useful searches included:
+    lipedema amlodipine pregabalin estrogen study
+    "Expression of Adipogenic Marker" PMC
+    pregabalin gabapentin peripheral edema pharmacovigilance 2022 58 reports
+- Additional Brave class/drug searches returned HTTP 429 with a suspicious-request/CAPTCHA message. No CAPTCHA bypass was attempted.
+- Direct Google returned HTTP 200 without useful search content.
+- Public requests to PMC, Europe PMC, official prescribing-information pages and DailyMed supplied the evidence below.
+- Europe PMC broad search, cutoff-filtered through 2026-09-08, returned 103 records; all 103 metadata records were retrieved and the total was checked programmatically. This was title screening, not 103 full-text reviews.
+- Additional title/abstract searches pairing lipedema/lipoedema with each nonhormonal drug or NSAID* returned zero. A contracept* search returned four records, including the Brazilian article and its preprint, which are one study, not independent corroboration.
+
+No repository edits, MCP/Chack calls, browser tabs, logins, or credential disclosure.
+
+3. Opened-source ledger
+
+“Abstract opened” below means the actual indexed abstract was retrieved through Europe PMC’s public core-record API, not a search-engine snippet. Dose/latency are unspecified where not given below.
+
+Direct lipedema sources
+
+L1. “Is lymphostasis an aggravant of lipedema?” — September 2012.
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC3506057/
+  Successfully opened full-text alternative:
+  https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3506057/fullTextXML
+  Discovery: Europe PMC, lipedema/lipoedema + contracept*.
+  Class/population: case report; woman aged 54, clinically diagnosed with lipedema plus grade-I lymphedema.
+  Exposure/outcome: oral contraception started at age 24; worse lower-limb swelling and pain. Partial improvement after contraception withdrawal together with topical treatment and exercise.
+  Dose/formulation/exact latency: not reported.
+  Importance: explicit direct clinical adverse-exposure history; confounded dechallenge.
+
+L2. “Observational Study on a Large Italian Population with Lipedema: Biochemical and Hormonal Profile, Anatomical and Clinical Evaluation, Self-Reported History” — 2024-01-27.
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC10855605/
+  Discovery: Brave hormonal searches; Europe PMC exact-title search.
+  Status: full text opened; publisher MDPI URL returned 403.
+  Class/population: observational clinical cohort, 360 females aged 12–76; not adult-only.
+  Outcome: contraceptive-associated worsening and descriptive symptom improvement after withdrawal; cross-sectional ultrasound findings.
+  Dose/formulation/latency: not adequately specified.
+  Importance: direct signal plus an objective null finding; substantial denominator problems.
+
+L3. “Association Between Hormonal Contraceptive Use and Lipedema: A Cross-Sectional Study With 637 Brazilian Women” — 2025-12-14.
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC12800713/
+  Discovery: Europe PMC broad drug/contraceptive query.
+  Status: full text opened, including methods and tables.
+  Class/population: online cross-sectional questionnaire; adults with reported confirmed/suspected lipedema.
+  Outcome: perceived worsening, swelling and weight gain; no measured pre/post limb volume.
+  Exposure: mixed pills, hormonal IUDs, injections and implants; median reported use seven years, not latency to swelling.
+  Importance: strongest new counterexample to “no direct evidence,” but methodologically weak and internally inconsistent.
+
+L4. “The Expression of Adipogenic Marker Is Significantly Increased in Estrogen-Treated Lipedema Adipocytes Differentiated from Adipose Stem Cells In Vitro” — 2024-05-09.
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC11117526/
+  Discovery: Brave exact-title search.
+  Status: full text opened; MDPI page blocked.
+  Class/population: laboratory study; cells from five stage-2 lipedema and five matched control female donors; multiple experimental panels report n=3.
+  Exposure/outcome: 100 nM estradiol, including 72-hour treatment protocol; increased PPAR-γ2 expression in differentiated lipedema cells/spheroids.
+  Importance: biological plausibility, not clinical edema or fat-volume provocation.
+
+L5. “Standard of care for lipedema in the United States” — 2021.
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC8652358/
+  Discovery: targeted guideline opening after initial search.
+  Status: full text opened.
+  Class/population: Delphi consensus, not exposed-patient experiment.
+  Outcome: medication cautions; explicitly says the causative role of sex hormones remains speculative.
+  Dose/latency: no provocation dataset.
+  Importance: do not convert consensus grades into drug-specific lipedema trial evidence.
+
+L6. “Lipedema World Alliance Delphi Consensus-Based Position Paper…” — 2026-01-10.
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC12796449/
+  Discovery: Europe PMC broad query.
+  Status: full text opened.
+  Class: international consensus.
+  Outcome: swelling/heaviness, usually absent pitting edema, possible extracellular-fluid elevation, and concomitant lymphostasis.
+  Importance: supports separating tissue enlargement from clinically apparent free-fluid edema.
+
+L7. “Lipedema in Women and Its Interrelationship with Endometriosis and Other Gynecologic Diseases: A Scoping Review” — 2026-01-07.
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC12839153/
+  Discovery: Europe PMC broad query.
+  Status: full text opened.
+  Class: scoping review, 25 included studies.
+  Outcome: hormonal associations; repeats the Italian 44.4% figure.
+  Importance: secondary, not independent replication; contains extrapolative formulation-specific discussion.
+
+L8. “Menopause as a Critical Turning Point in Lipedema…” — 2025.
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC12346519/
+  Discovery: Brave fallback.
+  Status: full text opened.
+  Class: narrative mechanistic model.
+  Outcome: proposed HRT/progestin mechanisms; explicitly acknowledges no lipedema RCTs for gestrinone/drospirenone.
+  Importance: claims of treatment benefit exceed direct clinical evidence.
+
+L9. “Reproductive Landmarks and Lipedema: Lessons to be Learned about Women Hormones throughout Life” — 2024-11-26.
+  https://www.intechopen.com/chapters/1198487
+  Discovery: reference 26 of L7.
+  Status: chapter opened.
+  Class: narrative chapter, not a documented drug-provocation series.
+  Importance: L7 cites it for anecdotal estrogen-related modulation; I did not identify a dose/latency-resolved clinical case in the relevant chapter text.
+
+Adjacent pharmacology sources
+
+A1. “Peripheral edema associated with calcium channel blockers: incidence and withdrawal rate—a meta-analysis of randomized trials” — July 2011.
+  https://doi.org/10.1097/hjh.0b013e3283472643
+  Abstract opened:
+  https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:21558959%20AND%20SRC:MED&format=json&resultType=core
+  Discovery: Europe PMC exact-title search.
+  Population: hypertension; 106 trials, 99,469 participants.
+  Outcome: edema 10.7% versus 3.2% controls; higher with dose and duration. Full text not obtained.
+
+A2. “Reduced Lymphatic Function Predisposes to Calcium Channel Blocker Edema: A Randomized Placebo-Controlled Clinical Trial” — 2019-08-20.
+  https://doi.org/10.1089/lrb.2019.0028
+  Abstract opened:
+  https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:31429625%20AND%20SRC:MED&format=json&resultType=core
+  Discovery: Brave; Europe PMC title search.
+  Population: 16 healthy postmenopausal women completing a 12-week amlodipine crossover study.
+  Outcome: seven developed edema; lower baseline lymphatic pumping pressure in this subgroup, but no overall treatment-induced deterioration in measured lymphatic function.
+  Dose: not stated in opened abstract. Not a lipedema study.
+
+A3. “Calcium Channel Blocker-Related Peripheral Edema: Can It Be Resolved?” — 2003 journal issue; PMC also displays a 2007 online date.
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC8099365/
+  Status: full text opened; targeted pharmacology review.
+  Outcome: unmatched arteriolar versus venous dilation and dependent interstitial fluid shift, not primary salt/water retention.
+
+A4. NORVASC prescribing information — revised January 2019.
+  https://labeling.pfizer.com/ShowLabeling.aspx?id=562
+  Status: official label opened.
+  Outcome: edema 1.8%, 3.0%, 10.8% at 2.5, 5, 10 mg respectively, versus 0.6% placebo in the dose-specific table.
+  Population: clinical-trial patients, not lipedema.
+
+A5. PROCARDIA XL prescribing information — revised November 2023.
+  https://labeling.pfizer.com/ShowLabeling.aspx?id=542
+  Status: official label opened.
+  Outcome: dose-related localized edema, approximately 10–30%; upper figure at 180 mg, the highest studied dose.
+  Importance: do not quote 30% as the rate at typical prescribed doses.
+
+A6. “Gabapentinoid-induced peripheral edema and acute heart failure…” — 2022-03-15.
+  https://doi.org/10.1016/j.biopha.2022.112807
+  Abstract opened:
+  https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:35303569%20AND%20SRC:MED&format=json&resultType=core
+  Discovery: Brave and Europe PMC.
+  Population: 58 French spontaneous reports, plus rat experiments.
+  Outcome: median onset 23 days for noncardiogenic edema and 17 days for acute heart failure; dose escalation preceded 27/45 evaluable cases.
+  Importance: timing/mechanism signal, not incidence denominator.
+
+A7. LYRICA prescribing information — revised June 2020.
+  https://labeling.pfizer.com/ShowLabeling.aspx?id=561
+  Status: official label opened.
+  Outcome: adult peripheral edema 6% versus 2% placebo; weight gain also occurs without edema. Concomitant thiazolidinedione subgroup has higher edema frequency.
+  Latency: weight-gain trial window up to 14 weeks; no single edema latency.
+
+A8. NEURONTIN prescribing information — highlights October 2021; page contains other revision metadata.
+  https://labeling.pfizer.com/ShowLabeling.aspx?id=630
+  Status: official label opened.
+  Population/outcome: postherpetic-neuralgia trials, edema 8% versus 2% placebo; different rates in epilepsy studies.
+  Importance: indication-specific denominators, not a universal gabapentin rate.
+
+A9. CELEBREX prescribing information — DailyMed published 2025-12-18.
+  https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2d6675e4-5859-4be2-8037-a20ce9f707aa
+  Status: official label opened.
+  Outcome: renal/hemodynamic fluid-retention warnings. CLASS nine-month cumulative peripheral-edema rates: celecoxib 400 mg twice daily 4.5%; ibuprofen 800 mg three times daily 6.9%; diclofenac 75 mg twice daily 4.7%.
+  Importance: high-dose arthritis regimens, not lipedema or ordinary OTC-use estimates.
+
+A10. ACTOS prescribing information — DailyMed published 2025-04-09.
+  https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d2ddc491-88a9-4063-9150-443b4fa4330c
+  Status: official label opened.
+  Population: type-2 diabetes.
+  Outcome: dose-related fluid retention/edema and heart-failure warning, particularly with insulin. Dose range up to 45 mg/day; no single onset latency.
+
+A11. AVANDIA prescribing information — DailyMed published 2010-02-25.
+  https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ef14122b-7fff-45fa-b13b-0ea9e48bd57d
+  Status: old official label opened.
+  Outcome: edema/plasma-volume expansion; weight gain described as probably combining fluid retention and fat accumulation.
+  Exposure: 4–8 mg/day; plasma-volume observation after eight weeks.
+  Important limitation: historical label, not verification of current Spanish authorization or labeling.
+
+A12. “Combination contraceptives: effects on weight” — 2014-01-29.
+  https://doi.org/10.1002/14651858.CD003987.pub5
+  Abstract opened:
+  https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:24477630%20AND%20SRC:MED&format=json&resultType=core
+  Population/class: Cochrane review, 49 trials.
+  Outcome: no large weight effect evident; placebo/no-intervention comparisons did not support a causal weight association.
+  Full PMC text blocked; XML alternative unavailable.
+
+A13. “Progestin-only contraceptives: effects on weight” — 2016-08-28.
+  https://doi.org/10.1002/14651858.CD008815.pub4
+  Abstract opened:
+  https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:27567593%20AND%20SRC:MED&format=json&resultType=core
+  Population/class: 22 studies, 11,450 women; overall low-quality evidence.
+  Outcome: generally limited weight change; some DMPA/body-composition comparisons differed.
+  Full PMC text blocked; XML alternative unavailable. Earlier review versions are not additional independent evidence.
+
+A14. “Diagnostic approach to lower limb edema” — 2020.
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC7536506/
+  Status: full text opened; found in Europe PMC broad search.
+  Class: diagnostic review/opinion.
+  Importance: mixed etiologies, dependency, venous disease, lymphatic dysfunction, systemic disease and medication history.
+
+4. Direct lipedema findings: what changes the working conclusion
+
+The 2012 report is particularly important
+
+It explicitly records worsening after starting oral contraception, decades before specialist assessment. Later measured volume reduction followed intensive lymphedema treatment, not a contraceptive withdrawal experiment. Therefore:
+
+  Direct temporal adverse-symptom history: yes.
+  Clean dechallenge: no; simultaneous interventions.
+  Rechallenge: not documented.
+  Objective drug-associated fat/edema partition: no.
+  Coexisting lymphatic disease: yes.
+
+The Italian cohort provides both supporting and contrary observations
+
+It describes worsening after contraception and reduction of swelling, tension and pain after withdrawal, while describing persistent increased adipose tissue. That persistence was not established by a controlled longitudinal drug study.
+
+Conversely, its ultrasound analysis found no association of the selected lower-leg tissue-thickness measure with years of estrogen–progestin treatment, and no difference between ever-users and nonusers. This weakens any simple claim of cumulative hormone-driven tissue enlargement, without disproving episodic symptoms.
+
+The Brazilian questionnaire adds a larger but still weak signal
+
+Reported findings:
+  346/588 perceived some worsening.
+  203 severe, 143 slight, 237 no difference, five improved.
+  96/637 associated symptom onset with contraceptive initiation.
+  258/637 reported swelling and 266/637 weight gain in side-effect categorization.
+
+These are retrospective perceptions in a selected sample, not new-user incidence or attributable risk. Diagnosis was reported through the questionnaire, not independently verified for every participant. No objective edema, lymphatic, inflammatory or body-composition measurements separated mechanisms.
+
+5. Adjacent pharmacology: explicitly extrapolated to lipedema
+
+CCBs
+
+Amlodipine/nifedipine can add dependent edema to pre-existing limb enlargement without generating lipedema fat or generalized fluid overload. The small healthy-women lymphatic trial suggests lower baseline lymphatic reserve may matter, but does not demonstrate exaggerated susceptibility in lipedema or direct lymphatic injury from amlodipine.
+
+NSAIDs
+
+Anti-inflammatory symptom relief and fluid retention are not mutually exclusive. Renal prostaglandin inhibition can impair renal perfusion and contribute to fluid retention, especially with relevant comorbidity. This differs from classic CCB edema. No retrieved lipedema study quantified this trade-off.
+
+Pregabalin/gabapentin
+
+Both have established edema signals. Noncardiogenic vasodilatory mechanisms are supported by pharmacovigilance plus animal experiments; gabapentinoids should not simply be described as ordinary L-type CCBs. Heart failure remains a separate possible explanation requiring clinical distinction.
+
+The 58 spontaneous reports are 53 pregabalin and five gabapentin reports, not 58 exposed patients sampled to measure risk.
+
+Thiazolidinediones
+
+Pioglitazone/rosiglitazone can produce edema/systemic fluid retention and weight gain involving adipose tissue. Neither clinical pharmacology nor PPAR-γ adipogenesis establishes selective enlargement of lipedema fat. Concomitant pregabalin and thiazolidinedione edema observations are a relevant adjacent interaction signal, not lipedema data.
+
+Contraception/HRT
+
+General weight studies do not support the claim that every combined hormonal contraceptive causes substantial fat gain. Progestin-only methods are heterogeneous; DMPA findings should not be generalized to every pill, implant or hormonal IUD.
+
+Likewise, endogenous puberty/pregnancy/menopause associations cannot establish effects of a particular exogenous formulation. HRT and contraception should not be pooled as identical exposures.
+
+6. Contradictions and uncertainty
+
+- Italian paper: “44.4% (102 of 262)” is inconsistent; calculated 38.9%. Preserve both source tokens and flag the discrepancy. The 2026 scoping review repeats 44.4%, so it propagates rather than independently validates this estimate.
+- Brazilian paper: current 230 plus previous 382 equals 612, whereas narrative exposure count is 588. The 588 outcome responses sum correctly. Missing outcome data might explain part of this, but the text labels 588 as the exposed population without adequately reconciling it.
+- Brazilian ages: narrative range 19–68 versus table 18–73.
+- Brazilian regression: table says continuous predictors were standardized, but prose interprets the symptom-score odds ratio per one raw point. Those interpretations are not interchangeable.
+- Its chi-square value is reproducible against four equally frequent response categories. However, rejecting a uniform distribution is not evidence of a causal contraceptive effect or a comparison with unexposed women.
+- “Baseline” symptom severity was collected in a cross-sectional survey; it should not be assumed to be a measured pre-exposure baseline.
+- The Brazilian study includes 15 respondents categorized “No” under diagnosis, despite its confirmed/suspected framing.
+- General-population labels and reviews use different populations, formulations, durations and outcome definitions. Their percentages are not comparable head-to-head.
+- Mechanistic menopause reviews sometimes present receptor/progesterone-resistance models with stronger language than their direct human evidence warrants.
+- Most opened official labels are older than the cutoff. They establish known adverse effects but do not certify the latest AEMPS wording.
+
+7. Gaps and next search
+
+Priority follow-up for the parent:
+
+  1. Retrieve the Brazilian questionnaire/raw-data clarification and reconcile 588 versus 612, diagnosis eligibility and standardized regression interpretation.
+  2. Seek correction or author clarification of the Italian 102/262 discrepancy and adult-only results.
+  3. Search references and citing articles of the 2012 case for additional contraception challenge/dechallenge reports.
+  4. Repeat successful Google/Bing/Scholar searches when SerpAPI quota is available, including “lipoedema,” “lipolymphedema,” “dechallenge,” “rechallenge,” “drug-induced,” and named hormonal formulations.
+  5. Search Spanish/German terms and current AEMPS/European guidance; current local labels were not verified here.
+  6. Look specifically for prospective new-user studies recording dose, time to onset, objective limb volume, pitting/dependency, body composition and venous/lymphatic/systemic comorbidity.
+
+Clinician questions, rather than medication-change advice: What changed in drug/dose and when? Is swelling dependent or persistent? Are feet involved? Is there objectively measured weight/volume change? Could venous, lymphatic, cardiac, renal or hepatic disease contribute?
+
+Sudden unilateral painful swelling, new breathlessness/chest pain, or facial/tongue/throat swelling merits urgent medical assessment rather than attribution to lipedema.
+
+Discarded marketing/noise
+
+Clinic pages, patient-group discussions and generic “hormone balance” claims were discovery noise, not evidence. The blocked “Hormonal Links…” JAMMR page was not relied upon. A drug-induced lipodystrophy case concerned dexamethasone/stanozolol, not confirmed lipedema or the requested exposures. A gabapentin edema case concerned a man with psychiatric illness and no lipedema diagnosis. The Spanish clinical cohort mentioned contraceptive prescribing context, not a controlled adverse-drug outcome.
+
+8. Final confidence
+
+High confidence that “no direct clinical evidence exists” is incorrect for hormonal contraception.
+
+Low confidence in the magnitude, causality, specific responsible formulations, and fat-versus-fluid mechanism of that direct signal.
+
+High confidence in established general-population edema pharmacology; low confidence in any numerical extrapolation of risk to lipedema.
+
+Moderate confidence that the other requested classes lack published lipedema-specific provocation evidence in the material retrieved. Search-engine failures prevent an exhaustive absence claim.

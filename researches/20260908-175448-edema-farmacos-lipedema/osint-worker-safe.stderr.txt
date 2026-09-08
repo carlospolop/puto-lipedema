@@ -1,0 +1,1 @@
+Worker session identifier captured by terminal; redacted from the preserved artifact.
