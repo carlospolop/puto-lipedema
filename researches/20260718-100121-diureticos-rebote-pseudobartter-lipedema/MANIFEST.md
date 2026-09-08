@@ -3,15 +3,15 @@
 **Regenerado el 2026-09-08**; se excluye este propio archivo. SHA-256 calculado sobre los bytes exactos.
 
 - Archivos inventariados: **1933**
-- Bytes totales: **267722931**
+- Bytes totales: **267725088**
 - Cola Chack: `lipedema-diureticos-20260718`
 - Lotes terminales documentados: `batch-1-cbe05eaa`, `batch-2-ed77ebe9`, `batch-3-d1298d65`, `batch-4-f5310af5`, `batch-1-4e554f8f`.
 - Barrera final: `open_batch=null`, `processing_count=0`; P15/P16 Pro extraídos y los Deep auxiliares de la ronda 7 archivados como errores terminales; D01/D02 siguen siendo Deep válidos.
 
 | Tipo | Ruta | Bytes | SHA-256 |
 |---|---|---:|---|
-| Archivo | `curent-research.md` | 24287 | `017778457ff60ccbd18510a7706cef4f64a691eaabc1914e77815640303f52dd` |
-| Archivo | `current-research.md` | 24287 | `017778457ff60ccbd18510a7706cef4f64a691eaabc1914e77815640303f52dd` |
+| Archivo | `curent-research.md` | 24876 | `2448182c98c91646146f4a9fa9e303f4c22c1fccebd882a96fde38733f595c8a` |
+| Archivo | `current-research.md` | 24876 | `2448182c98c91646146f4a9fa9e303f4c22c1fccebd882a96fde38733f595c8a` |
 | Archivo | `evidence/chack/batch-3-d1298d65-result.md` | 2594 | `a79e11b72218fd8104b9f7341358cab3169b2b8ea0d6b7909babacae348fd41a` |
 | Archivo | `evidence/chack/deep-01-admin.json` | 71748 | `323a583f5c48121f151500c9a6106a3adb46f9cabdab78dae7c33b8c44670eea` |
 | Archivo | `evidence/chack/deep-01-internal-output-001.json` | 28207 | `6b9752d95d01e96e6eecf6e86da3fbaca15b99212f96b2959d3c52e5199a6a06` |
@@ -1928,7 +1928,7 @@
 | Archivo | `evidence/subagents/serpapi-round7.stderr-path-error.stderr` | 126 | `22e1501cfa29a26853e24902027e21ccb356faa0c7e4017bbbdb154bc9498ab6` |
 | Archivo | `evidence/subagents/source-verification-round2.md` | 35045 | `80f9ee44990138a68551fa0e9b3bf521c4ff18e0ea68870b7d9e3d1f549f2ecb` |
 | Archivo | `evidence/subagents/source-verification-round2.stderr` | 36 | `ec4262d62b018becfe5192fd74337be6b85ac15d9178b56e1c731c03b65cd6a6` |
-| Archivo | `launch-log.md` | 27258 | `1a347ad2e4bc003f4823f6f18c3e694fbd60b94591747e6a206cb5757374a60a` |
+| Archivo | `launch-log.md` | 27759 | `2de7e2fa1609eb96b50499875f0da9ae466ffa2bd55144747c46f5970f6011a0` |
 | Archivo | `prompts/falsation-round3.txt` | 3617 | `5bb3ca238e4d473acbffe2d18d5d2da3882a353c51c2608bd18e3daffc8e7263` |
 | Archivo | `prompts/osint-round1.txt` | 2661 | `93508b245c657184d9d9e014e9eab60347f69f414019a8b2375716767038c05d` |
 | Archivo | `prompts/osint-round5.txt` | 3808 | `8b3c29115b90f70dc74acce4f67580b3944ee0dedbe5af8c383c8826fdd1bec6` |
@@ -1942,4 +1942,4 @@
 | Archivo | `prompts/serpapi-round6.txt` | 3586 | `4c149ae0c2f75f872eb243dc26be291c7bb03e5a72cea7188ab24786f543a1ca` |
 | Archivo | `prompts/serpapi-round7.txt` | 2737 | `a22a2caf0e794835f600e7ccbe6f99ab8f2945546809ac6408f3a0118727d5bf` |
 | Archivo | `prompts/source-verification-round2.txt` | 3116 | `f4583b26d2f2c23972ca2d0c44fc6947f83c9e33ab462a6567a3772c71bccf3a` |
-| Archivo | `summary.md` | 16978 | `a8a5bbf7eea119c82d036f1a74cd45ad7fc5bb2300d26b7c573e343b55d7938b` |
+| Archivo | `summary.md` | 17456 | `00dfd14e759626659e7f6bebfd3366ae81c9625abda7dbbe41a7509aa8710bc2` |

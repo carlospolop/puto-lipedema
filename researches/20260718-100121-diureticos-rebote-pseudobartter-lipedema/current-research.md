@@ -142,3 +142,8 @@
 - [x] `MANIFEST.md` se regeneró; una comprobación independiente confirmó rutas únicas, tamaños y todos los SHA-256 correctos.
 - [x] `node .github/scripts/build-search-index.js` escribió 99 páginas; `node --check search-index.js` pasó; el índice tiene cero URLs `researches/`, contiene la frase nueva y el comprobador de enlaces encontró 0 roturas en 1.413 enlaces internos.
 - [x] La página de novedades mantiene solo las entradas del 8 de septiembre, 29 de agosto y 22 de agosto de 2026; con corte 2026-08-09 no quedan entradas de más de 30 días. Se eliminaron del expediente las URLs privadas de trabajadores y se conservaron los artefactos remotos en la raíz local de Chack.
+
+## Publicación verificada — 2026-09-08
+
+- [x] El commit `23f095ea4fb984040a6b7fb2a8613274b22c97fc` está en `origin/main`; Search index terminó correctamente en `https://github.com/carlospolop/puto-lipedema/actions/runs/34177024959` y Deploy GitHub Pages en `https://github.com/carlospolop/puto-lipedema/actions/runs/34177024955`.
+- [x] Producción devolvió HTTP 200 para la página de edema, la página de novedades y `search-index.js` con cache-buster `?v=23f095e`; la actualización del 8 de septiembre y la frase nueva estuvieron presentes y no se filtraron rutas `researches/`.

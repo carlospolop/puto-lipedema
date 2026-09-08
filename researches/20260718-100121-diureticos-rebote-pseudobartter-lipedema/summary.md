@@ -109,3 +109,7 @@ La página pública mantiene el mensaje práctico: no automedicarse ni suspender
 - `researcher_queue_status` final: `open_batch=null`, `processing_count=0`; no quedan trabajos Chack ni procesos locales activos.
 - `MANIFEST.md` fue regenerado y se verificaron rutas únicas, tamaños y todos los SHA-256.
 - El índice regenerado contiene 99 páginas públicas, cero rutas `researches/`, la frase nueva y cero enlaces internos rotos de 1.413 comprobados. La página de novedades conserva solo entradas dentro de los últimos 30 días.
+
+## Publicación verificada — 2026-09-08
+
+El commit `23f095ea4fb984040a6b7fb2a8613274b22c97fc` está en `main`; los workflows [Search index](https://github.com/carlospolop/puto-lipedema/actions/runs/34177024959) y [Deploy GitHub Pages](https://github.com/carlospolop/puto-lipedema/actions/runs/34177024955) terminaron correctamente. Las tres URLs públicas con `?v=23f095e` devolvieron HTTP 200, mostraron la actualización nueva y no expusieron rutas internas `researches/`.
