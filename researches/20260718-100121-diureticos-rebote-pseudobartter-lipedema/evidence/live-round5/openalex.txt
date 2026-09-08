@@ -1,0 +1,21 @@
+SUCCESS: OpenAlex results for 'lipedema diuretic treatment' (top 10):
+1. Lipedema: A Call to Action! - https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/oby.22597
+   OpenAlex | 2019
+2. Lipedema: A Relatively Common Disease with Extremely Common Misconceptions - https://doi.org/10.1097/gox.0000000000001043
+   OpenAlex | 2016
+3. Lipedema, a Rare Disease - https://www.e-arm.org/upload/pdf/arm-35-922.pdf
+   OpenAlex | 2011
+4. The Effect of a Low-Carbohydrate, High-Fat Diet versus Moderate-Carbohydrate and Fat Diet on Body Composition in Patients with Lipedema - https://www.dovepress.com/getfile.php?fileID=83191
+   OpenAlex | 2022
+5. Rare adipose disorders (RADs) masquerading as obesity - https://www.nature.com/articles/aps2011153.pdf
+   OpenAlex | 2012
+6. THE DIAGNOSIS AND TREATMENT OF PERIPHERAL LYMPHEDEMA: 2020 CONSENSUS DOCUMENT OF THE INTERNATIONAL SOCIETY OF LYMPHOLOGY - https://journals.librarypublishing.arizona.edu/lymph/article/4649/galley/4692/download/
+   OpenAlex | 2020
+7. The Benefits of Low-Carbohydrate, High-Fat (LCHF) Diet on Body Composition, Leg Volume, and Pain in Women with Lipedema - https://downloads.hindawi.com/journals/jobe/2023/5826630.pdf
+   OpenAlex | 2023
+8. Health Implications of Lipedema: Analysis of Patient Questionnaires and Population-Based Matched Controls - https://www.mdpi.com/2075-1729/14/3/295/pdf?version=1708609129
+   OpenAlex | 2024
+9. Lymphoscintigraphic alterations in lower limbs in women with lipedema in comparison to women with overweight/obesity - https://www.frontiersin.org/articles/10.3389/fphys.2023.1099555/pdf
+   OpenAlex | 2023
+10. Lipedema: A Clinical Challenge-revisited - https://journaljammr.com/index.php/JAMMR/article/download/1241/2489
+   OpenAlex | 2014

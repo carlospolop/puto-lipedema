@@ -1,0 +1,1 @@
+{"research_worked":false,"failure_reason":"Researcher did not return parseable JSON.","overall_summary":"The unparseable researcher response was preserved in the paired raw output file.","findings":[],"gaps":["The researcher response could not be parsed into the configured structured output."],"open_topics":[],"full_research_review":"","researcher_tool":"deepchatgpt_researcher"}

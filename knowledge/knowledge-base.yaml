@@ -1,0 +1,56 @@
+version: 1
+knowledge_base: lipedema
+root: .
+
+# Ordered groups are intentional. A file matched by an earlier group is not
+# indexed again by a later group.
+sources:
+  - name: published-site
+    evidence_type: curated_published_page
+    include:
+      - index.html
+      - anexos/**/*.html
+      - deteccion/**/*.html
+      - efectos/**/*.html
+      - factores/**/*.html
+      - manejo/**/*.html
+      - modelo/**/*.html
+
+  - name: research-syntheses
+    evidence_type: reviewed_research_synthesis
+    include:
+      - researches/*.md
+      - researches/**/summary.md
+      - researches/**/synthesis*.md
+      - researches/**/*synthesis*.md
+      - researches/**/*conclusions*.md
+
+  - name: supporting-evidence
+    evidence_type: supporting_research_evidence
+    include:
+      - researches/**/*.md
+
+exclude:
+  - knowledge/**
+  - researches/**/current-research.md
+  - researches/**/curent-research.md
+  - researches/**/launch-log.md
+  - researches/**/chatgpt-launch-log.md
+  - researches/**/chack-launch-log.md
+  - researches/**/ARCHIVE_STATUS.md
+  - researches/**/MANIFEST.md
+  - researches/**/*failure*.md
+  - researches/**/*failure*
+  - researches/**/*error*
+  - researches/**/*postmortem*.md
+  - researches/**/local-scan-notes.md
+  - researches/**/chatgpt-request.md
+  - researches/**/deployment-verification.md
+  - researches/suggestions.md
+  - researches/**/stderr*.txt
+  - researches/**/prompts/**
+  - researches/**/_artifact_manifest.jsonl
+  - researches/**/admin_output.json
+  - researches/**/researcher_outputs/**
+  - researches/**/live-round5/**
+  - researches/**/*round5*.md

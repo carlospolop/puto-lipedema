@@ -1,0 +1,12 @@
+# Fetch log — round 5
+
+- `awmf-guideline-full.pdf`: HTTP 200; 2510315 bytes; SHA-256 `70ecf9fea4754c0888895a397f8aa83a16ee49baa0493688ebd7e4397f6369a4`; Content-Type `application/pdf`; URL `https://register.awmf.org/assets/guidelines/037-012l_S2k_Lipoedem_2024-01_01.pdf`
+- `awmf-guideline-spanish.pdf`: FETCH_FAILED `HTTPError: HTTP Error 500: INTERNAL SERVER ERROR`; URL `https://register.awmf.org/assets/guidelines/037_D_Ges_fuer_Phleologie/037-012emp-spanisch_S2k_Lipoedem_2025-02.pdf`
+- `awmf-guideline-detail.html`: HTTP 200; 6937 bytes; SHA-256 `83efeca3a3fa821469405775af97c6a65868069fe5ac559e6b09185d7682e791`; Content-Type `text/html`; URL `https://register.awmf.org/de/leitlinien/detail/037-012`
+- `drks00034711.html`: HTTP 200; 35775 bytes; SHA-256 `54d746c84011f3ff80c3ac294e9dd37b963215578b5b771c04749076b57e20e5`; Content-Type `text/html;charset=UTF-8`; URL `https://drks.de/search/en/trial/DRKS00034711`
+- `soc-lipedema-pmc8652358.html`: HTTP 200; 336395 bytes; SHA-256 `beee772c721c44bfa161affea02e52c846ed973f1f1b03aa9f1533ab139c81fd`; Content-Type `text/html; charset=utf-8`; URL `https://pmc.ncbi.nlm.nih.gov/articles/PMC8652358/?report=xml`
+- `diuretic-deprescribing-pmc11671325.html`: HTTP 200; 273872 bytes; SHA-256 `996d12296da04e661a275e1ad52fa89540efd20ae427b4f7483409cc1110b862`; Content-Type `text/html; charset=utf-8`; URL `https://pmc.ncbi.nlm.nih.gov/articles/PMC11671325/?report=xml`
+- `diuretic-withdrawal-pmc2542786.html`: HTTP 200; 102004 bytes; SHA-256 `9caf4312e90c5c55180273414af7b66c4c871165838222580bd2e433051036ba`; Content-Type `text/html; charset=utf-8`; URL `https://pmc.ncbi.nlm.nih.gov/articles/PMC2542786/?report=xml`
+- `metabolic-alkalosis-pmc10947768.html`: HTTP 200; 196307 bytes; SHA-256 `af3b7ba9551045dc60a325f174530e2f25ebef45f0a75896f6748ff7426f2e87`; Content-Type `text/html; charset=utf-8`; URL `https://pmc.ncbi.nlm.nih.gov/articles/PMC10947768/?report=xml`
+- `pubmed-efetch-round5.xml`: HTTP 200; 149855 bytes; SHA-256 `99a7b69d1525fdeaa1fee14246d928537e62bd87aa7c8983776f80dfa444c9ac`; Content-Type `text/xml; charset=UTF-8`; URL `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=84258,8136670,1351225,39117602,34049453,39476528,42377498&retmode=xml`
+- `aafp-peripheral-edema.html`: HTTP 200; 472320 bytes; SHA-256 `509bddb98e35029248157d11704dfe9da41c9ad56ad9e0f717a90db9fde95552`; Content-Type `text/html; charset=utf-8`; URL `https://www.aafp.org/pubs/afp/issues/2022/1100/peripheral-edema.html`

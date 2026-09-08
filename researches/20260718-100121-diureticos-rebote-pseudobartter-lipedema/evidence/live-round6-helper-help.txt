@@ -1,0 +1,13 @@
+usage: chack_research.py [-h] {brave,serpapi,forumscout,scientific} ...
+
+Chack-style research helpers for Hermes.
+
+positional arguments:
+  {brave,serpapi,forumscout,scientific}
+    brave               Search Brave web results
+    serpapi             Search via SerpAPI engines
+    forumscout          Search ForumScout social/forum indexes
+    scientific          Search scientific sources
+
+options:
+  -h, --help            show this help message and exit

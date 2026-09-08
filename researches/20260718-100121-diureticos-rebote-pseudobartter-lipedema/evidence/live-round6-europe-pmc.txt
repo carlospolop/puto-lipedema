@@ -1,0 +1,21 @@
+SUCCESS: Europe PMC results for 'lipedema (diuretic OR furosemide OR pseudo-Bartter OR hypokalemia OR liposuction)' (top 10):
+1. Comments on "The Use of Tranexamic Acid in Liposuction for Lipedema: A Retrospective Study on 230 Procedures". - https://europepmc.org/article/MED/42486935
+   Aesthetic Plast Surg | 2026 | Qayyum A, Fatima F, Azeem L.
+2. Liposuction for Lipedema Significantly Reduces Benzodiazepine Dependence: A Prospective Cohort Study. - https://europepmc.org/article/MED/42420665
+   Aesthetic Plast Surg | 2026 | Bruno A, D'Antimi A.
+3. Are Routine Labs Necessary? Postoperative Electrolyte Trends in Lipedema Patients Undergoing Liposuction: Insights from a Single-Center Retrospective Cohort. - https://europepmc.org/article/MED/42377498
+   Aesthetic Plast Surg | 2026 | Witulski C, Niederegger T, Scharff L, Brandt J, Schaschinger T, Diehm Y, Palackic A, Gazyakan E, Panayi AC, Kneser U, Hundeshagen G.
+4. Optimizing Liposuction in Lipedema Patients: A Novel Approach with Perioperative and Intraoperative Ultrasound. - https://europepmc.org/article/MED/42115414
+   Aesthetic Plast Surg | 2026 | Munoz J, Fons S, Fabbri M.
+5. Combined Ultrasound and Power-Assisted Liposuction Improves Outcomes in Lipedema: A Retrospective Study. - https://europepmc.org/article/MED/42082661
+   Aesthetic Plast Surg | 2026 | Bruno A, Foti R.
+6. The Use of Tranexamic Acid in Liposuction for Lipedema: A Retrospective Study on 230 Procedures. - https://europepmc.org/article/MED/42080996
+   Aesthetic Plast Surg | 2026 | Bruno A, Foti R.
+7. The Utility of Ultrasound in the Management of Lipedema: Preoperative, Intraoperative, and Postoperative Applications. - https://europepmc.org/article/MED/42321448
+   Aesthetic Plast Surg | 2026 | Bruno A, Barbera M, Cilluffo M, Schirosi M.
+8. Postoperative Seroma in Lipedema Surgery: A Retrospective Analysis of 93 Cases from a Single Surgical Team. - https://europepmc.org/article/MED/42082660
+   Aesthetic Plast Surg | 2026 | Amato FCM, Amato LGL, Amato ACM, Benitti DA.
+9. Lipedema or Advanced Cellulite? A Diagnostic Boundary in Need of Definition - https://europepmc.org/article/PMC/PMC13342457
+   J Cosmet Dermatol | 2026 | Intagliata D, Garo M.
+10. Lipedema Reframed: AFS Framework for Surgical and Transdisciplinary Management. - https://europepmc.org/article/MED/42115415
+   Aesthetic Plast Surg | 2026 | Villa HF, Muñoz J, Padilla-Correa AM.

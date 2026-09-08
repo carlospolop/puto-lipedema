@@ -1,6 +1,6 @@
 # Resumen — diuréticos, edema de rebote y pseudo-Bartter en lipedema
 
-**Fecha:** 2026-07-19  
+**Inicio:** 2026-07-19 · **Actualización terminal:** 2026-09-08
 **Pregunta:** cómo explicar el uso de diuréticos en una persona con lipedema sin afirmar que «nunca se pueden usar», sin normalizar automedicación y sin confundir rebote, recaída de una indicación real y pseudo-Bartter.
 
 ## Respuesta ejecutiva
@@ -84,3 +84,28 @@ La auditoría clínica volvió a no encontrar ensayos aleatorizados lipedema-esp
 ## Estado de publicación de esta recuperación
 
 El contenido y el archivo de índice se regeneraron con `node .github/scripts/build-search-index.js` y se incluyeron en el commit [`88e076e`](https://github.com/carlospolop/puto-lipedema/commit/88e076e). El árbol se empujó a `main`; la verificación posterior debe conservar el estado de los workflows y las comprobaciones de producción registradas en el launch log.
+
+## Cierre de la recuperación terminal — 2026-09-08
+
+La cola reutilizada `lipedema-diureticos-20260718` quedó cerrada (`open_batch=null`, `processing_count=0`). P15 y P16 son dos investigaciones **Pro** materialmente distintas, ambas extraídas con estado remoto `SUCCEEDED` (54.166 y 30.563 caracteres) y contrastadas con fuentes públicas. El requisito de Deep Research ya estaba cubierto por D01 y D02, dos investigaciones Deep extraídas y preservadas en rondas anteriores. Los dos Deep auxiliares del último lote terminaron en error/cancelación y solo dejaron metadatos/parciales; están archivados y no se usan como evidencia.
+
+### Qué cambió en la conclusión
+
+- **Evidencia directa/consenso (A):** AWMF desaconseja el diurético para tratar el lipedema, pero no elimina una indicación por insuficiencia cardiaca, renal, hepática, hipertensión u otra enfermedad. Esto no es una prueba de eficacia o daño universal.
+- **Evidencia indirecta (B-/C):** la retirada puede causar retención transitoria o revelar la enfermedad tratada, pero el “rebote siempre” no está demostrado y no existe pauta específica para lipedema. Las cohortes perioperatorias deben mantenerse separadas: una observó descenso de potasio en 72 pacientes y otra cambios pequeños en 116 mujeres; ninguna demuestra pseudo-Bartter.
+- **Diferencial y seguridad:** pseudo-Bartter es un patrón adquirido, no prueba de abuso ni de lipedema. Hipopotasemia, alcalosis y cloro bajo requieren contexto clínico, analítica y, cuando proceda, orina/renina/aldosterona; no se recomiendan pautas caseras de agua, sal, potasio, espironolactona o retirada.
+
+### Preguntas útiles para la consulta
+
+1. ¿Qué fármaco es, para qué enfermedad se indicó, qué objetivo mide y sigue vigente esa indicación?
+2. ¿Hay antecedentes cardiacos, renales, hepáticos, hipertensión, vómitos/diarrea o cirugía reciente que cambien el riesgo?
+3. ¿Qué analítica y seguimiento de sodio, potasio, magnesio, cloro, bicarbonato, creatinina y presión arterial son apropiados?
+4. Si existe alcalosis/hipopotasemia, ¿el momento de la muestra, el cloro urinario y el panel de cribado permiten interpretar “no detectado” sin convertirlo en una conclusión histórica?
+
+La página pública mantiene el mensaje práctico: no automedicarse ni suspender tratamientos, distinguir grasa de edema sistémico y buscar atención urgente ante disnea intensa, dolor torácico, síncope/confusión, palpitaciones con debilidad intensa, oliguria o edema unilateral súbito.
+
+## Verificación de cierre — 2026-09-08
+
+- `researcher_queue_status` final: `open_batch=null`, `processing_count=0`; no quedan trabajos Chack ni procesos locales activos.
+- `MANIFEST.md` fue regenerado y se verificaron rutas únicas, tamaños y todos los SHA-256.
+- El índice regenerado contiene 99 páginas públicas, cero rutas `researches/`, la frase nueva y cero enlaces internos rotos de 1.413 comprobados. La página de novedades conserva solo entradas dentro de los últimos 30 días.

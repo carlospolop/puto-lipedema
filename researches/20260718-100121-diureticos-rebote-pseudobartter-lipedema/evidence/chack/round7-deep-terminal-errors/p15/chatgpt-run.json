@@ -1,0 +1,13 @@
+{
+  "mode": "deep",
+  "execution_backend": "remote",
+  "remote_job_id": "job_92dd032a-441a-41dd-b5d4-102bc4ab39ab",
+  "submitted_at": 1788825052.5569968,
+  "terminal_state": "error",
+  "output_timeout_seconds": 4500,
+  "remote_status": "RUNNING",
+  "answer_chars": 497,
+  "last_polled_at": 1788829943.16036,
+  "finished_at": 1788829958.322901,
+  "error": "ChatGPTWebResearchError: Remote ChatGPT deep job was cancelled by its owning async task."
+}

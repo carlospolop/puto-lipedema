@@ -1,0 +1,14 @@
+{
+  "mode": "deep",
+  "execution_backend": "remote",
+  "remote_job_id": "job_01198cfa-0909-4ad4-ba27-9481aac208b0",
+  "submitted_at": 1788825044.8351908,
+  "terminal_state": "error",
+  "output_timeout_seconds": 4500,
+  "remote_status": "CANCELLED",
+  "answer_chars": 504,
+  "last_polled_at": 1788829767.4887104,
+  "started_at": 1788826716.1902354,
+  "finished_at": 1788829767.6817634,
+  "error": "ChatGPTWebResearchError: Remote ChatGPT deep job ended as CANCELLED (CANCEL_REQUESTED): The owning research task cancelled this browser job."
+}

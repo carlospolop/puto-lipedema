@@ -1,0 +1,21 @@
+SUCCESS: Europe PMC results for 'pseudo-Bartter diuretic screening urine hypokalemia' (top 10):
+1. A Rare Case of Bartter Syndrome Type 3 Diagnosed in Elderly Age. - https://europepmc.org/article/MED/42272570
+   Case Rep Endocrinol | 2026 | Okura T, Fukaya K, Okazaki T, Adachi K, Kinugasa Y, Kato M.
+2. Adult-Onset Bartter Syndrome Presenting as Refractory Hypokalemia and Metabolic Alkalosis: A Case Report. - https://europepmc.org/article/MED/41994147
+   Clin Case Rep | 2026 | Asif M, Sanam A, Ilyas M, Tahir S, Hanif T, Khalid M, Sarwar I, Segawa F.
+3. Case Report: Type II Bartter syndrome with a novel &lt;i&gt;KCNJ1&lt;/i&gt; variant in a premature neonate presenting with features of salt-wasting congenital adrenal crisis and pseudo-hypoaldosteronism. - https://europepmc.org/article/MED/40630717
+   Front Pediatr | 2025 | Tsui HC, Cheng HT, Lam KY, Leung LT, Au KN, Wong WY, Siu LY, Wong LM.
+4. Molecular Basis of Rare Inherited Tubulopathies of the Kidney: A Primer for Clinicians. - https://europepmc.org/article/MED/42123522
+   Int J Mol Sci | 2026 | Vecino-Pérez M, García-Murias M, Carrera N, Pedrosa P, García-González MÁ.
+5. Prolonged hypokalemia long after causative factor elimination in pseudo-Bartter/Gitelman syndrome. - https://europepmc.org/article/MED/40711676
+   Clin Exp Nephrol | 2025 | Kondo A, Horinouchi T, Inoki Y, Ichikawa Y, Tanaka Y, Kitakado H, Ueda C, Sakakibara N, Nagano C, Nozu K.
+6. Pseudo-Gitelman Syndrome Presenting with Hypokalemic Metabolic Alkalosis and Hypocalciuria. - https://europepmc.org/article/MED/38152600
+   Electrolyte Blood Press | 2023 | Lee SH, Lee S, Kim H, Kim GH.
+7. Hereditary kidney disease with auditory abnormalities: analysis of mutations and clinical phenotypes. - https://europepmc.org/article/MED/40660297
+   BMC Med Genomics | 2025 | Bi J, Guo W, Ji P, Xie Y.
+8. Uncommon Presentation of Cystic Fibrosis: A Case Report and Literature Review. - https://europepmc.org/article/MED/37842418
+   Cureus | 2023 | Abu Sirhan M, Kalinin M, Cohen L, Gurevich E.
+9. Gitelman syndrome combined with diabetes mellitus: A case report and literature review. - https://europepmc.org/article/MED/38115360
+   Medicine (Baltimore) | 2023 | Huang X, Wu M, Mou L, Zhang Y, Jiang J.
+10. Machine Learning to Identify Genetic Salt-Losing Tubulopathies in Hypokalemic Patients. - https://europepmc.org/article/MED/36938092
+   Kidney Int Rep | 2023 | Wan ER, Iancu D, Ashton E, Siew K, Mohidin B, Sung CC, Nagano C, Bockenhauer D, Lin SH, Nozu K, Walsh SB.

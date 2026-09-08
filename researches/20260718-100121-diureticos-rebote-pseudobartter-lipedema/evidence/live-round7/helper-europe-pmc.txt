@@ -1,0 +1,7 @@
+SUCCESS: Europe PMC results for 'lipedema diuretic electrolyte postoperative' (top 3):
+1. ICE2026/JES2026 Abstract Book - https://europepmc.org/article/PMC/PMC13390741
+   Endocr J | 2026
+2. EANM'17. - https://europepmc.org/article/MED/28894880
+   Eur J Nucl Med Mol Imaging | 2017
+3. Abstracts TPS - https://europepmc.org/article/PMC/PMC7463038
+   Allergy | 2019
