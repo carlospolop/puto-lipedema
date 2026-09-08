@@ -2,7 +2,7 @@
 
 **Carpeta:** `20260908-201831-diferencial-edema-lipedema`
 **Inicio:** 2026-09-08 (UTC; ejecución programada)
-**Estado:** investigación, curación y síntesis completadas; verificación local pasada; lista para commit/push y verificación de producción.
+**Estado:** investigación, curación, síntesis, publicación y verificación de producción completadas.
 
 ## Pregunta estrecha
 En adultas con lipedema confirmado o sospechado, ¿qué hallazgos y pruebas ayudan a distinguir (a) tejido lipedematoso y cambios de dolor/pesadez sin edema objetivo, (b) edema venoso, (c) afectación linfática/lipolinfedema, (d) edema idiopático/ortostático/cíclico, (e) sobrecarga sistémica y (f) edema inducido por fármacos? ¿Qué puede medirse en casa de forma segura, qué debe valorar un profesional y qué signos requieren atención urgente?
@@ -37,7 +37,7 @@ La base informó **357 fuentes y 7.103 fragmentos**. Los pasajes recuperados ind
 - `MANIFEST.md`: inventario compacto de artefactos conservados; no se copió el árbol bruto de la cola.
 - `summary.md`: síntesis final en español, grados de evidencia, riesgos, preguntas clínicas y cambios de sitio.
 - `evidence/`: source-ledger, señales comunitarias y recibo de ingestión; los artefactos aprobados permanecen en Qdrant tras hash verificado.
-- **Sitio:** nueva guía `deteccion/diferencial-edema-lipedema.html`, enlaces desde portada, checklist y edema/retención; índice de búsqueda pendiente de regenerar en la verificación final.
+- **Sitio:** nueva guía `deteccion/diferencial-edema-lipedema.html`, enlaces desde portada, checklist y edema/retención; índice regenerado y validado; commit `59bb951` publicado; Search index/Pages y producción verificados.
 
 ## Criterio de cierre
 No se publicará hasta que todos los trabajos Chack lanzados estén terminales, cada administrador reporte `research_worked=true`, `required_researchers_satisfied=true`, los cuatro tipos de investigador estén terminales y no haya ledgers duraderos en ejecución; se hayan abierto las fuentes centrales; exista decisión de curación/recibo; se haya verificado una búsqueda KB posterior; y pasen las comprobaciones del sitio.

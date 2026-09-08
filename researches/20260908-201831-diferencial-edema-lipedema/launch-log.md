@@ -54,3 +54,10 @@
 ## Siguiente decisión
 
 No se necesita otra ronda de investigación para la síntesis central: las fuentes independientes convergen en un diferencial no diagnóstico y en la falta de validación externa de signos/pruebas. Se hará una pasada editorial de seguridad, se redactará el ledger y se actualizará el sitio solo con afirmaciones respaldadas.
+
+## Publicación y verificación final
+
+- **Commit publicado:** [`59bb951435ec9e36919a6c229718789c90a9715b`](https://github.com/carlospolop/puto-lipedema/commit/59bb951435ec9e36919a6c229718789c90a9715b) en `main`; `git ls-remote` confirmó el mismo SHA.
+- **Search index:** workflow [34282386555](https://github.com/carlospolop/puto-lipedema/actions/runs/34282386555), `success`; **Deploy GitHub Pages:** [34282386607](https://github.com/carlospolop/puto-lipedema/actions/runs/34282386607), `success` (build y deploy).
+- **Producción:** `https://putolipedema.com/deteccion/diferencial-edema-lipedema.html?v=59bb951`, `https://putolipedema.com/index.html?v=59bb951`, `https://putolipedema.com/anexos/ultimas-incorporaciones.html?v=59bb951` y `search-index.js?v=59bb951` respondieron HTTP 200; la guía, el enlace de portada y la actualización fueron visibles; no aparecieron rutas privadas.
+- **Cierre:** cola Chack y procesos auxiliares terminales; no quedan workers activos. El contenido público no incluye credenciales, rutas de cola ni copias de artefactos brutos.

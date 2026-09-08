@@ -39,4 +39,6 @@ Si no hay alarma, registrar durante 3–7 días mañana/noche: dolor/pesadez 0�
 
 ## Cambios
 
-Se añadió `deteccion/diferencial-edema-lipedema.html`, se enlazó desde la portada, el checklist doméstico y la página de edema, se regenerará el índice nativo y se verificará HTML/enlaces/CI antes del push. `suggestions.md` marca el subtema completado y deja como siguiente hueco la validación prospectiva de combinaciones de signos/pruebas.
+Se añadió `deteccion/diferencial-edema-lipedema.html`, se enlazó desde la portada, el checklist doméstico y la página de edema, se regeneró el índice nativo y se verificaron HTML/enlaces/CI y producción antes del push. `suggestions.md` marca el subtema completado y deja como siguiente hueco la validación prospectiva de combinaciones de signos/pruebas.
+
+**Publicación:** commit [`59bb951`](https://github.com/carlospolop/puto-lipedema/commit/59bb951435ec9e36919a6c229718789c90a9715b); Search index [success](https://github.com/carlospolop/puto-lipedema/actions/runs/34282386555); Pages [success](https://github.com/carlospolop/puto-lipedema/actions/runs/34282386607). Producción respondió HTTP 200 y mostró la guía nueva.

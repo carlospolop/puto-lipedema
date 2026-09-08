@@ -1,6 +1,6 @@
 # MANIFEST — diferencial de edema en lipedema
 
-**Estado:** cerrado para publicación; investigación completada el 2026-09-08.
+**Estado:** cerrado y publicado el 2026-09-08; investigación completada, CI y producción verificados.
 
 ## Conservado en Git
 
@@ -28,15 +28,10 @@
 
 Cada artefacto de investigación se revisó o quedó registrado por la curación como `approved_for_knowledge`, `archive_only` o `discard`. Solo se publican afirmaciones sostenidas por fuentes directas y el ledger. La presencia de una fuente en el ledger no convierte una observación indirecta, encuesta o anécdota en prueba diagnóstica.
 
-## Verificación local completada
+## Verificación local y publicación completadas
 
 - `node .github/scripts/build-search-index.js` → 100 páginas; `node --check search-index.js` pasó.
 - Validador propio: 100 páginas HTML públicas, 1.428 enlaces internos, 0 roturas; nueva página indexada; 0 rutas `researches/`/marcadores privados en HTML público.
 - Servidor local: 100/100 páginas respondieron HTTP 200; página nueva sirvió 11.501 bytes y mostró su título/resumen.
 - `git diff --check` pasó. No quedaron procesos auxiliares ni trabajos de cola activos al cerrar la investigación.
-
-## Pendiente de registrar tras la publicación
-
-- hash/URL del commit final;
-- estado de los workflows Search index y Deploy GitHub Pages;
-- comprobación HTTP de producción con la ruta nueva y una página enlazada.
+- Commit `59bb951435ec9e36919a6c229718789c90a9715b` publicado en `main`; workflows Search index y Deploy Pages terminaron `success`; producción `putolipedema.com` mostró guía, portada, actualización e índice.
