@@ -1,8 +1,8 @@
 # SHA-256 — archivos compactos de la investigación
 # Calculado con sha256sum el 2026-09-19; el propio archivo no se incluye.
 ad3fe2bce7b156fff3919a979633b371160dce338471611507ad0c711993a80a  MANIFEST.md
-d71b588a63829eeebbc5cc8fcd83a60d54efb99bf6220d29b643c79b33da8c82  current-research.md
-dad7373a494caa9f21fef52196277f051b5e5d36a62e26dc94713d5579ecb974  launch-log.md
+f68e0e3a8d213b13c0434edf0a7093b0bcdd2bfd63d385210498ffac0caa900c  current-research.md
+c382386fff69fe7bb998f0feb230d8e9ed61ac4386ecdbb101956d5e5c7319ea  launch-log.md
 c2276286b6584312136a7e079b897ca624bd793abd0a7cf59ddf76d9d679d721  summary.md
 cff42c65c56e899ec640ead0a7a340e64c079e17c0c9949b90e4f0c8114da419  evidence/auxiliary-search-ledger.md
 7d8c985adac806dcb7eaca07a87c07798fe19cf9c6fc2f528a3d00a0f4d59f6a  evidence/knowledge-search-final.md

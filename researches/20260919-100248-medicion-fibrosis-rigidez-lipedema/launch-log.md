@@ -13,6 +13,7 @@
 | 2026-09-19 10:13 | Workers auxiliares | Se lanzaron SerpAPI y OSINT con `terminal,web,no_mcp`; ambos quedaron terminales por kill controlado tras 575/578 s sin informe, solo aviso cosmético `Unknown toolsets: no_mcp`; no se usaron como evidencia. |
 | 2026-09-19 10:16 | Fuentes/síntesis | 9 fuentes principales abiertas y verificadas; el ledger separa revisión/consenso, estudios directos, líquido y desenlaces centrados en la persona. Se actualizaron la página de elastografía/durometría y `suggestions.md`. |
 | 2026-09-19 10:17 | Qdrant final | Consulta de verificación devolvió hallazgos deduplicados; `knowledge_update=0` por fallo Chack previo. No quedan procesos ni batches activos. |
+| 2026-09-19 10:32 | Publicación/verificación | `005cd70` está en `origin/main`; Search index `35432210402` y Deploy Pages `35432210333` terminaron `success`. `https://putolipedema.com/deteccion/elastografia-durometria-lipedema.html?cb=005cd70` respondió HTTP 200 y contiene la sección doméstica y NCT07489248. |
 
 ## Política obligatoria de esta ronda
 - `knowledge_mode=read_write`
