@@ -1,0 +1,19 @@
+# Compresión neumática: alivio a corto plazo no es prevención demostrada
+
+**Revisión cerrada 2026-10-17.** La ronda anterior (2026-10-03) quedó bloqueada por fallo técnico de Deep; esta revisión la completó con una nueva cola, fuentes primarias abiertas y decisiones de conocimiento verificadas.
+
+## Conclusión práctica y nivel de evidencia
+- **Prevención de lipolinfedema nuevo: no demostrada (sin ensayo directo del desenlace).** No apareció estudio comparativo que adjudique nuevos casos tras ≥12 meses en mujeres con lipedema sin linfedema basal. Tampoco se demuestra que no pueda prevenirlo: no hay efecto calculable. El titular de 2025 sobre «reducción del riesgo» extrapola un cambio de bioimpedancia/L-Dex; el riesgo clínico futuro no fue medido.
+- **Alivio de síntomas, agua y algunas medidas de volumen: señal preliminar, certeza baja.** En 2025, 46 mujeres (22 dispositivo/24 control) recibieron 30 días de intervención tras leggings; hubo efectos favorables en algunas medidas pero no en todas. El ensayo abierto, pequeño, patrocinado y sin seguimiento largo no avala cambio de enfermedad, pérdida de grasa, reparación linfática ni reversión de fibrosis. En 2023 participaron personas **con linfedema secundario ya establecido**, se analizaron 26 que terminaron y hubo resultados entre grupos limitados; la mejoría del dolor dentro del grupo no equivale a diferencia estadísticamente demostrada entre tratamientos.
+- **Conflicto entre consenso y prueba:** guías de manejo aceptan la compresión neumática como posible complemento para edema/dolor; el lenguaje de objetivos de «prevenir progresión» es consenso o aspiración terapéutica, no ensayo de incidencia. NCT06549738 se registró públicamente tras acabar la intervención. El registro y la publicación describen sesiones y configuración de modo que exigen individualización; no adoptar 45 mmHg como receta.
+
+## Decisión compartida
+Si se considera para pesadez/edema sintomáticos, acordar objetivo de dolor, función y perímetro en puntos fijos, comparar condiciones similares, anotar adherencia/coste y revisar tras unas semanas. En ensayos se probaron sesiones de aproximadamente 1–2 h/día (2025) o 1 h/día (2023); no existe protocolo preventivo validado ni comparación de coste-efectividad frente a prendas y actividad. No escalar presión si no funciona ni sustituir estudio de un edema nuevo. Las mediciones de líquido fluctúan y no se interpretan como grasa perdida.
+
+**Antes de usar:** valorar trombosis sospechada, infección activa/celulitis, insuficiencia cardiaca descompensada, enfermedad arterial importante, heridas y sobrecarga sistémica según equipo clínico y manual del dispositivo. Suspender y reevaluar si aumentan dolor, entumecimiento, lesión de piel o hinchazón nueva proximal/genital. Hinchazón unilateral súbita o dolor de pantorrilla requiere valoración urgente; dolor torácico o disnea súbita requieren emergencias. Frecuencia de daños a largo plazo desconocida; casos de otras poblaciones o dispositivos no son tasas aplicables al lipedema.
+
+**Preguntas para consulta:** ¿hay componente venoso/linfático coexistente o un edema nuevo que requiera estudio? ¿Cuál es el objetivo observable, coste y tiempo de prueba? ¿Qué contraindicación específica y ajuste/talla exige este aparato? ¿En qué fecha se decide continuar o parar?
+
+**Estudio que cambiaría la conclusión:** aleatorización registrada antes del primer paciente, ausencia de linfedema basal confirmada, cuidados conservadores equivalentes, adjudicación ciega de nuevos casos y seguridad ≥12–24 meses, seguimiento de adherencia y financiación/análisis transparentes.
+
+Fuentes y clasificación: [source-ledger.md](source-ledger.md). Recibo de la nueva ronda y recuentos: [MANIFEST.md](MANIFEST.md). No se copió el árbol de evidencias de la cola: informes aprobados y fuentes canónicas quedaron en Qdrant; registros y respuestas originales permanecen fuera de git.
